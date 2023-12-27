@@ -1,0 +1,172 @@
+[
+    {
+        "country": "United States",
+        "name": "United States Dollar",
+        "symbol": "$"
+    },
+    {
+        "country": "European Union",
+        "name": "Euro",
+        "symbol": "€"
+    },
+    {
+        "country": "United Kingdom",
+        "name": "British Pound",
+        "symbol": "£"
+    },
+    {
+        "country": "Japan",
+        "name": "Japanese Yen",
+        "symbol": "¥"
+    },
+    {
+        "country": "Switzerland",
+        "name": "Swiss Franc",
+        "symbol": "CHF"
+    },
+    {
+        "country": "Australia",
+        "name": "Australian Dollar",
+        "symbol": "AU$"
+    },
+    {
+        "country": "Canada",
+        "name": "Canadian Dollar",
+        "symbol": "CA$"
+    },
+    {
+        "country": "China",
+        "name": "Chinese Yuan",
+        "symbol": "¥"
+    },
+    {
+        "country": "India",
+        "name": "Indian Rupee",
+        "symbol": "₹"
+    },
+    {
+        "country": "Russia",
+        "name": "Russian Ruble",
+        "symbol": "₽"
+    },
+    {
+        "country": "South Korea",
+        "name": "South Korean Won",
+        "symbol": "₩"
+    },
+    {
+        "country": "Brazil",
+        "name": "Brazilian Real",
+        "symbol": "R$"
+    },
+    {
+        "country": "Mexico",
+        "name": "Mexican Peso",
+        "symbol": "Mex$"
+    },
+    {
+        "country": "South Africa",
+        "name": "South African Rand",
+        "symbol": "R"
+    },
+    {
+        "country": "Saudi Arabia",
+        "name": "Saudi Riyal",
+        "symbol": "﷼"
+    },
+    {
+        "country": "United Arab Emirates",
+        "name": "UAE Dirham",
+        "symbol": "د.إ"
+    },
+    {
+        "country": "Israel",
+        "name": "Israeli Shekel",
+        "symbol": "₪"
+    },
+    {
+        "country": "Turkey",
+        "name": "Turkish Lira",
+        "symbol": "₺"
+    },
+    {
+        "country": "Sweden",
+        "name": "Swedish Krona",
+        "symbol": "kr"
+    },
+    {
+        "country": "Norway",
+        "name": "Norwegian Krone",
+        "symbol": "kr"
+    },
+    {
+        "country": "New Zealand",
+        "name": "New Zealand Dollar",
+        "symbol": "NZ$"
+    },
+    {
+        "country": "Singapore",
+        "name": "Singapore Dollar",
+        "symbol": "S$"
+    },
+    {
+        "country": "Hong Kong",
+        "name": "Hong Kong Dollar",
+        "symbol": "HK$"
+    },
+    {
+        "country": "Malaysia",
+        "name": "Malaysian Ringgit",
+        "symbol": "RM"
+    },
+    {
+        "country": "Indonesia",
+        "name": "Indonesian Rupiah",
+        "symbol": "Rp"
+    },
+    {
+        "country": "Egypt",
+        "name": "Egyptian Pound",
+        "symbol": "E£"
+    },
+    {
+        "country": "Nigeria",
+        "name": "Nigerian Naira",
+        "symbol": "₦"
+    },
+    {
+        "country": "Kenya",
+        "name": "Kenyan Shilling",
+        "symbol": "KSh"
+    },
+    {
+        "country": "Argentina",
+        "name": "Argentine Peso",
+        "symbol": "$"
+    },
+    {
+        "country": "Chile",
+        "name": "Chilean Peso",
+        "symbol": "CL$"
+    },
+    {
+        "country": "Colombia",
+        "name": "Colombian Peso",
+        "symbol": "COL$"
+    },
+    {
+        "country": "Peru",
+        "name": "Peruvian Sol",
+        "symbol": "S\/"
+    },
+    {
+        "country": "Venezuela",
+        "name": "Venezuelan Bolívar",
+        "symbol": "Bs"
+    },
+    {
+        "country": "Ghana",
+        "name": "Ghanaian Cedi",
+        "symbol": "GH₵"
+    }
+]
