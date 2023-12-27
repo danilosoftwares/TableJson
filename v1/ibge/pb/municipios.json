@@ -1,0 +1,1563 @@
+[
+	{
+		"CodigoIBGE": 2500106,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AGUA BRANCA"
+	},
+	{
+		"CodigoIBGE": 2500205,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AGUIAR"
+	},
+	{
+		"CodigoIBGE": 2500304,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ALAGOA GRANDE"
+	},
+	{
+		"CodigoIBGE": 2500403,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ALAGOA NOVA"
+	},
+	{
+		"CodigoIBGE": 2500502,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ALAGOINHA"
+	},
+	{
+		"CodigoIBGE": 2500536,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ALCANTIL"
+	},
+	{
+		"CodigoIBGE": 2500577,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ALGODAO DE JANDAIRA"
+	},
+	{
+		"CodigoIBGE": 2500601,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ALHANDRA"
+	},
+	{
+		"CodigoIBGE": 2500700,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOAO DO RIO DO PEIXE"
+	},
+	{
+		"CodigoIBGE": 2500734,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AMPARO"
+	},
+	{
+		"CodigoIBGE": 2500775,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "APARECIDA"
+	},
+	{
+		"CodigoIBGE": 2500809,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ARACAGI"
+	},
+	{
+		"CodigoIBGE": 2500908,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ARARA"
+	},
+	{
+		"CodigoIBGE": 2501005,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ARARUNA"
+	},
+	{
+		"CodigoIBGE": 2501104,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AREIA"
+	},
+	{
+		"CodigoIBGE": 2501153,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AREIA DE BARAUNAS"
+	},
+	{
+		"CodigoIBGE": 2501203,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AREIAL"
+	},
+	{
+		"CodigoIBGE": 2501302,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "AROEIRAS"
+	},
+	{
+		"CodigoIBGE": 2501351,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ASSUNCAO"
+	},
+	{
+		"CodigoIBGE": 2501401,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BAIA DA TRAICAO"
+	},
+	{
+		"CodigoIBGE": 2501500,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BANANEIRAS"
+	},
+	{
+		"CodigoIBGE": 2501534,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BARAUNA"
+	},
+	{
+		"CodigoIBGE": 2501575,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BARRA DE SANTANA"
+	},
+	{
+		"CodigoIBGE": 2501609,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BARRA DE SANTA ROSA"
+	},
+	{
+		"CodigoIBGE": 2501708,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BARRA DE SAO MIGUEL"
+	},
+	{
+		"CodigoIBGE": 2501807,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BAYEUX"
+	},
+	{
+		"CodigoIBGE": 2501906,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BELEM"
+	},
+	{
+		"CodigoIBGE": 2502003,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BELEM DO BREJO DO CRUZ"
+	},
+	{
+		"CodigoIBGE": 2502052,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BERNARDINO BATISTA"
+	},
+	{
+		"CodigoIBGE": 2502102,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BOA VENTURA"
+	},
+	{
+		"CodigoIBGE": 2502151,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BOA VISTA"
+	},
+	{
+		"CodigoIBGE": 2502201,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BOM JESUS"
+	},
+	{
+		"CodigoIBGE": 2502300,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BOM SUCESSO"
+	},
+	{
+		"CodigoIBGE": 2502409,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BONITO DE SANTA FE"
+	},
+	{
+		"CodigoIBGE": 2502508,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BOQUEIRAO"
+	},
+	{
+		"CodigoIBGE": 2502607,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "IGARACY"
+	},
+	{
+		"CodigoIBGE": 2502706,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BORBOREMA"
+	},
+	{
+		"CodigoIBGE": 2502805,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BREJO DO CRUZ"
+	},
+	{
+		"CodigoIBGE": 2502904,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "BREJO DOS SANTOS"
+	},
+	{
+		"CodigoIBGE": 2503001,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAAPORA"
+	},
+	{
+		"CodigoIBGE": 2503100,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CABACEIRAS"
+	},
+	{
+		"CodigoIBGE": 2503209,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CABEDELO"
+	},
+	{
+		"CodigoIBGE": 2503308,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CACHOEIRA DOS INDIOS"
+	},
+	{
+		"CodigoIBGE": 2503407,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CACIMBA DE AREIA"
+	},
+	{
+		"CodigoIBGE": 2503506,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CACIMBA DE DENTRO"
+	},
+	{
+		"CodigoIBGE": 2503555,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CACIMBAS"
+	},
+	{
+		"CodigoIBGE": 2503605,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAICARA"
+	},
+	{
+		"CodigoIBGE": 2503704,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAJAZEIRAS"
+	},
+	{
+		"CodigoIBGE": 2503753,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAJAZEIRINHAS"
+	},
+	{
+		"CodigoIBGE": 2503803,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CALDAS BRANDAO"
+	},
+	{
+		"CodigoIBGE": 2503902,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAMALAU"
+	},
+	{
+		"CodigoIBGE": 2504009,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAMPINA GRANDE"
+	},
+	{
+		"CodigoIBGE": 2504033,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CAPIM"
+	},
+	{
+		"CodigoIBGE": 2504074,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CARAUBAS"
+	},
+	{
+		"CodigoIBGE": 2504108,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CARRAPATEIRA"
+	},
+	{
+		"CodigoIBGE": 2504157,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CASSERENGUE"
+	},
+	{
+		"CodigoIBGE": 2504207,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CATINGUEIRA"
+	},
+	{
+		"CodigoIBGE": 2504306,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CATOLE DO ROCHA"
+	},
+	{
+		"CodigoIBGE": 2504355,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CATURITE"
+	},
+	{
+		"CodigoIBGE": 2504405,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CONCEICAO"
+	},
+	{
+		"CodigoIBGE": 2504504,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CONDADO"
+	},
+	{
+		"CodigoIBGE": 2504603,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CONDE"
+	},
+	{
+		"CodigoIBGE": 2504702,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CONGO"
+	},
+	{
+		"CodigoIBGE": 2504801,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "COREMAS"
+	},
+	{
+		"CodigoIBGE": 2504850,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "COXIXOLA"
+	},
+	{
+		"CodigoIBGE": 2504900,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CRUZ DO ESPIRITO SANTO"
+	},
+	{
+		"CodigoIBGE": 2505006,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CUBATI"
+	},
+	{
+		"CodigoIBGE": 2505105,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CUITE"
+	},
+	{
+		"CodigoIBGE": 2505204,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CUITEGI"
+	},
+	{
+		"CodigoIBGE": 2505238,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CUITE DE MAMANGUAPE"
+	},
+	{
+		"CodigoIBGE": 2505279,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CURRAL DE CIMA"
+	},
+	{
+		"CodigoIBGE": 2505303,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "CURRAL VELHO"
+	},
+	{
+		"CodigoIBGE": 2505352,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "DAMIAO"
+	},
+	{
+		"CodigoIBGE": 2505402,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "DESTERRO"
+	},
+	{
+		"CodigoIBGE": 2505501,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "VISTA SERRANA"
+	},
+	{
+		"CodigoIBGE": 2505600,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "DIAMANTE"
+	},
+	{
+		"CodigoIBGE": 2505709,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "DONA INES"
+	},
+	{
+		"CodigoIBGE": 2505808,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "DUAS ESTRADAS"
+	},
+	{
+		"CodigoIBGE": 2505907,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "EMAS"
+	},
+	{
+		"CodigoIBGE": 2506004,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ESPERANCA"
+	},
+	{
+		"CodigoIBGE": 2506103,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "FAGUNDES"
+	},
+	{
+		"CodigoIBGE": 2506202,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "FREI MARTINHO"
+	},
+	{
+		"CodigoIBGE": 2506251,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "GADO BRAVO"
+	},
+	{
+		"CodigoIBGE": 2506301,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "GUARABIRA"
+	},
+	{
+		"CodigoIBGE": 2506400,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "GURINHEM"
+	},
+	{
+		"CodigoIBGE": 2506509,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "GURJAO"
+	},
+	{
+		"CodigoIBGE": 2506608,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "IBIARA"
+	},
+	{
+		"CodigoIBGE": 2506707,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "IMACULADA"
+	},
+	{
+		"CodigoIBGE": 2506806,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "INGA"
+	},
+	{
+		"CodigoIBGE": 2506905,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ITABAIANA"
+	},
+	{
+		"CodigoIBGE": 2507002,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ITAPORANGA"
+	},
+	{
+		"CodigoIBGE": 2507101,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ITAPOROROCA"
+	},
+	{
+		"CodigoIBGE": 2507200,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ITATUBA"
+	},
+	{
+		"CodigoIBGE": 2507309,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JACARAU"
+	},
+	{
+		"CodigoIBGE": 2507408,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JERICO"
+	},
+	{
+		"CodigoIBGE": 2507507,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JOAO PESSOA"
+	},
+	{
+		"CodigoIBGE": 2507606,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JUAREZ TAVORA"
+	},
+	{
+		"CodigoIBGE": 2507705,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JUAZEIRINHO"
+	},
+	{
+		"CodigoIBGE": 2507804,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JUNCO DO SERIDO"
+	},
+	{
+		"CodigoIBGE": 2507903,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JURIPIRANGA"
+	},
+	{
+		"CodigoIBGE": 2508000,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "JURU"
+	},
+	{
+		"CodigoIBGE": 2508109,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LAGOA"
+	},
+	{
+		"CodigoIBGE": 2508208,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LAGOA DE DENTRO"
+	},
+	{
+		"CodigoIBGE": 2508307,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LAGOA SECA"
+	},
+	{
+		"CodigoIBGE": 2508406,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LASTRO"
+	},
+	{
+		"CodigoIBGE": 2508505,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LIVRAMENTO"
+	},
+	{
+		"CodigoIBGE": 2508554,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LOGRADOURO"
+	},
+	{
+		"CodigoIBGE": 2508604,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "LUCENA"
+	},
+	{
+		"CodigoIBGE": 2508703,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MAE D-  AGUA"
+	},
+	{
+		"CodigoIBGE": 2508802,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MALTA"
+	},
+	{
+		"CodigoIBGE": 2508901,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MAMANGUAPE"
+	},
+	{
+		"CodigoIBGE": 2509008,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MANAIRA"
+	},
+	{
+		"CodigoIBGE": 2509057,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MARCACAO"
+	},
+	{
+		"CodigoIBGE": 2509107,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MARI"
+	},
+	{
+		"CodigoIBGE": 2509156,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MARIZOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2509206,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MASSARANDUBA"
+	},
+	{
+		"CodigoIBGE": 2509305,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MATARACA"
+	},
+	{
+		"CodigoIBGE": 2509339,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MATINHAS"
+	},
+	{
+		"CodigoIBGE": 2509370,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MATO GROSSO"
+	},
+	{
+		"CodigoIBGE": 2509396,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MATUREIA"
+	},
+	{
+		"CodigoIBGE": 2509404,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MOGEIRO"
+	},
+	{
+		"CodigoIBGE": 2509503,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MONTADAS"
+	},
+	{
+		"CodigoIBGE": 2509602,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MONTE HOREBE"
+	},
+	{
+		"CodigoIBGE": 2509701,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MONTEIRO"
+	},
+	{
+		"CodigoIBGE": 2509800,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "MULUNGU"
+	},
+	{
+		"CodigoIBGE": 2509909,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "NATUBA"
+	},
+	{
+		"CodigoIBGE": 2510006,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "NAZAREZINHO"
+	},
+	{
+		"CodigoIBGE": 2510105,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "NOVA FLORESTA"
+	},
+	{
+		"CodigoIBGE": 2510204,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "NOVA OLINDA"
+	},
+	{
+		"CodigoIBGE": 2510303,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "NOVA PALMEIRA"
+	},
+	{
+		"CodigoIBGE": 2510402,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "OLHO D-  AGUA"
+	},
+	{
+		"CodigoIBGE": 2510501,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "OLIVEDOS"
+	},
+	{
+		"CodigoIBGE": 2510600,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "OURO VELHO"
+	},
+	{
+		"CodigoIBGE": 2510659,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PARARI"
+	},
+	{
+		"CodigoIBGE": 2510709,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PASSAGEM"
+	},
+	{
+		"CodigoIBGE": 2510808,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PATOS"
+	},
+	{
+		"CodigoIBGE": 2510907,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PAULISTA"
+	},
+	{
+		"CodigoIBGE": 2511004,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PEDRA BRANCA"
+	},
+	{
+		"CodigoIBGE": 2511103,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PEDRA LAVRADA"
+	},
+	{
+		"CodigoIBGE": 2511202,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PEDRAS DE FOGO"
+	},
+	{
+		"CodigoIBGE": 2511301,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PIANCO"
+	},
+	{
+		"CodigoIBGE": 2511400,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PICUI"
+	},
+	{
+		"CodigoIBGE": 2511509,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PILAR"
+	},
+	{
+		"CodigoIBGE": 2511608,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PILOES"
+	},
+	{
+		"CodigoIBGE": 2511707,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PILOEZINHOS"
+	},
+	{
+		"CodigoIBGE": 2511806,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PIRPIRITUBA"
+	},
+	{
+		"CodigoIBGE": 2511905,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PITIMBU"
+	},
+	{
+		"CodigoIBGE": 2512002,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "POCINHOS"
+	},
+	{
+		"CodigoIBGE": 2512036,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "POCO DANTAS"
+	},
+	{
+		"CodigoIBGE": 2512077,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "POCO DE JOSE DE MOURA"
+	},
+	{
+		"CodigoIBGE": 2512101,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "POMBAL"
+	},
+	{
+		"CodigoIBGE": 2512200,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PRATA"
+	},
+	{
+		"CodigoIBGE": 2512309,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PRINCESA ISABEL"
+	},
+	{
+		"CodigoIBGE": 2512408,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PUXINANA"
+	},
+	{
+		"CodigoIBGE": 2512507,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "QUEIMADAS"
+	},
+	{
+		"CodigoIBGE": 2512606,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "QUIXABA"
+	},
+	{
+		"CodigoIBGE": 2512705,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "REMIGIO"
+	},
+	{
+		"CodigoIBGE": 2512721,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "PEDRO REGIS"
+	},
+	{
+		"CodigoIBGE": 2512747,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "RIACHAO"
+	},
+	{
+		"CodigoIBGE": 2512754,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "RIACHAO DO BACAMARTE"
+	},
+	{
+		"CodigoIBGE": 2512762,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "RIACHAO DO POCO"
+	},
+	{
+		"CodigoIBGE": 2512788,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "RIACHO DE SANTO ANTONIO"
+	},
+	{
+		"CodigoIBGE": 2512804,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "RIACHO DOS CAVALOS"
+	},
+	{
+		"CodigoIBGE": 2512903,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "RIO TINTO"
+	},
+	{
+		"CodigoIBGE": 2513000,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SALGADINHO"
+	},
+	{
+		"CodigoIBGE": 2513109,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SALGADO DE SAO FELIX"
+	},
+	{
+		"CodigoIBGE": 2513158,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA CECILIA"
+	},
+	{
+		"CodigoIBGE": 2513208,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA CRUZ"
+	},
+	{
+		"CodigoIBGE": 2513307,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA HELENA"
+	},
+	{
+		"CodigoIBGE": 2513356,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA INES"
+	},
+	{
+		"CodigoIBGE": 2513406,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA LUZIA"
+	},
+	{
+		"CodigoIBGE": 2513505,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTANA DE MANGUEIRA"
+	},
+	{
+		"CodigoIBGE": 2513604,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTANA DOS GARROTES"
+	},
+	{
+		"CodigoIBGE": 2513653,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTAREM"
+	},
+	{
+		"CodigoIBGE": 2513703,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA RITA"
+	},
+	{
+		"CodigoIBGE": 2513802,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTA TERESINHA"
+	},
+	{
+		"CodigoIBGE": 2513851,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SANTO ANDRE"
+	},
+	{
+		"CodigoIBGE": 2513901,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO BENTO"
+	},
+	{
+		"CodigoIBGE": 2513927,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO BENTINHO"
+	},
+	{
+		"CodigoIBGE": 2513943,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO DOMINGOS DO CARIRI"
+	},
+	{
+		"CodigoIBGE": 2513968,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO DOMINGOS DE POMBAL"
+	},
+	{
+		"CodigoIBGE": 2513984,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO FRANCISCO"
+	},
+	{
+		"CodigoIBGE": 2514008,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOAO DO CARIRI"
+	},
+	{
+		"CodigoIBGE": 2514107,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOAO DO TIGRE"
+	},
+	{
+		"CodigoIBGE": 2514206,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DA LAGOA TAPADA"
+	},
+	{
+		"CodigoIBGE": 2514305,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DE CAIANA"
+	},
+	{
+		"CodigoIBGE": 2514404,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DE ESPINHARAS"
+	},
+	{
+		"CodigoIBGE": 2514453,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DOS RAMOS"
+	},
+	{
+		"CodigoIBGE": 2514503,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DE PIRANHAS"
+	},
+	{
+		"CodigoIBGE": 2514552,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DE PRINCESA"
+	},
+	{
+		"CodigoIBGE": 2514602,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DO BONFIM"
+	},
+	{
+		"CodigoIBGE": 2514651,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DO BREJO DO CRUZ"
+	},
+	{
+		"CodigoIBGE": 2514701,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DO SABUGI"
+	},
+	{
+		"CodigoIBGE": 2514800,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO JOSE DOS CORDEIROS"
+	},
+	{
+		"CodigoIBGE": 2514909,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO MAMEDE"
+	},
+	{
+		"CodigoIBGE": 2515005,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO MIGUEL DE TAIPU"
+	},
+	{
+		"CodigoIBGE": 2515104,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO SEBASTIAO DE LAGOA DE ROCA"
+	},
+	{
+		"CodigoIBGE": 2515203,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAO SEBASTIAO DO UMBUZEIRO"
+	},
+	{
+		"CodigoIBGE": 2515302,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SAPE"
+	},
+	{
+		"CodigoIBGE": 2515401,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERIDO"
+	},
+	{
+		"CodigoIBGE": 2515500,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERRA BRANCA"
+	},
+	{
+		"CodigoIBGE": 2515609,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERRA DA RAIZ"
+	},
+	{
+		"CodigoIBGE": 2515708,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERRA GRANDE"
+	},
+	{
+		"CodigoIBGE": 2515807,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERRA REDONDA"
+	},
+	{
+		"CodigoIBGE": 2515906,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERRARIA"
+	},
+	{
+		"CodigoIBGE": 2515930,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SERTAOZINHO"
+	},
+	{
+		"CodigoIBGE": 2515971,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SOBRADO"
+	},
+	{
+		"CodigoIBGE": 2516003,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SOLANEA"
+	},
+	{
+		"CodigoIBGE": 2516102,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SOLEDADE"
+	},
+	{
+		"CodigoIBGE": 2516151,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SOSSEGO"
+	},
+	{
+		"CodigoIBGE": 2516201,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SOUSA"
+	},
+	{
+		"CodigoIBGE": 2516300,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "SUME"
+	},
+	{
+		"CodigoIBGE": 2516409,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "TACIMA"
+	},
+	{
+		"CodigoIBGE": 2516508,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "TAPEROA"
+	},
+	{
+		"CodigoIBGE": 2516607,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "TAVARES"
+	},
+	{
+		"CodigoIBGE": 2516706,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "TEIXEIRA"
+	},
+	{
+		"CodigoIBGE": 2516755,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "TENORIO"
+	},
+	{
+		"CodigoIBGE": 2516805,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "TRIUNFO"
+	},
+	{
+		"CodigoIBGE": 2516904,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "UIRAUNA"
+	},
+	{
+		"CodigoIBGE": 2517001,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "UMBUZEIRO"
+	},
+	{
+		"CodigoIBGE": 2517100,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "VARZEA"
+	},
+	{
+		"CodigoIBGE": 2517209,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "VIEROPOLIS"
+	},
+	{
+		"CodigoIBGE": 2517407,
+		"CodigoIBGEUF": 25,
+		"SiglaUF": "PB",
+		"NomeUF": "PARAIBA",
+		"NomeMunicipio": "ZABELE"
+	}
+]

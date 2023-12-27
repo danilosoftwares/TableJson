@@ -1,0 +1,1003 @@
+[
+	{
+		"CodigoIBGE": 1500107,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ABAETETUBA"
+	},
+	{
+		"CodigoIBGE": 1500131,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ABEL FIGUEIREDO"
+	},
+	{
+		"CodigoIBGE": 1500206,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ACARA"
+	},
+	{
+		"CodigoIBGE": 1500305,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "AFUA"
+	},
+	{
+		"CodigoIBGE": 1500347,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "AGUA AZUL DO NORTE"
+	},
+	{
+		"CodigoIBGE": 1500404,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ALENQUER"
+	},
+	{
+		"CodigoIBGE": 1500503,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ALMEIRIM"
+	},
+	{
+		"CodigoIBGE": 1500602,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ALTAMIRA"
+	},
+	{
+		"CodigoIBGE": 1500701,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ANAJAS"
+	},
+	{
+		"CodigoIBGE": 1500800,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ANANINDEUA"
+	},
+	{
+		"CodigoIBGE": 1500859,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ANAPU"
+	},
+	{
+		"CodigoIBGE": 1500909,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "AUGUSTO CORREA"
+	},
+	{
+		"CodigoIBGE": 1500958,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "AURORA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1501006,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "AVEIRO"
+	},
+	{
+		"CodigoIBGE": 1501105,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BAGRE"
+	},
+	{
+		"CodigoIBGE": 1501204,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BAIAO"
+	},
+	{
+		"CodigoIBGE": 1501253,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BANNACH"
+	},
+	{
+		"CodigoIBGE": 1501303,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BARCARENA"
+	},
+	{
+		"CodigoIBGE": 1501402,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BELEM"
+	},
+	{
+		"CodigoIBGE": 1501451,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BELTERRA"
+	},
+	{
+		"CodigoIBGE": 1501501,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BENEVIDES"
+	},
+	{
+		"CodigoIBGE": 1501576,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BOM JESUS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1501600,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BONITO"
+	},
+	{
+		"CodigoIBGE": 1501709,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BRAGANCA"
+	},
+	{
+		"CodigoIBGE": 1501725,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BRASIL NOVO"
+	},
+	{
+		"CodigoIBGE": 1501758,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BREJO GRANDE DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1501782,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BREU BRANCO"
+	},
+	{
+		"CodigoIBGE": 1501808,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BREVES"
+	},
+	{
+		"CodigoIBGE": 1501907,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "BUJARU"
+	},
+	{
+		"CodigoIBGE": 1501956,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CACHOEIRA DO PIRIA"
+	},
+	{
+		"CodigoIBGE": 1502004,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CACHOEIRA DO ARARI"
+	},
+	{
+		"CodigoIBGE": 1502103,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CAMETA"
+	},
+	{
+		"CodigoIBGE": 1502152,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CANAA DOS CARAJAS"
+	},
+	{
+		"CodigoIBGE": 1502202,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CAPANEMA"
+	},
+	{
+		"CodigoIBGE": 1502301,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CAPITAO POCO"
+	},
+	{
+		"CodigoIBGE": 1502400,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CASTANHAL"
+	},
+	{
+		"CodigoIBGE": 1502509,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CHAVES"
+	},
+	{
+		"CodigoIBGE": 1502608,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "COLARES"
+	},
+	{
+		"CodigoIBGE": 1502707,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CONCEICAO DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1502756,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CONCORDIA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1502764,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CUMARU DO NORTE"
+	},
+	{
+		"CodigoIBGE": 1502772,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CURIONOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1502806,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CURRALINHO"
+	},
+	{
+		"CodigoIBGE": 1502855,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CURUA"
+	},
+	{
+		"CodigoIBGE": 1502905,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "CURUCA"
+	},
+	{
+		"CodigoIBGE": 1502939,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "DOM ELISEU"
+	},
+	{
+		"CodigoIBGE": 1502954,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ELDORADO DOS CARAJAS"
+	},
+	{
+		"CodigoIBGE": 1503002,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "FARO"
+	},
+	{
+		"CodigoIBGE": 1503044,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "FLORESTA DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1503077,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "GARRAFAO DO NORTE"
+	},
+	{
+		"CodigoIBGE": 1503093,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "GOIANESIA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1503101,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "GURUPA"
+	},
+	{
+		"CodigoIBGE": 1503200,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "IGARAPEACU"
+	},
+	{
+		"CodigoIBGE": 1503309,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "IGARAPEMIRI"
+	},
+	{
+		"CodigoIBGE": 1503408,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "INHANGAPI"
+	},
+	{
+		"CodigoIBGE": 1503457,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "IPIXUNA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1503507,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "IRITUIA"
+	},
+	{
+		"CodigoIBGE": 1503606,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ITAITUBA"
+	},
+	{
+		"CodigoIBGE": 1503705,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ITUPIRANGA"
+	},
+	{
+		"CodigoIBGE": 1503754,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "JACAREACANGA"
+	},
+	{
+		"CodigoIBGE": 1503804,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "JACUNDA"
+	},
+	{
+		"CodigoIBGE": 1503903,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "JURUTI"
+	},
+	{
+		"CodigoIBGE": 1504000,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "LIMOEIRO DO AJURU"
+	},
+	{
+		"CodigoIBGE": 1504059,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MAE DO RIO"
+	},
+	{
+		"CodigoIBGE": 1504109,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MAGALHAES BARATA"
+	},
+	{
+		"CodigoIBGE": 1504208,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MARABA"
+	},
+	{
+		"CodigoIBGE": 1504307,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MARACANA"
+	},
+	{
+		"CodigoIBGE": 1504406,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MARAPANIM"
+	},
+	{
+		"CodigoIBGE": 1504422,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MARITUBA"
+	},
+	{
+		"CodigoIBGE": 1504455,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MEDICILANDIA"
+	},
+	{
+		"CodigoIBGE": 1504505,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MELGACO"
+	},
+	{
+		"CodigoIBGE": 1504604,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MOCAJUBA"
+	},
+	{
+		"CodigoIBGE": 1504703,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MOJU"
+	},
+	{
+		"CodigoIBGE": 1504802,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MONTE ALEGRE"
+	},
+	{
+		"CodigoIBGE": 1504901,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "MUANA"
+	},
+	{
+		"CodigoIBGE": 1504950,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "NOVA ESPERANCA DO PIRIA"
+	},
+	{
+		"CodigoIBGE": 1504976,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "NOVA IPIXUNA"
+	},
+	{
+		"CodigoIBGE": 1505007,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "NOVA TIMBOTEUA"
+	},
+	{
+		"CodigoIBGE": 1505031,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "NOVO PROGRESSO"
+	},
+	{
+		"CodigoIBGE": 1505064,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "NOVO REPARTIMENTO"
+	},
+	{
+		"CodigoIBGE": 1505106,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "OBIDOS"
+	},
+	{
+		"CodigoIBGE": 1505205,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "OEIRAS DO PARA"
+	},
+	{
+		"CodigoIBGE": 1505304,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ORIXIMINA"
+	},
+	{
+		"CodigoIBGE": 1505403,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "OUREM"
+	},
+	{
+		"CodigoIBGE": 1505437,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "OURILANDIA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 1505486,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PACAJA"
+	},
+	{
+		"CodigoIBGE": 1505494,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PALESTINA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1505502,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PARAGOMINAS"
+	},
+	{
+		"CodigoIBGE": 1505536,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PARAUAPEBAS"
+	},
+	{
+		"CodigoIBGE": 1505551,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PAU D-  ARCO"
+	},
+	{
+		"CodigoIBGE": 1505601,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PEIXEBOI"
+	},
+	{
+		"CodigoIBGE": 1505635,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PICARRA"
+	},
+	{
+		"CodigoIBGE": 1505650,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PLACAS"
+	},
+	{
+		"CodigoIBGE": 1505700,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PONTA DE PEDRAS"
+	},
+	{
+		"CodigoIBGE": 1505809,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PORTEL"
+	},
+	{
+		"CodigoIBGE": 1505908,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PORTO DE MOZ"
+	},
+	{
+		"CodigoIBGE": 1506005,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PRAINHA"
+	},
+	{
+		"CodigoIBGE": 1506104,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "PRIMAVERA"
+	},
+	{
+		"CodigoIBGE": 1506112,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "QUATIPURU"
+	},
+	{
+		"CodigoIBGE": 1506138,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "REDENCAO"
+	},
+	{
+		"CodigoIBGE": 1506161,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "RIO MARIA"
+	},
+	{
+		"CodigoIBGE": 1506187,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "RONDON DO PARA"
+	},
+	{
+		"CodigoIBGE": 1506195,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "RUROPOLIS"
+	},
+	{
+		"CodigoIBGE": 1506203,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SALINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1506302,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SALVATERRA"
+	},
+	{
+		"CodigoIBGE": 1506351,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTA BARBARA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1506401,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTA CRUZ DO ARARI"
+	},
+	{
+		"CodigoIBGE": 1506500,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTA ISABEL DO PARA"
+	},
+	{
+		"CodigoIBGE": 1506559,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTA LUZIA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1506583,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTA MARIA DAS BARREIRAS"
+	},
+	{
+		"CodigoIBGE": 1506609,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTA MARIA DO PARA"
+	},
+	{
+		"CodigoIBGE": 1506708,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTANA DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1506807,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTAREM"
+	},
+	{
+		"CodigoIBGE": 1506906,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTAREM NOVO"
+	},
+	{
+		"CodigoIBGE": 1507003,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SANTO ANTONIO DO TAUA"
+	},
+	{
+		"CodigoIBGE": 1507102,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO CAETANO DE ODIVELAS"
+	},
+	{
+		"CodigoIBGE": 1507151,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO DOMINGOS DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1507201,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO DOMINGOS DO CAPIM"
+	},
+	{
+		"CodigoIBGE": 1507300,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO FELIX DO XINGU"
+	},
+	{
+		"CodigoIBGE": 1507409,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO FRANCISCO DO PARA"
+	},
+	{
+		"CodigoIBGE": 1507458,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO GERALDO DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1507466,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO JOAO DA PONTA"
+	},
+	{
+		"CodigoIBGE": 1507474,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO JOAO DE PIRABAS"
+	},
+	{
+		"CodigoIBGE": 1507508,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO JOAO DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1507607,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO MIGUEL DO GUAMA"
+	},
+	{
+		"CodigoIBGE": 1507706,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAO SEBASTIAO DA BOA VISTA"
+	},
+	{
+		"CodigoIBGE": 1507755,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SAPUCAIA"
+	},
+	{
+		"CodigoIBGE": 1507805,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SENADOR JOSE PORFIRIO"
+	},
+	{
+		"CodigoIBGE": 1507904,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "SOURE"
+	},
+	{
+		"CodigoIBGE": 1507953,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TAILANDIA"
+	},
+	{
+		"CodigoIBGE": 1507961,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TERRA ALTA"
+	},
+	{
+		"CodigoIBGE": 1507979,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TERRA SANTA"
+	},
+	{
+		"CodigoIBGE": 1508001,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TOMEACU"
+	},
+	{
+		"CodigoIBGE": 1508035,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TRACUATEUA"
+	},
+	{
+		"CodigoIBGE": 1508050,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TRAIRAO"
+	},
+	{
+		"CodigoIBGE": 1508084,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TUCUMA"
+	},
+	{
+		"CodigoIBGE": 1508100,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "TUCURUI"
+	},
+	{
+		"CodigoIBGE": 1508126,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "ULIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1508159,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "URUARA"
+	},
+	{
+		"CodigoIBGE": 1508209,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "VIGIA"
+	},
+	{
+		"CodigoIBGE": 1508308,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "VISEU"
+	},
+	{
+		"CodigoIBGE": 1508357,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "VITORIA DO XINGU"
+	},
+	{
+		"CodigoIBGE": 1508407,
+		"CodigoIBGEUF": 15,
+		"SiglaUF": "PA",
+		"NomeUF": "PARA",
+		"NomeMunicipio": "XINGUARA"
+	}
+]

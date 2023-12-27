@@ -1,0 +1,2921 @@
+[
+	{
+		"CodigoIBGE": 2900108,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ABAIRA"
+	},
+	{
+		"CodigoIBGE": 2900207,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ABARE"
+	},
+	{
+		"CodigoIBGE": 2900306,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ACAJUTIBA"
+	},
+	{
+		"CodigoIBGE": 2900355,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ADUSTINA"
+	},
+	{
+		"CodigoIBGE": 2900405,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "AGUA FRIA"
+	},
+	{
+		"CodigoIBGE": 2900504,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ERICO CARDOSO"
+	},
+	{
+		"CodigoIBGE": 2900603,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "AIQUARA"
+	},
+	{
+		"CodigoIBGE": 2900702,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ALAGOINHAS"
+	},
+	{
+		"CodigoIBGE": 2900801,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ALCOBACA"
+	},
+	{
+		"CodigoIBGE": 2900900,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ALMADINA"
+	},
+	{
+		"CodigoIBGE": 2901007,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "AMARGOSA"
+	},
+	{
+		"CodigoIBGE": 2901106,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "AMELIA RODRIGUES"
+	},
+	{
+		"CodigoIBGE": 2901155,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "AMERICA DOURADA"
+	},
+	{
+		"CodigoIBGE": 2901205,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANAGE"
+	},
+	{
+		"CodigoIBGE": 2901304,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANDARAI"
+	},
+	{
+		"CodigoIBGE": 2901353,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANDORINHA"
+	},
+	{
+		"CodigoIBGE": 2901403,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANGICAL"
+	},
+	{
+		"CodigoIBGE": 2901502,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANGUERA"
+	},
+	{
+		"CodigoIBGE": 2901601,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANTAS"
+	},
+	{
+		"CodigoIBGE": 2901700,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANTONIO CARDOSO"
+	},
+	{
+		"CodigoIBGE": 2901809,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ANTONIO GONCALVES"
+	},
+	{
+		"CodigoIBGE": 2901908,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "APORA"
+	},
+	{
+		"CodigoIBGE": 2901957,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "APUAREMA"
+	},
+	{
+		"CodigoIBGE": 2902005,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ARACATU"
+	},
+	{
+		"CodigoIBGE": 2902054,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ARACAS"
+	},
+	{
+		"CodigoIBGE": 2902104,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ARACI"
+	},
+	{
+		"CodigoIBGE": 2902203,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ARAMARI"
+	},
+	{
+		"CodigoIBGE": 2902252,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ARATACA"
+	},
+	{
+		"CodigoIBGE": 2902302,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ARATUIPE"
+	},
+	{
+		"CodigoIBGE": 2902401,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "AURELINO LEAL"
+	},
+	{
+		"CodigoIBGE": 2902500,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BAIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2902609,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BAIXA GRANDE"
+	},
+	{
+		"CodigoIBGE": 2902658,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BANZAE"
+	},
+	{
+		"CodigoIBGE": 2902708,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRA"
+	},
+	{
+		"CodigoIBGE": 2902807,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRA DA ESTIVA"
+	},
+	{
+		"CodigoIBGE": 2902906,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRA DO CHOCA"
+	},
+	{
+		"CodigoIBGE": 2903003,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRA DO MENDES"
+	},
+	{
+		"CodigoIBGE": 2903102,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRA DO ROCHA"
+	},
+	{
+		"CodigoIBGE": 2903201,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARREIRAS"
+	},
+	{
+		"CodigoIBGE": 2903235,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRO ALTO"
+	},
+	{
+		"CodigoIBGE": 2903276,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARROCAS"
+	},
+	{
+		"CodigoIBGE": 2903300,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BARRO PRETO"
+	},
+	{
+		"CodigoIBGE": 2903409,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BELMONTE"
+	},
+	{
+		"CodigoIBGE": 2903508,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BELO CAMPO"
+	},
+	{
+		"CodigoIBGE": 2903607,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BIRITINGA"
+	},
+	{
+		"CodigoIBGE": 2903706,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BOA NOVA"
+	},
+	{
+		"CodigoIBGE": 2903805,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BOA VISTA DO TUPIM"
+	},
+	{
+		"CodigoIBGE": 2903904,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BOM JESUS DA LAPA"
+	},
+	{
+		"CodigoIBGE": 2903953,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BOM JESUS DA SERRA"
+	},
+	{
+		"CodigoIBGE": 2904001,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BONINAL"
+	},
+	{
+		"CodigoIBGE": 2904050,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BONITO"
+	},
+	{
+		"CodigoIBGE": 2904100,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BOQUIRA"
+	},
+	{
+		"CodigoIBGE": 2904209,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BOTUPORA"
+	},
+	{
+		"CodigoIBGE": 2904308,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BREJOES"
+	},
+	{
+		"CodigoIBGE": 2904407,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BREJOLANDIA"
+	},
+	{
+		"CodigoIBGE": 2904506,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BROTAS DE MACAUBAS"
+	},
+	{
+		"CodigoIBGE": 2904605,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BRUMADO"
+	},
+	{
+		"CodigoIBGE": 2904704,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BUERAREMA"
+	},
+	{
+		"CodigoIBGE": 2904753,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "BURITIRAMA"
+	},
+	{
+		"CodigoIBGE": 2904803,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAATIBA"
+	},
+	{
+		"CodigoIBGE": 2904852,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CABACEIRAS DO PARAGUACU"
+	},
+	{
+		"CodigoIBGE": 2904902,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CACHOEIRA"
+	},
+	{
+		"CodigoIBGE": 2905008,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CACULE"
+	},
+	{
+		"CodigoIBGE": 2905107,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAEM"
+	},
+	{
+		"CodigoIBGE": 2905156,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAETANOS"
+	},
+	{
+		"CodigoIBGE": 2905206,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAETITE"
+	},
+	{
+		"CodigoIBGE": 2905305,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAFARNAUM"
+	},
+	{
+		"CodigoIBGE": 2905404,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAIRU"
+	},
+	{
+		"CodigoIBGE": 2905503,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CALDEIRAO GRANDE"
+	},
+	{
+		"CodigoIBGE": 2905602,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAMACAN"
+	},
+	{
+		"CodigoIBGE": 2905701,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAMACARI"
+	},
+	{
+		"CodigoIBGE": 2905800,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAMAMU"
+	},
+	{
+		"CodigoIBGE": 2905909,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAMPO ALEGRE DE LOURDES"
+	},
+	{
+		"CodigoIBGE": 2906006,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAMPO FORMOSO"
+	},
+	{
+		"CodigoIBGE": 2906105,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANAPOLIS"
+	},
+	{
+		"CodigoIBGE": 2906204,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANARANA"
+	},
+	{
+		"CodigoIBGE": 2906303,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANAVIEIRAS"
+	},
+	{
+		"CodigoIBGE": 2906402,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANDEAL"
+	},
+	{
+		"CodigoIBGE": 2906501,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANDEIAS"
+	},
+	{
+		"CodigoIBGE": 2906600,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANDIBA"
+	},
+	{
+		"CodigoIBGE": 2906709,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANDIDO SALES"
+	},
+	{
+		"CodigoIBGE": 2906808,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANSANCAO"
+	},
+	{
+		"CodigoIBGE": 2906824,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CANUDOS"
+	},
+	{
+		"CodigoIBGE": 2906857,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAPELA DO ALTO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 2906873,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CAPIM GROSSO"
+	},
+	{
+		"CodigoIBGE": 2906899,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CARAIBAS"
+	},
+	{
+		"CodigoIBGE": 2906907,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CARAVELAS"
+	},
+	{
+		"CodigoIBGE": 2907004,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CARDEAL DA SILVA"
+	},
+	{
+		"CodigoIBGE": 2907103,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CARINHANHA"
+	},
+	{
+		"CodigoIBGE": 2907202,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CASA NOVA"
+	},
+	{
+		"CodigoIBGE": 2907301,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CASTRO ALVES"
+	},
+	{
+		"CodigoIBGE": 2907400,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CATOLANDIA"
+	},
+	{
+		"CodigoIBGE": 2907509,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CATU"
+	},
+	{
+		"CodigoIBGE": 2907558,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CATURAMA"
+	},
+	{
+		"CodigoIBGE": 2907608,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CENTRAL"
+	},
+	{
+		"CodigoIBGE": 2907707,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CHORROCHO"
+	},
+	{
+		"CodigoIBGE": 2907806,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CICERO DANTAS"
+	},
+	{
+		"CodigoIBGE": 2907905,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CIPO"
+	},
+	{
+		"CodigoIBGE": 2908002,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "COARACI"
+	},
+	{
+		"CodigoIBGE": 2908101,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "COCOS"
+	},
+	{
+		"CodigoIBGE": 2908200,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONCEICAO DA FEIRA"
+	},
+	{
+		"CodigoIBGE": 2908309,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONCEICAO DO ALMEIDA"
+	},
+	{
+		"CodigoIBGE": 2908408,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONCEICAO DO COITE"
+	},
+	{
+		"CodigoIBGE": 2908507,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONCEICAO DO JACUIPE"
+	},
+	{
+		"CodigoIBGE": 2908606,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONDE"
+	},
+	{
+		"CodigoIBGE": 2908705,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONDEUBA"
+	},
+	{
+		"CodigoIBGE": 2908804,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CONTENDAS DO SINCORA"
+	},
+	{
+		"CodigoIBGE": 2908903,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CORACAO DE MARIA"
+	},
+	{
+		"CodigoIBGE": 2909000,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CORDEIROS"
+	},
+	{
+		"CodigoIBGE": 2909109,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CORIBE"
+	},
+	{
+		"CodigoIBGE": 2909208,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CORONEL JOAO SA"
+	},
+	{
+		"CodigoIBGE": 2909307,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CORRENTINA"
+	},
+	{
+		"CodigoIBGE": 2909406,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "COTEGIPE"
+	},
+	{
+		"CodigoIBGE": 2909505,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CRAVOLANDIA"
+	},
+	{
+		"CodigoIBGE": 2909604,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CRISOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2909703,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CRISTOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2909802,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CRUZ DAS ALMAS"
+	},
+	{
+		"CodigoIBGE": 2909901,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "CURACA"
+	},
+	{
+		"CodigoIBGE": 2910008,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "DARIO MEIRA"
+	},
+	{
+		"CodigoIBGE": 2910057,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "DIAS D-  AVILA"
+	},
+	{
+		"CodigoIBGE": 2910107,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "DOM BASILIO"
+	},
+	{
+		"CodigoIBGE": 2910206,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "DOM MACEDO COSTA"
+	},
+	{
+		"CodigoIBGE": 2910305,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ELISIO MEDRADO"
+	},
+	{
+		"CodigoIBGE": 2910404,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ENCRUZILHADA"
+	},
+	{
+		"CodigoIBGE": 2910503,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ENTRE RIOS"
+	},
+	{
+		"CodigoIBGE": 2910602,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ESPLANADA"
+	},
+	{
+		"CodigoIBGE": 2910701,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "EUCLIDES DA CUNHA"
+	},
+	{
+		"CodigoIBGE": 2910727,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "EUNAPOLIS"
+	},
+	{
+		"CodigoIBGE": 2910750,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FATIMA"
+	},
+	{
+		"CodigoIBGE": 2910776,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FEIRA DA MATA"
+	},
+	{
+		"CodigoIBGE": 2910800,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FEIRA DE SANTANA"
+	},
+	{
+		"CodigoIBGE": 2910859,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FILADELFIA"
+	},
+	{
+		"CodigoIBGE": 2910909,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FIRMINO ALVES"
+	},
+	{
+		"CodigoIBGE": 2911006,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FLORESTA AZUL"
+	},
+	{
+		"CodigoIBGE": 2911105,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "FORMOSA DO RIO PRETO"
+	},
+	{
+		"CodigoIBGE": 2911204,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GANDU"
+	},
+	{
+		"CodigoIBGE": 2911253,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GAVIAO"
+	},
+	{
+		"CodigoIBGE": 2911303,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GENTIO DO OURO"
+	},
+	{
+		"CodigoIBGE": 2911402,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GLORIA"
+	},
+	{
+		"CodigoIBGE": 2911501,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GONGOGI"
+	},
+	{
+		"CodigoIBGE": 2911600,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GOVERNADOR MANGABEIRA"
+	},
+	{
+		"CodigoIBGE": 2911659,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GUAJERU"
+	},
+	{
+		"CodigoIBGE": 2911709,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GUANAMBI"
+	},
+	{
+		"CodigoIBGE": 2911808,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "GUARATINGA"
+	},
+	{
+		"CodigoIBGE": 2911857,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "HELIOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2911907,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IACU"
+	},
+	{
+		"CodigoIBGE": 2912004,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIASSUCE"
+	},
+	{
+		"CodigoIBGE": 2912103,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBICARAI"
+	},
+	{
+		"CodigoIBGE": 2912202,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBICOARA"
+	},
+	{
+		"CodigoIBGE": 2912301,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBICUI"
+	},
+	{
+		"CodigoIBGE": 2912400,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIPEBA"
+	},
+	{
+		"CodigoIBGE": 2912509,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIPITANGA"
+	},
+	{
+		"CodigoIBGE": 2912608,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIQUERA"
+	},
+	{
+		"CodigoIBGE": 2912707,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIRAPITANGA"
+	},
+	{
+		"CodigoIBGE": 2912806,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIRAPUA"
+	},
+	{
+		"CodigoIBGE": 2912905,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBIRATAIA"
+	},
+	{
+		"CodigoIBGE": 2913002,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBITIARA"
+	},
+	{
+		"CodigoIBGE": 2913101,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBITITA"
+	},
+	{
+		"CodigoIBGE": 2913200,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IBOTIRAMA"
+	},
+	{
+		"CodigoIBGE": 2913309,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ICHU"
+	},
+	{
+		"CodigoIBGE": 2913408,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IGAPORA"
+	},
+	{
+		"CodigoIBGE": 2913457,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IGRAPIUNA"
+	},
+	{
+		"CodigoIBGE": 2913507,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IGUAI"
+	},
+	{
+		"CodigoIBGE": 2913606,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ILHEUS"
+	},
+	{
+		"CodigoIBGE": 2913705,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "INHAMBUPE"
+	},
+	{
+		"CodigoIBGE": 2913804,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IPECAETA"
+	},
+	{
+		"CodigoIBGE": 2913903,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IPIAU"
+	},
+	{
+		"CodigoIBGE": 2914000,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IPIRA"
+	},
+	{
+		"CodigoIBGE": 2914109,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IPUPIARA"
+	},
+	{
+		"CodigoIBGE": 2914208,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IRAJUBA"
+	},
+	{
+		"CodigoIBGE": 2914307,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IRAMAIA"
+	},
+	{
+		"CodigoIBGE": 2914406,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IRAQUARA"
+	},
+	{
+		"CodigoIBGE": 2914505,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IRARA"
+	},
+	{
+		"CodigoIBGE": 2914604,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IRECE"
+	},
+	{
+		"CodigoIBGE": 2914653,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITABELA"
+	},
+	{
+		"CodigoIBGE": 2914703,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITABERABA"
+	},
+	{
+		"CodigoIBGE": 2914802,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITABUNA"
+	},
+	{
+		"CodigoIBGE": 2914901,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITACARE"
+	},
+	{
+		"CodigoIBGE": 2915007,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAETE"
+	},
+	{
+		"CodigoIBGE": 2915106,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAGI"
+	},
+	{
+		"CodigoIBGE": 2915205,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAGIBA"
+	},
+	{
+		"CodigoIBGE": 2915304,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAGIMIRIM"
+	},
+	{
+		"CodigoIBGE": 2915353,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAGUACU DA BAHIA"
+	},
+	{
+		"CodigoIBGE": 2915403,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAJU DO COLONIA"
+	},
+	{
+		"CodigoIBGE": 2915502,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAJUIPE"
+	},
+	{
+		"CodigoIBGE": 2915601,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAMARAJU"
+	},
+	{
+		"CodigoIBGE": 2915700,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAMARI"
+	},
+	{
+		"CodigoIBGE": 2915809,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAMBE"
+	},
+	{
+		"CodigoIBGE": 2915908,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITANAGRA"
+	},
+	{
+		"CodigoIBGE": 2916005,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITANHEM"
+	},
+	{
+		"CodigoIBGE": 2916104,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAPARICA"
+	},
+	{
+		"CodigoIBGE": 2916203,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAPE"
+	},
+	{
+		"CodigoIBGE": 2916302,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAPEBI"
+	},
+	{
+		"CodigoIBGE": 2916401,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAPETINGA"
+	},
+	{
+		"CodigoIBGE": 2916500,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAPICURU"
+	},
+	{
+		"CodigoIBGE": 2916609,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAPITANGA"
+	},
+	{
+		"CodigoIBGE": 2916708,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITAQUARA"
+	},
+	{
+		"CodigoIBGE": 2916807,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITARANTIM"
+	},
+	{
+		"CodigoIBGE": 2916856,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITATIM"
+	},
+	{
+		"CodigoIBGE": 2916906,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITIRUCU"
+	},
+	{
+		"CodigoIBGE": 2917003,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITIUBA"
+	},
+	{
+		"CodigoIBGE": 2917102,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITORORO"
+	},
+	{
+		"CodigoIBGE": 2917201,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITUACU"
+	},
+	{
+		"CodigoIBGE": 2917300,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "ITUBERA"
+	},
+	{
+		"CodigoIBGE": 2917334,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "IUIU"
+	},
+	{
+		"CodigoIBGE": 2917359,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JABORANDI"
+	},
+	{
+		"CodigoIBGE": 2917409,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JACARACI"
+	},
+	{
+		"CodigoIBGE": 2917508,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JACOBINA"
+	},
+	{
+		"CodigoIBGE": 2917607,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JAGUAQUARA"
+	},
+	{
+		"CodigoIBGE": 2917706,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JAGUARARI"
+	},
+	{
+		"CodigoIBGE": 2917805,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JAGUARIPE"
+	},
+	{
+		"CodigoIBGE": 2917904,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JANDAIRA"
+	},
+	{
+		"CodigoIBGE": 2918001,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JEQUIE"
+	},
+	{
+		"CodigoIBGE": 2918100,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JEREMOABO"
+	},
+	{
+		"CodigoIBGE": 2918209,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JIQUIRICA"
+	},
+	{
+		"CodigoIBGE": 2918308,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JITAUNA"
+	},
+	{
+		"CodigoIBGE": 2918357,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JOAO DOURADO"
+	},
+	{
+		"CodigoIBGE": 2918407,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JUAZEIRO"
+	},
+	{
+		"CodigoIBGE": 2918456,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JUCURUCU"
+	},
+	{
+		"CodigoIBGE": 2918506,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JUSSARA"
+	},
+	{
+		"CodigoIBGE": 2918555,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JUSSARI"
+	},
+	{
+		"CodigoIBGE": 2918605,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "JUSSIAPE"
+	},
+	{
+		"CodigoIBGE": 2918704,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAFAIETE COUTINHO"
+	},
+	{
+		"CodigoIBGE": 2918753,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAGOA REAL"
+	},
+	{
+		"CodigoIBGE": 2918803,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAJE"
+	},
+	{
+		"CodigoIBGE": 2918902,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAJEDAO"
+	},
+	{
+		"CodigoIBGE": 2919009,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAJEDINHO"
+	},
+	{
+		"CodigoIBGE": 2919058,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAJEDO DO TABOCAL"
+	},
+	{
+		"CodigoIBGE": 2919108,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAMARAO"
+	},
+	{
+		"CodigoIBGE": 2919157,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAPAO"
+	},
+	{
+		"CodigoIBGE": 2919207,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LAURO DE FREITAS"
+	},
+	{
+		"CodigoIBGE": 2919306,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LENCOIS"
+	},
+	{
+		"CodigoIBGE": 2919405,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LICINIO DE ALMEIDA"
+	},
+	{
+		"CodigoIBGE": 2919504,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LIVRAMENTO DE NOSSA SENHORA"
+	},
+	{
+		"CodigoIBGE": 2919553,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "LUIS EDUARDO MAGALHAES"
+	},
+	{
+		"CodigoIBGE": 2919603,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MACAJUBA"
+	},
+	{
+		"CodigoIBGE": 2919702,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MACARANI"
+	},
+	{
+		"CodigoIBGE": 2919801,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MACAUBAS"
+	},
+	{
+		"CodigoIBGE": 2919900,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MACURURE"
+	},
+	{
+		"CodigoIBGE": 2919926,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MADRE DE DEUS"
+	},
+	{
+		"CodigoIBGE": 2919959,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MAETINGA"
+	},
+	{
+		"CodigoIBGE": 2920007,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MAIQUINIQUE"
+	},
+	{
+		"CodigoIBGE": 2920106,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MAIRI"
+	},
+	{
+		"CodigoIBGE": 2920205,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MALHADA"
+	},
+	{
+		"CodigoIBGE": 2920304,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MALHADA DE PEDRAS"
+	},
+	{
+		"CodigoIBGE": 2920403,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MANOEL VITORINO"
+	},
+	{
+		"CodigoIBGE": 2920452,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MANSIDAO"
+	},
+	{
+		"CodigoIBGE": 2920502,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MARACAS"
+	},
+	{
+		"CodigoIBGE": 2920601,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MARAGOGIPE"
+	},
+	{
+		"CodigoIBGE": 2920700,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MARAU"
+	},
+	{
+		"CodigoIBGE": 2920809,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MARCIONILIO SOUZA"
+	},
+	{
+		"CodigoIBGE": 2920908,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MASCOTE"
+	},
+	{
+		"CodigoIBGE": 2921005,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MATA DE SAO JOAO"
+	},
+	{
+		"CodigoIBGE": 2921054,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MATINA"
+	},
+	{
+		"CodigoIBGE": 2921104,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MEDEIROS NETO"
+	},
+	{
+		"CodigoIBGE": 2921203,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MIGUEL CALMON"
+	},
+	{
+		"CodigoIBGE": 2921302,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MILAGRES"
+	},
+	{
+		"CodigoIBGE": 2921401,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MIRANGABA"
+	},
+	{
+		"CodigoIBGE": 2921450,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MIRANTE"
+	},
+	{
+		"CodigoIBGE": 2921500,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MONTE SANTO"
+	},
+	{
+		"CodigoIBGE": 2921609,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MORPARA"
+	},
+	{
+		"CodigoIBGE": 2921708,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MORRO DO CHAPEU"
+	},
+	{
+		"CodigoIBGE": 2921807,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MORTUGABA"
+	},
+	{
+		"CodigoIBGE": 2921906,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MUCUGE"
+	},
+	{
+		"CodigoIBGE": 2922003,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MUCURI"
+	},
+	{
+		"CodigoIBGE": 2922052,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MULUNGU DO MORRO"
+	},
+	{
+		"CodigoIBGE": 2922102,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MUNDO NOVO"
+	},
+	{
+		"CodigoIBGE": 2922201,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MUNIZ FERREIRA"
+	},
+	{
+		"CodigoIBGE": 2922250,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MUQUEM DE SAO FRANCISCO"
+	},
+	{
+		"CodigoIBGE": 2922300,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MURITIBA"
+	},
+	{
+		"CodigoIBGE": 2922409,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "MUTUIPE"
+	},
+	{
+		"CodigoIBGE": 2922508,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NAZARE"
+	},
+	{
+		"CodigoIBGE": 2922607,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NILO PECANHA"
+	},
+	{
+		"CodigoIBGE": 2922656,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NORDESTINA"
+	},
+	{
+		"CodigoIBGE": 2922706,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA CANAA"
+	},
+	{
+		"CodigoIBGE": 2922730,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA FATIMA"
+	},
+	{
+		"CodigoIBGE": 2922755,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA IBIA"
+	},
+	{
+		"CodigoIBGE": 2922805,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA ITARANA"
+	},
+	{
+		"CodigoIBGE": 2922854,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA REDENCAO"
+	},
+	{
+		"CodigoIBGE": 2922904,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA SOURE"
+	},
+	{
+		"CodigoIBGE": 2923001,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVA VICOSA"
+	},
+	{
+		"CodigoIBGE": 2923035,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVO HORIZONTE"
+	},
+	{
+		"CodigoIBGE": 2923050,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "NOVO TRIUNFO"
+	},
+	{
+		"CodigoIBGE": 2923100,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "OLINDINA"
+	},
+	{
+		"CodigoIBGE": 2923209,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "OLIVEIRA DOS BREJINHOS"
+	},
+	{
+		"CodigoIBGE": 2923308,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "OURICANGAS"
+	},
+	{
+		"CodigoIBGE": 2923357,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "OUROLANDIA"
+	},
+	{
+		"CodigoIBGE": 2923407,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PALMAS DE MONTE ALTO"
+	},
+	{
+		"CodigoIBGE": 2923506,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PALMEIRAS"
+	},
+	{
+		"CodigoIBGE": 2923605,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PARAMIRIM"
+	},
+	{
+		"CodigoIBGE": 2923704,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PARATINGA"
+	},
+	{
+		"CodigoIBGE": 2923803,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PARIPIRANGA"
+	},
+	{
+		"CodigoIBGE": 2923902,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PAU BRASIL"
+	},
+	{
+		"CodigoIBGE": 2924009,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PAULO AFONSO"
+	},
+	{
+		"CodigoIBGE": 2924058,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PE DE SERRA"
+	},
+	{
+		"CodigoIBGE": 2924108,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PEDRAO"
+	},
+	{
+		"CodigoIBGE": 2924207,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PEDRO ALEXANDRE"
+	},
+	{
+		"CodigoIBGE": 2924306,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PIATA"
+	},
+	{
+		"CodigoIBGE": 2924405,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PILAO ARCADO"
+	},
+	{
+		"CodigoIBGE": 2924504,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PINDAI"
+	},
+	{
+		"CodigoIBGE": 2924603,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PINDOBACU"
+	},
+	{
+		"CodigoIBGE": 2924652,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PINTADAS"
+	},
+	{
+		"CodigoIBGE": 2924678,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PIRAI DO NORTE"
+	},
+	{
+		"CodigoIBGE": 2924702,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PIRIPA"
+	},
+	{
+		"CodigoIBGE": 2924801,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PIRITIBA"
+	},
+	{
+		"CodigoIBGE": 2924900,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PLANALTINO"
+	},
+	{
+		"CodigoIBGE": 2925006,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PLANALTO"
+	},
+	{
+		"CodigoIBGE": 2925105,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "POCOES"
+	},
+	{
+		"CodigoIBGE": 2925204,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "POJUCA"
+	},
+	{
+		"CodigoIBGE": 2925253,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PONTO NOVO"
+	},
+	{
+		"CodigoIBGE": 2925303,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PORTO SEGURO"
+	},
+	{
+		"CodigoIBGE": 2925402,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "POTIRAGUA"
+	},
+	{
+		"CodigoIBGE": 2925501,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PRADO"
+	},
+	{
+		"CodigoIBGE": 2925600,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PRESIDENTE DUTRA"
+	},
+	{
+		"CodigoIBGE": 2925709,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PRESIDENTE JANIO QUADROS"
+	},
+	{
+		"CodigoIBGE": 2925758,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "PRESIDENTE TANCREDO NEVES"
+	},
+	{
+		"CodigoIBGE": 2925808,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "QUEIMADAS"
+	},
+	{
+		"CodigoIBGE": 2925907,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "QUIJINGUE"
+	},
+	{
+		"CodigoIBGE": 2925931,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "QUIXABEIRA"
+	},
+	{
+		"CodigoIBGE": 2925956,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RAFAEL JAMBEIRO"
+	},
+	{
+		"CodigoIBGE": 2926004,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "REMANSO"
+	},
+	{
+		"CodigoIBGE": 2926103,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RETIROLANDIA"
+	},
+	{
+		"CodigoIBGE": 2926202,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIACHAO DAS NEVES"
+	},
+	{
+		"CodigoIBGE": 2926301,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIACHAO DO JACUIPE"
+	},
+	{
+		"CodigoIBGE": 2926400,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIACHO DE SANTANA"
+	},
+	{
+		"CodigoIBGE": 2926509,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIBEIRA DO AMPARO"
+	},
+	{
+		"CodigoIBGE": 2926608,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIBEIRA DO POMBAL"
+	},
+	{
+		"CodigoIBGE": 2926657,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIBEIRAO DO LARGO"
+	},
+	{
+		"CodigoIBGE": 2926707,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIO DE CONTAS"
+	},
+	{
+		"CodigoIBGE": 2926806,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIO DO ANTONIO"
+	},
+	{
+		"CodigoIBGE": 2926905,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIO DO PIRES"
+	},
+	{
+		"CodigoIBGE": 2927002,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RIO REAL"
+	},
+	{
+		"CodigoIBGE": 2927101,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RODELAS"
+	},
+	{
+		"CodigoIBGE": 2927200,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "RUY BARBOSA"
+	},
+	{
+		"CodigoIBGE": 2927309,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SALINAS DA MARGARIDA"
+	},
+	{
+		"CodigoIBGE": 2927408,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SALVADOR"
+	},
+	{
+		"CodigoIBGE": 2927507,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA BARBARA"
+	},
+	{
+		"CodigoIBGE": 2927606,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA BRIGIDA"
+	},
+	{
+		"CodigoIBGE": 2927705,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA CRUZ CABRALIA"
+	},
+	{
+		"CodigoIBGE": 2927804,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA CRUZ DA VITORIA"
+	},
+	{
+		"CodigoIBGE": 2927903,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA INES"
+	},
+	{
+		"CodigoIBGE": 2928000,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTALUZ"
+	},
+	{
+		"CodigoIBGE": 2928059,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA LUZIA"
+	},
+	{
+		"CodigoIBGE": 2928109,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA MARIA DA VITORIA"
+	},
+	{
+		"CodigoIBGE": 2928208,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTANA"
+	},
+	{
+		"CodigoIBGE": 2928307,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2928406,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA RITA DE CASSIA"
+	},
+	{
+		"CodigoIBGE": 2928505,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTA TERESINHA"
+	},
+	{
+		"CodigoIBGE": 2928604,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTO AMARO"
+	},
+	{
+		"CodigoIBGE": 2928703,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTO ANTONIO DE JESUS"
+	},
+	{
+		"CodigoIBGE": 2928802,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SANTO ESTEVAO"
+	},
+	{
+		"CodigoIBGE": 2928901,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO DESIDERIO"
+	},
+	{
+		"CodigoIBGE": 2928950,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO DOMINGOS"
+	},
+	{
+		"CodigoIBGE": 2929008,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO FELIX"
+	},
+	{
+		"CodigoIBGE": 2929057,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO FELIX DO CORIBE"
+	},
+	{
+		"CodigoIBGE": 2929107,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO FELIPE"
+	},
+	{
+		"CodigoIBGE": 2929206,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO FRANCISCO DO CONDE"
+	},
+	{
+		"CodigoIBGE": 2929255,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO GABRIEL"
+	},
+	{
+		"CodigoIBGE": 2929305,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO GONCALO DOS CAMPOS"
+	},
+	{
+		"CodigoIBGE": 2929354,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO JOSE DA VITORIA"
+	},
+	{
+		"CodigoIBGE": 2929370,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO JOSE DO JACUIPE"
+	},
+	{
+		"CodigoIBGE": 2929404,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO MIGUEL DAS MATAS"
+	},
+	{
+		"CodigoIBGE": 2929503,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAO SEBASTIAO DO PASSE"
+	},
+	{
+		"CodigoIBGE": 2929602,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAPEACU"
+	},
+	{
+		"CodigoIBGE": 2929701,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SATIRO DIAS"
+	},
+	{
+		"CodigoIBGE": 2929750,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAUBARA"
+	},
+	{
+		"CodigoIBGE": 2929800,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SAUDE"
+	},
+	{
+		"CodigoIBGE": 2929909,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SEABRA"
+	},
+	{
+		"CodigoIBGE": 2930006,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SEBASTIAO LARANJEIRAS"
+	},
+	{
+		"CodigoIBGE": 2930105,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SENHOR DO BONFIM"
+	},
+	{
+		"CodigoIBGE": 2930154,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SERRA DO RAMALHO"
+	},
+	{
+		"CodigoIBGE": 2930204,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SENTO SE"
+	},
+	{
+		"CodigoIBGE": 2930303,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SERRA DOURADA"
+	},
+	{
+		"CodigoIBGE": 2930402,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SERRA PRETA"
+	},
+	{
+		"CodigoIBGE": 2930501,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SERRINHA"
+	},
+	{
+		"CodigoIBGE": 2930600,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SERROLANDIA"
+	},
+	{
+		"CodigoIBGE": 2930709,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SIMOES FILHO"
+	},
+	{
+		"CodigoIBGE": 2930758,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SITIO DO MATO"
+	},
+	{
+		"CodigoIBGE": 2930766,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SITIO DO QUINTO"
+	},
+	{
+		"CodigoIBGE": 2930774,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SOBRADINHO"
+	},
+	{
+		"CodigoIBGE": 2930808,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "SOUTO SOARES"
+	},
+	{
+		"CodigoIBGE": 2930907,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TABOCAS DO BREJO VELHO"
+	},
+	{
+		"CodigoIBGE": 2931004,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TANHACU"
+	},
+	{
+		"CodigoIBGE": 2931053,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TANQUE NOVO"
+	},
+	{
+		"CodigoIBGE": 2931103,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TANQUINHO"
+	},
+	{
+		"CodigoIBGE": 2931202,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TAPEROA"
+	},
+	{
+		"CodigoIBGE": 2931301,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TAPIRAMUTA"
+	},
+	{
+		"CodigoIBGE": 2931350,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TEIXEIRA DE FREITAS"
+	},
+	{
+		"CodigoIBGE": 2931400,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TEODORO SAMPAIO"
+	},
+	{
+		"CodigoIBGE": 2931509,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TEOFILANDIA"
+	},
+	{
+		"CodigoIBGE": 2931608,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TEOLANDIA"
+	},
+	{
+		"CodigoIBGE": 2931707,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TERRA NOVA"
+	},
+	{
+		"CodigoIBGE": 2931806,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TREMEDAL"
+	},
+	{
+		"CodigoIBGE": 2931905,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "TUCANO"
+	},
+	{
+		"CodigoIBGE": 2932002,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UAUA"
+	},
+	{
+		"CodigoIBGE": 2932101,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UBAIRA"
+	},
+	{
+		"CodigoIBGE": 2932200,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UBAITABA"
+	},
+	{
+		"CodigoIBGE": 2932309,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UBATA"
+	},
+	{
+		"CodigoIBGE": 2932408,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UIBAI"
+	},
+	{
+		"CodigoIBGE": 2932457,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UMBURANAS"
+	},
+	{
+		"CodigoIBGE": 2932507,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UNA"
+	},
+	{
+		"CodigoIBGE": 2932606,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "URANDI"
+	},
+	{
+		"CodigoIBGE": 2932705,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "URUCUCA"
+	},
+	{
+		"CodigoIBGE": 2932804,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "UTINGA"
+	},
+	{
+		"CodigoIBGE": 2932903,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VALENCA"
+	},
+	{
+		"CodigoIBGE": 2933000,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VALENTE"
+	},
+	{
+		"CodigoIBGE": 2933059,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VARZEA DA ROCA"
+	},
+	{
+		"CodigoIBGE": 2933109,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VARZEA DO POCO"
+	},
+	{
+		"CodigoIBGE": 2933158,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VARZEA NOVA"
+	},
+	{
+		"CodigoIBGE": 2933174,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VARZEDO"
+	},
+	{
+		"CodigoIBGE": 2933208,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VERA CRUZ"
+	},
+	{
+		"CodigoIBGE": 2933257,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VEREDA"
+	},
+	{
+		"CodigoIBGE": 2933307,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "VITORIA DA CONQUISTA"
+	},
+	{
+		"CodigoIBGE": 2933406,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "WAGNER"
+	},
+	{
+		"CodigoIBGE": 2933455,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "WANDERLEY"
+	},
+	{
+		"CodigoIBGE": 2933505,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "WENCESLAU GUIMARAES"
+	},
+	{
+		"CodigoIBGE": 2933604,
+		"CodigoIBGEUF": 29,
+		"SiglaUF": "BA",
+		"NomeUF": "BAHIA",
+		"NomeMunicipio": "XIQUEXIQUE"
+	}
+]

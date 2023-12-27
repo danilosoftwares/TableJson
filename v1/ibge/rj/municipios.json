@@ -1,0 +1,646 @@
+[
+	{
+		"CodigoIBGE": 3300100,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ANGRA DOS REIS"
+	},
+	{
+		"CodigoIBGE": 3300159,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "APERIBE"
+	},
+	{
+		"CodigoIBGE": 3300209,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ARARUAMA"
+	},
+	{
+		"CodigoIBGE": 3300225,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "AREAL"
+	},
+	{
+		"CodigoIBGE": 3300233,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ARMACAO DOS BUZIOS"
+	},
+	{
+		"CodigoIBGE": 3300258,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ARRAIAL DO CABO"
+	},
+	{
+		"CodigoIBGE": 3300308,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "BARRA DO PIRAI"
+	},
+	{
+		"CodigoIBGE": 3300407,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "BARRA MANSA"
+	},
+	{
+		"CodigoIBGE": 3300456,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "BELFORD-  ROXO"
+	},
+	{
+		"CodigoIBGE": 3300506,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "BOM JARDIM"
+	},
+	{
+		"CodigoIBGE": 3300605,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "BOM JESUS DO ITABAPOANA"
+	},
+	{
+		"CodigoIBGE": 3300704,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CABO FRIO"
+	},
+	{
+		"CodigoIBGE": 3300803,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CACHOEIRAS DE MACACU"
+	},
+	{
+		"CodigoIBGE": 3300902,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CAMBUCI"
+	},
+	{
+		"CodigoIBGE": 3300936,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CARAPEBUS"
+	},
+	{
+		"CodigoIBGE": 3300951,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "COMENDADOR LEVY GASPARIAN"
+	},
+	{
+		"CodigoIBGE": 3301009,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CAMPOS DOS GOYTACAZES"
+	},
+	{
+		"CodigoIBGE": 3301108,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CANTAGALO"
+	},
+	{
+		"CodigoIBGE": 3301157,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CARDOSO MOREIRA"
+	},
+	{
+		"CodigoIBGE": 3301207,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CARMO"
+	},
+	{
+		"CodigoIBGE": 3301306,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CASIMIRO DE ABREU"
+	},
+	{
+		"CodigoIBGE": 3301405,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CONCEICAO DE MACABU"
+	},
+	{
+		"CodigoIBGE": 3301504,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "CORDEIRO"
+	},
+	{
+		"CodigoIBGE": 3301603,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "DUAS BARRAS"
+	},
+	{
+		"CodigoIBGE": 3301702,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "DUQUE DE CAXIAS"
+	},
+	{
+		"CodigoIBGE": 3301801,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ENGENHEIRO PAULO DE FRONTIN"
+	},
+	{
+		"CodigoIBGE": 3301850,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "GUAPIMIRIM"
+	},
+	{
+		"CodigoIBGE": 3301876,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "IGUABA GRANDE"
+	},
+	{
+		"CodigoIBGE": 3301900,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ITABORAI"
+	},
+	{
+		"CodigoIBGE": 3302007,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ITAGUAI"
+	},
+	{
+		"CodigoIBGE": 3302056,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ITALVA"
+	},
+	{
+		"CodigoIBGE": 3302106,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ITAOCARA"
+	},
+	{
+		"CodigoIBGE": 3302205,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ITAPERUNA"
+	},
+	{
+		"CodigoIBGE": 3302254,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "ITATIAIA"
+	},
+	{
+		"CodigoIBGE": 3302270,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "JAPERI"
+	},
+	{
+		"CodigoIBGE": 3302304,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "LAJE DO MURIAE"
+	},
+	{
+		"CodigoIBGE": 3302403,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MACAE"
+	},
+	{
+		"CodigoIBGE": 3302452,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MACUCO"
+	},
+	{
+		"CodigoIBGE": 3302502,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MAGE"
+	},
+	{
+		"CodigoIBGE": 3302601,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MANGARATIBA"
+	},
+	{
+		"CodigoIBGE": 3302700,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MARICA"
+	},
+	{
+		"CodigoIBGE": 3302809,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MENDES"
+	},
+	{
+		"CodigoIBGE": 3302858,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MESQUITA"
+	},
+	{
+		"CodigoIBGE": 3302908,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MIGUEL PEREIRA"
+	},
+	{
+		"CodigoIBGE": 3303005,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "MIRACEMA"
+	},
+	{
+		"CodigoIBGE": 3303104,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "NATIVIDADE"
+	},
+	{
+		"CodigoIBGE": 3303203,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "NILOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3303302,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "NITEROI"
+	},
+	{
+		"CodigoIBGE": 3303401,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "NOVA FRIBURGO"
+	},
+	{
+		"CodigoIBGE": 3303500,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "NOVA IGUACU"
+	},
+	{
+		"CodigoIBGE": 3303609,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PARACAMBI"
+	},
+	{
+		"CodigoIBGE": 3303708,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PARAIBA DO SUL"
+	},
+	{
+		"CodigoIBGE": 3303807,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PARATI"
+	},
+	{
+		"CodigoIBGE": 3303856,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PATY DO ALFERES"
+	},
+	{
+		"CodigoIBGE": 3303906,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PETROPOLIS"
+	},
+	{
+		"CodigoIBGE": 3303955,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PINHEIRAL"
+	},
+	{
+		"CodigoIBGE": 3304003,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PIRAI"
+	},
+	{
+		"CodigoIBGE": 3304102,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PORCIUNCULA"
+	},
+	{
+		"CodigoIBGE": 3304110,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "PORTO REAL"
+	},
+	{
+		"CodigoIBGE": 3304128,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "QUATIS"
+	},
+	{
+		"CodigoIBGE": 3304144,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "QUEIMADOS"
+	},
+	{
+		"CodigoIBGE": 3304151,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "QUISSAMA"
+	},
+	{
+		"CodigoIBGE": 3304201,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "RESENDE"
+	},
+	{
+		"CodigoIBGE": 3304300,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "RIO BONITO"
+	},
+	{
+		"CodigoIBGE": 3304409,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "RIO CLARO"
+	},
+	{
+		"CodigoIBGE": 3304508,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "RIO DAS FLORES"
+	},
+	{
+		"CodigoIBGE": 3304524,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "RIO DAS OSTRAS"
+	},
+	{
+		"CodigoIBGE": 3304557,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "RIO DE JANEIRO"
+	},
+	{
+		"CodigoIBGE": 3304607,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SANTA MARIA MADALENA"
+	},
+	{
+		"CodigoIBGE": 3304706,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SANTO ANTONIO DE PADUA"
+	},
+	{
+		"CodigoIBGE": 3304755,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO FRANCISCO DE ITABAPOANA"
+	},
+	{
+		"CodigoIBGE": 3304805,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO FIDELIS"
+	},
+	{
+		"CodigoIBGE": 3304904,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO GONCALO"
+	},
+	{
+		"CodigoIBGE": 3305000,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO JOAO DA BARRA"
+	},
+	{
+		"CodigoIBGE": 3305109,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO JOAO DE MERITI"
+	},
+	{
+		"CodigoIBGE": 3305133,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO JOSE DE UBA"
+	},
+	{
+		"CodigoIBGE": 3305158,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO JOSE DO VALE DO RIO PRETO"
+	},
+	{
+		"CodigoIBGE": 3305208,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO PEDRO DA ALDEIA"
+	},
+	{
+		"CodigoIBGE": 3305307,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAO SEBASTIAO DO ALTO"
+	},
+	{
+		"CodigoIBGE": 3305406,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAPUCAIA"
+	},
+	{
+		"CodigoIBGE": 3305505,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SAQUAREMA"
+	},
+	{
+		"CodigoIBGE": 3305554,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SEROPEDICA"
+	},
+	{
+		"CodigoIBGE": 3305604,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SILVA JARDIM"
+	},
+	{
+		"CodigoIBGE": 3305703,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "SUMIDOURO"
+	},
+	{
+		"CodigoIBGE": 3305752,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "TANGUA"
+	},
+	{
+		"CodigoIBGE": 3305802,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "TERESOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3305901,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "TRAJANO DE MORAIS"
+	},
+	{
+		"CodigoIBGE": 3306008,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "TRES RIOS"
+	},
+	{
+		"CodigoIBGE": 3306107,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "VALENCA"
+	},
+	{
+		"CodigoIBGE": 3306156,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "VARRESAI"
+	},
+	{
+		"CodigoIBGE": 3306206,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "VASSOURAS"
+	},
+	{
+		"CodigoIBGE": 3306305,
+		"CodigoIBGEUF": 33,
+		"SiglaUF": "RJ",
+		"NomeUF": "RIO DE JANEIRO",
+		"NomeMunicipio": "VOLTA REDONDA"
+	}
+]

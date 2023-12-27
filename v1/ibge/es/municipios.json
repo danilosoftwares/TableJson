@@ -1,0 +1,548 @@
+[
+	{
+		"CodigoIBGE": 3200102,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "AFONSO CLAUDIO"
+	},
+	{
+		"CodigoIBGE": 3200136,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "AGUIA BRANCA"
+	},
+	{
+		"CodigoIBGE": 3200169,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "AGUA DOCE DO NORTE"
+	},
+	{
+		"CodigoIBGE": 3200201,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ALEGRE"
+	},
+	{
+		"CodigoIBGE": 3200300,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ALFREDO CHAVES"
+	},
+	{
+		"CodigoIBGE": 3200359,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ALTO RIO NOVO"
+	},
+	{
+		"CodigoIBGE": 3200409,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ANCHIETA"
+	},
+	{
+		"CodigoIBGE": 3200508,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "APIACA"
+	},
+	{
+		"CodigoIBGE": 3200607,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ARACRUZ"
+	},
+	{
+		"CodigoIBGE": 3200706,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ATILIO VIVACQUA"
+	},
+	{
+		"CodigoIBGE": 3200805,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "BAIXO GUANDU"
+	},
+	{
+		"CodigoIBGE": 3200904,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "BARRA DE SAO FRANCISCO"
+	},
+	{
+		"CodigoIBGE": 3201001,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "BOA ESPERANCA"
+	},
+	{
+		"CodigoIBGE": 3201100,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "BOM JESUS DO NORTE"
+	},
+	{
+		"CodigoIBGE": 3201159,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "BREJETUBA"
+	},
+	{
+		"CodigoIBGE": 3201209,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "CACHOEIRO DE ITAPEMIRIM"
+	},
+	{
+		"CodigoIBGE": 3201308,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "CARIACICA"
+	},
+	{
+		"CodigoIBGE": 3201407,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "CASTELO"
+	},
+	{
+		"CodigoIBGE": 3201506,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "COLATINA"
+	},
+	{
+		"CodigoIBGE": 3201605,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "CONCEICAO DA BARRA"
+	},
+	{
+		"CodigoIBGE": 3201704,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "CONCEICAO DO CASTELO"
+	},
+	{
+		"CodigoIBGE": 3201803,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "DIVINO DE SAO LOURENCO"
+	},
+	{
+		"CodigoIBGE": 3201902,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "DOMINGOS MARTINS"
+	},
+	{
+		"CodigoIBGE": 3202009,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "DORES DO RIO PRETO"
+	},
+	{
+		"CodigoIBGE": 3202108,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ECOPORANGA"
+	},
+	{
+		"CodigoIBGE": 3202207,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "FUNDAO"
+	},
+	{
+		"CodigoIBGE": 3202256,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "GOVERNADOR LINDENBERG"
+	},
+	{
+		"CodigoIBGE": 3202306,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "GUACUI"
+	},
+	{
+		"CodigoIBGE": 3202405,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "GUARAPARI"
+	},
+	{
+		"CodigoIBGE": 3202454,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "IBATIBA"
+	},
+	{
+		"CodigoIBGE": 3202504,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "IBIRACU"
+	},
+	{
+		"CodigoIBGE": 3202553,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "IBITIRAMA"
+	},
+	{
+		"CodigoIBGE": 3202603,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ICONHA"
+	},
+	{
+		"CodigoIBGE": 3202652,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "IRUPI"
+	},
+	{
+		"CodigoIBGE": 3202702,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ITAGUACU"
+	},
+	{
+		"CodigoIBGE": 3202801,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ITAPEMIRIM"
+	},
+	{
+		"CodigoIBGE": 3202900,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "ITARANA"
+	},
+	{
+		"CodigoIBGE": 3203007,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "IUNA"
+	},
+	{
+		"CodigoIBGE": 3203056,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "JAGUARE"
+	},
+	{
+		"CodigoIBGE": 3203106,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "JERONIMO MONTEIRO"
+	},
+	{
+		"CodigoIBGE": 3203130,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "JOAO NEIVA"
+	},
+	{
+		"CodigoIBGE": 3203163,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "LARANJA DA TERRA"
+	},
+	{
+		"CodigoIBGE": 3203205,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "LINHARES"
+	},
+	{
+		"CodigoIBGE": 3203304,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MANTENOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3203320,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MARATAIZES"
+	},
+	{
+		"CodigoIBGE": 3203346,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MARECHAL FLORIANO"
+	},
+	{
+		"CodigoIBGE": 3203353,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MARILANDIA"
+	},
+	{
+		"CodigoIBGE": 3203403,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MIMOSO DO SUL"
+	},
+	{
+		"CodigoIBGE": 3203502,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MONTANHA"
+	},
+	{
+		"CodigoIBGE": 3203601,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MUCURICI"
+	},
+	{
+		"CodigoIBGE": 3203700,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MUNIZ FREIRE"
+	},
+	{
+		"CodigoIBGE": 3203809,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "MUQUI"
+	},
+	{
+		"CodigoIBGE": 3203908,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "NOVA VENECIA"
+	},
+	{
+		"CodigoIBGE": 3204005,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "PANCAS"
+	},
+	{
+		"CodigoIBGE": 3204054,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "PEDRO CANARIO"
+	},
+	{
+		"CodigoIBGE": 3204104,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "PINHEIROS"
+	},
+	{
+		"CodigoIBGE": 3204203,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "PIUMA"
+	},
+	{
+		"CodigoIBGE": 3204252,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "PONTO BELO"
+	},
+	{
+		"CodigoIBGE": 3204302,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "PRESIDENTE KENNEDY"
+	},
+	{
+		"CodigoIBGE": 3204351,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "RIO BANANAL"
+	},
+	{
+		"CodigoIBGE": 3204401,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "RIO NOVO DO SUL"
+	},
+	{
+		"CodigoIBGE": 3204500,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SANTA LEOPOLDINA"
+	},
+	{
+		"CodigoIBGE": 3204559,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SANTA MARIA DE JETIBA"
+	},
+	{
+		"CodigoIBGE": 3204609,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SANTA TERESA"
+	},
+	{
+		"CodigoIBGE": 3204658,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SAO DOMINGOS DO NORTE"
+	},
+	{
+		"CodigoIBGE": 3204708,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SAO GABRIEL DA PALHA"
+	},
+	{
+		"CodigoIBGE": 3204807,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SAO JOSE DO CALCADO"
+	},
+	{
+		"CodigoIBGE": 3204906,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SAO MATEUS"
+	},
+	{
+		"CodigoIBGE": 3204955,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SAO ROQUE DO CANAA"
+	},
+	{
+		"CodigoIBGE": 3205002,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SERRA"
+	},
+	{
+		"CodigoIBGE": 3205010,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "SOORETAMA"
+	},
+	{
+		"CodigoIBGE": 3205036,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VARGEM ALTA"
+	},
+	{
+		"CodigoIBGE": 3205069,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VENDA NOVA DO IMIGRANTE"
+	},
+	{
+		"CodigoIBGE": 3205101,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VIANA"
+	},
+	{
+		"CodigoIBGE": 3205150,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VILA PAVAO"
+	},
+	{
+		"CodigoIBGE": 3205176,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VILA VALERIO"
+	},
+	{
+		"CodigoIBGE": 3205200,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VILA VELHA"
+	},
+	{
+		"CodigoIBGE": 3205309,
+		"CodigoIBGEUF": 32,
+		"SiglaUF": "ES",
+		"NomeUF": "ESPIRITO SANTO",
+		"NomeMunicipio": "VITORIA"
+	}
+]

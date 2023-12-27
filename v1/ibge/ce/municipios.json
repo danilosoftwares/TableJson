@@ -1,0 +1,1290 @@
+[
+	{
+		"CodigoIBGE": 2300101,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ABAIARA"
+	},
+	{
+		"CodigoIBGE": 2300150,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ACARAPE"
+	},
+	{
+		"CodigoIBGE": 2300200,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ACARAU"
+	},
+	{
+		"CodigoIBGE": 2300309,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ACOPIARA"
+	},
+	{
+		"CodigoIBGE": 2300408,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "AIUABA"
+	},
+	{
+		"CodigoIBGE": 2300507,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ALCANTARAS"
+	},
+	{
+		"CodigoIBGE": 2300606,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ALTANEIRA"
+	},
+	{
+		"CodigoIBGE": 2300705,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ALTO SANTO"
+	},
+	{
+		"CodigoIBGE": 2300754,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "AMONTADA"
+	},
+	{
+		"CodigoIBGE": 2300804,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ANTONINA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 2300903,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "APUIARES"
+	},
+	{
+		"CodigoIBGE": 2301000,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "AQUIRAZ"
+	},
+	{
+		"CodigoIBGE": 2301109,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ARACATI"
+	},
+	{
+		"CodigoIBGE": 2301208,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ARACOIABA"
+	},
+	{
+		"CodigoIBGE": 2301257,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ARARENDA"
+	},
+	{
+		"CodigoIBGE": 2301307,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ARARIPE"
+	},
+	{
+		"CodigoIBGE": 2301406,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ARATUBA"
+	},
+	{
+		"CodigoIBGE": 2301505,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ARNEIROZ"
+	},
+	{
+		"CodigoIBGE": 2301604,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ASSARE"
+	},
+	{
+		"CodigoIBGE": 2301703,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "AURORA"
+	},
+	{
+		"CodigoIBGE": 2301802,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BAIXIO"
+	},
+	{
+		"CodigoIBGE": 2301851,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BANABUIU"
+	},
+	{
+		"CodigoIBGE": 2301901,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BARBALHA"
+	},
+	{
+		"CodigoIBGE": 2301950,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BARREIRA"
+	},
+	{
+		"CodigoIBGE": 2302008,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BARRO"
+	},
+	{
+		"CodigoIBGE": 2302057,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BARROQUINHA"
+	},
+	{
+		"CodigoIBGE": 2302107,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BATURITE"
+	},
+	{
+		"CodigoIBGE": 2302206,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BEBERIBE"
+	},
+	{
+		"CodigoIBGE": 2302305,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BELA CRUZ"
+	},
+	{
+		"CodigoIBGE": 2302404,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BOA VIAGEM"
+	},
+	{
+		"CodigoIBGE": 2302503,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "BREJO SANTO"
+	},
+	{
+		"CodigoIBGE": 2302602,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CAMOCIM"
+	},
+	{
+		"CodigoIBGE": 2302701,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CAMPOS SALES"
+	},
+	{
+		"CodigoIBGE": 2302800,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CANINDE"
+	},
+	{
+		"CodigoIBGE": 2302909,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CAPISTRANO"
+	},
+	{
+		"CodigoIBGE": 2303006,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CARIDADE"
+	},
+	{
+		"CodigoIBGE": 2303105,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CARIRE"
+	},
+	{
+		"CodigoIBGE": 2303204,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CARIRIACU"
+	},
+	{
+		"CodigoIBGE": 2303303,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CARIUS"
+	},
+	{
+		"CodigoIBGE": 2303402,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CARNAUBAL"
+	},
+	{
+		"CodigoIBGE": 2303501,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CASCAVEL"
+	},
+	{
+		"CodigoIBGE": 2303600,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CATARINA"
+	},
+	{
+		"CodigoIBGE": 2303659,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CATUNDA"
+	},
+	{
+		"CodigoIBGE": 2303709,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CAUCAIA"
+	},
+	{
+		"CodigoIBGE": 2303808,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CEDRO"
+	},
+	{
+		"CodigoIBGE": 2303907,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CHAVAL"
+	},
+	{
+		"CodigoIBGE": 2303931,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CHORO"
+	},
+	{
+		"CodigoIBGE": 2303956,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CHOROZINHO"
+	},
+	{
+		"CodigoIBGE": 2304004,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "COREAU"
+	},
+	{
+		"CodigoIBGE": 2304103,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CRATEUS"
+	},
+	{
+		"CodigoIBGE": 2304202,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CRATO"
+	},
+	{
+		"CodigoIBGE": 2304236,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CROATA"
+	},
+	{
+		"CodigoIBGE": 2304251,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "CRUZ"
+	},
+	{
+		"CodigoIBGE": 2304269,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "DEPUTADO IRAPUAN RIBEIRO"
+	},
+	{
+		"CodigoIBGE": 2304277,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ERERE"
+	},
+	{
+		"CodigoIBGE": 2304285,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "EUSEBIO"
+	},
+	{
+		"CodigoIBGE": 2304301,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "FARIAS BRITO"
+	},
+	{
+		"CodigoIBGE": 2304350,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "FORQUILHA"
+	},
+	{
+		"CodigoIBGE": 2304400,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "FORTALEZA"
+	},
+	{
+		"CodigoIBGE": 2304459,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "FORTIM"
+	},
+	{
+		"CodigoIBGE": 2304509,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "FRECHEIRINHA"
+	},
+	{
+		"CodigoIBGE": 2304608,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GENERAL SAMPAIO"
+	},
+	{
+		"CodigoIBGE": 2304657,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GRACA"
+	},
+	{
+		"CodigoIBGE": 2304707,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GRANJA"
+	},
+	{
+		"CodigoIBGE": 2304806,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GRANJEIRO"
+	},
+	{
+		"CodigoIBGE": 2304905,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GROIARAS"
+	},
+	{
+		"CodigoIBGE": 2304954,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GUAIUBA"
+	},
+	{
+		"CodigoIBGE": 2305001,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GUARACIABA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 2305100,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "GUARAMIRANGA"
+	},
+	{
+		"CodigoIBGE": 2305209,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "HIDROLANDIA"
+	},
+	{
+		"CodigoIBGE": 2305233,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "HORIZONTE"
+	},
+	{
+		"CodigoIBGE": 2305266,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IBARETAMA"
+	},
+	{
+		"CodigoIBGE": 2305308,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IBIAPINA"
+	},
+	{
+		"CodigoIBGE": 2305332,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IBICUITINGA"
+	},
+	{
+		"CodigoIBGE": 2305357,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ICAPUI"
+	},
+	{
+		"CodigoIBGE": 2305407,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ICO"
+	},
+	{
+		"CodigoIBGE": 2305506,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IGUATU"
+	},
+	{
+		"CodigoIBGE": 2305605,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "INDEPENDENCIA"
+	},
+	{
+		"CodigoIBGE": 2305654,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IPAPORANGA"
+	},
+	{
+		"CodigoIBGE": 2305704,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IPAUMIRIM"
+	},
+	{
+		"CodigoIBGE": 2305803,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IPU"
+	},
+	{
+		"CodigoIBGE": 2305902,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IPUEIRAS"
+	},
+	{
+		"CodigoIBGE": 2306009,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IRACEMA"
+	},
+	{
+		"CodigoIBGE": 2306108,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "IRAUCUBA"
+	},
+	{
+		"CodigoIBGE": 2306207,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITAICABA"
+	},
+	{
+		"CodigoIBGE": 2306256,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITAITINGA"
+	},
+	{
+		"CodigoIBGE": 2306306,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITAPAGE"
+	},
+	{
+		"CodigoIBGE": 2306405,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITAPIPOCA"
+	},
+	{
+		"CodigoIBGE": 2306504,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITAPIUNA"
+	},
+	{
+		"CodigoIBGE": 2306553,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITAREMA"
+	},
+	{
+		"CodigoIBGE": 2306603,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "ITATIRA"
+	},
+	{
+		"CodigoIBGE": 2306702,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JAGUARETAMA"
+	},
+	{
+		"CodigoIBGE": 2306801,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JAGUARIBARA"
+	},
+	{
+		"CodigoIBGE": 2306900,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JAGUARIBE"
+	},
+	{
+		"CodigoIBGE": 2307007,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JAGUARUANA"
+	},
+	{
+		"CodigoIBGE": 2307106,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JARDIM"
+	},
+	{
+		"CodigoIBGE": 2307205,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JATI"
+	},
+	{
+		"CodigoIBGE": 2307254,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JIJOCA DE JERICOACOARA"
+	},
+	{
+		"CodigoIBGE": 2307304,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JUAZEIRO DO NORTE"
+	},
+	{
+		"CodigoIBGE": 2307403,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "JUCAS"
+	},
+	{
+		"CodigoIBGE": 2307502,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "LAVRAS DA MANGABEIRA"
+	},
+	{
+		"CodigoIBGE": 2307601,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "LIMOEIRO DO NORTE"
+	},
+	{
+		"CodigoIBGE": 2307635,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MADALENA"
+	},
+	{
+		"CodigoIBGE": 2307650,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MARACANAU"
+	},
+	{
+		"CodigoIBGE": 2307700,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MARANGUAPE"
+	},
+	{
+		"CodigoIBGE": 2307809,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MARCO"
+	},
+	{
+		"CodigoIBGE": 2307908,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MARTINOPOLE"
+	},
+	{
+		"CodigoIBGE": 2308005,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MASSAPE"
+	},
+	{
+		"CodigoIBGE": 2308104,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MAURITI"
+	},
+	{
+		"CodigoIBGE": 2308203,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MERUOCA"
+	},
+	{
+		"CodigoIBGE": 2308302,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MILAGRES"
+	},
+	{
+		"CodigoIBGE": 2308351,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MILHA"
+	},
+	{
+		"CodigoIBGE": 2308377,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MIRAIMA"
+	},
+	{
+		"CodigoIBGE": 2308401,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MISSAO VELHA"
+	},
+	{
+		"CodigoIBGE": 2308500,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MOMBACA"
+	},
+	{
+		"CodigoIBGE": 2308609,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MONSENHOR TABOSA"
+	},
+	{
+		"CodigoIBGE": 2308708,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MORADA NOVA"
+	},
+	{
+		"CodigoIBGE": 2308807,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MORAUJO"
+	},
+	{
+		"CodigoIBGE": 2308906,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MORRINHOS"
+	},
+	{
+		"CodigoIBGE": 2309003,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MUCAMBO"
+	},
+	{
+		"CodigoIBGE": 2309102,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "MULUNGU"
+	},
+	{
+		"CodigoIBGE": 2309201,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "NOVA OLINDA"
+	},
+	{
+		"CodigoIBGE": 2309300,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "NOVA RUSSAS"
+	},
+	{
+		"CodigoIBGE": 2309409,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "NOVO ORIENTE"
+	},
+	{
+		"CodigoIBGE": 2309458,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "OCARA"
+	},
+	{
+		"CodigoIBGE": 2309508,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "OROS"
+	},
+	{
+		"CodigoIBGE": 2309607,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PACAJUS"
+	},
+	{
+		"CodigoIBGE": 2309706,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PACATUBA"
+	},
+	{
+		"CodigoIBGE": 2309805,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PACOTI"
+	},
+	{
+		"CodigoIBGE": 2309904,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PACUJA"
+	},
+	{
+		"CodigoIBGE": 2310001,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PALHANO"
+	},
+	{
+		"CodigoIBGE": 2310100,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PALMACIA"
+	},
+	{
+		"CodigoIBGE": 2310209,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PARACURU"
+	},
+	{
+		"CodigoIBGE": 2310258,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PARAIPABA"
+	},
+	{
+		"CodigoIBGE": 2310308,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PARAMBU"
+	},
+	{
+		"CodigoIBGE": 2310407,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PARAMOTI"
+	},
+	{
+		"CodigoIBGE": 2310506,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PEDRA BRANCA"
+	},
+	{
+		"CodigoIBGE": 2310605,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PENA FORTE"
+	},
+	{
+		"CodigoIBGE": 2310704,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PENTECOSTE"
+	},
+	{
+		"CodigoIBGE": 2310803,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PEREIRO"
+	},
+	{
+		"CodigoIBGE": 2310852,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PINDORETAMA"
+	},
+	{
+		"CodigoIBGE": 2310902,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PIQUET CARNEIRO"
+	},
+	{
+		"CodigoIBGE": 2310951,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PIRES FERREIRA"
+	},
+	{
+		"CodigoIBGE": 2311009,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PORANGA"
+	},
+	{
+		"CodigoIBGE": 2311108,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "PORTEIRAS"
+	},
+	{
+		"CodigoIBGE": 2311207,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "POTENGI"
+	},
+	{
+		"CodigoIBGE": 2311231,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "POTIRETAMA"
+	},
+	{
+		"CodigoIBGE": 2311264,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "QUITERIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 2311306,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "QUIXADA"
+	},
+	{
+		"CodigoIBGE": 2311355,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "QUIXELO"
+	},
+	{
+		"CodigoIBGE": 2311405,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "QUIXERAMOBIM"
+	},
+	{
+		"CodigoIBGE": 2311504,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "QUIXERE"
+	},
+	{
+		"CodigoIBGE": 2311603,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "REDENCAO"
+	},
+	{
+		"CodigoIBGE": 2311702,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "RERIUTABA"
+	},
+	{
+		"CodigoIBGE": 2311801,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "RUSSAS"
+	},
+	{
+		"CodigoIBGE": 2311900,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SABOEIRO"
+	},
+	{
+		"CodigoIBGE": 2311959,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SALITRE"
+	},
+	{
+		"CodigoIBGE": 2312007,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SANTANA DO ACARAU"
+	},
+	{
+		"CodigoIBGE": 2312106,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SANTANA DO CARIRI"
+	},
+	{
+		"CodigoIBGE": 2312205,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SANTA QUITERIA"
+	},
+	{
+		"CodigoIBGE": 2312304,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SAO BENEDIT"
+	},
+	{
+		"CodigoIBGE": 2312403,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SAO GONCALO DO AMARANTE"
+	},
+	{
+		"CodigoIBGE": 2312502,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SAO JOAO DO JAGUARIBE"
+	},
+	{
+		"CodigoIBGE": 2312601,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SAO LUIZ DO CURU"
+	},
+	{
+		"CodigoIBGE": 2312700,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SENADOR POMPEU"
+	},
+	{
+		"CodigoIBGE": 2312809,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SENADOR SA"
+	},
+	{
+		"CodigoIBGE": 2312908,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SOBRAL"
+	},
+	{
+		"CodigoIBGE": 2313005,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "SOLONOPOLE"
+	},
+	{
+		"CodigoIBGE": 2313104,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TABULEIRO DO NORTE"
+	},
+	{
+		"CodigoIBGE": 2313203,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TAMBORIL"
+	},
+	{
+		"CodigoIBGE": 2313252,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TARRAFAS"
+	},
+	{
+		"CodigoIBGE": 2313302,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TAUA"
+	},
+	{
+		"CodigoIBGE": 2313351,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TEJUCUOCA"
+	},
+	{
+		"CodigoIBGE": 2313401,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TIANGUA"
+	},
+	{
+		"CodigoIBGE": 2313500,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TRAIRI"
+	},
+	{
+		"CodigoIBGE": 2313559,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "TURURU"
+	},
+	{
+		"CodigoIBGE": 2313609,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "UBAJARA"
+	},
+	{
+		"CodigoIBGE": 2313708,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "UMARI"
+	},
+	{
+		"CodigoIBGE": 2313757,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "UMIRIM"
+	},
+	{
+		"CodigoIBGE": 2313807,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "URUBURETAMA"
+	},
+	{
+		"CodigoIBGE": 2313906,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "URUOCA"
+	},
+	{
+		"CodigoIBGE": 2313955,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "VARJOTA"
+	},
+	{
+		"CodigoIBGE": 2314003,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "VARZEA ALEGRE"
+	},
+	{
+		"CodigoIBGE": 2314102,
+		"CodigoIBGEUF": 23,
+		"SiglaUF": "CE",
+		"NomeUF": "CEARA",
+		"NomeMunicipio": "VICOSA DO CEARA"
+	}
+]

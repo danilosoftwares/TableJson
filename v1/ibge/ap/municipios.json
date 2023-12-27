@@ -1,0 +1,114 @@
+[
+	{
+		"CodigoIBGE" : 1600055,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "SERRA DO NAVIO"
+	},
+	{
+		"CodigoIBGE" : 1600105,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "AMAPA"
+	},
+	{
+		"CodigoIBGE" : 1600154,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "PEDRA BRANCA DO AMAPARI"
+	},
+	{
+		"CodigoIBGE" : 1600204,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "CALCOENE"
+	},
+	{
+		"CodigoIBGE" : 1600212,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "CUTIAS"
+	},
+	{
+		"CodigoIBGE" : 1600238,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "FERREIRA GOMES"
+	},
+	{
+		"CodigoIBGE" : 1600253,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "ITAUBAL"
+	},
+	{
+		"CodigoIBGE" : 1600279,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "LARANJAL DO JARI"
+	},
+	{
+		"CodigoIBGE" : 1600303,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "MACAPA"
+	},
+	{
+		"CodigoIBGE" : 1600402,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "MAZAGAO"
+	},
+	{
+		"CodigoIBGE" : 1600501,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "OIAPOQUE"
+	},
+	{
+		"CodigoIBGE" : 1600535,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "PORTO GRANDE"
+	},
+	{
+		"CodigoIBGE" : 1600550,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "PRACUUBA"
+	},
+	{
+		"CodigoIBGE" : 1600600,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "SANTANA"
+	},
+	{
+		"CodigoIBGE" : 1600709,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "TARTARUGALZINHO"
+	},
+	{
+		"CodigoIBGE" : 1600808,
+		"CodigoIBGEUF" : 16,
+		"SiglaUF" : "AP",
+		"NomeUF" : "AMAPA",
+		"NomeMunicipio" : "VITORIA DO JARI"
+	}
+]

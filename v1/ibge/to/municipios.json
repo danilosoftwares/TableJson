@@ -1,0 +1,975 @@
+[
+	{
+		"CodigoIBGE": 1700251,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ABREULANDIA"
+	},
+	{
+		"CodigoIBGE": 1700301,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "AGUIARNOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1700350,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ALIANCA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1700400,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ALMAS"
+	},
+	{
+		"CodigoIBGE": 1700707,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ALVORADA"
+	},
+	{
+		"CodigoIBGE": 1701002,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ANANAS"
+	},
+	{
+		"CodigoIBGE": 1701051,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ANGICO"
+	},
+	{
+		"CodigoIBGE": 1701101,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "APARECIDA DO RIO NEGRO"
+	},
+	{
+		"CodigoIBGE": 1701309,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAGOMINAS"
+	},
+	{
+		"CodigoIBGE": 1701903,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAGUACEMA"
+	},
+	{
+		"CodigoIBGE": 1702000,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAGUACU"
+	},
+	{
+		"CodigoIBGE": 1702109,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAGUAINA"
+	},
+	{
+		"CodigoIBGE": 1702158,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAGUANA"
+	},
+	{
+		"CodigoIBGE": 1702208,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAGUATINS"
+	},
+	{
+		"CodigoIBGE": 1702307,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARAPOEMA"
+	},
+	{
+		"CodigoIBGE": 1702406,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ARRAIAS"
+	},
+	{
+		"CodigoIBGE": 1702554,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "AUGUSTINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1702703,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "AURORA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1702901,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "AXIXA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1703008,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BABACULANDIA"
+	},
+	{
+		"CodigoIBGE": 1703057,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BANDEIRANTES DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1703073,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BARRA DO OURO"
+	},
+	{
+		"CodigoIBGE": 1703107,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BARROLANDIA"
+	},
+	{
+		"CodigoIBGE": 1703206,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BERNARDO SAYAO"
+	},
+	{
+		"CodigoIBGE": 1703305,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BOM JESUS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1703602,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BRASILANDIA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1703701,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BREJINHO DE NAZARE"
+	},
+	{
+		"CodigoIBGE": 1703800,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "BURITI DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1703826,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CACHOEIRINHA"
+	},
+	{
+		"CodigoIBGE": 1703842,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CAMPOS LINDOS"
+	},
+	{
+		"CodigoIBGE": 1703867,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CARIRI DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1703883,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CARMOLANDIA"
+	},
+	{
+		"CodigoIBGE": 1703891,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CARRASCO BONITO"
+	},
+	{
+		"CodigoIBGE": 1703909,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CASEARA"
+	},
+	{
+		"CodigoIBGE": 1704105,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CENTENARIO"
+	},
+	{
+		"CodigoIBGE": 1704600,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CHAPADA DE AREIA"
+	},
+	{
+		"CodigoIBGE": 1705102,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CHAPADA DA NATIVIDADE"
+	},
+	{
+		"CodigoIBGE": 1705508,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "COLINAS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1705557,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "COMBINADO"
+	},
+	{
+		"CodigoIBGE": 1705607,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CONCEICAO DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1706001,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "COUTO DE MAGALHAES"
+	},
+	{
+		"CodigoIBGE": 1706100,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CRISTALANDIA"
+	},
+	{
+		"CodigoIBGE": 1706258,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "CRIXAS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1706506,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "DARCINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1707009,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "DIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1707108,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "DIVINOPOLIS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1707207,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "DOIS IRMAOS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1707306,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "DUERE"
+	},
+	{
+		"CodigoIBGE": 1707405,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ESPERANTINA"
+	},
+	{
+		"CodigoIBGE": 1707553,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "FATIMA"
+	},
+	{
+		"CodigoIBGE": 1707652,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "FIGUEIROPOLIS"
+	},
+	{
+		"CodigoIBGE": 1707702,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "FILADELFIA"
+	},
+	{
+		"CodigoIBGE": 1708205,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "FORMOSO DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1708254,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "FORTALEZA DO TABOCAO"
+	},
+	{
+		"CodigoIBGE": 1708304,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "GOIANORTE"
+	},
+	{
+		"CodigoIBGE": 1709005,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "GOIATINS"
+	},
+	{
+		"CodigoIBGE": 1709302,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "GUARAI"
+	},
+	{
+		"CodigoIBGE": 1709500,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "GURUPI"
+	},
+	{
+		"CodigoIBGE": 1709807,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "IPUEIRAS"
+	},
+	{
+		"CodigoIBGE": 1710508,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ITACAJA"
+	},
+	{
+		"CodigoIBGE": 1710706,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ITAGUATINS"
+	},
+	{
+		"CodigoIBGE": 1710904,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ITAPIRATINS"
+	},
+	{
+		"CodigoIBGE": 1711100,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "ITAPORA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1711506,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "JAU DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1711803,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "JUARINA"
+	},
+	{
+		"CodigoIBGE": 1711902,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "LAGOA DA CONFUSAO"
+	},
+	{
+		"CodigoIBGE": 1711951,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "LAGOA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1712009,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "LAJEADO"
+	},
+	{
+		"CodigoIBGE": 1712157,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "LAVANDEIRA"
+	},
+	{
+		"CodigoIBGE": 1712405,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "LIZARDA"
+	},
+	{
+		"CodigoIBGE": 1712454,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "LUZINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1712504,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MARIANOPOLIS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1712702,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MATEIROS"
+	},
+	{
+		"CodigoIBGE": 1712801,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MAURILANDIA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1713205,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MIRACEMA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1713304,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MIRANORTE"
+	},
+	{
+		"CodigoIBGE": 1713601,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MONTE DO CARMO"
+	},
+	{
+		"CodigoIBGE": 1713700,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MONTE SANTO DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1713809,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PALMEIRAS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1713957,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "MURICILANDIA"
+	},
+	{
+		"CodigoIBGE": 1714203,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NATIVIDADE"
+	},
+	{
+		"CodigoIBGE": 1714302,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NAZARE"
+	},
+	{
+		"CodigoIBGE": 1714880,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NOVA OLINDA"
+	},
+	{
+		"CodigoIBGE": 1715002,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NOVA ROSALANDIA"
+	},
+	{
+		"CodigoIBGE": 1715101,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NOVO ACORDO"
+	},
+	{
+		"CodigoIBGE": 1715150,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NOVO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 1715259,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "NOVO JARDIM"
+	},
+	{
+		"CodigoIBGE": 1715507,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "OLIVEIRA DE FATIMA"
+	},
+	{
+		"CodigoIBGE": 1715705,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PALMEIRANTE"
+	},
+	{
+		"CodigoIBGE": 1715754,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PALMEIROPOLIS"
+	},
+	{
+		"CodigoIBGE": 1716109,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PARAISO DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1716208,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PARANA"
+	},
+	{
+		"CodigoIBGE": 1716307,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PAU D-  ARCO"
+	},
+	{
+		"CodigoIBGE": 1716505,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PEDRO AFONSO"
+	},
+	{
+		"CodigoIBGE": 1716604,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PEIXE"
+	},
+	{
+		"CodigoIBGE": 1716653,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PEQUIZEIRO"
+	},
+	{
+		"CodigoIBGE": 1716703,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "COLMEIA"
+	},
+	{
+		"CodigoIBGE": 1717008,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PINDORAMA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1717206,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PIRAQUE"
+	},
+	{
+		"CodigoIBGE": 1717503,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PIUM"
+	},
+	{
+		"CodigoIBGE": 1717800,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PONTE ALTA DO BOM JESUS"
+	},
+	{
+		"CodigoIBGE": 1717909,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PONTE ALTA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1718006,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PORTO ALEGRE DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1718204,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PORTO NACIONAL"
+	},
+	{
+		"CodigoIBGE": 1718303,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PRAIA NORTE"
+	},
+	{
+		"CodigoIBGE": 1718402,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PRESIDENTE KENNEDY"
+	},
+	{
+		"CodigoIBGE": 1718451,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PUGMIL"
+	},
+	{
+		"CodigoIBGE": 1718501,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "RECURSOLANDIA"
+	},
+	{
+		"CodigoIBGE": 1718550,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "RIACHINHO"
+	},
+	{
+		"CodigoIBGE": 1718659,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "RIO DA CONCEICAO"
+	},
+	{
+		"CodigoIBGE": 1718709,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "RIO DOS BOIS"
+	},
+	{
+		"CodigoIBGE": 1718758,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "RIO SONO"
+	},
+	{
+		"CodigoIBGE": 1718808,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAMPAIO"
+	},
+	{
+		"CodigoIBGE": 1718840,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANDOLANDIA"
+	},
+	{
+		"CodigoIBGE": 1718865,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANTA FE DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 1718881,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANTA MARIA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1718899,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANTA RITA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1718907,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANTA ROSA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1719004,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANTA TEREZA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720002,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SANTA TEREZINHA DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720101,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAO BENTO DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720150,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAO FELIX DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720200,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAO MIGUEL DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720259,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAO SALVADOR DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720309,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAO SEBASTIAO DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720499,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SAO VALERIO DA NATIVIDADE"
+	},
+	{
+		"CodigoIBGE": 1720655,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SILVANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1720804,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SITIO NOVO DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720853,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "SUCUPIRA"
+	},
+	{
+		"CodigoIBGE": 1720903,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TAGUATINGA"
+	},
+	{
+		"CodigoIBGE": 1720937,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TAIPAS DO TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 1720978,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TALISMA"
+	},
+	{
+		"CodigoIBGE": 1721000,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "PALMAS"
+	},
+	{
+		"CodigoIBGE": 1721109,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TOCANTINIA"
+	},
+	{
+		"CodigoIBGE": 1721208,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TOCANTINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 1721257,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TUPIRAMA"
+	},
+	{
+		"CodigoIBGE": 1721307,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "TUPIRATINS"
+	},
+	{
+		"CodigoIBGE": 1722081,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "WANDERLANDIA"
+	},
+	{
+		"CodigoIBGE": 1722107,
+		"CodigoIBGEUF": 17,
+		"SiglaUF": "TO",
+		"NomeUF": "TOCANTINS",
+		"NomeMunicipio": "XAMBIOA"
+	}
+]

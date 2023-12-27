@@ -1,0 +1,3481 @@
+[
+	{
+		"CodigoIBGE": 4300034,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ACEGUA"
+	},
+	{
+		"CodigoIBGE": 4300059,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AGUA SANTA"
+	},
+	{
+		"CodigoIBGE": 4300109,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AGUDO"
+	},
+	{
+		"CodigoIBGE": 4300208,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AJURICABA"
+	},
+	{
+		"CodigoIBGE": 4300307,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALECRIM"
+	},
+	{
+		"CodigoIBGE": 4300406,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALEGRETE"
+	},
+	{
+		"CodigoIBGE": 4300455,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALEGRIA"
+	},
+	{
+		"CodigoIBGE": 4300471,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALMIRANTE TAMANDARE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4300505,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALPESTRE"
+	},
+	{
+		"CodigoIBGE": 4300554,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALTO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 4300570,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALTO FELIZ"
+	},
+	{
+		"CodigoIBGE": 4300604,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ALVORADA"
+	},
+	{
+		"CodigoIBGE": 4300638,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AMARAL FERRADOR"
+	},
+	{
+		"CodigoIBGE": 4300646,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AMETISTA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4300661,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ANDRE DA ROCHA"
+	},
+	{
+		"CodigoIBGE": 4300703,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ANTA GORDA"
+	},
+	{
+		"CodigoIBGE": 4300802,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ANTONIO PRADO"
+	},
+	{
+		"CodigoIBGE": 4300851,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARAMBARE"
+	},
+	{
+		"CodigoIBGE": 4300877,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARARICA"
+	},
+	{
+		"CodigoIBGE": 4300901,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARATIBA"
+	},
+	{
+		"CodigoIBGE": 4301008,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARROIO DO MEIO"
+	},
+	{
+		"CodigoIBGE": 4301057,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARROIO DO SAL"
+	},
+	{
+		"CodigoIBGE": 4301073,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARROIO DO PADRE"
+	},
+	{
+		"CodigoIBGE": 4301107,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARROIO DOS RATOS"
+	},
+	{
+		"CodigoIBGE": 4301206,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARROIO DO TIGRE"
+	},
+	{
+		"CodigoIBGE": 4301305,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARROIO GRANDE"
+	},
+	{
+		"CodigoIBGE": 4301404,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ARVOREZINHA"
+	},
+	{
+		"CodigoIBGE": 4301503,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AUGUSTO PESTANA"
+	},
+	{
+		"CodigoIBGE": 4301552,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "AUREA"
+	},
+	{
+		"CodigoIBGE": 4301602,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BAGE"
+	},
+	{
+		"CodigoIBGE": 4301636,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BALNEARIO PINHAL"
+	},
+	{
+		"CodigoIBGE": 4301651,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARAO"
+	},
+	{
+		"CodigoIBGE": 4301701,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARAO DE COTEGIPE"
+	},
+	{
+		"CodigoIBGE": 4301750,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARAO DO TRIUNFO"
+	},
+	{
+		"CodigoIBGE": 4301800,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARRACAO"
+	},
+	{
+		"CodigoIBGE": 4301859,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARRA DO GUARITA"
+	},
+	{
+		"CodigoIBGE": 4301875,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARRA DO QUARAI"
+	},
+	{
+		"CodigoIBGE": 4301909,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARRA DO RIBEIRO"
+	},
+	{
+		"CodigoIBGE": 4301925,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARRA DO RIO AZUL"
+	},
+	{
+		"CodigoIBGE": 4301958,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARRA FUNDA"
+	},
+	{
+		"CodigoIBGE": 4302006,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BARROS CASSAL"
+	},
+	{
+		"CodigoIBGE": 4302055,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BENJAMIN CONSTANT DO SUL"
+	},
+	{
+		"CodigoIBGE": 4302105,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BENTO GONCALVES"
+	},
+	{
+		"CodigoIBGE": 4302154,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOA VISTA DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4302204,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOA VISTA DO BURICA"
+	},
+	{
+		"CodigoIBGE": 4302220,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOA VISTA DO CADEADO"
+	},
+	{
+		"CodigoIBGE": 4302238,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOA VISTA DO INCRA"
+	},
+	{
+		"CodigoIBGE": 4302253,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOA VISTA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4302303,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOM JESUS"
+	},
+	{
+		"CodigoIBGE": 4302352,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOM PRINCIPIO"
+	},
+	{
+		"CodigoIBGE": 4302378,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOM PROGRESSO"
+	},
+	{
+		"CodigoIBGE": 4302402,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOM RETIRO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4302451,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOQUEIRAO DO LEAO"
+	},
+	{
+		"CodigoIBGE": 4302501,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOSSOROCA"
+	},
+	{
+		"CodigoIBGE": 4302584,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BOZANO"
+	},
+	{
+		"CodigoIBGE": 4302600,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BRAGA"
+	},
+	{
+		"CodigoIBGE": 4302659,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BROCHIER"
+	},
+	{
+		"CodigoIBGE": 4302709,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "BUTIA"
+	},
+	{
+		"CodigoIBGE": 4302808,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CACAPAVA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4302907,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CACEQUI"
+	},
+	{
+		"CodigoIBGE": 4303004,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CACHOEIRA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4303103,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CACHOEIRINHA"
+	},
+	{
+		"CodigoIBGE": 4303202,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CACIQUE DOBLE"
+	},
+	{
+		"CodigoIBGE": 4303301,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAIBATE"
+	},
+	{
+		"CodigoIBGE": 4303400,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAICARA"
+	},
+	{
+		"CodigoIBGE": 4303509,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMAQUA"
+	},
+	{
+		"CodigoIBGE": 4303558,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMARGO"
+	},
+	{
+		"CodigoIBGE": 4303608,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMBARA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4303673,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMPESTRE DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4303707,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMPINA DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4303806,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMPINAS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4303905,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMPO BOM"
+	},
+	{
+		"CodigoIBGE": 4304002,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMPO NOVO"
+	},
+	{
+		"CodigoIBGE": 4304101,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAMPOS BORGES"
+	},
+	{
+		"CodigoIBGE": 4304200,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANDELARIA"
+	},
+	{
+		"CodigoIBGE": 4304309,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANDIDO GODOI"
+	},
+	{
+		"CodigoIBGE": 4304358,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANDIOTA"
+	},
+	{
+		"CodigoIBGE": 4304408,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANELA"
+	},
+	{
+		"CodigoIBGE": 4304507,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANGUCU"
+	},
+	{
+		"CodigoIBGE": 4304606,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANOAS"
+	},
+	{
+		"CodigoIBGE": 4304614,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CANUDOS DO VALE"
+	},
+	{
+		"CodigoIBGE": 4304622,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPAO BONITO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4304630,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPAO DA CANOA"
+	},
+	{
+		"CodigoIBGE": 4304655,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPAO DO CIPO"
+	},
+	{
+		"CodigoIBGE": 4304663,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPAO DO LEAO"
+	},
+	{
+		"CodigoIBGE": 4304671,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPIVARI DO SUL"
+	},
+	{
+		"CodigoIBGE": 4304689,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPELA DE SANTANA"
+	},
+	{
+		"CodigoIBGE": 4304697,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAPITAO"
+	},
+	{
+		"CodigoIBGE": 4304705,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CARAZINHO"
+	},
+	{
+		"CodigoIBGE": 4304713,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CARAA"
+	},
+	{
+		"CodigoIBGE": 4304804,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CARLOS BARBOSA"
+	},
+	{
+		"CodigoIBGE": 4304853,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CARLOS GOMES"
+	},
+	{
+		"CodigoIBGE": 4304903,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CASCA"
+	},
+	{
+		"CodigoIBGE": 4304952,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CASEIROS"
+	},
+	{
+		"CodigoIBGE": 4305009,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CATUIPE"
+	},
+	{
+		"CodigoIBGE": 4305108,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CAXIAS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4305116,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CENTENARIO"
+	},
+	{
+		"CodigoIBGE": 4305124,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CERRITO"
+	},
+	{
+		"CodigoIBGE": 4305132,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CERRO BRANCO"
+	},
+	{
+		"CodigoIBGE": 4305157,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CERRO GRANDE"
+	},
+	{
+		"CodigoIBGE": 4305173,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CERRO GRANDE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4305207,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CERRO LARGO"
+	},
+	{
+		"CodigoIBGE": 4305306,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CHAPADA"
+	},
+	{
+		"CodigoIBGE": 4305355,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CHARQUEADAS"
+	},
+	{
+		"CodigoIBGE": 4305371,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CHARRUA"
+	},
+	{
+		"CodigoIBGE": 4305405,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CHIAPETTA"
+	},
+	{
+		"CodigoIBGE": 4305439,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CHUI"
+	},
+	{
+		"CodigoIBGE": 4305447,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CHUVISCA"
+	},
+	{
+		"CodigoIBGE": 4305454,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CIDREIRA"
+	},
+	{
+		"CodigoIBGE": 4305504,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CIRIACO"
+	},
+	{
+		"CodigoIBGE": 4305587,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "COLINAS"
+	},
+	{
+		"CodigoIBGE": 4305603,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "COLORADO"
+	},
+	{
+		"CodigoIBGE": 4305702,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CONDOR"
+	},
+	{
+		"CodigoIBGE": 4305801,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CONSTANTINA"
+	},
+	{
+		"CodigoIBGE": 4305835,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "COQUEIRO BAIXO"
+	},
+	{
+		"CodigoIBGE": 4305850,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "COQUEIROS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4305871,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CORONEL BARROS"
+	},
+	{
+		"CodigoIBGE": 4305900,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CORONEL BICACO"
+	},
+	{
+		"CodigoIBGE": 4305934,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CORONEL PILAR"
+	},
+	{
+		"CodigoIBGE": 4305959,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "COTIPORA"
+	},
+	{
+		"CodigoIBGE": 4305975,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "COXILHA"
+	},
+	{
+		"CodigoIBGE": 4306007,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CRISSIUMAL"
+	},
+	{
+		"CodigoIBGE": 4306056,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CRISTAL"
+	},
+	{
+		"CodigoIBGE": 4306072,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CRISTAL DO SUL"
+	},
+	{
+		"CodigoIBGE": 4306106,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CRUZ ALTA"
+	},
+	{
+		"CodigoIBGE": 4306130,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CRUZALTENSE"
+	},
+	{
+		"CodigoIBGE": 4306205,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "CRUZEIRO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4306304,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DAVID CANABARRO"
+	},
+	{
+		"CodigoIBGE": 4306320,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DERRUBADAS"
+	},
+	{
+		"CodigoIBGE": 4306353,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DEZESSEIS DE NOVEMBRO"
+	},
+	{
+		"CodigoIBGE": 4306379,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DILERMANDO DE AGUIAR"
+	},
+	{
+		"CodigoIBGE": 4306403,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOIS IRMAOS"
+	},
+	{
+		"CodigoIBGE": 4306429,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOIS IRMAOS DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4306452,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOIS LAJEADOS"
+	},
+	{
+		"CodigoIBGE": 4306502,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOM FELICIANO"
+	},
+	{
+		"CodigoIBGE": 4306551,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOM PEDRO DE ALCANTARA"
+	},
+	{
+		"CodigoIBGE": 4306601,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOM PEDRITO"
+	},
+	{
+		"CodigoIBGE": 4306700,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DONA FRANCISCA"
+	},
+	{
+		"CodigoIBGE": 4306734,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOUTOR MAURICIO CARDOSO"
+	},
+	{
+		"CodigoIBGE": 4306759,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "DOUTOR RICARDO"
+	},
+	{
+		"CodigoIBGE": 4306767,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ELDORADO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4306809,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ENCANTADO"
+	},
+	{
+		"CodigoIBGE": 4306908,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ENCRUZILHADA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4306924,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ENGENHO VELHO"
+	},
+	{
+		"CodigoIBGE": 4306932,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ENTREIJUIS"
+	},
+	{
+		"CodigoIBGE": 4306957,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ENTRE RIOS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4306973,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "EREBANGO"
+	},
+	{
+		"CodigoIBGE": 4307005,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ERECHIM"
+	},
+	{
+		"CodigoIBGE": 4307054,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ERNESTINA"
+	},
+	{
+		"CodigoIBGE": 4307104,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "HERVAL"
+	},
+	{
+		"CodigoIBGE": 4307203,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ERVAL GRANDE"
+	},
+	{
+		"CodigoIBGE": 4307302,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ERVAL SECO"
+	},
+	{
+		"CodigoIBGE": 4307401,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESMERALDA"
+	},
+	{
+		"CodigoIBGE": 4307450,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESPERANCA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4307500,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESPUMOSO"
+	},
+	{
+		"CodigoIBGE": 4307559,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESTACAO"
+	},
+	{
+		"CodigoIBGE": 4307609,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESTANCIA VELHA"
+	},
+	{
+		"CodigoIBGE": 4307708,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESTEIO"
+	},
+	{
+		"CodigoIBGE": 4307807,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESTRELA"
+	},
+	{
+		"CodigoIBGE": 4307815,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ESTRELA VELHA"
+	},
+	{
+		"CodigoIBGE": 4307831,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "EUGENIO DE CASTRO"
+	},
+	{
+		"CodigoIBGE": 4307864,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FAGUNDES VARELA"
+	},
+	{
+		"CodigoIBGE": 4307906,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FARROUPILHA"
+	},
+	{
+		"CodigoIBGE": 4308003,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FAXINAL DO SOTURNO"
+	},
+	{
+		"CodigoIBGE": 4308052,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FAXINALZINHO"
+	},
+	{
+		"CodigoIBGE": 4308078,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FAZENDA VILANOVA"
+	},
+	{
+		"CodigoIBGE": 4308102,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FELIZ"
+	},
+	{
+		"CodigoIBGE": 4308201,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FLORES DA CUNHA"
+	},
+	{
+		"CodigoIBGE": 4308250,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FLORIANO PEIXOTO"
+	},
+	{
+		"CodigoIBGE": 4308300,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FONTOURA XAVIER"
+	},
+	{
+		"CodigoIBGE": 4308409,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FORMIGUEIRO"
+	},
+	{
+		"CodigoIBGE": 4308433,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FORQUETINHA"
+	},
+	{
+		"CodigoIBGE": 4308458,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FORTALEZA DOS VALOS"
+	},
+	{
+		"CodigoIBGE": 4308508,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "FREDERICO WESTPHALEN"
+	},
+	{
+		"CodigoIBGE": 4308607,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GARIBALDI"
+	},
+	{
+		"CodigoIBGE": 4308656,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GARRUCHOS"
+	},
+	{
+		"CodigoIBGE": 4308706,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GAURAMA"
+	},
+	{
+		"CodigoIBGE": 4308805,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GENERAL CAMARA"
+	},
+	{
+		"CodigoIBGE": 4308854,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GENTIL"
+	},
+	{
+		"CodigoIBGE": 4308904,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GETULIO VARGAS"
+	},
+	{
+		"CodigoIBGE": 4309001,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GIRUA"
+	},
+	{
+		"CodigoIBGE": 4309050,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GLORINHA"
+	},
+	{
+		"CodigoIBGE": 4309100,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GRAMADO"
+	},
+	{
+		"CodigoIBGE": 4309126,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GRAMADO DOS LOUREIROS"
+	},
+	{
+		"CodigoIBGE": 4309159,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GRAMADO XAVIER"
+	},
+	{
+		"CodigoIBGE": 4309209,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GRAVATAI"
+	},
+	{
+		"CodigoIBGE": 4309258,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GUABIJU"
+	},
+	{
+		"CodigoIBGE": 4309308,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GUAIBA"
+	},
+	{
+		"CodigoIBGE": 4309407,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GUAPORE"
+	},
+	{
+		"CodigoIBGE": 4309506,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "GUARANI DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4309555,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "HARMONIA"
+	},
+	{
+		"CodigoIBGE": 4309571,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "HERVEIRAS"
+	},
+	{
+		"CodigoIBGE": 4309605,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "HORIZONTINA"
+	},
+	{
+		"CodigoIBGE": 4309654,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "HULHA NEGRA"
+	},
+	{
+		"CodigoIBGE": 4309704,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "HUMAITA"
+	},
+	{
+		"CodigoIBGE": 4309753,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IBARAMA"
+	},
+	{
+		"CodigoIBGE": 4309803,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IBIACA"
+	},
+	{
+		"CodigoIBGE": 4309902,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IBIRAIARAS"
+	},
+	{
+		"CodigoIBGE": 4309951,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IBIRAPUITA"
+	},
+	{
+		"CodigoIBGE": 4310009,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IBIRUBA"
+	},
+	{
+		"CodigoIBGE": 4310108,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IGREJINHA"
+	},
+	{
+		"CodigoIBGE": 4310207,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IJUI"
+	},
+	{
+		"CodigoIBGE": 4310306,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ILOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4310330,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IMBE"
+	},
+	{
+		"CodigoIBGE": 4310363,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IMIGRANTE"
+	},
+	{
+		"CodigoIBGE": 4310405,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "INDEPENDENCIA"
+	},
+	{
+		"CodigoIBGE": 4310413,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "INHACORA"
+	},
+	{
+		"CodigoIBGE": 4310439,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IPE"
+	},
+	{
+		"CodigoIBGE": 4310462,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IPIRANGA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4310504,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IRAI"
+	},
+	{
+		"CodigoIBGE": 4310538,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ITAARA"
+	},
+	{
+		"CodigoIBGE": 4310553,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ITACURUBI"
+	},
+	{
+		"CodigoIBGE": 4310579,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ITAPUCA"
+	},
+	{
+		"CodigoIBGE": 4310603,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ITAQUI"
+	},
+	{
+		"CodigoIBGE": 4310652,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ITATI"
+	},
+	{
+		"CodigoIBGE": 4310702,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ITATIBA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4310751,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IVORA"
+	},
+	{
+		"CodigoIBGE": 4310801,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "IVOTI"
+	},
+	{
+		"CodigoIBGE": 4310850,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JABOTICABA"
+	},
+	{
+		"CodigoIBGE": 4310876,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JACUIZINHO"
+	},
+	{
+		"CodigoIBGE": 4310900,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JACUTINGA"
+	},
+	{
+		"CodigoIBGE": 4311007,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JAGUARAO"
+	},
+	{
+		"CodigoIBGE": 4311106,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JAGUARI"
+	},
+	{
+		"CodigoIBGE": 4311122,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JAQUIRANA"
+	},
+	{
+		"CodigoIBGE": 4311130,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JARI"
+	},
+	{
+		"CodigoIBGE": 4311155,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JOIA"
+	},
+	{
+		"CodigoIBGE": 4311205,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "JULIO DE CASTILHOS"
+	},
+	{
+		"CodigoIBGE": 4311239,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAGOA BONITA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4311254,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAGOAO"
+	},
+	{
+		"CodigoIBGE": 4311270,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAGOA DOS TRES CANTOS"
+	},
+	{
+		"CodigoIBGE": 4311304,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAGOA VERMELHA"
+	},
+	{
+		"CodigoIBGE": 4311403,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAJEADO"
+	},
+	{
+		"CodigoIBGE": 4311429,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAJEADO DO BUGRE"
+	},
+	{
+		"CodigoIBGE": 4311502,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LAVRAS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4311601,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LIBERATO SALZANO"
+	},
+	{
+		"CodigoIBGE": 4311627,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LINDOLFO COLLOR"
+	},
+	{
+		"CodigoIBGE": 4311643,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "LINHA NOVA"
+	},
+	{
+		"CodigoIBGE": 4311700,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MACHADINHO"
+	},
+	{
+		"CodigoIBGE": 4311718,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MACAMBARA"
+	},
+	{
+		"CodigoIBGE": 4311734,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MAMPITUBA"
+	},
+	{
+		"CodigoIBGE": 4311759,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MANOEL VIANA"
+	},
+	{
+		"CodigoIBGE": 4311775,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MAQUINE"
+	},
+	{
+		"CodigoIBGE": 4311791,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MARATA"
+	},
+	{
+		"CodigoIBGE": 4311809,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MARAU"
+	},
+	{
+		"CodigoIBGE": 4311908,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MARCELINO RAMOS"
+	},
+	{
+		"CodigoIBGE": 4311981,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MARIANA PIMENTEL"
+	},
+	{
+		"CodigoIBGE": 4312005,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MARIANO MORO"
+	},
+	{
+		"CodigoIBGE": 4312054,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MARQUES DE SOUZA"
+	},
+	{
+		"CodigoIBGE": 4312104,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MATA"
+	},
+	{
+		"CodigoIBGE": 4312138,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MATO CASTELHANO"
+	},
+	{
+		"CodigoIBGE": 4312153,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MATO LEITAO"
+	},
+	{
+		"CodigoIBGE": 4312179,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MATO QUEIMADO"
+	},
+	{
+		"CodigoIBGE": 4312203,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MAXIMILIANO DE ALMEIDA"
+	},
+	{
+		"CodigoIBGE": 4312252,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MINAS DO LEAO"
+	},
+	{
+		"CodigoIBGE": 4312302,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MIRAGUAI"
+	},
+	{
+		"CodigoIBGE": 4312351,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MONTAURI"
+	},
+	{
+		"CodigoIBGE": 4312377,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MONTE ALEGRE DOS CAMPOS"
+	},
+	{
+		"CodigoIBGE": 4312385,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MONTE BELO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4312401,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MONTENEGRO"
+	},
+	{
+		"CodigoIBGE": 4312427,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MORMACO"
+	},
+	{
+		"CodigoIBGE": 4312443,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MORRINHOS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4312450,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MORRO REDONDO"
+	},
+	{
+		"CodigoIBGE": 4312476,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MORRO REUTER"
+	},
+	{
+		"CodigoIBGE": 4312500,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MOSTARDAS"
+	},
+	{
+		"CodigoIBGE": 4312609,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MUCUM"
+	},
+	{
+		"CodigoIBGE": 4312617,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MUITOS CAPOES"
+	},
+	{
+		"CodigoIBGE": 4312625,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "MULITERNO"
+	},
+	{
+		"CodigoIBGE": 4312658,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NAOMETOQUE"
+	},
+	{
+		"CodigoIBGE": 4312674,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NICOLAU VERGUEIRO"
+	},
+	{
+		"CodigoIBGE": 4312708,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NONOAI"
+	},
+	{
+		"CodigoIBGE": 4312757,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA ALVORADA"
+	},
+	{
+		"CodigoIBGE": 4312807,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA ARACA"
+	},
+	{
+		"CodigoIBGE": 4312906,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA BASSANO"
+	},
+	{
+		"CodigoIBGE": 4312955,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA BOA VISTA"
+	},
+	{
+		"CodigoIBGE": 4313003,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA BRESCIA"
+	},
+	{
+		"CodigoIBGE": 4313011,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA CANDELARIA"
+	},
+	{
+		"CodigoIBGE": 4313037,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA ESPERANCA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4313060,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA HARTZ"
+	},
+	{
+		"CodigoIBGE": 4313086,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA PADUA"
+	},
+	{
+		"CodigoIBGE": 4313102,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA PALMA"
+	},
+	{
+		"CodigoIBGE": 4313201,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA PETROPOLIS"
+	},
+	{
+		"CodigoIBGE": 4313300,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA PRATA"
+	},
+	{
+		"CodigoIBGE": 4313334,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA RAMADA"
+	},
+	{
+		"CodigoIBGE": 4313359,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA ROMA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4313375,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVA SANTA RITA"
+	},
+	{
+		"CodigoIBGE": 4313391,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVO CABRAIS"
+	},
+	{
+		"CodigoIBGE": 4313409,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVO HAMBURGO"
+	},
+	{
+		"CodigoIBGE": 4313425,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVO MACHADO"
+	},
+	{
+		"CodigoIBGE": 4313441,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVO TIRADENTES"
+	},
+	{
+		"CodigoIBGE": 4313466,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVO XINGU"
+	},
+	{
+		"CodigoIBGE": 4313490,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "NOVO BARREIRO"
+	},
+	{
+		"CodigoIBGE": 4313508,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "OSORIO"
+	},
+	{
+		"CodigoIBGE": 4313607,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PAIM FILHO"
+	},
+	{
+		"CodigoIBGE": 4313656,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PALMARES DO SUL"
+	},
+	{
+		"CodigoIBGE": 4313706,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PALMEIRA DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4313805,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PALMITINHO"
+	},
+	{
+		"CodigoIBGE": 4313904,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PANAMBI"
+	},
+	{
+		"CodigoIBGE": 4313953,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PANTANO GRANDE"
+	},
+	{
+		"CodigoIBGE": 4314001,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PARAI"
+	},
+	{
+		"CodigoIBGE": 4314027,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PARAISO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4314035,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PARECI NOVO"
+	},
+	{
+		"CodigoIBGE": 4314050,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PAROBE"
+	},
+	{
+		"CodigoIBGE": 4314068,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PASSA SETE"
+	},
+	{
+		"CodigoIBGE": 4314076,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PASSO DO SOBRADO"
+	},
+	{
+		"CodigoIBGE": 4314100,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PASSO FUNDO"
+	},
+	{
+		"CodigoIBGE": 4314134,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PAULO BENTO"
+	},
+	{
+		"CodigoIBGE": 4314159,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PAVERAMA"
+	},
+	{
+		"CodigoIBGE": 4314175,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PEDRAS ALTAS"
+	},
+	{
+		"CodigoIBGE": 4314209,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PEDRO OSORIO"
+	},
+	{
+		"CodigoIBGE": 4314308,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PEJUCARA"
+	},
+	{
+		"CodigoIBGE": 4314407,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PELOTAS"
+	},
+	{
+		"CodigoIBGE": 4314423,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PICADA CAFE"
+	},
+	{
+		"CodigoIBGE": 4314456,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PINHAL"
+	},
+	{
+		"CodigoIBGE": 4314464,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PINHAL DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4314472,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PINHAL GRANDE"
+	},
+	{
+		"CodigoIBGE": 4314498,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PINHEIRINHO DO VALE"
+	},
+	{
+		"CodigoIBGE": 4314506,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PINHEIRO MACHADO"
+	},
+	{
+		"CodigoIBGE": 4314530,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PINTO BANDEIRA"
+	},
+	{
+		"CodigoIBGE": 4314555,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PIRAPO"
+	},
+	{
+		"CodigoIBGE": 4314605,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PIRATINI"
+	},
+	{
+		"CodigoIBGE": 4314704,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PLANALTO"
+	},
+	{
+		"CodigoIBGE": 4314753,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "POCO DAS ANTAS"
+	},
+	{
+		"CodigoIBGE": 4314779,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PONTAO"
+	},
+	{
+		"CodigoIBGE": 4314787,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PONTE PRETA"
+	},
+	{
+		"CodigoIBGE": 4314803,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PORTAO"
+	},
+	{
+		"CodigoIBGE": 4314902,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PORTO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 4315008,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PORTO LUCENA"
+	},
+	{
+		"CodigoIBGE": 4315057,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PORTO MAUA"
+	},
+	{
+		"CodigoIBGE": 4315073,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PORTO VERA CRUZ"
+	},
+	{
+		"CodigoIBGE": 4315107,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PORTO XAVIER"
+	},
+	{
+		"CodigoIBGE": 4315131,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "POUSO NOVO"
+	},
+	{
+		"CodigoIBGE": 4315149,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PRESIDENTE LUCENA"
+	},
+	{
+		"CodigoIBGE": 4315156,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PROGRESSO"
+	},
+	{
+		"CodigoIBGE": 4315172,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PROTASIO ALVES"
+	},
+	{
+		"CodigoIBGE": 4315206,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "PUTINGA"
+	},
+	{
+		"CodigoIBGE": 4315305,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "QUARAI"
+	},
+	{
+		"CodigoIBGE": 4315313,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "QUATRO IRMAOS"
+	},
+	{
+		"CodigoIBGE": 4315321,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "QUEVEDOS"
+	},
+	{
+		"CodigoIBGE": 4315354,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "QUINZE DE NOVEMBRO"
+	},
+	{
+		"CodigoIBGE": 4315404,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "REDENTORA"
+	},
+	{
+		"CodigoIBGE": 4315453,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RELVADO"
+	},
+	{
+		"CodigoIBGE": 4315503,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RESTINGA SECA"
+	},
+	{
+		"CodigoIBGE": 4315552,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RIO DOS INDIOS"
+	},
+	{
+		"CodigoIBGE": 4315602,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RIO GRANDE"
+	},
+	{
+		"CodigoIBGE": 4315701,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RIO PARDO"
+	},
+	{
+		"CodigoIBGE": 4315750,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RIOZINHO"
+	},
+	{
+		"CodigoIBGE": 4315800,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ROCA SALES"
+	},
+	{
+		"CodigoIBGE": 4315909,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RODEIO BONITO"
+	},
+	{
+		"CodigoIBGE": 4315958,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "0 size:2>ROLADOR"
+	},
+	{
+		"CodigoIBGE": 4316006,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ROLANTE"
+	},
+	{
+		"CodigoIBGE": 4316105,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RONDA ALTA"
+	},
+	{
+		"CodigoIBGE": 4316204,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "RONDINHA"
+	},
+	{
+		"CodigoIBGE": 4316303,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ROQUE GONZALES"
+	},
+	{
+		"CodigoIBGE": 4316402,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "ROSARIO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4316428,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAGRADA FAMILIA"
+	},
+	{
+		"CodigoIBGE": 4316436,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SALDANHA MARINHO"
+	},
+	{
+		"CodigoIBGE": 4316451,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SALTO DO JACUI"
+	},
+	{
+		"CodigoIBGE": 4316477,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SALVADOR DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4316501,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SALVADOR DO SUL"
+	},
+	{
+		"CodigoIBGE": 4316600,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANANDUVA"
+	},
+	{
+		"CodigoIBGE": 4316709,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA BARBARA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4316733,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA CECILIA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4316758,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA CLARA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4316808,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA CRUZ DO SUL"
+	},
+	{
+		"CodigoIBGE": 4316907,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA MARIA"
+	},
+	{
+		"CodigoIBGE": 4316956,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA MARIA DO HERVAL"
+	},
+	{
+		"CodigoIBGE": 4316972,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA MARGARIDA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4317004,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTANA DA BOA VISTA"
+	},
+	{
+		"CodigoIBGE": 4317103,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTANA DO LIVRAMENTO"
+	},
+	{
+		"CodigoIBGE": 4317202,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA ROSA"
+	},
+	{
+		"CodigoIBGE": 4317251,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA TEREZA"
+	},
+	{
+		"CodigoIBGE": 4317301,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTA VITORIA DO PALMAR"
+	},
+	{
+		"CodigoIBGE": 4317400,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTIAGO"
+	},
+	{
+		"CodigoIBGE": 4317509,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO ANGELO"
+	},
+	{
+		"CodigoIBGE": 4317558,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO ANTONIO DO PALMA"
+	},
+	{
+		"CodigoIBGE": 4317608,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO ANTONIO DA PATRULHA"
+	},
+	{
+		"CodigoIBGE": 4317707,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO ANTONIO DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4317756,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO ANTONIO DO PLANALTO"
+	},
+	{
+		"CodigoIBGE": 4317806,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO AUGUSTO"
+	},
+	{
+		"CodigoIBGE": 4317905,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO CRISTO"
+	},
+	{
+		"CodigoIBGE": 4317954,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SANTO EXPEDITO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4318002,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO BORJA"
+	},
+	{
+		"CodigoIBGE": 4318051,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO DOMINGOS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4318101,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO FRANCISCO DE ASSIS"
+	},
+	{
+		"CodigoIBGE": 4318200,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO FRANCISCO DE PAULA"
+	},
+	{
+		"CodigoIBGE": 4318309,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO GABRIEL"
+	},
+	{
+		"CodigoIBGE": 4318408,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JERONIMO"
+	},
+	{
+		"CodigoIBGE": 4318424,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOAO DA URTIGA"
+	},
+	{
+		"CodigoIBGE": 4318432,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOAO DO POLESINE"
+	},
+	{
+		"CodigoIBGE": 4318440,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JORGE"
+	},
+	{
+		"CodigoIBGE": 4318457,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4318465,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DO HERVAL"
+	},
+	{
+		"CodigoIBGE": 4318481,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DO HORTENCIO"
+	},
+	{
+		"CodigoIBGE": 4318499,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DO INHACORA"
+	},
+	{
+		"CodigoIBGE": 4318507,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DO NORTE"
+	},
+	{
+		"CodigoIBGE": 4318606,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DO OURO"
+	},
+	{
+		"CodigoIBGE": 4318614,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4318622,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO JOSE DOS AUSENTES"
+	},
+	{
+		"CodigoIBGE": 4318705,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO LEOPOLDO"
+	},
+	{
+		"CodigoIBGE": 4318804,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO LOURENCO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4318903,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO LUIZ GONZAGA"
+	},
+	{
+		"CodigoIBGE": 4319000,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO MARCOS"
+	},
+	{
+		"CodigoIBGE": 4319109,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO MARTINHO"
+	},
+	{
+		"CodigoIBGE": 4319125,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO MARTINHO DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4319158,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO MIGUEL DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4319208,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO NICOLAU"
+	},
+	{
+		"CodigoIBGE": 4319307,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO PAULO DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4319356,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO PEDRO DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4319364,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO PEDRO DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4319372,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO PEDRO DO BUTIA"
+	},
+	{
+		"CodigoIBGE": 4319406,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO PEDRO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4319505,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO SEBASTIAO DO CAI"
+	},
+	{
+		"CodigoIBGE": 4319604,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO SEPE"
+	},
+	{
+		"CodigoIBGE": 4319703,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO VALENTIM"
+	},
+	{
+		"CodigoIBGE": 4319711,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO VALENTIM DO SUL"
+	},
+	{
+		"CodigoIBGE": 4319737,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO VALERIO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4319752,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO VENDELINO"
+	},
+	{
+		"CodigoIBGE": 4319802,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAO VICENTE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4319901,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAPIRANGA"
+	},
+	{
+		"CodigoIBGE": 4320008,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SAPUCAIA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4320107,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SARANDI"
+	},
+	{
+		"CodigoIBGE": 4320206,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SEBERI"
+	},
+	{
+		"CodigoIBGE": 4320230,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SEDE NOVA"
+	},
+	{
+		"CodigoIBGE": 4320263,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SEGREDO"
+	},
+	{
+		"CodigoIBGE": 4320305,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SELBACH"
+	},
+	{
+		"CodigoIBGE": 4320321,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SENADOR SALGADO FILHO"
+	},
+	{
+		"CodigoIBGE": 4320354,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SENTINELA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4320404,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SERAFINA CORREA"
+	},
+	{
+		"CodigoIBGE": 4320453,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SERIO"
+	},
+	{
+		"CodigoIBGE": 4320503,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SERTAO"
+	},
+	{
+		"CodigoIBGE": 4320552,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SERTAO SANTANA"
+	},
+	{
+		"CodigoIBGE": 4320578,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SETE DE SETEMBRO"
+	},
+	{
+		"CodigoIBGE": 4320602,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SEVERIANO DE ALMEIDA"
+	},
+	{
+		"CodigoIBGE": 4320651,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SILVEIRA MARTINS"
+	},
+	{
+		"CodigoIBGE": 4320677,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SINIMBU"
+	},
+	{
+		"CodigoIBGE": 4320701,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SOBRADINHO"
+	},
+	{
+		"CodigoIBGE": 4320800,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "SOLEDADE"
+	},
+	{
+		"CodigoIBGE": 4320859,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TABAI"
+	},
+	{
+		"CodigoIBGE": 4320909,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAPEJARA"
+	},
+	{
+		"CodigoIBGE": 4321006,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAPERA"
+	},
+	{
+		"CodigoIBGE": 4321105,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAPES"
+	},
+	{
+		"CodigoIBGE": 4321204,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAQUARA"
+	},
+	{
+		"CodigoIBGE": 4321303,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAQUARI"
+	},
+	{
+		"CodigoIBGE": 4321329,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAQUARUCU DO SUL"
+	},
+	{
+		"CodigoIBGE": 4321352,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TAVARES"
+	},
+	{
+		"CodigoIBGE": 4321402,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TENENTE PORTELA"
+	},
+	{
+		"CodigoIBGE": 4321436,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TERRA DE AREIA"
+	},
+	{
+		"CodigoIBGE": 4321451,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TEUTONIA"
+	},
+	{
+		"CodigoIBGE": 4321469,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TIO HUGO"
+	},
+	{
+		"CodigoIBGE": 4321477,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TIRADENTES DO SUL"
+	},
+	{
+		"CodigoIBGE": 4321493,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TOROPI"
+	},
+	{
+		"CodigoIBGE": 4321501,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TORRES"
+	},
+	{
+		"CodigoIBGE": 4321600,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRAMANDAI"
+	},
+	{
+		"CodigoIBGE": 4321626,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRAVESSEIRO"
+	},
+	{
+		"CodigoIBGE": 4321634,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES ARROIOS"
+	},
+	{
+		"CodigoIBGE": 4321667,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES CACHOEIRAS"
+	},
+	{
+		"CodigoIBGE": 4321709,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES COROAS"
+	},
+	{
+		"CodigoIBGE": 4321808,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES DE MAIO"
+	},
+	{
+		"CodigoIBGE": 4321832,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES FORQUILHAS"
+	},
+	{
+		"CodigoIBGE": 4321857,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES PALMEIRAS"
+	},
+	{
+		"CodigoIBGE": 4321907,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRES PASSOS"
+	},
+	{
+		"CodigoIBGE": 4321956,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRINDADE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4322004,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TRIUNFO"
+	},
+	{
+		"CodigoIBGE": 4322103,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TUCUNDUVA"
+	},
+	{
+		"CodigoIBGE": 4322152,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TUNAS"
+	},
+	{
+		"CodigoIBGE": 4322186,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TUPANCI DO SUL"
+	},
+	{
+		"CodigoIBGE": 4322202,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TUPANCIRETA"
+	},
+	{
+		"CodigoIBGE": 4322251,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TUPANDI"
+	},
+	{
+		"CodigoIBGE": 4322301,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TUPARENDI"
+	},
+	{
+		"CodigoIBGE": 4322327,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "TURUCU"
+	},
+	{
+		"CodigoIBGE": 4322343,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "UBIRETAMA"
+	},
+	{
+		"CodigoIBGE": 4322350,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "UNIAO DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4322376,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "UNISTALDA"
+	},
+	{
+		"CodigoIBGE": 4322400,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "URUGUAIANA"
+	},
+	{
+		"CodigoIBGE": 4322509,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VACARIA"
+	},
+	{
+		"CodigoIBGE": 4322525,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VALE VERDE"
+	},
+	{
+		"CodigoIBGE": 4322533,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VALE DO SOL"
+	},
+	{
+		"CodigoIBGE": 4322541,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VALE REAL"
+	},
+	{
+		"CodigoIBGE": 4322558,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VANINI"
+	},
+	{
+		"CodigoIBGE": 4322608,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VENANCIO AIRES"
+	},
+	{
+		"CodigoIBGE": 4322707,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VERA CRUZ"
+	},
+	{
+		"CodigoIBGE": 4322806,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VERANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4322855,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VESPASIANO CORREA"
+	},
+	{
+		"CodigoIBGE": 4322905,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VIADUTOS"
+	},
+	{
+		"CodigoIBGE": 4323002,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VIAMAO"
+	},
+	{
+		"CodigoIBGE": 4323101,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VICENTE DUTRA"
+	},
+	{
+		"CodigoIBGE": 4323200,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VICTOR GRAEFF"
+	},
+	{
+		"CodigoIBGE": 4323309,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VILA FLORES"
+	},
+	{
+		"CodigoIBGE": 4323358,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VILA LANGARO"
+	},
+	{
+		"CodigoIBGE": 4323408,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VILA MARIA"
+	},
+	{
+		"CodigoIBGE": 4323457,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VILA NOVA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4323507,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VISTA ALEGRE"
+	},
+	{
+		"CodigoIBGE": 4323606,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VISTA ALEGRE DO PRATA"
+	},
+	{
+		"CodigoIBGE": 4323705,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VISTA GAUCHA"
+	},
+	{
+		"CodigoIBGE": 4323754,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "VITORIA DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 4323770,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "WESTFALIA"
+	},
+	{
+		"CodigoIBGE": 4323804,
+		"CodigoIBGEUF": 43,
+		"SiglaUF": "RS",
+		"NomeUF": "RIO GRANDE DO SUL",
+		"NomeMunicipio": "XANGRILA"
+	}
+]

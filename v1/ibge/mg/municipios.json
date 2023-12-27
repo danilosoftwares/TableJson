@@ -1,0 +1,5973 @@
+[
+	{
+		"CodigoIBGE": 3100104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ABADIA DOS DOURADOS"
+	},
+	{
+		"CodigoIBGE": 3100203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ABAETE"
+	},
+	{
+		"CodigoIBGE": 3100302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ABRE CAMPO"
+	},
+	{
+		"CodigoIBGE": 3100401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ACAIACA"
+	},
+	{
+		"CodigoIBGE": 3100500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ACUCENA"
+	},
+	{
+		"CodigoIBGE": 3100609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AGUA BOA"
+	},
+	{
+		"CodigoIBGE": 3100708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AGUA COMPRIDA"
+	},
+	{
+		"CodigoIBGE": 3100807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AGUANIL"
+	},
+	{
+		"CodigoIBGE": 3100906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AGUAS FORMOSAS"
+	},
+	{
+		"CodigoIBGE": 3101003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AGUAS VERMELHAS"
+	},
+	{
+		"CodigoIBGE": 3101102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AIMORES"
+	},
+	{
+		"CodigoIBGE": 3101201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AIURUOCA"
+	},
+	{
+		"CodigoIBGE": 3101300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALAGOA"
+	},
+	{
+		"CodigoIBGE": 3101409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALBERTINA"
+	},
+	{
+		"CodigoIBGE": 3101508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALEM PARAIBA"
+	},
+	{
+		"CodigoIBGE": 3101607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALFENAS"
+	},
+	{
+		"CodigoIBGE": 3101631,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALFREDO VASCONCELOS"
+	},
+	{
+		"CodigoIBGE": 3101706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALMENARA"
+	},
+	{
+		"CodigoIBGE": 3101805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALPERCATA"
+	},
+	{
+		"CodigoIBGE": 3101904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALPINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3102001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALTEROSA"
+	},
+	{
+		"CodigoIBGE": 3102050,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALTO CAPARAO"
+	},
+	{
+		"CodigoIBGE": 3102100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALTO RIO DOCE"
+	},
+	{
+		"CodigoIBGE": 3102209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALVARENGA"
+	},
+	{
+		"CodigoIBGE": 3102308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALVINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3102407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALVORADA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3102506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AMPARO DO SERRA"
+	},
+	{
+		"CodigoIBGE": 3102605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ANDRADAS"
+	},
+	{
+		"CodigoIBGE": 3102704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CACHOEIRA DE PAJEU"
+	},
+	{
+		"CodigoIBGE": 3102803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ANDRELANDIA"
+	},
+	{
+		"CodigoIBGE": 3102852,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ANGELANDIA"
+	},
+	{
+		"CodigoIBGE": 3102902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ANTONIO CARLOS"
+	},
+	{
+		"CodigoIBGE": 3103009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ANTONIO DIAS"
+	},
+	{
+		"CodigoIBGE": 3103108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ANTONIO PRADO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3103207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARACAI"
+	},
+	{
+		"CodigoIBGE": 3103306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARACITABA"
+	},
+	{
+		"CodigoIBGE": 3103405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARACUAI"
+	},
+	{
+		"CodigoIBGE": 3103504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARAGUARI"
+	},
+	{
+		"CodigoIBGE": 3103603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARANTINA"
+	},
+	{
+		"CodigoIBGE": 3103702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARAPONGA"
+	},
+	{
+		"CodigoIBGE": 3103751,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARAPORA"
+	},
+	{
+		"CodigoIBGE": 3103801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARAPUA"
+	},
+	{
+		"CodigoIBGE": 3103900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARAUJOS"
+	},
+	{
+		"CodigoIBGE": 3104007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARAXA"
+	},
+	{
+		"CodigoIBGE": 3104106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARCEBURGO"
+	},
+	{
+		"CodigoIBGE": 3104205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARCOS"
+	},
+	{
+		"CodigoIBGE": 3104304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AREADO"
+	},
+	{
+		"CodigoIBGE": 3104403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARGIRITA"
+	},
+	{
+		"CodigoIBGE": 3104452,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARICANDUVA"
+	},
+	{
+		"CodigoIBGE": 3104502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ARINOS"
+	},
+	{
+		"CodigoIBGE": 3104601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ASTOLFO DUTRA"
+	},
+	{
+		"CodigoIBGE": 3104700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ATALEIA"
+	},
+	{
+		"CodigoIBGE": 3104809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "AUGUSTO DE LIMA"
+	},
+	{
+		"CodigoIBGE": 3104908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BAEPENDI"
+	},
+	{
+		"CodigoIBGE": 3105004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BALDIM"
+	},
+	{
+		"CodigoIBGE": 3105103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BAMBUI"
+	},
+	{
+		"CodigoIBGE": 3105202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BANDEIRA"
+	},
+	{
+		"CodigoIBGE": 3105301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BANDEIRA DO SUL"
+	},
+	{
+		"CodigoIBGE": 3105400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BARAO DE COCAIS"
+	},
+	{
+		"CodigoIBGE": 3105509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BARAO DE MONTE ALTO"
+	},
+	{
+		"CodigoIBGE": 3105608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BARBACENA"
+	},
+	{
+		"CodigoIBGE": 3105707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BARRA LONGA"
+	},
+	{
+		"CodigoIBGE": 3105905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BARROSO"
+	},
+	{
+		"CodigoIBGE": 3106002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BELA VISTA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3106101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BELMIRO BRAGA"
+	},
+	{
+		"CodigoIBGE": 3106200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BELO HORIZONTE"
+	},
+	{
+		"CodigoIBGE": 3106309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BELO ORIENTE"
+	},
+	{
+		"CodigoIBGE": 3106408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BELO VALE"
+	},
+	{
+		"CodigoIBGE": 3106507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BERILO"
+	},
+	{
+		"CodigoIBGE": 3106606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BERTOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3106655,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BERIZAL"
+	},
+	{
+		"CodigoIBGE": 3106705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BETIM"
+	},
+	{
+		"CodigoIBGE": 3106804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BIAS FORTES"
+	},
+	{
+		"CodigoIBGE": 3106903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BICAS"
+	},
+	{
+		"CodigoIBGE": 3107000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BIQUINHAS"
+	},
+	{
+		"CodigoIBGE": 3107109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOA ESPERANCA"
+	},
+	{
+		"CodigoIBGE": 3107208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOCAINA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3107307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOCAIUVA"
+	},
+	{
+		"CodigoIBGE": 3107406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM DESPACHO"
+	},
+	{
+		"CodigoIBGE": 3107505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM JARDIM DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3107604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM JESUS DA PENHA"
+	},
+	{
+		"CodigoIBGE": 3107703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM JESUS DO AMPARO"
+	},
+	{
+		"CodigoIBGE": 3107802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM JESUS DO GALHO"
+	},
+	{
+		"CodigoIBGE": 3107901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM REPOUSO"
+	},
+	{
+		"CodigoIBGE": 3108008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOM SUCESSO"
+	},
+	{
+		"CodigoIBGE": 3108107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BONFIM"
+	},
+	{
+		"CodigoIBGE": 3108206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BONFINOPOLIS DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3108255,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BONITO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3108305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BORDA DA MATA"
+	},
+	{
+		"CodigoIBGE": 3108404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOTELHOS"
+	},
+	{
+		"CodigoIBGE": 3108503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BOTUMIRIM"
+	},
+	{
+		"CodigoIBGE": 3108552,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BRASILANDIA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3108602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BRASILIA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3108701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BRAS PIRES"
+	},
+	{
+		"CodigoIBGE": 3108800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BRAUNAS"
+	},
+	{
+		"CodigoIBGE": 3108909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BRASOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3109006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BRUMADINHO"
+	},
+	{
+		"CodigoIBGE": 3109105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BUENO BRANDAO"
+	},
+	{
+		"CodigoIBGE": 3109204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BUENOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3109253,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BUGRE"
+	},
+	{
+		"CodigoIBGE": 3109303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BURITIS"
+	},
+	{
+		"CodigoIBGE": 3109402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "BURITIZEIRO"
+	},
+	{
+		"CodigoIBGE": 3109451,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CABECEIRA GRANDE"
+	},
+	{
+		"CodigoIBGE": 3109501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CABO VERDE"
+	},
+	{
+		"CodigoIBGE": 3109600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CACHOEIRA DA PRATA"
+	},
+	{
+		"CodigoIBGE": 3109709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CACHOEIRA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3109808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CACHOEIRA DOURADA"
+	},
+	{
+		"CodigoIBGE": 3109907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAETANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3110004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAETE"
+	},
+	{
+		"CodigoIBGE": 3110103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAIANA"
+	},
+	{
+		"CodigoIBGE": 3110202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAJURI"
+	},
+	{
+		"CodigoIBGE": 3110301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CALDAS"
+	},
+	{
+		"CodigoIBGE": 3110400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMACHO"
+	},
+	{
+		"CodigoIBGE": 3110509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMANDUCAIA"
+	},
+	{
+		"CodigoIBGE": 3110608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMBUI"
+	},
+	{
+		"CodigoIBGE": 3110707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMBUQUIRA"
+	},
+	{
+		"CodigoIBGE": 3110806,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPANARIO"
+	},
+	{
+		"CodigoIBGE": 3110905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPANHA"
+	},
+	{
+		"CodigoIBGE": 3111002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPESTRE"
+	},
+	{
+		"CodigoIBGE": 3111101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPINA VERDE"
+	},
+	{
+		"CodigoIBGE": 3111150,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPO AZUL"
+	},
+	{
+		"CodigoIBGE": 3111200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPO BELO"
+	},
+	{
+		"CodigoIBGE": 3111309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPO DO MEIO"
+	},
+	{
+		"CodigoIBGE": 3111408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPO FLORIDO"
+	},
+	{
+		"CodigoIBGE": 3111507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPOS ALTOS"
+	},
+	{
+		"CodigoIBGE": 3111606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAMPOS GERAIS"
+	},
+	{
+		"CodigoIBGE": 3111705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CANAA"
+	},
+	{
+		"CodigoIBGE": 3111804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CANAPOLIS"
+	},
+	{
+		"CodigoIBGE": 3111903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CANA VERDE"
+	},
+	{
+		"CodigoIBGE": 3112000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CANDEIAS"
+	},
+	{
+		"CodigoIBGE": 3112059,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CANTAGALO"
+	},
+	{
+		"CodigoIBGE": 3112109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPARAO"
+	},
+	{
+		"CodigoIBGE": 3112208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPELA NOVA"
+	},
+	{
+		"CodigoIBGE": 3112307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPELINHA"
+	},
+	{
+		"CodigoIBGE": 3112406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPETINGA"
+	},
+	{
+		"CodigoIBGE": 3112505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPIM BRANCO"
+	},
+	{
+		"CodigoIBGE": 3112604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3112653,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPITAO ANDRADE"
+	},
+	{
+		"CodigoIBGE": 3112703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPITAO ENEAS"
+	},
+	{
+		"CodigoIBGE": 3112802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPITOLIO"
+	},
+	{
+		"CodigoIBGE": 3112901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAPUTIRA"
+	},
+	{
+		"CodigoIBGE": 3113008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARAI"
+	},
+	{
+		"CodigoIBGE": 3113107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARANAIBA"
+	},
+	{
+		"CodigoIBGE": 3113206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARANDAI"
+	},
+	{
+		"CodigoIBGE": 3113305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARANGOLA"
+	},
+	{
+		"CodigoIBGE": 3113404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARATINGA"
+	},
+	{
+		"CodigoIBGE": 3113503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARBONITA"
+	},
+	{
+		"CodigoIBGE": 3113602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAREACU"
+	},
+	{
+		"CodigoIBGE": 3113701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARLOS CHAGAS"
+	},
+	{
+		"CodigoIBGE": 3113800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMESIA"
+	},
+	{
+		"CodigoIBGE": 3113909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMO DA CACHOEIRA"
+	},
+	{
+		"CodigoIBGE": 3114006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMO DA MATA"
+	},
+	{
+		"CodigoIBGE": 3114105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3114204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMO DO CAJURU"
+	},
+	{
+		"CodigoIBGE": 3114303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMO DO PARANAIBA"
+	},
+	{
+		"CodigoIBGE": 3114402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMO DO RIO CLARO"
+	},
+	{
+		"CodigoIBGE": 3114501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARMOPOLIS DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3114550,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARNEIRINHO"
+	},
+	{
+		"CodigoIBGE": 3114600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARRANCAS"
+	},
+	{
+		"CodigoIBGE": 3114709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARVALHOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3114808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CARVALHOS"
+	},
+	{
+		"CodigoIBGE": 3114907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CASA GRANDE"
+	},
+	{
+		"CodigoIBGE": 3115003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CASCALHO RICO"
+	},
+	{
+		"CodigoIBGE": 3115102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CASSIA"
+	},
+	{
+		"CodigoIBGE": 3115201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DA BARRA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3115300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CATAGUASES"
+	},
+	{
+		"CodigoIBGE": 3115359,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CATAS ALTAS"
+	},
+	{
+		"CodigoIBGE": 3115409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CATAS ALTAS DA NORUEGA"
+	},
+	{
+		"CodigoIBGE": 3115458,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CATUJI"
+	},
+	{
+		"CodigoIBGE": 3115474,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CATUTI"
+	},
+	{
+		"CodigoIBGE": 3115508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CAXAMBU"
+	},
+	{
+		"CodigoIBGE": 3115607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CEDRO DO ABAETE"
+	},
+	{
+		"CodigoIBGE": 3115706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CENTRAL DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3115805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CENTRALINA"
+	},
+	{
+		"CodigoIBGE": 3115904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CHACARA"
+	},
+	{
+		"CodigoIBGE": 3116001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CHALE"
+	},
+	{
+		"CodigoIBGE": 3116100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CHAPADA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 3116159,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CHAPADA GAUCHA"
+	},
+	{
+		"CodigoIBGE": 3116209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CHIADOR"
+	},
+	{
+		"CodigoIBGE": 3116308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CIPOTANEA"
+	},
+	{
+		"CodigoIBGE": 3116407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CLARAVAL"
+	},
+	{
+		"CodigoIBGE": 3116506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CLARO DOS POCOES"
+	},
+	{
+		"CodigoIBGE": 3116605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CLAUDIO"
+	},
+	{
+		"CodigoIBGE": 3116704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COIMBRA"
+	},
+	{
+		"CodigoIBGE": 3116803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COLUNA"
+	},
+	{
+		"CodigoIBGE": 3116902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COMENDADOR GOMES"
+	},
+	{
+		"CodigoIBGE": 3117009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COMERCINHO"
+	},
+	{
+		"CodigoIBGE": 3117108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DA APARECIDA"
+	},
+	{
+		"CodigoIBGE": 3117207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DAS PEDRAS"
+	},
+	{
+		"CodigoIBGE": 3117306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DAS ALAGOAS"
+	},
+	{
+		"CodigoIBGE": 3117405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DE IPANEMA"
+	},
+	{
+		"CodigoIBGE": 3117504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DO MATO DENTRO"
+	},
+	{
+		"CodigoIBGE": 3117603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DO PARA"
+	},
+	{
+		"CodigoIBGE": 3117702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DO RIO VERDE"
+	},
+	{
+		"CodigoIBGE": 3117801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONCEICAO DOS OUROS"
+	},
+	{
+		"CodigoIBGE": 3117836,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONEGO MARINHO"
+	},
+	{
+		"CodigoIBGE": 3117876,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONFINS"
+	},
+	{
+		"CodigoIBGE": 3117900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONGONHAL"
+	},
+	{
+		"CodigoIBGE": 3118007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONGONHAS"
+	},
+	{
+		"CodigoIBGE": 3118106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONGONHAS DO NORTE"
+	},
+	{
+		"CodigoIBGE": 3118205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONQUISTA"
+	},
+	{
+		"CodigoIBGE": 3118304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONSELHEIRO LAFAIETE"
+	},
+	{
+		"CodigoIBGE": 3118403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONSELHEIRO PENA"
+	},
+	{
+		"CodigoIBGE": 3118502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONSOLACAO"
+	},
+	{
+		"CodigoIBGE": 3118601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CONTAGEM"
+	},
+	{
+		"CodigoIBGE": 3118700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COQUEIRAL"
+	},
+	{
+		"CodigoIBGE": 3118809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORACAO DE JESUS"
+	},
+	{
+		"CodigoIBGE": 3118908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORDISBURGO"
+	},
+	{
+		"CodigoIBGE": 3119005,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORDISLANDIA"
+	},
+	{
+		"CodigoIBGE": 3119104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORINTO"
+	},
+	{
+		"CodigoIBGE": 3119203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COROACI"
+	},
+	{
+		"CodigoIBGE": 3119302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COROMANDEL"
+	},
+	{
+		"CodigoIBGE": 3119401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORONEL FABRICIANO"
+	},
+	{
+		"CodigoIBGE": 3119500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORONEL MURTA"
+	},
+	{
+		"CodigoIBGE": 3119609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORONEL PACHECO"
+	},
+	{
+		"CodigoIBGE": 3119708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORONEL XAVIER CHAVES"
+	},
+	{
+		"CodigoIBGE": 3119807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORREGO DANTA"
+	},
+	{
+		"CodigoIBGE": 3119906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORREGO DO BOM JESUS"
+	},
+	{
+		"CodigoIBGE": 3119955,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORREGO FUNDO"
+	},
+	{
+		"CodigoIBGE": 3120003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CORREGO NOVO"
+	},
+	{
+		"CodigoIBGE": 3120102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "COUTO DE MAGALHAES DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3120151,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRISOLITA"
+	},
+	{
+		"CodigoIBGE": 3120201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRISTAIS"
+	},
+	{
+		"CodigoIBGE": 3120300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRISTALIA"
+	},
+	{
+		"CodigoIBGE": 3120409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRISTIANO OTONI"
+	},
+	{
+		"CodigoIBGE": 3120508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRISTINA"
+	},
+	{
+		"CodigoIBGE": 3120607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRUCILANDIA"
+	},
+	{
+		"CodigoIBGE": 3120706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRUZEIRO DA FORTALEZA"
+	},
+	{
+		"CodigoIBGE": 3120805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CRUZILIA"
+	},
+	{
+		"CodigoIBGE": 3120839,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CUPARAQUE"
+	},
+	{
+		"CodigoIBGE": 3120870,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CURRAL DE DENTRO"
+	},
+	{
+		"CodigoIBGE": 3120904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "CURVELO"
+	},
+	{
+		"CodigoIBGE": 3121001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DATAS"
+	},
+	{
+		"CodigoIBGE": 3121100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DELFIM MOREIRA"
+	},
+	{
+		"CodigoIBGE": 3121209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DELFINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3121258,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DELTA"
+	},
+	{
+		"CodigoIBGE": 3121308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DESCOBERTO"
+	},
+	{
+		"CodigoIBGE": 3121407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DESTERRO DE ENTRE RIOS"
+	},
+	{
+		"CodigoIBGE": 3121506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DESTERRO DO MELO"
+	},
+	{
+		"CodigoIBGE": 3121605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIAMANTINA"
+	},
+	{
+		"CodigoIBGE": 3121704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIOGO DE VASCONCELOS"
+	},
+	{
+		"CodigoIBGE": 3121803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIONISIO"
+	},
+	{
+		"CodigoIBGE": 3121902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVINESIA"
+	},
+	{
+		"CodigoIBGE": 3122009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVINO"
+	},
+	{
+		"CodigoIBGE": 3122108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVINO DAS LARANJEIRAS"
+	},
+	{
+		"CodigoIBGE": 3122207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVINOLANDIA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3122306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3122355,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVISA ALEGRE"
+	},
+	{
+		"CodigoIBGE": 3122405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVISA NOVA"
+	},
+	{
+		"CodigoIBGE": 3122454,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DIVISOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3122470,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DOM BOSCO"
+	},
+	{
+		"CodigoIBGE": 3122504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DOM CAVATI"
+	},
+	{
+		"CodigoIBGE": 3122603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DOM JOAQUIM"
+	},
+	{
+		"CodigoIBGE": 3122702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DOM SILVERIO"
+	},
+	{
+		"CodigoIBGE": 3122801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DOM VICOSO"
+	},
+	{
+		"CodigoIBGE": 3122900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DONA EUSEBIA"
+	},
+	{
+		"CodigoIBGE": 3123007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DORES DE CAMPOS"
+	},
+	{
+		"CodigoIBGE": 3123106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DORES DE GUANHAES"
+	},
+	{
+		"CodigoIBGE": 3123205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DORES DO INDAIA"
+	},
+	{
+		"CodigoIBGE": 3123304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DORES DO TURVO"
+	},
+	{
+		"CodigoIBGE": 3123403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DORESOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3123502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DOURADOQUARA"
+	},
+	{
+		"CodigoIBGE": 3123528,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "DURANDE"
+	},
+	{
+		"CodigoIBGE": 3123601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ELOI MENDES"
+	},
+	{
+		"CodigoIBGE": 3123700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ENGENHEIRO CALDAS"
+	},
+	{
+		"CodigoIBGE": 3123809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ENGENHEIRO NAVARRO"
+	},
+	{
+		"CodigoIBGE": 3123858,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ENTRE FOLHAS"
+	},
+	{
+		"CodigoIBGE": 3123908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ENTRE RIOS DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3124005,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ERVALIA"
+	},
+	{
+		"CodigoIBGE": 3124104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESMERALDAS"
+	},
+	{
+		"CodigoIBGE": 3124203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESPERA FELIZ"
+	},
+	{
+		"CodigoIBGE": 3124302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESPINOSA"
+	},
+	{
+		"CodigoIBGE": 3124401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESPIRITO SANTO DO DOURADO"
+	},
+	{
+		"CodigoIBGE": 3124500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESTIVA"
+	},
+	{
+		"CodigoIBGE": 3124609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESTRELA DALVA"
+	},
+	{
+		"CodigoIBGE": 3124708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESTRELA DO INDAIA"
+	},
+	{
+		"CodigoIBGE": 3124807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ESTRELA DO SUL"
+	},
+	{
+		"CodigoIBGE": 3124906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "EUGENOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3125002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "EWBANK DA CAMARA"
+	},
+	{
+		"CodigoIBGE": 3125101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "EXTREMA"
+	},
+	{
+		"CodigoIBGE": 3125200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FAMA"
+	},
+	{
+		"CodigoIBGE": 3125309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FARIA LEMOS"
+	},
+	{
+		"CodigoIBGE": 3125408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FELICIO DOS SANTOS"
+	},
+	{
+		"CodigoIBGE": 3125507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GONCALO DO RIO PRETO"
+	},
+	{
+		"CodigoIBGE": 3125606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FELISBURGO"
+	},
+	{
+		"CodigoIBGE": 3125705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FELIXLANDIA"
+	},
+	{
+		"CodigoIBGE": 3125804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FERNANDES TOURINHO"
+	},
+	{
+		"CodigoIBGE": 3125903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FERROS"
+	},
+	{
+		"CodigoIBGE": 3125952,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FERVEDOURO"
+	},
+	{
+		"CodigoIBGE": 3126000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FLORESTAL"
+	},
+	{
+		"CodigoIBGE": 3126109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FORMIGA"
+	},
+	{
+		"CodigoIBGE": 3126208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FORMOSO"
+	},
+	{
+		"CodigoIBGE": 3126307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FORTALEZA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3126406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FORTUNA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3126505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRANCISCO BADARO"
+	},
+	{
+		"CodigoIBGE": 3126604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRANCISCO DUMONT"
+	},
+	{
+		"CodigoIBGE": 3126703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRANCISCO SA"
+	},
+	{
+		"CodigoIBGE": 3126752,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRANCISCOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3126802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FREI GASPAR"
+	},
+	{
+		"CodigoIBGE": 3126901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FREI INOCENCIO"
+	},
+	{
+		"CodigoIBGE": 3126950,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FREI LAGONEGRO"
+	},
+	{
+		"CodigoIBGE": 3127008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRONTEIRA"
+	},
+	{
+		"CodigoIBGE": 3127057,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRONTEIRA DOS VALES"
+	},
+	{
+		"CodigoIBGE": 3127073,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRUTA DE LEITE"
+	},
+	{
+		"CodigoIBGE": 3127107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FRUTAL"
+	},
+	{
+		"CodigoIBGE": 3127206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "FUNILANDIA"
+	},
+	{
+		"CodigoIBGE": 3127305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GALILEIA"
+	},
+	{
+		"CodigoIBGE": 3127339,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GAMELEIRAS"
+	},
+	{
+		"CodigoIBGE": 3127354,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GLAUCILANDIA"
+	},
+	{
+		"CodigoIBGE": 3127370,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GOIABEIRA"
+	},
+	{
+		"CodigoIBGE": 3127388,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GOIANA"
+	},
+	{
+		"CodigoIBGE": 3127404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GONCALVES"
+	},
+	{
+		"CodigoIBGE": 3127503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GONZAGA"
+	},
+	{
+		"CodigoIBGE": 3127602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GOUVEA"
+	},
+	{
+		"CodigoIBGE": 3127701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GOVERNADOR VALADARES"
+	},
+	{
+		"CodigoIBGE": 3127800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GRAO MOGOL"
+	},
+	{
+		"CodigoIBGE": 3127909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GRUPIARA"
+	},
+	{
+		"CodigoIBGE": 3128006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUANHAES"
+	},
+	{
+		"CodigoIBGE": 3128105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUAPE"
+	},
+	{
+		"CodigoIBGE": 3128204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUARACIABA"
+	},
+	{
+		"CodigoIBGE": 3128253,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUARACIAMA"
+	},
+	{
+		"CodigoIBGE": 3128303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUARANESIA"
+	},
+	{
+		"CodigoIBGE": 3128402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUARANI"
+	},
+	{
+		"CodigoIBGE": 3128501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUARARA"
+	},
+	{
+		"CodigoIBGE": 3128600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUARDAMOR"
+	},
+	{
+		"CodigoIBGE": 3128709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUAXUPE"
+	},
+	{
+		"CodigoIBGE": 3128808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUIDOVAL"
+	},
+	{
+		"CodigoIBGE": 3128907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUIMARANIA"
+	},
+	{
+		"CodigoIBGE": 3129004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GUIRICEMA"
+	},
+	{
+		"CodigoIBGE": 3129103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "GURINHATA"
+	},
+	{
+		"CodigoIBGE": 3129202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "HELIODORA"
+	},
+	{
+		"CodigoIBGE": 3129301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IAPU"
+	},
+	{
+		"CodigoIBGE": 3129400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBERTIOGA"
+	},
+	{
+		"CodigoIBGE": 3129509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBIA"
+	},
+	{
+		"CodigoIBGE": 3129608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBIAI"
+	},
+	{
+		"CodigoIBGE": 3129657,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBIRACATU"
+	},
+	{
+		"CodigoIBGE": 3129707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBIRACI"
+	},
+	{
+		"CodigoIBGE": 3129806,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBIRITE"
+	},
+	{
+		"CodigoIBGE": 3129905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBITIURA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3130002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IBITURUNA"
+	},
+	{
+		"CodigoIBGE": 3130051,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ICARAI DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3130101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IGARAPE"
+	},
+	{
+		"CodigoIBGE": 3130200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IGARATINGA"
+	},
+	{
+		"CodigoIBGE": 3130309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IGUATAMA"
+	},
+	{
+		"CodigoIBGE": 3130408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IJACI"
+	},
+	{
+		"CodigoIBGE": 3130507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ILICINEA"
+	},
+	{
+		"CodigoIBGE": 3130556,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IMBE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3130606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INCONFIDENTES"
+	},
+	{
+		"CodigoIBGE": 3130655,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INDAIABIRA"
+	},
+	{
+		"CodigoIBGE": 3130705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INDIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3130804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INGAI"
+	},
+	{
+		"CodigoIBGE": 3130903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INHAPIM"
+	},
+	{
+		"CodigoIBGE": 3131000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INHAUMA"
+	},
+	{
+		"CodigoIBGE": 3131109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "INIMUTABA"
+	},
+	{
+		"CodigoIBGE": 3131158,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IPABA"
+	},
+	{
+		"CodigoIBGE": 3131208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IPANEMA"
+	},
+	{
+		"CodigoIBGE": 3131307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IPATINGA"
+	},
+	{
+		"CodigoIBGE": 3131406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IPIACU"
+	},
+	{
+		"CodigoIBGE": 3131505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IPUIUNA"
+	},
+	{
+		"CodigoIBGE": 3131604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "IRAI DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3131703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITABIRA"
+	},
+	{
+		"CodigoIBGE": 3131802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITABIRINHA"
+	},
+	{
+		"CodigoIBGE": 3131901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITABIRITO"
+	},
+	{
+		"CodigoIBGE": 3132008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITACAMBIRA"
+	},
+	{
+		"CodigoIBGE": 3132107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITACARAMBI"
+	},
+	{
+		"CodigoIBGE": 3132206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAGUARA"
+	},
+	{
+		"CodigoIBGE": 3132305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAIPE"
+	},
+	{
+		"CodigoIBGE": 3132404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAJUBA"
+	},
+	{
+		"CodigoIBGE": 3132503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAMARANDIBA"
+	},
+	{
+		"CodigoIBGE": 3132602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAMARATI DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3132701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAMBACURI"
+	},
+	{
+		"CodigoIBGE": 3132800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAMBE DO MATO DENTRO"
+	},
+	{
+		"CodigoIBGE": 3132909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAMOGI"
+	},
+	{
+		"CodigoIBGE": 3133006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAMONTE"
+	},
+	{
+		"CodigoIBGE": 3133105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITANHANDU"
+	},
+	{
+		"CodigoIBGE": 3133204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITANHOMI"
+	},
+	{
+		"CodigoIBGE": 3133303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAOBIM"
+	},
+	{
+		"CodigoIBGE": 3133402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAPAGIPE"
+	},
+	{
+		"CodigoIBGE": 3133501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAPECERICA"
+	},
+	{
+		"CodigoIBGE": 3133600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAPEVA"
+	},
+	{
+		"CodigoIBGE": 3133709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITATIAIUCU"
+	},
+	{
+		"CodigoIBGE": 3133758,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAU DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3133808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAUNA"
+	},
+	{
+		"CodigoIBGE": 3133907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITAVERAVA"
+	},
+	{
+		"CodigoIBGE": 3134004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITINGA"
+	},
+	{
+		"CodigoIBGE": 3134103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITUETA"
+	},
+	{
+		"CodigoIBGE": 3134202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITUIUTABA"
+	},
+	{
+		"CodigoIBGE": 3134301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITUMIRIM"
+	},
+	{
+		"CodigoIBGE": 3134400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITURAMA"
+	},
+	{
+		"CodigoIBGE": 3134509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ITUTINGA"
+	},
+	{
+		"CodigoIBGE": 3134608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JABOTICATUBAS"
+	},
+	{
+		"CodigoIBGE": 3134707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JACINTO"
+	},
+	{
+		"CodigoIBGE": 3134806,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JACUI"
+	},
+	{
+		"CodigoIBGE": 3134905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JACUTINGA"
+	},
+	{
+		"CodigoIBGE": 3135001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JAGUARACU"
+	},
+	{
+		"CodigoIBGE": 3135050,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JAIBA"
+	},
+	{
+		"CodigoIBGE": 3135076,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JAMPRUCA"
+	},
+	{
+		"CodigoIBGE": 3135100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JANAUBA"
+	},
+	{
+		"CodigoIBGE": 3135209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JANUARIA"
+	},
+	{
+		"CodigoIBGE": 3135308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JAPARAIBA"
+	},
+	{
+		"CodigoIBGE": 3135357,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JAPONVAR"
+	},
+	{
+		"CodigoIBGE": 3135407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JECEABA"
+	},
+	{
+		"CodigoIBGE": 3135456,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JENIPAPO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3135506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JEQUERI"
+	},
+	{
+		"CodigoIBGE": 3135605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JEQUITAI"
+	},
+	{
+		"CodigoIBGE": 3135704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JEQUITIBA"
+	},
+	{
+		"CodigoIBGE": 3135803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JEQUITINHONHA"
+	},
+	{
+		"CodigoIBGE": 3135902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JESUANIA"
+	},
+	{
+		"CodigoIBGE": 3136009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOAIMA"
+	},
+	{
+		"CodigoIBGE": 3136108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOANESIA"
+	},
+	{
+		"CodigoIBGE": 3136207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOAO MONLEVADE"
+	},
+	{
+		"CodigoIBGE": 3136306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOAO PINHEIRO"
+	},
+	{
+		"CodigoIBGE": 3136405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOAQUIM FELICIO"
+	},
+	{
+		"CodigoIBGE": 3136504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JORDANIA"
+	},
+	{
+		"CodigoIBGE": 3136520,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOSE GONCALVES DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3136553,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOSE RAYDAN"
+	},
+	{
+		"CodigoIBGE": 3136579,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JOSENOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3136603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA UNIAO"
+	},
+	{
+		"CodigoIBGE": 3136652,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JUATUBA"
+	},
+	{
+		"CodigoIBGE": 3136702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JUIZ DE FORA"
+	},
+	{
+		"CodigoIBGE": 3136801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JURAMENTO"
+	},
+	{
+		"CodigoIBGE": 3136900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JURUAIA"
+	},
+	{
+		"CodigoIBGE": 3136959,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "JUVENILIA"
+	},
+	{
+		"CodigoIBGE": 3137007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LADAINHA"
+	},
+	{
+		"CodigoIBGE": 3137106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGAMAR"
+	},
+	{
+		"CodigoIBGE": 3137205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGOA DA PRATA"
+	},
+	{
+		"CodigoIBGE": 3137304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGOA DOS PATOS"
+	},
+	{
+		"CodigoIBGE": 3137403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGOA DOURADA"
+	},
+	{
+		"CodigoIBGE": 3137502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGOA FORMOSA"
+	},
+	{
+		"CodigoIBGE": 3137536,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGOA GRANDE"
+	},
+	{
+		"CodigoIBGE": 3137601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAGOA SANTA"
+	},
+	{
+		"CodigoIBGE": 3137700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAJINHA"
+	},
+	{
+		"CodigoIBGE": 3137809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAMBARI"
+	},
+	{
+		"CodigoIBGE": 3137908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAMIM"
+	},
+	{
+		"CodigoIBGE": 3138005,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LARANJAL"
+	},
+	{
+		"CodigoIBGE": 3138104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LASSANCE"
+	},
+	{
+		"CodigoIBGE": 3138203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LAVRAS"
+	},
+	{
+		"CodigoIBGE": 3138302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LEANDRO FERREIRA"
+	},
+	{
+		"CodigoIBGE": 3138351,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LEME DO PRADO"
+	},
+	{
+		"CodigoIBGE": 3138401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LEOPOLDINA"
+	},
+	{
+		"CodigoIBGE": 3138500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LIBERDADE"
+	},
+	{
+		"CodigoIBGE": 3138609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LIMA DUARTE"
+	},
+	{
+		"CodigoIBGE": 3138625,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LIMEIRA DO OESTE"
+	},
+	{
+		"CodigoIBGE": 3138658,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LONTRA"
+	},
+	{
+		"CodigoIBGE": 3138674,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LUISBURGO"
+	},
+	{
+		"CodigoIBGE": 3138682,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LUISLANDIA"
+	},
+	{
+		"CodigoIBGE": 3138708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LUMINARIAS"
+	},
+	{
+		"CodigoIBGE": 3138807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "LUZ"
+	},
+	{
+		"CodigoIBGE": 3138906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MACHACALIS"
+	},
+	{
+		"CodigoIBGE": 3139003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MACHADO"
+	},
+	{
+		"CodigoIBGE": 3139102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MADRE DE DEUS DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3139201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MALACACHETA"
+	},
+	{
+		"CodigoIBGE": 3139250,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MAMONAS"
+	},
+	{
+		"CodigoIBGE": 3139300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MANGA"
+	},
+	{
+		"CodigoIBGE": 3139409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MANHUACU"
+	},
+	{
+		"CodigoIBGE": 3139508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MANHUMIRIM"
+	},
+	{
+		"CodigoIBGE": 3139607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MANTENA"
+	},
+	{
+		"CodigoIBGE": 3139706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARAVILHAS"
+	},
+	{
+		"CodigoIBGE": 3139805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MAR DE ESPANHA"
+	},
+	{
+		"CodigoIBGE": 3139904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARIA DA FE"
+	},
+	{
+		"CodigoIBGE": 3140001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARIANA"
+	},
+	{
+		"CodigoIBGE": 3140100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARILAC"
+	},
+	{
+		"CodigoIBGE": 3140159,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARIO CAMPOS"
+	},
+	{
+		"CodigoIBGE": 3140209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARIPA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3140308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARLIERIA"
+	},
+	{
+		"CodigoIBGE": 3140407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARMELOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3140506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARTINHO CAMPOS"
+	},
+	{
+		"CodigoIBGE": 3140530,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MARTINS SOARES"
+	},
+	{
+		"CodigoIBGE": 3140555,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATA VERDE"
+	},
+	{
+		"CodigoIBGE": 3140605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATERLANDIA"
+	},
+	{
+		"CodigoIBGE": 3140704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATEUS LEME"
+	},
+	{
+		"CodigoIBGE": 3140803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATIAS BARBOSA"
+	},
+	{
+		"CodigoIBGE": 3140852,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATIAS CARDOSO"
+	},
+	{
+		"CodigoIBGE": 3140902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATIPO"
+	},
+	{
+		"CodigoIBGE": 3141009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATO VERDE"
+	},
+	{
+		"CodigoIBGE": 3141108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATOZINHOS"
+	},
+	{
+		"CodigoIBGE": 3141207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATUTINA"
+	},
+	{
+		"CodigoIBGE": 3141306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MEDEIROS"
+	},
+	{
+		"CodigoIBGE": 3141405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MEDINA"
+	},
+	{
+		"CodigoIBGE": 3141504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MENDES PIMENTEL"
+	},
+	{
+		"CodigoIBGE": 3141603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MERCES"
+	},
+	{
+		"CodigoIBGE": 3141702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MESQUITA"
+	},
+	{
+		"CodigoIBGE": 3141801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MINAS NOVAS"
+	},
+	{
+		"CodigoIBGE": 3141900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MINDURI"
+	},
+	{
+		"CodigoIBGE": 3142007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MIRABELA"
+	},
+	{
+		"CodigoIBGE": 3142106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MIRADOURO"
+	},
+	{
+		"CodigoIBGE": 3142205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MIRAI"
+	},
+	{
+		"CodigoIBGE": 3142254,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MIRAVANIA"
+	},
+	{
+		"CodigoIBGE": 3142304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MOEDA"
+	},
+	{
+		"CodigoIBGE": 3142403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MOEMA"
+	},
+	{
+		"CodigoIBGE": 3142502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONJOLOS"
+	},
+	{
+		"CodigoIBGE": 3142601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONSENHOR PAULO"
+	},
+	{
+		"CodigoIBGE": 3142700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTALVANIA"
+	},
+	{
+		"CodigoIBGE": 3142809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE ALEGRE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3142908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE AZUL"
+	},
+	{
+		"CodigoIBGE": 3143005,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE BELO"
+	},
+	{
+		"CodigoIBGE": 3143104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE CARMELO"
+	},
+	{
+		"CodigoIBGE": 3143153,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE FORMOSO"
+	},
+	{
+		"CodigoIBGE": 3143203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE SANTO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3143302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTES CLAROS"
+	},
+	{
+		"CodigoIBGE": 3143401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTE SIAO"
+	},
+	{
+		"CodigoIBGE": 3143450,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MONTEZUMA"
+	},
+	{
+		"CodigoIBGE": 3143500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MORADA NOVA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3143609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MORRO DA GARCA"
+	},
+	{
+		"CodigoIBGE": 3143708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MORRO DO PILAR"
+	},
+	{
+		"CodigoIBGE": 3143807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MUNHOZ"
+	},
+	{
+		"CodigoIBGE": 3143906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MURIAE"
+	},
+	{
+		"CodigoIBGE": 3144003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MUTUM"
+	},
+	{
+		"CodigoIBGE": 3144102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MUZAMBINHO"
+	},
+	{
+		"CodigoIBGE": 3144201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NACIP RAYDAN"
+	},
+	{
+		"CodigoIBGE": 3144300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NANUQUE"
+	},
+	{
+		"CodigoIBGE": 3144359,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NAQUE"
+	},
+	{
+		"CodigoIBGE": 3144375,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NATALANDIA"
+	},
+	{
+		"CodigoIBGE": 3144409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NATERCIA"
+	},
+	{
+		"CodigoIBGE": 3144508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NAZARENO"
+	},
+	{
+		"CodigoIBGE": 3144607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NEPOMUCENO"
+	},
+	{
+		"CodigoIBGE": 3144656,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NINHEIRA"
+	},
+	{
+		"CodigoIBGE": 3144672,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA BELEM"
+	},
+	{
+		"CodigoIBGE": 3144706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA ERA"
+	},
+	{
+		"CodigoIBGE": 3144805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA LIMA"
+	},
+	{
+		"CodigoIBGE": 3144904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA MODICA"
+	},
+	{
+		"CodigoIBGE": 3145000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA PONTE"
+	},
+	{
+		"CodigoIBGE": 3145059,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA PORTEIRINHA"
+	},
+	{
+		"CodigoIBGE": 3145109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA RESENDE"
+	},
+	{
+		"CodigoIBGE": 3145208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVA SERRANA"
+	},
+	{
+		"CodigoIBGE": 3145307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVO CRUZEIRO"
+	},
+	{
+		"CodigoIBGE": 3145356,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVO ORIENTE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3145372,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "NOVORIZONTE"
+	},
+	{
+		"CodigoIBGE": 3145406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OLARIA"
+	},
+	{
+		"CodigoIBGE": 3145455,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OLHOS D-  AGUA"
+	},
+	{
+		"CodigoIBGE": 3145505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OLIMPIO NORONHA"
+	},
+	{
+		"CodigoIBGE": 3145604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OLIVEIRA"
+	},
+	{
+		"CodigoIBGE": 3145703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OLIVEIRA FORTES"
+	},
+	{
+		"CodigoIBGE": 3145802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ONCA DE PITANGUI"
+	},
+	{
+		"CodigoIBGE": 3145851,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ORATORIOS"
+	},
+	{
+		"CodigoIBGE": 3145877,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ORIZANIA"
+	},
+	{
+		"CodigoIBGE": 3145901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OURO BRANCO"
+	},
+	{
+		"CodigoIBGE": 3146008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OURO FINO"
+	},
+	{
+		"CodigoIBGE": 3146107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OURO PRETO"
+	},
+	{
+		"CodigoIBGE": 3146206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "OURO VERDE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3146255,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PADRE CARVALHO"
+	},
+	{
+		"CodigoIBGE": 3146305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PADRE PARAISO"
+	},
+	{
+		"CodigoIBGE": 3146404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAINEIRAS"
+	},
+	{
+		"CodigoIBGE": 3146503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAINS"
+	},
+	{
+		"CodigoIBGE": 3146552,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAI PEDRO"
+	},
+	{
+		"CodigoIBGE": 3146602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAIVA"
+	},
+	{
+		"CodigoIBGE": 3146701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PALMA"
+	},
+	{
+		"CodigoIBGE": 3146750,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PALMOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3146909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAPAGAIOS"
+	},
+	{
+		"CodigoIBGE": 3147006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PARACATU"
+	},
+	{
+		"CodigoIBGE": 3147105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PARA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3147204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PARAGUACU"
+	},
+	{
+		"CodigoIBGE": 3147303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PARAISOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3147402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PARAOPEBA"
+	},
+	{
+		"CodigoIBGE": 3147501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PASSABEM"
+	},
+	{
+		"CodigoIBGE": 3147600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PASSA QUATRO"
+	},
+	{
+		"CodigoIBGE": 3147709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PASSA TEMPO"
+	},
+	{
+		"CodigoIBGE": 3147808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PASSAVINTE"
+	},
+	{
+		"CodigoIBGE": 3147907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PASSOS"
+	},
+	{
+		"CodigoIBGE": 3147956,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PATIS"
+	},
+	{
+		"CodigoIBGE": 3148004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PATOS DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3148103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PATROCINIO"
+	},
+	{
+		"CodigoIBGE": 3148202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PATROCINIO DO MURIAE"
+	},
+	{
+		"CodigoIBGE": 3148301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAULA CANDIDO"
+	},
+	{
+		"CodigoIBGE": 3148400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAULISTAS"
+	},
+	{
+		"CodigoIBGE": 3148509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PAVAO"
+	},
+	{
+		"CodigoIBGE": 3148608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PECANHA"
+	},
+	{
+		"CodigoIBGE": 3148707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRA AZUL"
+	},
+	{
+		"CodigoIBGE": 3148756,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRA BONITA"
+	},
+	{
+		"CodigoIBGE": 3148806,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRA DO ANTA"
+	},
+	{
+		"CodigoIBGE": 3148905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRA DO INDAIA"
+	},
+	{
+		"CodigoIBGE": 3149002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRA DOURADA"
+	},
+	{
+		"CodigoIBGE": 3149101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRALVA"
+	},
+	{
+		"CodigoIBGE": 3149150,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRAS DE MARIA DA CRUZ"
+	},
+	{
+		"CodigoIBGE": 3149200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3149309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRO LEOPOLDO"
+	},
+	{
+		"CodigoIBGE": 3149408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEDRO TEIXEIRA"
+	},
+	{
+		"CodigoIBGE": 3149507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEQUERI"
+	},
+	{
+		"CodigoIBGE": 3149606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PEQUI"
+	},
+	{
+		"CodigoIBGE": 3149705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PERDIGAO"
+	},
+	{
+		"CodigoIBGE": 3149804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PERDIZES"
+	},
+	{
+		"CodigoIBGE": 3149903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PERDOES"
+	},
+	{
+		"CodigoIBGE": 3149952,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PERIQUITO"
+	},
+	{
+		"CodigoIBGE": 3150000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PESCADOR"
+	},
+	{
+		"CodigoIBGE": 3150109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIAU"
+	},
+	{
+		"CodigoIBGE": 3150158,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIEDADE DE CARATINGA"
+	},
+	{
+		"CodigoIBGE": 3150208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIEDADE DE PONTE NOVA"
+	},
+	{
+		"CodigoIBGE": 3150307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIEDADE DO RIO GRANDE"
+	},
+	{
+		"CodigoIBGE": 3150406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIEDADE DOS GERAIS"
+	},
+	{
+		"CodigoIBGE": 3150505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIMENTA"
+	},
+	{
+		"CodigoIBGE": 3150539,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PINGOD-  AGUA"
+	},
+	{
+		"CodigoIBGE": 3150570,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PINTOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3150604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRACEMA"
+	},
+	{
+		"CodigoIBGE": 3150703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRAJUBA"
+	},
+	{
+		"CodigoIBGE": 3150802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRANGA"
+	},
+	{
+		"CodigoIBGE": 3150901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRANGUCU"
+	},
+	{
+		"CodigoIBGE": 3151008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRANGUINHO"
+	},
+	{
+		"CodigoIBGE": 3151107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRAPETINGA"
+	},
+	{
+		"CodigoIBGE": 3151206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRAPORA"
+	},
+	{
+		"CodigoIBGE": 3151305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIRAUBA"
+	},
+	{
+		"CodigoIBGE": 3151404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PITANGUI"
+	},
+	{
+		"CodigoIBGE": 3151503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PIUMHI"
+	},
+	{
+		"CodigoIBGE": 3151602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PLANURA"
+	},
+	{
+		"CodigoIBGE": 3151701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POCO FUNDO"
+	},
+	{
+		"CodigoIBGE": 3151800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POCOS DE CALDAS"
+	},
+	{
+		"CodigoIBGE": 3151909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POCRANE"
+	},
+	{
+		"CodigoIBGE": 3152006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POMPEU"
+	},
+	{
+		"CodigoIBGE": 3152105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PONTE NOVA"
+	},
+	{
+		"CodigoIBGE": 3152131,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PONTO CHIQUE"
+	},
+	{
+		"CodigoIBGE": 3152170,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PONTO DOS VOLANTES"
+	},
+	{
+		"CodigoIBGE": 3152204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PORTEIRINHA"
+	},
+	{
+		"CodigoIBGE": 3152303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PORTO FIRME"
+	},
+	{
+		"CodigoIBGE": 3152402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POTE"
+	},
+	{
+		"CodigoIBGE": 3152501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POUSO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 3152600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "POUSO ALTO"
+	},
+	{
+		"CodigoIBGE": 3152709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRADOS"
+	},
+	{
+		"CodigoIBGE": 3152808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRATA"
+	},
+	{
+		"CodigoIBGE": 3152907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRATAPOLIS"
+	},
+	{
+		"CodigoIBGE": 3153004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRATINHA"
+	},
+	{
+		"CodigoIBGE": 3153103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRESIDENTE BERNARDES"
+	},
+	{
+		"CodigoIBGE": 3153202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRESIDENTE JUSCELINO"
+	},
+	{
+		"CodigoIBGE": 3153301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRESIDENTE KUBITSCHEK"
+	},
+	{
+		"CodigoIBGE": 3153400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRESIDENTE OLEGARIO"
+	},
+	{
+		"CodigoIBGE": 3153509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ALTO JEQUITIBA"
+	},
+	{
+		"CodigoIBGE": 3153608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "PRUDENTE DE MORAIS"
+	},
+	{
+		"CodigoIBGE": 3153707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "QUARTEL GERAL"
+	},
+	{
+		"CodigoIBGE": 3153806,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "QUELUZITO"
+	},
+	{
+		"CodigoIBGE": 3153905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RAPOSOS"
+	},
+	{
+		"CodigoIBGE": 3154002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RAUL SOARES"
+	},
+	{
+		"CodigoIBGE": 3154101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RECREIO"
+	},
+	{
+		"CodigoIBGE": 3154150,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "REDUTO"
+	},
+	{
+		"CodigoIBGE": 3154200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RESENDE COSTA"
+	},
+	{
+		"CodigoIBGE": 3154309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RESPLENDOR"
+	},
+	{
+		"CodigoIBGE": 3154408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RESSAQUINHA"
+	},
+	{
+		"CodigoIBGE": 3154457,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIACHINHO"
+	},
+	{
+		"CodigoIBGE": 3154507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIACHO DOS MACHADOS"
+	},
+	{
+		"CodigoIBGE": 3154606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIBEIRAO DAS NEVES"
+	},
+	{
+		"CodigoIBGE": 3154705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIBEIRAO VERMELHO"
+	},
+	{
+		"CodigoIBGE": 3154804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO ACIMA"
+	},
+	{
+		"CodigoIBGE": 3154903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO CASCA"
+	},
+	{
+		"CodigoIBGE": 3155009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO DOCE"
+	},
+	{
+		"CodigoIBGE": 3155108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO DO PRADO"
+	},
+	{
+		"CodigoIBGE": 3155207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO ESPERA"
+	},
+	{
+		"CodigoIBGE": 3155306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO MANSO"
+	},
+	{
+		"CodigoIBGE": 3155405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO NOVO"
+	},
+	{
+		"CodigoIBGE": 3155504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO PARANAIBA"
+	},
+	{
+		"CodigoIBGE": 3155603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO PARDO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3155702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO PIRACICABA"
+	},
+	{
+		"CodigoIBGE": 3155801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO POMBA"
+	},
+	{
+		"CodigoIBGE": 3155900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO PRETO"
+	},
+	{
+		"CodigoIBGE": 3156007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RIO VERMELHO"
+	},
+	{
+		"CodigoIBGE": 3156106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RITAPOLIS"
+	},
+	{
+		"CodigoIBGE": 3156205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ROCHEDO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3156304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RODEIRO"
+	},
+	{
+		"CodigoIBGE": 3156403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ROMARIA"
+	},
+	{
+		"CodigoIBGE": 3156452,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "ROSARIO DA LIMEIRA"
+	},
+	{
+		"CodigoIBGE": 3156502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RUBELITA"
+	},
+	{
+		"CodigoIBGE": 3156601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "RUBIM"
+	},
+	{
+		"CodigoIBGE": 3156700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SABARA"
+	},
+	{
+		"CodigoIBGE": 3156809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SABINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3156908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SACRAMENTO"
+	},
+	{
+		"CodigoIBGE": 3157005,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SALINAS"
+	},
+	{
+		"CodigoIBGE": 3157104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SALTO DA DIVISA"
+	},
+	{
+		"CodigoIBGE": 3157203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA BARBARA"
+	},
+	{
+		"CodigoIBGE": 3157252,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA BARBARA DO LESTE"
+	},
+	{
+		"CodigoIBGE": 3157278,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA BARBARA DO MONTE VERDE"
+	},
+	{
+		"CodigoIBGE": 3157302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA BARBARA DO TUGURIO"
+	},
+	{
+		"CodigoIBGE": 3157336,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA CRUZ DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3157377,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA CRUZ DE SALINAS"
+	},
+	{
+		"CodigoIBGE": 3157401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA CRUZ DO ESCALVADO"
+	},
+	{
+		"CodigoIBGE": 3157500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA EFIGENIA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3157609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA FE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3157658,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA HELENA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3157708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA JULIANA"
+	},
+	{
+		"CodigoIBGE": 3157807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA LUZIA"
+	},
+	{
+		"CodigoIBGE": 3157906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA MARGARIDA"
+	},
+	{
+		"CodigoIBGE": 3158003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA MARIA DE ITABIRA"
+	},
+	{
+		"CodigoIBGE": 3158102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA MARIA DO SALTO"
+	},
+	{
+		"CodigoIBGE": 3158201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA MARIA DO SUACUI"
+	},
+	{
+		"CodigoIBGE": 3158300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DA VARGEM"
+	},
+	{
+		"CodigoIBGE": 3158409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DE CATAGUASES"
+	},
+	{
+		"CodigoIBGE": 3158508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DE PIRAPAMA"
+	},
+	{
+		"CodigoIBGE": 3158607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DO DESERTO"
+	},
+	{
+		"CodigoIBGE": 3158706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DO GARAMBEU"
+	},
+	{
+		"CodigoIBGE": 3158805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DO JACARE"
+	},
+	{
+		"CodigoIBGE": 3158904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DO MANHUACU"
+	},
+	{
+		"CodigoIBGE": 3158953,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DO PARAISO"
+	},
+	{
+		"CodigoIBGE": 3159001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DO RIACHO"
+	},
+	{
+		"CodigoIBGE": 3159100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTANA DOS MONTES"
+	},
+	{
+		"CodigoIBGE": 3159209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA RITA DE CALDAS"
+	},
+	{
+		"CodigoIBGE": 3159308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA RITA DE JACUTINGA"
+	},
+	{
+		"CodigoIBGE": 3159357,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA RITA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3159407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA RITA DO IBITIPOCA"
+	},
+	{
+		"CodigoIBGE": 3159506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA RITA DO ITUETO"
+	},
+	{
+		"CodigoIBGE": 3159605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA RITA DO SAPUCAI"
+	},
+	{
+		"CodigoIBGE": 3159704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA ROSA DA SERRA"
+	},
+	{
+		"CodigoIBGE": 3159803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTA VITORIA"
+	},
+	{
+		"CodigoIBGE": 3159902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO AMPARO"
+	},
+	{
+		"CodigoIBGE": 3160009,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO AVENTUREIRO"
+	},
+	{
+		"CodigoIBGE": 3160108,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO GRAMA"
+	},
+	{
+		"CodigoIBGE": 3160207,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO ITAMBE"
+	},
+	{
+		"CodigoIBGE": 3160306,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO JACINTO"
+	},
+	{
+		"CodigoIBGE": 3160405,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO MONTE"
+	},
+	{
+		"CodigoIBGE": 3160454,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO RETIRO"
+	},
+	{
+		"CodigoIBGE": 3160504,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO ANTONIO DO RIO ABAIXO"
+	},
+	{
+		"CodigoIBGE": 3160603,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTO HIPOLITO"
+	},
+	{
+		"CodigoIBGE": 3160702,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SANTOS DUMONT"
+	},
+	{
+		"CodigoIBGE": 3160801,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO BENTO ABADE"
+	},
+	{
+		"CodigoIBGE": 3160900,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO BRAS DO SUACUI"
+	},
+	{
+		"CodigoIBGE": 3160959,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO DOMINGOS DAS DORES"
+	},
+	{
+		"CodigoIBGE": 3161007,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO DOMINGOS DO PRATA"
+	},
+	{
+		"CodigoIBGE": 3161056,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO FELIX DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3161106,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO FRANCISCO"
+	},
+	{
+		"CodigoIBGE": 3161205,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO FRANCISCO DE PAULA"
+	},
+	{
+		"CodigoIBGE": 3161304,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO FRANCISCO DE SALES"
+	},
+	{
+		"CodigoIBGE": 3161403,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO FRANCISCO DO GLORIA"
+	},
+	{
+		"CodigoIBGE": 3161502,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GERALDO"
+	},
+	{
+		"CodigoIBGE": 3161601,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GERALDO DA PIEDADE"
+	},
+	{
+		"CodigoIBGE": 3161650,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GERALDO DO BAIXIO"
+	},
+	{
+		"CodigoIBGE": 3161700,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GONCALO DO ABAETE"
+	},
+	{
+		"CodigoIBGE": 3161809,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GONCALO DO PARA"
+	},
+	{
+		"CodigoIBGE": 3161908,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GONCALO DO RIO ABAIXO"
+	},
+	{
+		"CodigoIBGE": 3162005,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GONCALO DO SAPUCAI"
+	},
+	{
+		"CodigoIBGE": 3162104,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO GOTARDO"
+	},
+	{
+		"CodigoIBGE": 3162203,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO BATISTA DO GLORIA"
+	},
+	{
+		"CodigoIBGE": 3162252,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DA LAGOA"
+	},
+	{
+		"CodigoIBGE": 3162302,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DA MATA"
+	},
+	{
+		"CodigoIBGE": 3162401,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DA PONTE"
+	},
+	{
+		"CodigoIBGE": 3162450,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DAS MISSOES"
+	},
+	{
+		"CodigoIBGE": 3162500,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DEL REI"
+	},
+	{
+		"CodigoIBGE": 3162559,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DO MANHUACU"
+	},
+	{
+		"CodigoIBGE": 3162575,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DO MANTENINHA"
+	},
+	{
+		"CodigoIBGE": 3162609,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DO ORIENTE"
+	},
+	{
+		"CodigoIBGE": 3162658,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DO PACUI"
+	},
+	{
+		"CodigoIBGE": 3162708,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO DO PARAISO"
+	},
+	{
+		"CodigoIBGE": 3162807,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO EVANGELISTA"
+	},
+	{
+		"CodigoIBGE": 3162906,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAO NEPOMUCENO"
+	},
+	{
+		"CodigoIBGE": 3162922,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOAQUIM DE BICAS"
+	},
+	{
+		"CodigoIBGE": 3162948,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DA BARRA"
+	},
+	{
+		"CodigoIBGE": 3162955,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DA LAPA"
+	},
+	{
+		"CodigoIBGE": 3163003,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DA SAFIRA"
+	},
+	{
+		"CodigoIBGE": 3163102,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DA VARGINHA"
+	},
+	{
+		"CodigoIBGE": 3163201,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 3163300,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DO DIVINO"
+	},
+	{
+		"CodigoIBGE": 3163409,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DO GOIABAL"
+	},
+	{
+		"CodigoIBGE": 3163508,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DO JACURI"
+	},
+	{
+		"CodigoIBGE": 3163607,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO JOSE DO MANTIMENTO"
+	},
+	{
+		"CodigoIBGE": 3163706,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO LOURENCO"
+	},
+	{
+		"CodigoIBGE": 3163805,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO MIGUEL DO ANTA"
+	},
+	{
+		"CodigoIBGE": 3163904,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO PEDRO DA UNIAO"
+	},
+	{
+		"CodigoIBGE": 3164001,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO PEDRO DOS FERROS"
+	},
+	{
+		"CodigoIBGE": 3164100,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO PEDRO DO SUACUI"
+	},
+	{
+		"CodigoIBGE": 3164209,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO ROMAO"
+	},
+	{
+		"CodigoIBGE": 3164308,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO ROQUE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3164407,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DA BELA VISTA"
+	},
+	{
+		"CodigoIBGE": 3164431,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DA VARGEM ALEGRE"
+	},
+	{
+		"CodigoIBGE": 3164472,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DO ANTA"
+	},
+	{
+		"CodigoIBGE": 3164506,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DO MARANHAO"
+	},
+	{
+		"CodigoIBGE": 3164605,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DO OESTE"
+	},
+	{
+		"CodigoIBGE": 3164704,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DO PARAISO"
+	},
+	{
+		"CodigoIBGE": 3164803,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DO RIO PRETO"
+	},
+	{
+		"CodigoIBGE": 3164902,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO SEBASTIAO DO RIO VERDE"
+	},
+	{
+		"CodigoIBGE": 3165008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO TIAGO"
+	},
+	{
+		"CodigoIBGE": 3165107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO TOMAS DE AQUINO"
+	},
+	{
+		"CodigoIBGE": 3165206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO THOME DAS LETRAS"
+	},
+	{
+		"CodigoIBGE": 3165305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAO VICENTE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3165404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SAPUCAIMIRIM"
+	},
+	{
+		"CodigoIBGE": 3165503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SARDOA"
+	},
+	{
+		"CodigoIBGE": 3165537,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SARZEDO"
+	},
+	{
+		"CodigoIBGE": 3165552,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SETUBINHA"
+	},
+	{
+		"CodigoIBGE": 3165560,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SEMPEIXE"
+	},
+	{
+		"CodigoIBGE": 3165578,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENADOR AMARAL"
+	},
+	{
+		"CodigoIBGE": 3165602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENADOR CORTES"
+	},
+	{
+		"CodigoIBGE": 3165701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENADOR FIRMINO"
+	},
+	{
+		"CodigoIBGE": 3165800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENADOR JOSE BENTO"
+	},
+	{
+		"CodigoIBGE": 3165909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENADOR MODESTINO GONCALVES"
+	},
+	{
+		"CodigoIBGE": 3166006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENHORA DE OLIVEIRA"
+	},
+	{
+		"CodigoIBGE": 3166105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENHORA DO PORTO"
+	},
+	{
+		"CodigoIBGE": 3166204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SENHORA DOS REMEDIOS"
+	},
+	{
+		"CodigoIBGE": 3166303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERICITA"
+	},
+	{
+		"CodigoIBGE": 3166402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERITINGA"
+	},
+	{
+		"CodigoIBGE": 3166501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRA AZUL DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3166600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRA DA SAUDADE"
+	},
+	{
+		"CodigoIBGE": 3166709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRA DOS AIMORES"
+	},
+	{
+		"CodigoIBGE": 3166808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRA DO SALITRE"
+	},
+	{
+		"CodigoIBGE": 3166907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRANIA"
+	},
+	{
+		"CodigoIBGE": 3166956,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRANOPOLIS DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3167004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRANOS"
+	},
+	{
+		"CodigoIBGE": 3167103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SERRO"
+	},
+	{
+		"CodigoIBGE": 3167202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SETE LAGOAS"
+	},
+	{
+		"CodigoIBGE": 3167301,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SILVEIRANIA"
+	},
+	{
+		"CodigoIBGE": 3167400,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SILVIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3167509,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SIMAO PEREIRA"
+	},
+	{
+		"CodigoIBGE": 3167608,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SIMONESIA"
+	},
+	{
+		"CodigoIBGE": 3167707,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SOBRALIA"
+	},
+	{
+		"CodigoIBGE": 3167806,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "SOLEDADE DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3167905,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TABULEIRO"
+	},
+	{
+		"CodigoIBGE": 3168002,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TAIOBEIRAS"
+	},
+	{
+		"CodigoIBGE": 3168051,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TAPARUBA"
+	},
+	{
+		"CodigoIBGE": 3168101,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TAPIRA"
+	},
+	{
+		"CodigoIBGE": 3168200,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TAPIRAI"
+	},
+	{
+		"CodigoIBGE": 3168309,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TAQUARACU DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3168408,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TARUMIRIM"
+	},
+	{
+		"CodigoIBGE": 3168507,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TEIXEIRAS"
+	},
+	{
+		"CodigoIBGE": 3168606,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TEOFILO OTONI"
+	},
+	{
+		"CodigoIBGE": 3168705,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TIMOTEO"
+	},
+	{
+		"CodigoIBGE": 3168804,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TIRADENTES"
+	},
+	{
+		"CodigoIBGE": 3168903,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TIROS"
+	},
+	{
+		"CodigoIBGE": 3169000,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TOCANTINS"
+	},
+	{
+		"CodigoIBGE": 3169059,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TOCOS DO MOJI"
+	},
+	{
+		"CodigoIBGE": 3169109,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TOLEDO"
+	},
+	{
+		"CodigoIBGE": 3169208,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TOMBOS"
+	},
+	{
+		"CodigoIBGE": 3169307,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TRES CORACOES"
+	},
+	{
+		"CodigoIBGE": 3169356,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TRES MARIAS"
+	},
+	{
+		"CodigoIBGE": 3169406,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TRES PONTAS"
+	},
+	{
+		"CodigoIBGE": 3169505,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TUMIRITINGA"
+	},
+	{
+		"CodigoIBGE": 3169604,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TUPACIGUARA"
+	},
+	{
+		"CodigoIBGE": 3169703,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TURMALINA"
+	},
+	{
+		"CodigoIBGE": 3169802,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "TURVOLANDIA"
+	},
+	{
+		"CodigoIBGE": 3169901,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UBA"
+	},
+	{
+		"CodigoIBGE": 3170008,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UBAI"
+	},
+	{
+		"CodigoIBGE": 3170057,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UBAPORANGA"
+	},
+	{
+		"CodigoIBGE": 3170107,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UBERABA"
+	},
+	{
+		"CodigoIBGE": 3170206,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UBERLANDIA"
+	},
+	{
+		"CodigoIBGE": 3170305,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UMBURATIBA"
+	},
+	{
+		"CodigoIBGE": 3170404,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UNAI"
+	},
+	{
+		"CodigoIBGE": 3170438,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "UNIAO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3170479,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "URUANA DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3170503,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "URUCANIA"
+	},
+	{
+		"CodigoIBGE": 3170529,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "URUCUIA"
+	},
+	{
+		"CodigoIBGE": 3170578,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARGEM ALEGRE"
+	},
+	{
+		"CodigoIBGE": 3170602,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARGEM BONITA"
+	},
+	{
+		"CodigoIBGE": 3170651,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARGEM GRANDE DO RIO PARDO"
+	},
+	{
+		"CodigoIBGE": 3170701,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARGINHA"
+	},
+	{
+		"CodigoIBGE": 3170750,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARJAO DE MINAS"
+	},
+	{
+		"CodigoIBGE": 3170800,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARZEA DA PALMA"
+	},
+	{
+		"CodigoIBGE": 3170909,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VARZELANDIA"
+	},
+	{
+		"CodigoIBGE": 3171006,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VAZANTE"
+	},
+	{
+		"CodigoIBGE": 3171030,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VERDELANDIA"
+	},
+	{
+		"CodigoIBGE": 3171071,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VEREDINHA"
+	},
+	{
+		"CodigoIBGE": 3171105,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VERISSIMO"
+	},
+	{
+		"CodigoIBGE": 3171154,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VERMELHO NOVO"
+	},
+	{
+		"CodigoIBGE": 3171204,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VESPASIANO"
+	},
+	{
+		"CodigoIBGE": 3171303,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VICOSA"
+	},
+	{
+		"CodigoIBGE": 3171402,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VIEIRAS"
+	},
+	{
+		"CodigoIBGE": 3171501,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "MATHIAS LOBATO"
+	},
+	{
+		"CodigoIBGE": 3171600,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VIRGEM DA LAPA"
+	},
+	{
+		"CodigoIBGE": 3171709,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VIRGINIA"
+	},
+	{
+		"CodigoIBGE": 3171808,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VIRGINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 3171907,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VIRGOLANDIA"
+	},
+	{
+		"CodigoIBGE": 3172004,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VISCONDE DO RIO BRANCO"
+	},
+	{
+		"CodigoIBGE": 3172103,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "VOLTA GRANDE"
+	},
+	{
+		"CodigoIBGE": 3172202,
+		"CodigoIBGEUF": 31,
+		"SiglaUF": "MG",
+		"NomeUF": "MINAS GERAIS",
+		"NomeMunicipio": "WENCESLAU BRAZ"
+	}
+]

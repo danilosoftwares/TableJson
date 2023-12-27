@@ -1,0 +1,366 @@
+[
+	{
+		"CodigoIBGE": 1100015,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ALTA FLORESTA D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100023,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ARIQUEMES"
+	},
+	{
+		"CodigoIBGE": 1100031,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CABIXI"
+	},
+	{
+		"CodigoIBGE": 1100049,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CACOAL"
+	},
+	{
+		"CodigoIBGE": 1100056,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CEREJEIRAS"
+	},
+	{
+		"CodigoIBGE": 1100064,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "COLORADO DO OESTE"
+	},
+	{
+		"CodigoIBGE": 1100072,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CORUMBIARA"
+	},
+	{
+		"CodigoIBGE": 1100080,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "COSTA MARQUES"
+	},
+	{
+		"CodigoIBGE": 1100098,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ESPIGAO D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100106,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "GUAJARA-MIRIM"
+	},
+	{
+		"CodigoIBGE": 1100114,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "JARU"
+	},
+	{
+		"CodigoIBGE": 1100122,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "JI-PARANA"
+	},
+	{
+		"CodigoIBGE": 1100130,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "MACHADINHO D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100148,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "NOVA BRASILANDIA D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100155,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "OURO PRETO DO OESTE"
+	},
+	{
+		"CodigoIBGE": 1100189,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "PIMENTA BUENO"
+	},
+	{
+		"CodigoIBGE": 1100205,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "PORTO VELHO"
+	},
+	{
+		"CodigoIBGE": 1100254,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "PRESIDENTE MEDICI"
+	},
+	{
+		"CodigoIBGE": 1100262,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "RIO CRESPO"
+	},
+	{
+		"CodigoIBGE": 1100288,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ROLIM DE MOURA"
+	},
+	{
+		"CodigoIBGE": 1100296,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "SANTA LUZIA D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100304,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "VILHENA"
+	},
+	{
+		"CodigoIBGE": 1100320,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "SAO MIGUEL DO GUAPORE"
+	},
+	{
+		"CodigoIBGE": 1100338,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "NOVA MAMORE"
+	},
+	{
+		"CodigoIBGE": 1100346,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ALVORADA D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100379,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ALTO ALEGRE DOS PARECIS"
+	},
+	{
+		"CodigoIBGE": 1100403,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ALTO PARAISO"
+	},
+	{
+		"CodigoIBGE": 1100452,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "BURITIS"
+	},
+	{
+		"CodigoIBGE": 1100502,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "NOVO HORIZONTE D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1100601,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CACAULANDIA"
+	},
+	{
+		"CodigoIBGE": 1100700,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CAMPO NOVO DE RONDONIA"
+	},
+	{
+		"CodigoIBGE": 1100809,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CANDEIAS DO JAMARI"
+	},
+	{
+		"CodigoIBGE": 1100908,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CASTANHEIRAS"
+	},
+	{
+		"CodigoIBGE": 1100924,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CHUPINGUAIA"
+	},
+	{
+		"CodigoIBGE": 1100940,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "CUJUBIM"
+	},
+	{
+		"CodigoIBGE": 1101005,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "GOVERNADOR JORGE TEIXEIRA"
+	},
+	{
+		"CodigoIBGE": 1101104,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "ITAPUA DO OESTE"
+	},
+	{
+		"CodigoIBGE": 1101203,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "MINISTRO ANDREAZZA"
+	},
+	{
+		"CodigoIBGE": 1101302,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "MIRANTE DA SERRA"
+	},
+	{
+		"CodigoIBGE": 1101401,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "MONTE NEGRO"
+	},
+	{
+		"CodigoIBGE": 1101435,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "NOVA UNIAO"
+	},
+	{
+		"CodigoIBGE": 1101450,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "PARECIS"
+	},
+	{
+		"CodigoIBGE": 1101468,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "PIMENTEIRAS DO OESTE"
+	},
+	{
+		"CodigoIBGE": 1101476,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "PRIMAVERA DE RONDONIA"
+	},
+	{
+		"CodigoIBGE": 1101484,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "SAO FELIPE D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 1101492,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "SAO FRANCISCO DO GUAPORE"
+	},
+	{
+		"CodigoIBGE": 1101500,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "SERINGUEIRAS"
+	},
+	{
+		"CodigoIBGE": 1101559,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "TEIXEIROPOLIS"
+	},
+	{
+		"CodigoIBGE": 1101609,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "THEOBROMA"
+	},
+	{
+		"CodigoIBGE": 1101708,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "URUPA"
+	},
+	{
+		"CodigoIBGE": 1101757,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "VALE DO ANARI"
+	},
+	{
+		"CodigoIBGE": 1101807,
+		"CodigoIBGEUF": 11,
+		"SiglaUF": "RO",
+		"NomeUF": "RONDONIA",
+		"NomeMunicipio": "VALE DO PARAISO"
+	}
+]

@@ -1,0 +1,1724 @@
+[
+	{
+		"CodigoIBGE": 5200050,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ABADIA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5200100,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ABADIANIA"
+	},
+	{
+		"CodigoIBGE": 5200134,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ACREUNA"
+	},
+	{
+		"CodigoIBGE": 5200159,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ADELANDIA"
+	},
+	{
+		"CodigoIBGE": 5200175,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AGUA FRIA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5200209,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AGUA LIMPA"
+	},
+	{
+		"CodigoIBGE": 5200258,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AGUAS LINDAS DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5200308,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ALEXANIA"
+	},
+	{
+		"CodigoIBGE": 5200506,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ALOANDIA"
+	},
+	{
+		"CodigoIBGE": 5200555,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ALTO HORIZONTE"
+	},
+	{
+		"CodigoIBGE": 5200605,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ALTO PARAISO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5200803,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ALVORADA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 5200829,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AMARALINA"
+	},
+	{
+		"CodigoIBGE": 5200852,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AMERICANO DO BRASIL"
+	},
+	{
+		"CodigoIBGE": 5200902,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AMORINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5201108,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ANAPOLIS"
+	},
+	{
+		"CodigoIBGE": 5201207,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ANHANGUERA"
+	},
+	{
+		"CodigoIBGE": 5201306,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ANICUNS"
+	},
+	{
+		"CodigoIBGE": 5201405,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "APARECIDA DE GOIANIA"
+	},
+	{
+		"CodigoIBGE": 5201454,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "APARECIDA DO RIO DOCE"
+	},
+	{
+		"CodigoIBGE": 5201504,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "APORE"
+	},
+	{
+		"CodigoIBGE": 5201603,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ARACU"
+	},
+	{
+		"CodigoIBGE": 5201702,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ARAGARCAS"
+	},
+	{
+		"CodigoIBGE": 5201801,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ARAGOIANIA"
+	},
+	{
+		"CodigoIBGE": 5202155,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ARAGUAPAZ"
+	},
+	{
+		"CodigoIBGE": 5202353,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ARENOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5202502,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ARUANA"
+	},
+	{
+		"CodigoIBGE": 5202601,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AURILANDIA"
+	},
+	{
+		"CodigoIBGE": 5202809,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "AVELINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5203104,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BALIZA"
+	},
+	{
+		"CodigoIBGE": 5203203,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BARRO ALTO"
+	},
+	{
+		"CodigoIBGE": 5203302,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BELA VISTA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5203401,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BOM JARDIM DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5203500,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BOM JESUS DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5203559,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BONFINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5203575,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BONOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5203609,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BRAZABRANTES"
+	},
+	{
+		"CodigoIBGE": 5203807,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BRITANIA"
+	},
+	{
+		"CodigoIBGE": 5203906,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BURITI ALEGRE"
+	},
+	{
+		"CodigoIBGE": 5203939,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BURITI DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5203962,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "BURITINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5204003,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CABECEIRAS"
+	},
+	{
+		"CodigoIBGE": 5204102,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CACHOEIRA ALTA"
+	},
+	{
+		"CodigoIBGE": 5204201,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CACHOEIRA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5204250,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CACHOEIRA DOURADA"
+	},
+	{
+		"CodigoIBGE": 5204300,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CACU"
+	},
+	{
+		"CodigoIBGE": 5204409,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAIAPONIA"
+	},
+	{
+		"CodigoIBGE": 5204508,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CALDAS NOVAS"
+	},
+	{
+		"CodigoIBGE": 5204557,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CALDAZINHA"
+	},
+	{
+		"CodigoIBGE": 5204607,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPESTRE DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5204656,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPINACU"
+	},
+	{
+		"CodigoIBGE": 5204706,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPINORTE"
+	},
+	{
+		"CodigoIBGE": 5204805,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPO ALEGRE DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5204854,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPO LIMPO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5204904,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPOS BELOS"
+	},
+	{
+		"CodigoIBGE": 5204953,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAMPOS VERDES"
+	},
+	{
+		"CodigoIBGE": 5205000,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CARMO DO RIO VERDE"
+	},
+	{
+		"CodigoIBGE": 5205059,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CASTELANDIA"
+	},
+	{
+		"CodigoIBGE": 5205109,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CATALAO"
+	},
+	{
+		"CodigoIBGE": 5205208,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CATURAI"
+	},
+	{
+		"CodigoIBGE": 5205307,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CAVALCANTE"
+	},
+	{
+		"CodigoIBGE": 5205406,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CERES"
+	},
+	{
+		"CodigoIBGE": 5205455,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CEZARINA"
+	},
+	{
+		"CodigoIBGE": 5205471,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CHAPADAO DO CEU"
+	},
+	{
+		"CodigoIBGE": 5205497,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CIDADE OCIDENTAL"
+	},
+	{
+		"CodigoIBGE": 5205513,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "COCALZINHO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5205521,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "COLINAS DO SUL"
+	},
+	{
+		"CodigoIBGE": 5205703,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CORREGO DO OURO"
+	},
+	{
+		"CodigoIBGE": 5205802,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CORUMBA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5205901,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CORUMBAIBA"
+	},
+	{
+		"CodigoIBGE": 5206206,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CRISTALINA"
+	},
+	{
+		"CodigoIBGE": 5206305,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CRISTIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5206404,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CRIXAS"
+	},
+	{
+		"CodigoIBGE": 5206503,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CROMINIA"
+	},
+	{
+		"CodigoIBGE": 5206602,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "CUMARI"
+	},
+	{
+		"CodigoIBGE": 5206701,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "DAMIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5206800,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "DAMOLANDIA"
+	},
+	{
+		"CodigoIBGE": 5206909,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "DAVINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5207105,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "DIORAMA"
+	},
+	{
+		"CodigoIBGE": 5207253,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "DOVERLANDIA"
+	},
+	{
+		"CodigoIBGE": 5207352,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "EDEALINA"
+	},
+	{
+		"CodigoIBGE": 5207402,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "EDEIA"
+	},
+	{
+		"CodigoIBGE": 5207501,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ESTRELA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 5207535,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "FAINA"
+	},
+	{
+		"CodigoIBGE": 5207600,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "FAZENDA NOVA"
+	},
+	{
+		"CodigoIBGE": 5207808,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "FIRMINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5207907,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "FLORES DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5208004,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "FORMOSA"
+	},
+	{
+		"CodigoIBGE": 5208103,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "FORMOSO"
+	},
+	{
+		"CodigoIBGE": 5208152,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GAMELEIRA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5208301,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "DIVINOPOLIS DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5208400,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIANAPOLIS"
+	},
+	{
+		"CodigoIBGE": 5208509,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIANDIRA"
+	},
+	{
+		"CodigoIBGE": 5208608,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIANESIA"
+	},
+	{
+		"CodigoIBGE": 5208707,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIANIA"
+	},
+	{
+		"CodigoIBGE": 5208806,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIANIRA"
+	},
+	{
+		"CodigoIBGE": 5208905,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIAS"
+	},
+	{
+		"CodigoIBGE": 5209101,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOIATUBA"
+	},
+	{
+		"CodigoIBGE": 5209150,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GOUVELANDIA"
+	},
+	{
+		"CodigoIBGE": 5209200,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GUAPO"
+	},
+	{
+		"CodigoIBGE": 5209291,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GUARAITA"
+	},
+	{
+		"CodigoIBGE": 5209408,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GUARANI DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5209457,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "GUARINOS"
+	},
+	{
+		"CodigoIBGE": 5209606,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "HEITORAI"
+	},
+	{
+		"CodigoIBGE": 5209705,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "HIDROLANDIA"
+	},
+	{
+		"CodigoIBGE": 5209804,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "HIDROLINA"
+	},
+	{
+		"CodigoIBGE": 5209903,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "IACIARA"
+	},
+	{
+		"CodigoIBGE": 5209937,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "INACIOLANDIA"
+	},
+	{
+		"CodigoIBGE": 5209952,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "INDIARA"
+	},
+	{
+		"CodigoIBGE": 5210000,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "INHUMAS"
+	},
+	{
+		"CodigoIBGE": 5210109,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "IPAMERI"
+	},
+	{
+		"CodigoIBGE": 5210158,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "IPIRANGA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5210208,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "IPORA"
+	},
+	{
+		"CodigoIBGE": 5210307,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ISRAELANDIA"
+	},
+	{
+		"CodigoIBGE": 5210406,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITABERAI"
+	},
+	{
+		"CodigoIBGE": 5210562,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAGUARI"
+	},
+	{
+		"CodigoIBGE": 5210604,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAGUARU"
+	},
+	{
+		"CodigoIBGE": 5210802,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAJA"
+	},
+	{
+		"CodigoIBGE": 5210901,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAPACI"
+	},
+	{
+		"CodigoIBGE": 5211008,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAPIRAPUA"
+	},
+	{
+		"CodigoIBGE": 5211206,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAPURANGA"
+	},
+	{
+		"CodigoIBGE": 5211305,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITARUMA"
+	},
+	{
+		"CodigoIBGE": 5211404,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITAUCU"
+	},
+	{
+		"CodigoIBGE": 5211503,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ITUMBIARA"
+	},
+	{
+		"CodigoIBGE": 5211602,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "IVOLANDIA"
+	},
+	{
+		"CodigoIBGE": 5211701,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JANDAIA"
+	},
+	{
+		"CodigoIBGE": 5211800,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JARAGUA"
+	},
+	{
+		"CodigoIBGE": 5211909,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JATAI"
+	},
+	{
+		"CodigoIBGE": 5212006,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JAUPACI"
+	},
+	{
+		"CodigoIBGE": 5212055,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JESUPOLIS"
+	},
+	{
+		"CodigoIBGE": 5212105,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JOVIANIA"
+	},
+	{
+		"CodigoIBGE": 5212204,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "JUSSARA"
+	},
+	{
+		"CodigoIBGE": 5212253,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "LAGOA SANTA"
+	},
+	{
+		"CodigoIBGE": 5212303,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "LEOPOLDO DE BULHOES"
+	},
+	{
+		"CodigoIBGE": 5212501,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "LUZIANIA"
+	},
+	{
+		"CodigoIBGE": 5212600,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MAIRIPOTABA"
+	},
+	{
+		"CodigoIBGE": 5212709,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MAMBAI"
+	},
+	{
+		"CodigoIBGE": 5212808,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MARA ROSA"
+	},
+	{
+		"CodigoIBGE": 5212907,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MARZAGAO"
+	},
+	{
+		"CodigoIBGE": 5212956,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MATRINCHA"
+	},
+	{
+		"CodigoIBGE": 5213004,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MAURILANDIA"
+	},
+	{
+		"CodigoIBGE": 5213053,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MIMOSO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5213087,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MINACUL"
+	},
+	{
+		"CodigoIBGE": 5213103,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MINEIROS"
+	},
+	{
+		"CodigoIBGE": 5213400,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MOIPORA"
+	},
+	{
+		"CodigoIBGE": 5213509,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MONTE ALEGRE DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5213707,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MONTES CLAROS DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5213756,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MONTIVIDIU"
+	},
+	{
+		"CodigoIBGE": 5213772,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MONTIVIDIU DO NORTE"
+	},
+	{
+		"CodigoIBGE": 5213806,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MORRINHOS"
+	},
+	{
+		"CodigoIBGE": 5213855,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MORRO AGUDO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5213905,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MOSSAMEDES"
+	},
+	{
+		"CodigoIBGE": 5214002,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MOZARLANDIA"
+	},
+	{
+		"CodigoIBGE": 5214051,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MUNDO NOVO"
+	},
+	{
+		"CodigoIBGE": 5214101,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "MUTUNOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5214408,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NAZARIO"
+	},
+	{
+		"CodigoIBGE": 5214507,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NEROPOLIS"
+	},
+	{
+		"CodigoIBGE": 5214606,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NIQUELANDIA"
+	},
+	{
+		"CodigoIBGE": 5214705,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA AMERICA"
+	},
+	{
+		"CodigoIBGE": 5214804,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA AURORA"
+	},
+	{
+		"CodigoIBGE": 5214838,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA CRIXAS"
+	},
+	{
+		"CodigoIBGE": 5214861,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA GLORIA"
+	},
+	{
+		"CodigoIBGE": 5214879,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA IGUACU DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5214903,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA ROMA"
+	},
+	{
+		"CodigoIBGE": 5215009,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVA VENEZA"
+	},
+	{
+		"CodigoIBGE": 5215207,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVO BRASIL"
+	},
+	{
+		"CodigoIBGE": 5215231,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVO GAMA"
+	},
+	{
+		"CodigoIBGE": 5215256,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "NOVO PLANALTO"
+	},
+	{
+		"CodigoIBGE": 5215306,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "ORIZONA"
+	},
+	{
+		"CodigoIBGE": 5215405,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "OURO VERDE DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5215504,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "OUVIDOR"
+	},
+	{
+		"CodigoIBGE": 5215603,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PADRE BERNARDO"
+	},
+	{
+		"CodigoIBGE": 5215652,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PALESTINA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5215702,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PALMEIRAS DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5215801,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PALMELO"
+	},
+	{
+		"CodigoIBGE": 5215900,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PALMINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5216007,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PANAMA"
+	},
+	{
+		"CodigoIBGE": 5216304,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PARANAIGUARA"
+	},
+	{
+		"CodigoIBGE": 5216403,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PARAUNA"
+	},
+	{
+		"CodigoIBGE": 5216452,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PEROLANDIA"
+	},
+	{
+		"CodigoIBGE": 5216809,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PETROLINA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5216908,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PILAR DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5217104,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PIRACANJUBA"
+	},
+	{
+		"CodigoIBGE": 5217203,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PIRANHAS"
+	},
+	{
+		"CodigoIBGE": 5217302,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PIRENOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5217401,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PIRES DO RIO"
+	},
+	{
+		"CodigoIBGE": 5217609,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PLANALTINA"
+	},
+	{
+		"CodigoIBGE": 5217708,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PONTALINA"
+	},
+	{
+		"CodigoIBGE": 5218003,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PORANGATU"
+	},
+	{
+		"CodigoIBGE": 5218052,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PORTEIRAO"
+	},
+	{
+		"CodigoIBGE": 5218102,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PORTELANDIA"
+	},
+	{
+		"CodigoIBGE": 5218300,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "POSSE"
+	},
+	{
+		"CodigoIBGE": 5218391,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "PROFESSOR JAMIL"
+	},
+	{
+		"CodigoIBGE": 5218508,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "QUIRINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5218607,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "RIALMA"
+	},
+	{
+		"CodigoIBGE": 5218706,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "RIANAPOLIS"
+	},
+	{
+		"CodigoIBGE": 5218789,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "RIO QUENTE"
+	},
+	{
+		"CodigoIBGE": 5218805,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "RIO VERDE"
+	},
+	{
+		"CodigoIBGE": 5218904,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "RUBIATABA"
+	},
+	{
+		"CodigoIBGE": 5219001,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANCLERLANDIA"
+	},
+	{
+		"CodigoIBGE": 5219100,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA BARBARA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219209,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA CRUZ DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219258,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA FE DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219308,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA HELENA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219357,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA ISABEL"
+	},
+	{
+		"CodigoIBGE": 5219407,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA RITA DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 5219456,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA RITA DO NOVO DESTINO"
+	},
+	{
+		"CodigoIBGE": 5219506,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA ROSA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219605,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA TEREZA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219704,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTA TEREZINHA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219712,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTO ANTONIO DA BARRA"
+	},
+	{
+		"CodigoIBGE": 5219738,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTO ANTONIO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5219753,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SANTO ANTONIO DO DESCOBERTO"
+	},
+	{
+		"CodigoIBGE": 5219803,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO DOMINGOS"
+	},
+	{
+		"CodigoIBGE": 5219902,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO FRANCISCO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5220009,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO JOAO D-  ALIANCA"
+	},
+	{
+		"CodigoIBGE": 5220058,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO JOAO DA PARAUNA"
+	},
+	{
+		"CodigoIBGE": 5220108,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO LUIS DE MONTES BELOS"
+	},
+	{
+		"CodigoIBGE": 5220157,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO LUIZ DO NORTE"
+	},
+	{
+		"CodigoIBGE": 5220207,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO MIGUEL DO ARAGUAIA"
+	},
+	{
+		"CodigoIBGE": 5220264,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO MIGUEL DO PASSA QUATRO"
+	},
+	{
+		"CodigoIBGE": 5220280,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO PATRICIO"
+	},
+	{
+		"CodigoIBGE": 5220405,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SAO SIMAO"
+	},
+	{
+		"CodigoIBGE": 5220454,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SENADOR CANEDO"
+	},
+	{
+		"CodigoIBGE": 5220504,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SERRANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5220603,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SILVANIA"
+	},
+	{
+		"CodigoIBGE": 5220686,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SIMOLANDIA"
+	},
+	{
+		"CodigoIBGE": 5220702,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "SITIO D-  ABADIA"
+	},
+	{
+		"CodigoIBGE": 5221007,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TAQUARAL DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5221080,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TERESINA DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5221197,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TEREZOPOLIS DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5221304,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TRES RANCHOS"
+	},
+	{
+		"CodigoIBGE": 5221403,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TRINDADE"
+	},
+	{
+		"CodigoIBGE": 5221452,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TROMBAS"
+	},
+	{
+		"CodigoIBGE": 5221502,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TURVANIA"
+	},
+	{
+		"CodigoIBGE": 5221551,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "TURVELANDIA"
+	},
+	{
+		"CodigoIBGE": 5221577,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "UIRAPURU"
+	},
+	{
+		"CodigoIBGE": 5221601,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "URUACU"
+	},
+	{
+		"CodigoIBGE": 5221700,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "URUANA"
+	},
+	{
+		"CodigoIBGE": 5221809,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "URUTAI"
+	},
+	{
+		"CodigoIBGE": 5221858,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "VALPARAISO DE GOIAS"
+	},
+	{
+		"CodigoIBGE": 5221908,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "VARJAO"
+	},
+	{
+		"CodigoIBGE": 5222005,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "VIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5222054,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "VICENTINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 5222203,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "VILA BOA"
+	},
+	{
+		"CodigoIBGE": 5222302,
+		"CodigoIBGEUF": 52,
+		"SiglaUF": "GO",
+		"NomeUF": "GOIAS",
+		"NomeMunicipio": "VILA PROPICIO"
+	}
+]

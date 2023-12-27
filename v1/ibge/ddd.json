@@ -1,0 +1,270 @@
+[
+	{
+		"NUM_NUMERO" : 11,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 12,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 13,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 14,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 15,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 16,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 17,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 18,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 19,
+		"COD_UF" : "SP"
+	},
+	{
+		"NUM_NUMERO" : 21,
+		"COD_UF" : "RJ"
+	},
+	{
+		"NUM_NUMERO" : 22,
+		"COD_UF" : "RJ"
+	},
+	{
+		"NUM_NUMERO" : 24,
+		"COD_UF" : "RJ"
+	},
+	{
+		"NUM_NUMERO" : 27,
+		"COD_UF" : "ES"
+	},
+	{
+		"NUM_NUMERO" : 28,
+		"COD_UF" : "ES"
+	},
+	{
+		"NUM_NUMERO" : 31,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 32,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 33,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 34,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 35,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 37,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 38,
+		"COD_UF" : "MG"
+	},
+	{
+		"NUM_NUMERO" : 41,
+		"COD_UF" : "PR"
+	},
+	{
+		"NUM_NUMERO" : 42,
+		"COD_UF" : "PR"
+	},
+	{
+		"NUM_NUMERO" : 43,
+		"COD_UF" : "PR"
+	},
+	{
+		"NUM_NUMERO" : 44,
+		"COD_UF" : "PR"
+	},
+	{
+		"NUM_NUMERO" : 45,
+		"COD_UF" : "PR"
+	},
+	{
+		"NUM_NUMERO" : 46,
+		"COD_UF" : "PR"
+	},
+	{
+		"NUM_NUMERO" : 47,
+		"COD_UF" : "SC"
+	},
+	{
+		"NUM_NUMERO" : 48,
+		"COD_UF" : "SC"
+	},
+	{
+		"NUM_NUMERO" : 49,
+		"COD_UF" : "SC"
+	},
+	{
+		"NUM_NUMERO" : 51,
+		"COD_UF" : "RS"
+	},
+	{
+		"NUM_NUMERO" : 53,
+		"COD_UF" : "RS"
+	},
+	{
+		"NUM_NUMERO" : 54,
+		"COD_UF" : "RS"
+	},
+	{
+		"NUM_NUMERO" : 55,
+		"COD_UF" : "RS"
+	},
+	{
+		"NUM_NUMERO" : 61,
+		"COD_UF" : "DF"
+	},
+	{
+		"NUM_NUMERO" : 62,
+		"COD_UF" : "GO"
+	},
+	{
+		"NUM_NUMERO" : 63,
+		"COD_UF" : "TO"
+	},
+	{
+		"NUM_NUMERO" : 64,
+		"COD_UF" : "GO"
+	},
+	{
+		"NUM_NUMERO" : 65,
+		"COD_UF" : "MT"
+	},
+	{
+		"NUM_NUMERO" : 66,
+		"COD_UF" : "MT"
+	},
+	{
+		"NUM_NUMERO" : 67,
+		"COD_UF" : "MS"
+	},
+	{
+		"NUM_NUMERO" : 68,
+		"COD_UF" : "AC"
+	},
+	{
+		"NUM_NUMERO" : 69,
+		"COD_UF" : "RO"
+	},
+	{
+		"NUM_NUMERO" : 71,
+		"COD_UF" : "BA"
+	},
+	{
+		"NUM_NUMERO" : 73,
+		"COD_UF" : "BA"
+	},
+	{
+		"NUM_NUMERO" : 74,
+		"COD_UF" : "BA"
+	},
+	{
+		"NUM_NUMERO" : 75,
+		"COD_UF" : "BA"
+	},
+	{
+		"NUM_NUMERO" : 77,
+		"COD_UF" : "BA"
+	},
+	{
+		"NUM_NUMERO" : 79,
+		"COD_UF" : "SE"
+	},
+	{
+		"NUM_NUMERO" : 81,
+		"COD_UF" : "PE"
+	},
+	{
+		"NUM_NUMERO" : 82,
+		"COD_UF" : "AL"
+	},
+	{
+		"NUM_NUMERO" : 83,
+		"COD_UF" : "PB"
+	},
+	{
+		"NUM_NUMERO" : 84,
+		"COD_UF" : "RN"
+	},
+	{
+		"NUM_NUMERO" : 85,
+		"COD_UF" : "CE"
+	},
+	{
+		"NUM_NUMERO" : 86,
+		"COD_UF" : "PI"
+	},
+	{
+		"NUM_NUMERO" : 87,
+		"COD_UF" : "PE"
+	},
+	{
+		"NUM_NUMERO" : 88,
+		"COD_UF" : "CE"
+	},
+	{
+		"NUM_NUMERO" : 89,
+		"COD_UF" : "PI"
+	},
+	{
+		"NUM_NUMERO" : 91,
+		"COD_UF" : "PA"
+	},
+	{
+		"NUM_NUMERO" : 92,
+		"COD_UF" : "AM"
+	},
+	{
+		"NUM_NUMERO" : 93,
+		"COD_UF" : "PA"
+	},
+	{
+		"NUM_NUMERO" : 94,
+		"COD_UF" : "PA"
+	},
+	{
+		"NUM_NUMERO" : 95,
+		"COD_UF" : "RR"
+	},
+	{
+		"NUM_NUMERO" : 96,
+		"COD_UF" : "AP"
+	},
+	{
+		"NUM_NUMERO" : 97,
+		"COD_UF" : "AM"
+	},
+	{
+		"NUM_NUMERO" : 98,
+		"COD_UF" : "MA"
+	},
+	{
+		"NUM_NUMERO" : 99,
+		"COD_UF" : "MA"
+	}
+]

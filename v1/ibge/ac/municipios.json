@@ -1,0 +1,156 @@
+[
+	{
+		"CodigoIBGE" : 1200013,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "ACRELANDIA"
+	},
+	{
+		"CodigoIBGE" : 1200054,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "ASSIS BRASIL"
+	},
+	{
+		"CodigoIBGE" : 1200104,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "BRASILEIA"
+	},
+	{
+		"CodigoIBGE" : 1200138,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "BUJARI"
+	},
+	{
+		"CodigoIBGE" : 1200179,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "CAPIXABA"
+	},
+	{
+		"CodigoIBGE" : 1200203,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "CRUZEIRO DO SUL"
+	},
+	{
+		"CodigoIBGE" : 1200252,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "EPITACIOLANDIA"
+	},
+	{
+		"CodigoIBGE" : 1200302,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "FEIJO"
+	},
+	{
+		"CodigoIBGE" : 1200328,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "JORDAO"
+	},
+	{
+		"CodigoIBGE" : 1200336,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "MANCIO LIMA"
+	},
+	{
+		"CodigoIBGE" : 1200344,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "MANOEL URBANO"
+	},
+	{
+		"CodigoIBGE" : 1200351,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "MARECHAL THAUMATURGO"
+	},
+	{
+		"CodigoIBGE" : 1200385,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "PLACIDO DE CASTRO"
+	},
+	{
+		"CodigoIBGE" : 1200393,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "PORTO WALTER"
+	},
+	{
+		"CodigoIBGE" : 1200401,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "RIO BRANCO"
+	},
+	{
+		"CodigoIBGE" : 1200427,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "RODRIGUES ALVES"
+	},
+	{
+		"CodigoIBGE" : 1200435,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "SANTA ROSA DO PURUS"
+	},
+	{
+		"CodigoIBGE" : 1200450,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "SENADOR GUIOMARD"
+	},
+	{
+		"CodigoIBGE" : 1200500,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "SENA MADUREIRA"
+	},
+	{
+		"CodigoIBGE" : 1200609,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "TARAUACA"
+	},
+	{
+		"CodigoIBGE" : 1200708,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "XAPURI"
+	},
+	{
+		"CodigoIBGE" : 1200807,
+		"CodigoIBGEUF" : 12,
+		"SiglaUF" : "AC",
+		"NomeUF" : "ACRE",
+		"NomeMunicipio" : "PORTO ACRE"
+	}
+]

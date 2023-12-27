@@ -1,0 +1,2795 @@
+[
+	{
+		"CodigoIBGE": 4100103,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ABATIA"
+	},
+	{
+		"CodigoIBGE": 4100202,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ADRIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4100301,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "AGUDOS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4100400,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALMIRANTE TAMANDARE"
+	},
+	{
+		"CodigoIBGE": 4100459,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALTAMIRA DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4100509,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALTONIA"
+	},
+	{
+		"CodigoIBGE": 4100608,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALTO PARANA"
+	},
+	{
+		"CodigoIBGE": 4100707,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALTO PIQUIRI"
+	},
+	{
+		"CodigoIBGE": 4100806,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALVORADA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4100905,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "AMAPORA"
+	},
+	{
+		"CodigoIBGE": 4101002,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "AMPERE"
+	},
+	{
+		"CodigoIBGE": 4101051,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ANAHY"
+	},
+	{
+		"CodigoIBGE": 4101101,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ANDIRA"
+	},
+	{
+		"CodigoIBGE": 4101150,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ANGULO"
+	},
+	{
+		"CodigoIBGE": 4101200,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ANTONINA"
+	},
+	{
+		"CodigoIBGE": 4101309,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ANTONIO OLINTO"
+	},
+	{
+		"CodigoIBGE": 4101408,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "APUCARANA"
+	},
+	{
+		"CodigoIBGE": 4101507,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ARAPONGAS"
+	},
+	{
+		"CodigoIBGE": 4101606,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ARAPOTI"
+	},
+	{
+		"CodigoIBGE": 4101655,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ARAPUA"
+	},
+	{
+		"CodigoIBGE": 4101705,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ARARUNA"
+	},
+	{
+		"CodigoIBGE": 4101804,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ARAUCARIA"
+	},
+	{
+		"CodigoIBGE": 4101853,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ARIRANHA DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4101903,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ASSAI"
+	},
+	{
+		"CodigoIBGE": 4102000,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ASSIS CHATEAUBRIAND"
+	},
+	{
+		"CodigoIBGE": 4102109,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ASTORGA"
+	},
+	{
+		"CodigoIBGE": 4102208,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ATALAIA"
+	},
+	{
+		"CodigoIBGE": 4102307,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BALSA NOVA"
+	},
+	{
+		"CodigoIBGE": 4102406,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BANDEIRANTES"
+	},
+	{
+		"CodigoIBGE": 4102505,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BARBOSA FERRAZ"
+	},
+	{
+		"CodigoIBGE": 4102604,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BARRACAO"
+	},
+	{
+		"CodigoIBGE": 4102703,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BARRA DO JACARE"
+	},
+	{
+		"CodigoIBGE": 4102752,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BELA VISTA DA CAROBA"
+	},
+	{
+		"CodigoIBGE": 4102802,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BELA VISTA DO PARAISO"
+	},
+	{
+		"CodigoIBGE": 4102901,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BITURUNA"
+	},
+	{
+		"CodigoIBGE": 4103008,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOA ESPERANCA"
+	},
+	{
+		"CodigoIBGE": 4103024,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOA ESPERANCA DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4103040,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOA VENTURA DE SAO ROQUE"
+	},
+	{
+		"CodigoIBGE": 4103057,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOA VISTA DA APARECIDA"
+	},
+	{
+		"CodigoIBGE": 4103107,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOCAIUVA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4103156,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOM JESUS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4103206,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOM SUCESSO"
+	},
+	{
+		"CodigoIBGE": 4103222,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BOM SUCESSO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4103305,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BORRAZOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4103354,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BRAGANEY"
+	},
+	{
+		"CodigoIBGE": 4103370,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "BRASILANDIA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4103404,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAFEARA"
+	},
+	{
+		"CodigoIBGE": 4103453,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAFELANDIA"
+	},
+	{
+		"CodigoIBGE": 4103479,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAFEZAL DO SUL"
+	},
+	{
+		"CodigoIBGE": 4103503,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CALIFORNIA"
+	},
+	{
+		"CodigoIBGE": 4103602,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMBARA"
+	},
+	{
+		"CodigoIBGE": 4103701,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMBE"
+	},
+	{
+		"CodigoIBGE": 4103800,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMBIRA"
+	},
+	{
+		"CodigoIBGE": 4103909,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPINA DA LAGOA"
+	},
+	{
+		"CodigoIBGE": 4103958,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPINA DO SIMAO"
+	},
+	{
+		"CodigoIBGE": 4104006,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPINA GRANDE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4104055,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPO BONITO"
+	},
+	{
+		"CodigoIBGE": 4104105,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPO DO TENENTE"
+	},
+	{
+		"CodigoIBGE": 4104204,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPO LARGO"
+	},
+	{
+		"CodigoIBGE": 4104253,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPO MAGRO"
+	},
+	{
+		"CodigoIBGE": 4104303,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAMPO MOURAO"
+	},
+	{
+		"CodigoIBGE": 4104402,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CANDIDO DE ABREU"
+	},
+	{
+		"CodigoIBGE": 4104428,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CANDOI"
+	},
+	{
+		"CodigoIBGE": 4104451,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CANTAGALO"
+	},
+	{
+		"CodigoIBGE": 4104501,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAPANEMA"
+	},
+	{
+		"CodigoIBGE": 4104600,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CAPITAO LEONIDAS MARQUES"
+	},
+	{
+		"CodigoIBGE": 4104659,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CARAMBEI"
+	},
+	{
+		"CodigoIBGE": 4104709,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CARLOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4104808,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CASCAVEL"
+	},
+	{
+		"CodigoIBGE": 4104907,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CASTRO"
+	},
+	{
+		"CodigoIBGE": 4105003,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CATANDUVAS"
+	},
+	{
+		"CodigoIBGE": 4105102,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CENTENARIO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4105201,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CERRO AZUL"
+	},
+	{
+		"CodigoIBGE": 4105300,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CEU AZUL"
+	},
+	{
+		"CodigoIBGE": 4105409,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CHOPINZINHO"
+	},
+	{
+		"CodigoIBGE": 4105508,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CIANORTE"
+	},
+	{
+		"CodigoIBGE": 4105607,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CIDADE GAUCHA"
+	},
+	{
+		"CodigoIBGE": 4105706,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CLEVELANDIA"
+	},
+	{
+		"CodigoIBGE": 4105805,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "COLOMBO"
+	},
+	{
+		"CodigoIBGE": 4105904,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "COLORADO"
+	},
+	{
+		"CodigoIBGE": 4106001,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CONGONHINHAS"
+	},
+	{
+		"CodigoIBGE": 4106100,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CONSELHEIRO MAIRINCK"
+	},
+	{
+		"CodigoIBGE": 4106209,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CONTENDA"
+	},
+	{
+		"CodigoIBGE": 4106308,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CORBELIA"
+	},
+	{
+		"CodigoIBGE": 4106407,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CORNELIO PROCOPIO"
+	},
+	{
+		"CodigoIBGE": 4106456,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CORONEL DOMINGOS SOARES"
+	},
+	{
+		"CodigoIBGE": 4106506,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CORONEL VIVIDA"
+	},
+	{
+		"CodigoIBGE": 4106555,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CORUMBATAI DO SUL"
+	},
+	{
+		"CodigoIBGE": 4106571,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CRUZEIRO DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4106605,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CRUZEIRO DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4106704,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CRUZEIRO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4106803,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CRUZ MACHADO"
+	},
+	{
+		"CodigoIBGE": 4106852,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CRUZMALTINA"
+	},
+	{
+		"CodigoIBGE": 4106902,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CURITIBA"
+	},
+	{
+		"CodigoIBGE": 4107009,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "CURIUVA"
+	},
+	{
+		"CodigoIBGE": 4107108,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DIAMANTE DO NORTE"
+	},
+	{
+		"CodigoIBGE": 4107124,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DIAMANTE DO SUL"
+	},
+	{
+		"CodigoIBGE": 4107157,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DIAMANTE D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 4107207,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DOIS VIZINHOS"
+	},
+	{
+		"CodigoIBGE": 4107256,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DOURADINA"
+	},
+	{
+		"CodigoIBGE": 4107306,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DOUTOR CAMARGO"
+	},
+	{
+		"CodigoIBGE": 4107405,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ENEAS MARQUES"
+	},
+	{
+		"CodigoIBGE": 4107504,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ENGENHEIRO BELTRAO"
+	},
+	{
+		"CodigoIBGE": 4107520,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ESPERANCA NOVA"
+	},
+	{
+		"CodigoIBGE": 4107538,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ENTRE RIOS DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4107546,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ESPIGAO ALTO DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4107553,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FAROL"
+	},
+	{
+		"CodigoIBGE": 4107603,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FAXINAL"
+	},
+	{
+		"CodigoIBGE": 4107652,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FAZENDA RIO GRANDE"
+	},
+	{
+		"CodigoIBGE": 4107702,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FENIX"
+	},
+	{
+		"CodigoIBGE": 4107736,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FERNANDES PINHEIRO"
+	},
+	{
+		"CodigoIBGE": 4107751,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FIGUEIRA"
+	},
+	{
+		"CodigoIBGE": 4107801,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FLORAI"
+	},
+	{
+		"CodigoIBGE": 4107850,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FLOR DA SERRA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4107900,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FLORESTA"
+	},
+	{
+		"CodigoIBGE": 4108007,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FLORESTOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4108106,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FLORIDA"
+	},
+	{
+		"CodigoIBGE": 4108205,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FORMOSA DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4108304,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FOZ DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4108320,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FRANCISCO ALVES"
+	},
+	{
+		"CodigoIBGE": 4108403,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FRANCISCO BELTRAO"
+	},
+	{
+		"CodigoIBGE": 4108452,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "FOZ DO JORDAO"
+	},
+	{
+		"CodigoIBGE": 4108502,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GENERAL CARNEIRO"
+	},
+	{
+		"CodigoIBGE": 4108551,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GODOY MOREIRA"
+	},
+	{
+		"CodigoIBGE": 4108601,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GOIOERE"
+	},
+	{
+		"CodigoIBGE": 4108650,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GOIOXIM"
+	},
+	{
+		"CodigoIBGE": 4108700,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GRANDES RIOS"
+	},
+	{
+		"CodigoIBGE": 4108809,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUAIRA"
+	},
+	{
+		"CodigoIBGE": 4108908,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUAIRACA"
+	},
+	{
+		"CodigoIBGE": 4108957,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUAMIRANGA"
+	},
+	{
+		"CodigoIBGE": 4109005,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUAPIRAMA"
+	},
+	{
+		"CodigoIBGE": 4109104,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUAPOREMA"
+	},
+	{
+		"CodigoIBGE": 4109203,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUARACI"
+	},
+	{
+		"CodigoIBGE": 4109302,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUARANIACU"
+	},
+	{
+		"CodigoIBGE": 4109401,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUARAPUAVA"
+	},
+	{
+		"CodigoIBGE": 4109500,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUARAQUECABA"
+	},
+	{
+		"CodigoIBGE": 4109609,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "GUARATUBA"
+	},
+	{
+		"CodigoIBGE": 4109658,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "HONORIO SERPA"
+	},
+	{
+		"CodigoIBGE": 4109708,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IBAITI"
+	},
+	{
+		"CodigoIBGE": 4109757,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IBEMA"
+	},
+	{
+		"CodigoIBGE": 4109807,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IBIPORA"
+	},
+	{
+		"CodigoIBGE": 4109906,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ICARAIMA"
+	},
+	{
+		"CodigoIBGE": 4110003,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IGUARACU"
+	},
+	{
+		"CodigoIBGE": 4110052,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IGUATU"
+	},
+	{
+		"CodigoIBGE": 4110078,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IMBAU"
+	},
+	{
+		"CodigoIBGE": 4110102,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IMBITUVA"
+	},
+	{
+		"CodigoIBGE": 4110201,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "INACIO MARTINS"
+	},
+	{
+		"CodigoIBGE": 4110300,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "INAJA"
+	},
+	{
+		"CodigoIBGE": 4110409,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "INDIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4110508,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IPIRANGA"
+	},
+	{
+		"CodigoIBGE": 4110607,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IPORA"
+	},
+	{
+		"CodigoIBGE": 4110656,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IRACEMA DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4110706,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IRATI"
+	},
+	{
+		"CodigoIBGE": 4110805,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IRETAMA"
+	},
+	{
+		"CodigoIBGE": 4110904,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAGUAJE"
+	},
+	{
+		"CodigoIBGE": 4110953,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAIPULANDIA"
+	},
+	{
+		"CodigoIBGE": 4111001,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAMBARACA"
+	},
+	{
+		"CodigoIBGE": 4111100,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAMBE"
+	},
+	{
+		"CodigoIBGE": 4111209,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAPEJARA D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 4111258,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAPERUCU"
+	},
+	{
+		"CodigoIBGE": 4111308,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ITAUNA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4111407,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IVAI"
+	},
+	{
+		"CodigoIBGE": 4111506,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IVAIPORA"
+	},
+	{
+		"CodigoIBGE": 4111555,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IVATE"
+	},
+	{
+		"CodigoIBGE": 4111605,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "IVATUBA"
+	},
+	{
+		"CodigoIBGE": 4111704,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JABOTI"
+	},
+	{
+		"CodigoIBGE": 4111803,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JACAREZINHO"
+	},
+	{
+		"CodigoIBGE": 4111902,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JAGUAPITA"
+	},
+	{
+		"CodigoIBGE": 4112009,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JAGUARIAIVA"
+	},
+	{
+		"CodigoIBGE": 4112108,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JANDAIA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4112207,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JANIOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4112306,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JAPIRA"
+	},
+	{
+		"CodigoIBGE": 4112405,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JAPURA"
+	},
+	{
+		"CodigoIBGE": 4112504,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JARDIM ALEGRE"
+	},
+	{
+		"CodigoIBGE": 4112603,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JARDIM OLINDA"
+	},
+	{
+		"CodigoIBGE": 4112702,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JATAIZINHO"
+	},
+	{
+		"CodigoIBGE": 4112751,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JESUITAS"
+	},
+	{
+		"CodigoIBGE": 4112801,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JOAQUIM TAVORA"
+	},
+	{
+		"CodigoIBGE": 4112900,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JUNDIAI DO SUL"
+	},
+	{
+		"CodigoIBGE": 4112959,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JURANDA"
+	},
+	{
+		"CodigoIBGE": 4113007,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "JUSSARA"
+	},
+	{
+		"CodigoIBGE": 4113106,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "KALORE"
+	},
+	{
+		"CodigoIBGE": 4113205,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LAPA"
+	},
+	{
+		"CodigoIBGE": 4113254,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LARANJAL"
+	},
+	{
+		"CodigoIBGE": 4113304,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LARANJEIRAS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4113403,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LEOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4113429,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LIDIANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4113452,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LINDOESTE"
+	},
+	{
+		"CodigoIBGE": 4113502,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LOANDA"
+	},
+	{
+		"CodigoIBGE": 4113601,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LOBATO"
+	},
+	{
+		"CodigoIBGE": 4113700,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LONDRINA"
+	},
+	{
+		"CodigoIBGE": 4113734,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LUIZIANA"
+	},
+	{
+		"CodigoIBGE": 4113759,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LUNARDELLI"
+	},
+	{
+		"CodigoIBGE": 4113809,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "LUPIONOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4113908,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MALLET"
+	},
+	{
+		"CodigoIBGE": 4114005,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MAMBORE"
+	},
+	{
+		"CodigoIBGE": 4114104,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MANDAGUACU"
+	},
+	{
+		"CodigoIBGE": 4114203,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MANDAGUARI"
+	},
+	{
+		"CodigoIBGE": 4114302,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MANDIRITUBA"
+	},
+	{
+		"CodigoIBGE": 4114351,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MANFRINOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4114401,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MANGUEIRINHA"
+	},
+	{
+		"CodigoIBGE": 4114500,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MANOEL RIBAS"
+	},
+	{
+		"CodigoIBGE": 4114609,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARECHAL CANDIDO RONDON"
+	},
+	{
+		"CodigoIBGE": 4114708,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARIA HELENA"
+	},
+	{
+		"CodigoIBGE": 4114807,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARIALVA"
+	},
+	{
+		"CodigoIBGE": 4114906,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARILANDIA DO SUL"
+	},
+	{
+		"CodigoIBGE": 4115002,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARILENA"
+	},
+	{
+		"CodigoIBGE": 4115101,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARILUZ"
+	},
+	{
+		"CodigoIBGE": 4115200,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARINGA"
+	},
+	{
+		"CodigoIBGE": 4115309,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARIOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4115358,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARIPA"
+	},
+	{
+		"CodigoIBGE": 4115408,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARMELEIRO"
+	},
+	{
+		"CodigoIBGE": 4115457,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARQUINHO"
+	},
+	{
+		"CodigoIBGE": 4115507,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MARUMBI"
+	},
+	{
+		"CodigoIBGE": 4115606,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MATELANDIA"
+	},
+	{
+		"CodigoIBGE": 4115705,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MATINHOS"
+	},
+	{
+		"CodigoIBGE": 4115739,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MATO RICO"
+	},
+	{
+		"CodigoIBGE": 4115754,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MAUA DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4115804,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MEDIANEIRA"
+	},
+	{
+		"CodigoIBGE": 4115853,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MERCEDES"
+	},
+	{
+		"CodigoIBGE": 4115903,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MIRADOR"
+	},
+	{
+		"CodigoIBGE": 4116000,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MIRASELVA"
+	},
+	{
+		"CodigoIBGE": 4116059,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MISSAL"
+	},
+	{
+		"CodigoIBGE": 4116109,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MOREIRA SALES"
+	},
+	{
+		"CodigoIBGE": 4116208,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MORRETES"
+	},
+	{
+		"CodigoIBGE": 4116307,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "MUNHOZ DE MELO"
+	},
+	{
+		"CodigoIBGE": 4116406,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOSSA SENHORA DAS GRACAS"
+	},
+	{
+		"CodigoIBGE": 4116505,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA ALIANCA DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4116604,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA AMERICA DA COLINA"
+	},
+	{
+		"CodigoIBGE": 4116703,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA AURORA"
+	},
+	{
+		"CodigoIBGE": 4116802,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA CANTU"
+	},
+	{
+		"CodigoIBGE": 4116901,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA ESPERANCA"
+	},
+	{
+		"CodigoIBGE": 4116950,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA ESPERANCA DO SUDOESTE"
+	},
+	{
+		"CodigoIBGE": 4117008,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA FATIMA"
+	},
+	{
+		"CodigoIBGE": 4117057,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA LARANJEIRAS"
+	},
+	{
+		"CodigoIBGE": 4117107,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA LONDRINA"
+	},
+	{
+		"CodigoIBGE": 4117206,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA OLIMPIA"
+	},
+	{
+		"CodigoIBGE": 4117214,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA SANTA BARBARA"
+	},
+	{
+		"CodigoIBGE": 4117222,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA SANTA ROSA"
+	},
+	{
+		"CodigoIBGE": 4117255,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA PRATA DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4117271,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVA TEBAS"
+	},
+	{
+		"CodigoIBGE": 4117297,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "NOVO ITACOLOMI"
+	},
+	{
+		"CodigoIBGE": 4117305,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ORTIGUEIRA"
+	},
+	{
+		"CodigoIBGE": 4117404,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "OURIZONA"
+	},
+	{
+		"CodigoIBGE": 4117453,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "OURO VERDE DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4117503,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PAICANDU"
+	},
+	{
+		"CodigoIBGE": 4117602,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PALMAS"
+	},
+	{
+		"CodigoIBGE": 4117701,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PALMEIRA"
+	},
+	{
+		"CodigoIBGE": 4117800,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PALMITAL"
+	},
+	{
+		"CodigoIBGE": 4117909,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PALOTINA"
+	},
+	{
+		"CodigoIBGE": 4118006,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PARAISO DO NORTE"
+	},
+	{
+		"CodigoIBGE": 4118105,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PARANACITY"
+	},
+	{
+		"CodigoIBGE": 4118204,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PARANAGUA"
+	},
+	{
+		"CodigoIBGE": 4118303,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PARANAPOEMA"
+	},
+	{
+		"CodigoIBGE": 4118402,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PARANAVAI"
+	},
+	{
+		"CodigoIBGE": 4118451,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PATO BRAGADO"
+	},
+	{
+		"CodigoIBGE": 4118501,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PATO BRANCO"
+	},
+	{
+		"CodigoIBGE": 4118600,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PAULA FREITAS"
+	},
+	{
+		"CodigoIBGE": 4118709,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PAULO FRONTIN"
+	},
+	{
+		"CodigoIBGE": 4118808,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PEABIRU"
+	},
+	{
+		"CodigoIBGE": 4118857,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PEROBAL"
+	},
+	{
+		"CodigoIBGE": 4118907,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PEROLA"
+	},
+	{
+		"CodigoIBGE": 4119004,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PEROLA D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 4119103,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PIEN"
+	},
+	{
+		"CodigoIBGE": 4119152,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PINHAIS"
+	},
+	{
+		"CodigoIBGE": 4119202,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PINHALAO"
+	},
+	{
+		"CodigoIBGE": 4119251,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PINHAL DE SAO BENTO"
+	},
+	{
+		"CodigoIBGE": 4119301,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PINHAO"
+	},
+	{
+		"CodigoIBGE": 4119400,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PIRAI DO SUL"
+	},
+	{
+		"CodigoIBGE": 4119509,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PIRAQUARA"
+	},
+	{
+		"CodigoIBGE": 4119608,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PITANGA"
+	},
+	{
+		"CodigoIBGE": 4119657,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PITANGUEIRAS"
+	},
+	{
+		"CodigoIBGE": 4119707,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PLANALTINA DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4119806,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PLANALTO"
+	},
+	{
+		"CodigoIBGE": 4119905,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PONTA GROSSA"
+	},
+	{
+		"CodigoIBGE": 4119954,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PONTAL DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4120002,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PORECATU"
+	},
+	{
+		"CodigoIBGE": 4120101,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PORTO AMAZONAS"
+	},
+	{
+		"CodigoIBGE": 4120150,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PORTO BARREIRO"
+	},
+	{
+		"CodigoIBGE": 4120200,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PORTO RICO"
+	},
+	{
+		"CodigoIBGE": 4120309,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PORTO VITORIA"
+	},
+	{
+		"CodigoIBGE": 4120333,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PRADO FERREIRA"
+	},
+	{
+		"CodigoIBGE": 4120358,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PRANCHITA"
+	},
+	{
+		"CodigoIBGE": 4120408,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PRESIDENTE CASTELO BRANCO"
+	},
+	{
+		"CodigoIBGE": 4120507,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PRIMEIRO DE MAIO"
+	},
+	{
+		"CodigoIBGE": 4120606,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "PRUDENTOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4120655,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUARTO CENTENARIO"
+	},
+	{
+		"CodigoIBGE": 4120705,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUATIGUA"
+	},
+	{
+		"CodigoIBGE": 4120804,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUATRO BARRAS"
+	},
+	{
+		"CodigoIBGE": 4120853,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUATRO PONTES"
+	},
+	{
+		"CodigoIBGE": 4120903,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUEDAS DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4121000,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUERENCIA DO NORTE"
+	},
+	{
+		"CodigoIBGE": 4121109,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUINTA DO SOL"
+	},
+	{
+		"CodigoIBGE": 4121208,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "QUITANDINHA"
+	},
+	{
+		"CodigoIBGE": 4121257,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RAMILANDIA"
+	},
+	{
+		"CodigoIBGE": 4121307,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RANCHO ALEGRE"
+	},
+	{
+		"CodigoIBGE": 4121356,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RANCHO ALEGRE D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 4121406,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "REALEZA"
+	},
+	{
+		"CodigoIBGE": 4121505,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "REBOUCAS"
+	},
+	{
+		"CodigoIBGE": 4121604,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RENASCENCA"
+	},
+	{
+		"CodigoIBGE": 4121703,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RESERVA"
+	},
+	{
+		"CodigoIBGE": 4121752,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RESERVA DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4121802,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIBEIRAO CLARO"
+	},
+	{
+		"CodigoIBGE": 4121901,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIBEIRAO DO PINHAL"
+	},
+	{
+		"CodigoIBGE": 4122008,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIO AZUL"
+	},
+	{
+		"CodigoIBGE": 4122107,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIO BOM"
+	},
+	{
+		"CodigoIBGE": 4122156,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIO BONITO DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4122172,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIO BRANCO DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4122206,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIO BRANCO DO SUL"
+	},
+	{
+		"CodigoIBGE": 4122305,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RIO NEGRO"
+	},
+	{
+		"CodigoIBGE": 4122404,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ROLANDIA"
+	},
+	{
+		"CodigoIBGE": 4122503,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RONCADOR"
+	},
+	{
+		"CodigoIBGE": 4122602,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "RONDON"
+	},
+	{
+		"CodigoIBGE": 4122651,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ROSARIO DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4122701,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SABAUDIA"
+	},
+	{
+		"CodigoIBGE": 4122800,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SALGADO FILHO"
+	},
+	{
+		"CodigoIBGE": 4122909,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SALTO DO ITARARE"
+	},
+	{
+		"CodigoIBGE": 4123006,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SALTO DO LONTRA"
+	},
+	{
+		"CodigoIBGE": 4123105,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA AMELIA"
+	},
+	{
+		"CodigoIBGE": 4123204,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA CECILIA DO PAVAO"
+	},
+	{
+		"CodigoIBGE": 4123303,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA CRUZ DE MONTE CASTELO"
+	},
+	{
+		"CodigoIBGE": 4123402,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA FE"
+	},
+	{
+		"CodigoIBGE": 4123501,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA HELENA"
+	},
+	{
+		"CodigoIBGE": 4123600,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA INES"
+	},
+	{
+		"CodigoIBGE": 4123709,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA ISABEL DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4123808,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA IZABEL DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4123824,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA LUCIA"
+	},
+	{
+		"CodigoIBGE": 4123857,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA MARIA DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4123907,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA MARIANA"
+	},
+	{
+		"CodigoIBGE": 4123956,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA MONICA"
+	},
+	{
+		"CodigoIBGE": 4124004,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTANA DO ITARARE"
+	},
+	{
+		"CodigoIBGE": 4124020,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA TEREZA DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4124053,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTA TEREZINHA DE ITAIPU"
+	},
+	{
+		"CodigoIBGE": 4124103,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTO ANTONIO DA PLATINA"
+	},
+	{
+		"CodigoIBGE": 4124202,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTO ANTONIO DO CAIUA"
+	},
+	{
+		"CodigoIBGE": 4124301,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTO ANTONIO DO PARAISO"
+	},
+	{
+		"CodigoIBGE": 4124400,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTO ANTONIO DO SUDOESTE"
+	},
+	{
+		"CodigoIBGE": 4124509,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SANTO INACIO"
+	},
+	{
+		"CodigoIBGE": 4124608,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO CARLOS DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4124707,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JERONIMO DA SERRA"
+	},
+	{
+		"CodigoIBGE": 4124806,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOAO"
+	},
+	{
+		"CodigoIBGE": 4124905,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOAO DO CAIUA"
+	},
+	{
+		"CodigoIBGE": 4125001,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOAO DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4125100,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOAO DO TRIUNFO"
+	},
+	{
+		"CodigoIBGE": 4125209,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JORGE D-  OESTE"
+	},
+	{
+		"CodigoIBGE": 4125308,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JORGE DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4125357,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JORGE DO PATROCINIO"
+	},
+	{
+		"CodigoIBGE": 4125407,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOSE DA BOA VISTA"
+	},
+	{
+		"CodigoIBGE": 4125456,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOSE DAS PALMEIRAS"
+	},
+	{
+		"CodigoIBGE": 4125506,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO JOSE DOS PINHAIS"
+	},
+	{
+		"CodigoIBGE": 4125555,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO MANOEL DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4125605,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO MATEUS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4125704,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO MIGUEL DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4125753,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO PEDRO DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4125803,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO PEDRO DO IVAI"
+	},
+	{
+		"CodigoIBGE": 4125902,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO PEDRO DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4126009,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO SEBASTIAO DA AMOREIRA"
+	},
+	{
+		"CodigoIBGE": 4126108,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAO TOME"
+	},
+	{
+		"CodigoIBGE": 4126207,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAPOPEMA"
+	},
+	{
+		"CodigoIBGE": 4126256,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SARANDI"
+	},
+	{
+		"CodigoIBGE": 4126272,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SAUDADE DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4126306,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SENGES"
+	},
+	{
+		"CodigoIBGE": 4126355,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SERRANOPOLIS DO IGUACU"
+	},
+	{
+		"CodigoIBGE": 4126405,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SERTANEJA"
+	},
+	{
+		"CodigoIBGE": 4126504,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SERTANOPOLIS"
+	},
+	{
+		"CodigoIBGE": 4126603,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SIQUEIRA CAMPOS"
+	},
+	{
+		"CodigoIBGE": 4126652,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "SULINA"
+	},
+	{
+		"CodigoIBGE": 4126678,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TAMARANA"
+	},
+	{
+		"CodigoIBGE": 4126702,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TAMBOARA"
+	},
+	{
+		"CodigoIBGE": 4126801,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TAPEJARA"
+	},
+	{
+		"CodigoIBGE": 4126900,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TAPIRA"
+	},
+	{
+		"CodigoIBGE": 4127007,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TEIXEIRA SOARES"
+	},
+	{
+		"CodigoIBGE": 4127106,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TELEMACO BORBA"
+	},
+	{
+		"CodigoIBGE": 4127205,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TERRA BOA"
+	},
+	{
+		"CodigoIBGE": 4127304,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TERRA RICA"
+	},
+	{
+		"CodigoIBGE": 4127403,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TERRA ROXA"
+	},
+	{
+		"CodigoIBGE": 4127502,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TIBAGI"
+	},
+	{
+		"CodigoIBGE": 4127601,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TIJUCAS DO SUL"
+	},
+	{
+		"CodigoIBGE": 4127700,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TOLEDO"
+	},
+	{
+		"CodigoIBGE": 4127809,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TOMAZINA"
+	},
+	{
+		"CodigoIBGE": 4127858,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TRES BARRAS DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4127882,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TUNAS DO PARANA"
+	},
+	{
+		"CodigoIBGE": 4127908,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TUNEIRAS DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4127957,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TUPASSI"
+	},
+	{
+		"CodigoIBGE": 4127965,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "TURVO"
+	},
+	{
+		"CodigoIBGE": 4128005,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "UBIRATA"
+	},
+	{
+		"CodigoIBGE": 4128104,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "UMUARAMA"
+	},
+	{
+		"CodigoIBGE": 4128203,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "UNIAO DA VITORIA"
+	},
+	{
+		"CodigoIBGE": 4128302,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "UNIFLOR"
+	},
+	{
+		"CodigoIBGE": 4128401,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "URAI"
+	},
+	{
+		"CodigoIBGE": 4128500,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "WENCESLAU BRAZ"
+	},
+	{
+		"CodigoIBGE": 4128534,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "VENTANIA"
+	},
+	{
+		"CodigoIBGE": 4128559,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "VERA CRUZ DO OESTE"
+	},
+	{
+		"CodigoIBGE": 4128609,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "VERE"
+	},
+	{
+		"CodigoIBGE": 4128625,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "ALTO PARAISO"
+	},
+	{
+		"CodigoIBGE": 4128633,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "DOUTOR ULYSSES"
+	},
+	{
+		"CodigoIBGE": 4128658,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "VIRMOND"
+	},
+	{
+		"CodigoIBGE": 4128708,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "VITORINO"
+	},
+	{
+		"CodigoIBGE": 4128807,
+		"CodigoIBGEUF": 41,
+		"SiglaUF": "PR",
+		"NomeUF": "PARANA",
+		"NomeMunicipio": "XAMBRE"
+	}
+]
