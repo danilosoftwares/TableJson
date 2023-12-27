@@ -1,0 +1,47 @@
+[
+    {
+        "description": "Quilograma",
+        "acronym": "kg",
+        "symbol": "kg"
+    },
+    {
+        "description": "Grama",
+        "acronym": "g",
+        "symbol": "g"
+    },
+    {
+        "description": "Miligrama",
+        "acronym": "mg",
+        "symbol": "mg"
+    },
+    {
+        "description": "Tonelada",
+        "acronym": "t",
+        "symbol": "t"
+    },
+    {
+        "description": "Quilate",
+        "acronym": "ct",
+        "symbol": "ct"
+    },
+    {
+        "description": "Libra",
+        "acronym": "lb",
+        "symbol": "lb"
+    },
+    {
+        "description": "Onça",
+        "acronym": "oz",
+        "symbol": "oz"
+    },
+    {
+        "description": "Stone",
+        "acronym": "st",
+        "symbol": "st"
+    },
+    {
+        "description": "Arroba",
+        "acronym": "@",
+        "symbol": "@"
+    }
+]

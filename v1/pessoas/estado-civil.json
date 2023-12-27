@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "description": "Solteiro(a)"
+    },
+    {
+        "id": 2,
+        "description": "Casado(a)"
+    },
+    {
+        "id": 3,
+        "description": "Divorciado(a)"
+    },
+    {
+        "id": 4,
+        "description": "Viúvo(a)"
+    },
+    {
+        "id": 5,
+        "description": "União Estável"
+    }
+]

@@ -1,554 +1,554 @@
 [
 	{
-		"Codigo": "#000000",
-		"Nome": "PRETO"
+		"id": "#000000",
+		"description": "PRETO"
 	},
 	{
-		"Codigo": "#000080",
-		"Nome": "MARINHA - AZUL MEDIO PARA ESCURO"
+		"id": "#000080",
+		"description": "MARINHA - AZUL MEDIO PARA ESCURO"
 	},
 	{
-		"Codigo": "#00008B",
-		"Nome": "AZUL ESCURO"
+		"id": "#00008B",
+		"description": "AZUL ESCURO"
 	},
 	{
-		"Codigo": "#0000CD",
-		"Nome": "AZUL MEDIO"
+		"id": "#0000CD",
+		"description": "AZUL MEDIO"
 	},
 	{
-		"Codigo": "#0000FF",
-		"Nome": "AZUL"
+		"id": "#0000FF",
+		"description": "AZUL"
 	},
 	{
-		"Codigo": "#006400",
-		"Nome": "VERDE ESCURO"
+		"id": "#006400",
+		"description": "VERDE ESCURO"
 	},
 	{
-		"Codigo": "#008000",
-		"Nome": "VERDE"
+		"id": "#008000",
+		"description": "VERDE"
 	},
 	{
-		"Codigo": "#008080",
-		"Nome": "VERDE AZULADO"
+		"id": "#008080",
+		"description": "VERDE AZULADO"
 	},
 	{
-		"Codigo": "#008B8B",
-		"Nome": "CIANO ESCURO"
+		"id": "#008B8B",
+		"description": "CIANO ESCURO"
 	},
 	{
-		"Codigo": "#00BFFF",
-		"Nome": "AZUL CEU PROFUNDO - CIANO PROFUNDO"
+		"id": "#00BFFF",
+		"description": "AZUL CEU PROFUNDO - CIANO PROFUNDO"
 	},
 	{
-		"Codigo": "#00CED1",
-		"Nome": "TURQUESA ESCURO"
+		"id": "#00CED1",
+		"description": "TURQUESA ESCURO"
 	},
 	{
-		"Codigo": "#00FA9A",
-		"Nome": "VERDE PRIMAVERA MEDIO"
+		"id": "#00FA9A",
+		"description": "VERDE PRIMAVERA MEDIO"
 	},
 	{
-		"Codigo": "#00FF00",
-		"Nome": "LIMAO"
+		"id": "#00FF00",
+		"description": "LIMAO"
 	},
 	{
-		"Codigo": "#00FF7F",
-		"Nome": "VERDE PRIMAVERA"
+		"id": "#00FF7F",
+		"description": "VERDE PRIMAVERA"
 	},
 	{
-		"Codigo": "#00FFFF",
-		"Nome": "CIANO"
+		"id": "#00FFFF",
+		"description": "CIANO"
 	},
 	{
-		"Codigo": "#191970",
-		"Nome": "AZUL MEIA-NOITE"
+		"id": "#191970",
+		"description": "AZUL MEIA-NOITE"
 	},
 	{
-		"Codigo": "#1E90FF",
-		"Nome": "AZUL FURTIVO"
+		"id": "#1E90FF",
+		"description": "AZUL FURTIVO"
 	},
 	{
-		"Codigo": "#20B2AA",
-		"Nome": "VERDE MAR CLARO"
+		"id": "#20B2AA",
+		"description": "VERDE MAR CLARO"
 	},
 	{
-		"Codigo": "#228B22",
-		"Nome": "VERDE FLORESTA"
+		"id": "#228B22",
+		"description": "VERDE FLORESTA"
 	},
 	{
-		"Codigo": "#2E8B57",
-		"Nome": "VERDE MAR"
+		"id": "#2E8B57",
+		"description": "VERDE MAR"
 	},
 	{
-		"Codigo": "#2F4F4F",
-		"Nome": "CINZA ARDOSIA ESCURO"
+		"id": "#2F4F4F",
+		"description": "CINZA ARDOSIA ESCURO"
 	},
 	{
-		"Codigo": "#32CD32",
-		"Nome": "VERDE LIMAO"
+		"id": "#32CD32",
+		"description": "VERDE LIMAO"
 	},
 	{
-		"Codigo": "#3CB371",
-		"Nome": "VERDE MAR MEDIO"
+		"id": "#3CB371",
+		"description": "VERDE MAR MEDIO"
 	},
 	{
-		"Codigo": "#40E0D0",
-		"Nome": "TURQUESA"
+		"id": "#40E0D0",
+		"description": "TURQUESA"
 	},
 	{
-		"Codigo": "#4169E1",
-		"Nome": "AZUL REAL"
+		"id": "#4169E1",
+		"description": "AZUL REAL"
 	},
 	{
-		"Codigo": "#4682B4",
-		"Nome": "AZUL ACO"
+		"id": "#4682B4",
+		"description": "AZUL ACO"
 	},
 	{
-		"Codigo": "#483D8B",
-		"Nome": "AZUL ARDOSIA ESCURO"
+		"id": "#483D8B",
+		"description": "AZUL ARDOSIA ESCURO"
 	},
 	{
-		"Codigo": "#48D1CC",
-		"Nome": "TURQUESA MEDIO"
+		"id": "#48D1CC",
+		"description": "TURQUESA MEDIO"
 	},
 	{
-		"Codigo": "#4B0082",
-		"Nome": "INDIGO - AZUL MAGENTA"
+		"id": "#4B0082",
+		"description": "INDIGO - AZUL MAGENTA"
 	},
 	{
-		"Codigo": "#556B2F",
-		"Nome": "VERDE OLIVA ESCURO"
+		"id": "#556B2F",
+		"description": "VERDE OLIVA ESCURO"
 	},
 	{
-		"Codigo": "#5F9EA0",
-		"Nome": "AZUL CADETE"
+		"id": "#5F9EA0",
+		"description": "AZUL CADETE"
 	},
 	{
-		"Codigo": "#6495ED",
-		"Nome": "AZUL FLOR DE MILHO"
+		"id": "#6495ED",
+		"description": "AZUL FLOR DE MILHO"
 	},
 	{
-		"Codigo": "#66CDAA",
-		"Nome": "AGUA MARINHA MEDIA"
+		"id": "#66CDAA",
+		"description": "AGUA MARINHA MEDIA"
 	},
 	{
-		"Codigo": "#696969",
-		"Nome": "CINZA FOSCO"
+		"id": "#696969",
+		"description": "CINZA FOSCO"
 	},
 	{
-		"Codigo": "#6A5ACD",
-		"Nome": "AZUL ARDOSIA"
+		"id": "#6A5ACD",
+		"description": "AZUL ARDOSIA"
 	},
 	{
-		"Codigo": "#6B8E23",
-		"Nome": "OLIVA PARDA, AMARELO ESVERDEADO"
+		"id": "#6B8E23",
+		"description": "OLIVA PARDA, AMARELO ESVERDEADO"
 	},
 	{
-		"Codigo": "#708090",
-		"Nome": "CINZA ARDOSIA"
+		"id": "#708090",
+		"description": "CINZA ARDOSIA"
 	},
 	{
-		"Codigo": "#778899",
-		"Nome": "CINZA ARDOSIA CLARO"
+		"id": "#778899",
+		"description": "CINZA ARDOSIA CLARO"
 	},
 	{
-		"Codigo": "#7B68EE",
-		"Nome": "AZUL ARDOSIA MEDIO"
+		"id": "#7B68EE",
+		"description": "AZUL ARDOSIA MEDIO"
 	},
 	{
-		"Codigo": "#7CFC00",
-		"Nome": "VERDE GRAMA"
+		"id": "#7CFC00",
+		"description": "VERDE GRAMA"
 	},
 	{
-		"Codigo": "#7FFF00",
-		"Nome": "VERDE LIMAO"
+		"id": "#7FFF00",
+		"description": "VERDE LIMAO"
 	},
 	{
-		"Codigo": "#7FFFD4",
-		"Nome": "AGUA MARINHA"
+		"id": "#7FFFD4",
+		"description": "AGUA MARINHA"
 	},
 	{
-		"Codigo": "#800000",
-		"Nome": "MARROM"
+		"id": "#800000",
+		"description": "MARROM"
 	},
 	{
-		"Codigo": "#800080",
-		"Nome": "ROXO"
+		"id": "#800080",
+		"description": "ROXO"
 	},
 	{
-		"Codigo": "#808000",
-		"Nome": "VERDE OLIVA"
+		"id": "#808000",
+		"description": "VERDE OLIVA"
 	},
 	{
-		"Codigo": "#808080",
-		"Nome": "CINZA"
+		"id": "#808080",
+		"description": "CINZA"
 	},
 	{
-		"Codigo": "#87CEEB",
-		"Nome": "AZUL CEU OU AZUL ANIL"
+		"id": "#87CEEB",
+		"description": "AZUL CEU OU AZUL ANIL"
 	},
 	{
-		"Codigo": "#87CEFA",
-		"Nome": "VERDE CEU CLARO"
+		"id": "#87CEFA",
+		"description": "VERDE CEU CLARO"
 	},
 	{
-		"Codigo": "#8A2BE2",
-		"Nome": "AZUL VIOLETA"
+		"id": "#8A2BE2",
+		"description": "AZUL VIOLETA"
 	},
 	{
-		"Codigo": "#8B0000",
-		"Nome": "VERMELHO ESCURO OU CASTANHO AVERMELHADO"
+		"id": "#8B0000",
+		"description": "VERMELHO ESCURO OU CASTANHO AVERMELHADO"
 	},
 	{
-		"Codigo": "#8B008B",
-		"Nome": "MAGENTA ESCURO"
+		"id": "#8B008B",
+		"description": "MAGENTA ESCURO"
 	},
 	{
-		"Codigo": "#8B4513",
-		"Nome": "MARRON SELA"
+		"id": "#8B4513",
+		"description": "MARRON SELA"
 	},
 	{
-		"Codigo": "#8FBC8F",
-		"Nome": "VERDE MAR ESCURO"
+		"id": "#8FBC8F",
+		"description": "VERDE MAR ESCURO"
 	},
 	{
-		"Codigo": "#90EE90",
-		"Nome": "VERDE CLARO"
+		"id": "#90EE90",
+		"description": "VERDE CLARO"
 	},
 	{
-		"Codigo": "#9370DB",
-		"Nome": "ROXO MEDIO"
+		"id": "#9370DB",
+		"description": "ROXO MEDIO"
 	},
 	{
-		"Codigo": "#9400D3",
-		"Nome": "VIOLETA ESCURO"
+		"id": "#9400D3",
+		"description": "VIOLETA ESCURO"
 	},
 	{
-		"Codigo": "#98FB98",
-		"Nome": "VERDE PALIDO"
+		"id": "#98FB98",
+		"description": "VERDE PALIDO"
 	},
 	{
-		"Codigo": "#9932CC",
-		"Nome": "ORUIDIA ESCURO 9(UL)"
+		"id": "#9932CC",
+		"description": "ORUIDIA ESCURO 9(UL)"
 	},
 	{
-		"Codigo": "#9ACD32",
-		"Nome": "AMARELO VERDE"
+		"id": "#9ACD32",
+		"description": "AMARELO VERDE"
 	},
 	{
-		"Codigo": "#A0522D",
-		"Nome": "SIENA - LARANJA AVERMELHADO"
+		"id": "#A0522D",
+		"description": "SIENA - LARANJA AVERMELHADO"
 	},
 	{
-		"Codigo": "#A52A2A",
-		"Nome": "MARROM"
+		"id": "#A52A2A",
+		"description": "MARROM"
 	},
 	{
-		"Codigo": "#A9A9A9",
-		"Nome": "CINZA ESCURO"
+		"id": "#A9A9A9",
+		"description": "CINZA ESCURO"
 	},
 	{
-		"Codigo": "#ADD8E6",
-		"Nome": "AZUL CLARO"
+		"id": "#ADD8E6",
+		"description": "AZUL CLARO"
 	},
 	{
-		"Codigo": "#ADFF2F",
-		"Nome": "AMARELO ESVERDEADO"
+		"id": "#ADFF2F",
+		"description": "AMARELO ESVERDEADO"
 	},
 	{
-		"Codigo": "#AFEEEE",
-		"Nome": "TURQUESA PALIDO - CIANO CLARO"
+		"id": "#AFEEEE",
+		"description": "TURQUESA PALIDO - CIANO CLARO"
 	},
 	{
-		"Codigo": "#B0C4DE",
-		"Nome": "AZUL ACO CLARO"
+		"id": "#B0C4DE",
+		"description": "AZUL ACO CLARO"
 	},
 	{
-		"Codigo": "#B0E0E6",
-		"Nome": "AZUL POLVORA"
+		"id": "#B0E0E6",
+		"description": "AZUL POLVORA"
 	},
 	{
-		"Codigo": "#B22222",
-		"Nome": "TIJOLO - COR AVERMELHADA"
+		"id": "#B22222",
+		"description": "TIJOLO - COR AVERMELHADA"
 	},
 	{
-		"Codigo": "#B8860B",
-		"Nome": "DOURADO ESCURO - AMARELO ESCURO"
+		"id": "#B8860B",
+		"description": "DOURADO ESCURO - AMARELO ESCURO"
 	},
 	{
-		"Codigo": "#BA55D3",
-		"Nome": "ORQUIDIA MEDIA - MAGENTA"
+		"id": "#BA55D3",
+		"description": "ORQUIDIA MEDIA - MAGENTA"
 	},
 	{
-		"Codigo": "#BC8F8F",
-		"Nome": "MARROM ROSADO - VERMELHO MEDIO"
+		"id": "#BC8F8F",
+		"description": "MARROM ROSADO - VERMELHO MEDIO"
 	},
 	{
-		"Codigo": "#BDB76B",
-		"Nome": "CAQUI ESCURO"
+		"id": "#BDB76B",
+		"description": "CAQUI ESCURO"
 	},
 	{
-		"Codigo": "#C0C0C0",
-		"Nome": "PRATA"
+		"id": "#C0C0C0",
+		"description": "PRATA"
 	},
 	{
-		"Codigo": "#C71585",
-		"Nome": "VERMELHO VIOLETA MEDIO"
+		"id": "#C71585",
+		"description": "VERMELHO VIOLETA MEDIO"
 	},
 	{
-		"Codigo": "#CD5C5C",
-		"Nome": "VERMELHO INDIANO"
+		"id": "#CD5C5C",
+		"description": "VERMELHO INDIANO"
 	},
 	{
-		"Codigo": "#CD853F",
-		"Nome": "COR DA PELE"
+		"id": "#CD853F",
+		"description": "COR DA PELE"
 	},
 	{
-		"Codigo": "#D2691E",
-		"Nome": "CHOCOLATE"
+		"id": "#D2691E",
+		"description": "CHOCOLATE"
 	},
 	{
-		"Codigo": "#D2B48C",
-		"Nome": "CASTANHO CLARO"
+		"id": "#D2B48C",
+		"description": "CASTANHO CLARO"
 	},
 	{
-		"Codigo": "#D3D3D3",
-		"Nome": "CINZA CLARO"
+		"id": "#D3D3D3",
+		"description": "CINZA CLARO"
 	},
 	{
-		"Codigo": "#D8BFD8",
-		"Nome": "CARDO - FORMA DE MAGENTA"
+		"id": "#D8BFD8",
+		"description": "CARDO - FORMA DE MAGENTA"
 	},
 	{
-		"Codigo": "#DA70D6",
-		"Nome": "ORQUIDIA - MAGENTA MEDIO PARA CLARO"
+		"id": "#DA70D6",
+		"description": "ORQUIDIA - MAGENTA MEDIO PARA CLARO"
 	},
 	{
-		"Codigo": "#DAA520",
-		"Nome": "DOURADO"
+		"id": "#DAA520",
+		"description": "DOURADO"
 	},
 	{
-		"Codigo": "#DB7093",
-		"Nome": "VERMELHO VIOLETA PALIDO COR DE ROSA CLARO"
+		"id": "#DB7093",
+		"description": "VERMELHO VIOLETA PALIDO COR DE ROSA CLARO"
 	},
 	{
-		"Codigo": "#DC143C",
-		"Nome": "CARMISIN - ROSA AVERMELHADO"
+		"id": "#DC143C",
+		"description": "CARMISIN - ROSA AVERMELHADO"
 	},
 	{
-		"Codigo": "#DCDCDC",
-		"Nome": "CINZA MEDIO"
+		"id": "#DCDCDC",
+		"description": "CINZA MEDIO"
 	},
 	{
-		"Codigo": "#DDA0DD",
-		"Nome": "AMEIXA, MAGENTA MEDIA PARA CLARA"
+		"id": "#DDA0DD",
+		"description": "AMEIXA, MAGENTA MEDIA PARA CLARA"
 	},
 	{
-		"Codigo": "#DEB887",
-		"Nome": "MADEIRA - CASTANHO"
+		"id": "#DEB887",
+		"description": "MADEIRA - CASTANHO"
 	},
 	{
-		"Codigo": "#E0FFFF",
-		"Nome": "CIANO CLARO"
+		"id": "#E0FFFF",
+		"description": "CIANO CLARO"
 	},
 	{
-		"Codigo": "#E6E6FA",
-		"Nome": "LAVANDA"
+		"id": "#E6E6FA",
+		"description": "LAVANDA"
 	},
 	{
-		"Codigo": "#E9967A",
-		"Nome": "SALMAO ESCURO - LARANJA AVERMELHADO"
+		"id": "#E9967A",
+		"description": "SALMAO ESCURO - LARANJA AVERMELHADO"
 	},
 	{
-		"Codigo": "#EE82EE",
-		"Nome": "VIOLETA"
+		"id": "#EE82EE",
+		"description": "VIOLETA"
 	},
 	{
-		"Codigo": "#EEE8AA",
-		"Nome": "MAGENTA CLARO"
+		"id": "#EEE8AA",
+		"description": "MAGENTA CLARO"
 	},
 	{
-		"Codigo": "#F08080",
-		"Nome": "CORAL CLARO"
+		"id": "#F08080",
+		"description": "CORAL CLARO"
 	},
 	{
-		"Codigo": "#F0E68C",
-		"Nome": "CAQUI"
+		"id": "#F0E68C",
+		"description": "CAQUI"
 	},
 	{
-		"Codigo": "#F0F8FF",
-		"Nome": "PALIDO MATIZ DE AZUL - CIANO"
+		"id": "#F0F8FF",
+		"description": "PALIDO MATIZ DE AZUL - CIANO"
 	},
 	{
-		"Codigo": "#F0FFF0",
-		"Nome": "MANA - COR VERDE"
+		"id": "#F0FFF0",
+		"description": "MANA - COR VERDE"
 	},
 	{
-		"Codigo": "#F0FFFF",
-		"Nome": "AZURE - AZUL INTENSO"
+		"id": "#F0FFFF",
+		"description": "AZURE - AZUL INTENSO"
 	},
 	{
-		"Codigo": "#F4A460",
-		"Nome": "MARROM AMARELADO"
+		"id": "#F4A460",
+		"description": "MARROM AMARELADO"
 	},
 	{
-		"Codigo": "#F5DEB3",
-		"Nome": "TRIGO"
+		"id": "#F5DEB3",
+		"description": "TRIGO"
 	},
 	{
-		"Codigo": "#F5F5DC",
-		"Nome": "BEGE"
+		"id": "#F5F5DC",
+		"description": "BEGE"
 	},
 	{
-		"Codigo": "#F5F5F5",
-		"Nome": "BRANCO FUMACA"
+		"id": "#F5F5F5",
+		"description": "BRANCO FUMACA"
 	},
 	{
-		"Codigo": "#F5FFFA",
-		"Nome": "CREME DE MENTA"
+		"id": "#F5FFFA",
+		"description": "CREME DE MENTA"
 	},
 	{
-		"Codigo": "#F8F8FF",
-		"Nome": "BRANCO FANTASMA - FORMA DE AZUL"
+		"id": "#F8F8FF",
+		"description": "BRANCO FANTASMA - FORMA DE AZUL"
 	},
 	{
-		"Codigo": "#FA8072",
-		"Nome": "SALMAO"
+		"id": "#FA8072",
+		"description": "SALMAO"
 	},
 	{
-		"Codigo": "#FAEBD7",
-		"Nome": "BRANCO ANTIGO"
+		"id": "#FAEBD7",
+		"description": "BRANCO ANTIGO"
 	},
 	{
-		"Codigo": "#FAF0E6",
-		"Nome": "LINHO - COR DE LARANJA"
+		"id": "#FAF0E6",
+		"description": "LINHO - COR DE LARANJA"
 	},
 	{
-		"Codigo": "#FAFAD2",
-		"Nome": "AMARELO OURO CLARO"
+		"id": "#FAFAD2",
+		"description": "AMARELO OURO CLARO"
 	},
 	{
-		"Codigo": "#FDF5E6",
-		"Nome": "RENDA ANTIGA, CASTANHO MUITO CLARO"
+		"id": "#FDF5E6",
+		"description": "RENDA ANTIGA, CASTANHO MUITO CLARO"
 	},
 	{
-		"Codigo": "#FF0000",
-		"Nome": "VERMELHO"
+		"id": "#FF0000",
+		"description": "VERMELHO"
 	},
 	{
-		"Codigo": "#FF00FF",
-		"Nome": "MAGENTA"
+		"id": "#FF00FF",
+		"description": "MAGENTA"
 	},
 	{
-		"Codigo": "#FF1493",
-		"Nome": "ROSA PROFUNDO - MAGENTA COR DE ROSA"
+		"id": "#FF1493",
+		"description": "ROSA PROFUNDO - MAGENTA COR DE ROSA"
 	},
 	{
-		"Codigo": "#FF4500",
-		"Nome": "JAMBO- LARANJA AVERMELHADO"
+		"id": "#FF4500",
+		"description": "JAMBO- LARANJA AVERMELHADO"
 	},
 	{
-		"Codigo": "#FF6347",
-		"Nome": "TOMATE"
+		"id": "#FF6347",
+		"description": "TOMATE"
 	},
 	{
-		"Codigo": "#FF69B4",
-		"Nome": "ROSA FORTE - MAGENTA COR DE ROSA"
+		"id": "#FF69B4",
+		"description": "ROSA FORTE - MAGENTA COR DE ROSA"
 	},
 	{
-		"Codigo": "#FF7F50",
-		"Nome": "CORAL"
+		"id": "#FF7F50",
+		"description": "CORAL"
 	},
 	{
-		"Codigo": "#FF8C00",
-		"Nome": "LARANJA ESCURO"
+		"id": "#FF8C00",
+		"description": "LARANJA ESCURO"
 	},
 	{
-		"Codigo": "#FFA07A",
-		"Nome": "SALMAO CLARO"
+		"id": "#FFA07A",
+		"description": "SALMAO CLARO"
 	},
 	{
-		"Codigo": "#FFA500",
-		"Nome": "LARANJA"
+		"id": "#FFA500",
+		"description": "LARANJA"
 	},
 	{
-		"Codigo": "#FFB6C1",
-		"Nome": "PINK CLARO"
+		"id": "#FFB6C1",
+		"description": "PINK CLARO"
 	},
 	{
-		"Codigo": "#FFC0CB",
-		"Nome": "ROSA PINK - ROSA AVERMELHADO"
+		"id": "#FFC0CB",
+		"description": "ROSA PINK - ROSA AVERMELHADO"
 	},
 	{
-		"Codigo": "#FFD700",
-		"Nome": "OURO"
+		"id": "#FFD700",
+		"description": "OURO"
 	},
 	{
-		"Codigo": "#FFDAB9",
-		"Nome": "PESSEGO - LARANJA CLARO"
+		"id": "#FFDAB9",
+		"description": "PESSEGO - LARANJA CLARO"
 	},
 	{
-		"Codigo": "#FFDEAD",
-		"Nome": "BRANCO NAVAJO - BRANCO SUJO"
+		"id": "#FFDEAD",
+		"description": "BRANCO NAVAJO - BRANCO SUJO"
 	},
 	{
-		"Codigo": "#FFE4B5",
-		"Nome": "MOCASSIM ? CASTANHO CLARO"
+		"id": "#FFE4B5",
+		"description": "MOCASSIM ? CASTANHO CLARO"
 	},
 	{
-		"Codigo": "#FFE4C4",
-		"Nome": "BISQUE OU CREME DE MARISCO"
+		"id": "#FFE4C4",
+		"description": "BISQUE OU CREME DE MARISCO"
 	},
 	{
-		"Codigo": "#FFE4E1",
-		"Nome": "ROSA EMBACADO"
+		"id": "#FFE4E1",
+		"description": "ROSA EMBACADO"
 	},
 	{
-		"Codigo": "#FFEBCD",
-		"Nome": "BRANCO DE AMENDOA"
+		"id": "#FFEBCD",
+		"description": "BRANCO DE AMENDOA"
 	},
 	{
-		"Codigo": "#FFEFD5",
-		"Nome": "MAMAO BATIDO - CASTANHO ROSA CLARO"
+		"id": "#FFEFD5",
+		"description": "MAMAO BATIDO - CASTANHO ROSA CLARO"
 	},
 	{
-		"Codigo": "#FFF0F5",
-		"Nome": "LAVANDA AVERMELHADA OU COR DE ROSA"
+		"id": "#FFF0F5",
+		"description": "LAVANDA AVERMELHADA OU COR DE ROSA"
 	},
 	{
-		"Codigo": "#FFF5EE",
-		"Nome": "CONCHA - COR ALARANJADA"
+		"id": "#FFF5EE",
+		"description": "CONCHA - COR ALARANJADA"
 	},
 	{
-		"Codigo": "#FFF8DC",
-		"Nome": "MILHO CLARO"
+		"id": "#FFF8DC",
+		"description": "MILHO CLARO"
 	},
 	{
-		"Codigo": "#FFFACD",
-		"Nome": "UMA FORMA DE AMARELO"
+		"id": "#FFFACD",
+		"description": "UMA FORMA DE AMARELO"
 	},
 	{
-		"Codigo": "#FFFAF0",
-		"Nome": "BRANCO FLORAL"
+		"id": "#FFFAF0",
+		"description": "BRANCO FLORAL"
 	},
 	{
-		"Codigo": "#FFFAFA",
-		"Nome": "NEVE"
+		"id": "#FFFAFA",
+		"description": "NEVE"
 	},
 	{
-		"Codigo": "#FFFF00",
-		"Nome": "AMARELO"
+		"id": "#FFFF00",
+		"description": "AMARELO"
 	},
 	{
-		"Codigo": "#FFFFE0",
-		"Nome": "AMARELO CLARO"
+		"id": "#FFFFE0",
+		"description": "AMARELO CLARO"
 	},
 	{
-		"Codigo": "#FFFFF0",
-		"Nome": "MARFIM"
+		"id": "#FFFFF0",
+		"description": "MARFIM"
 	},
 	{
-		"Codigo": "#FFFFFF",
-		"Nome": "BRANCO"
+		"id": "#FFFFFF",
+		"description": "BRANCO"
 	}
 ]

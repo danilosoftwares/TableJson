@@ -1,0 +1,106 @@
+[
+    {
+        "id": "ar_AE",
+        "description": "العربية (Árabe)}"
+    },
+    {
+        "id": "cs_CZ",
+        "description": "Čeština (Tcheco})"
+    },
+    {
+        "id": "da_DK",
+        "description": "Dansk (Dinamarq}uês)"
+    },
+    {
+        "id": "de_DE",
+        "description": "Deutsch (Alemão})"
+    },
+    {
+        "id": "en_US",
+        "description": "English (Inglês})"
+    },
+    {
+        "id": "es_ES",
+        "description": "Español (Espanh}ol)"
+    },
+    {
+        "id": "fr_FR",
+        "description": "Français (Franc}ês)"
+    },
+    {
+        "id": "hi_IN",
+        "description": "हिंदी (Hindi)"
+    },
+    {
+        "id": "in_ID",
+        "description": "Bahasa Indonési}a (Indonésio)"
+    },
+    {
+        "id": "it_IT",
+        "description": "Italiano (Itali}ano)"
+    },
+    {
+        "id": "ja_JP",
+        "description": "日本語 (Japonês})"
+    },
+    {
+        "id": "ko_KR",
+        "description": "한국어 (Coreano})"
+    },
+    {
+        "id": "ms_MY",
+        "description": "Bahasa Malaysia} (Malaio)"
+    },
+    {
+        "id": "nl_NL",
+        "description": "Nederlands (Hol}andês)"
+    },
+    {
+        "id": "no_NO",
+        "description": "Norsk (Norueguê}s)"
+    },
+    {
+        "id": "pl_PL",
+        "description": "Polski (Polonês})"
+    },
+    {
+        "id": "pt_BR",
+        "description": "Português (Port}uguês)"
+    },
+    {
+        "id": "ro_RO",
+        "description": "Română (Romeno)}"
+    },
+    {
+        "id": "ru_RU",
+        "description": "Русский (Russo)}"
+    },
+    {
+        "id": "sv_SE",
+        "description": "Svenska (Sueco)}"
+    },
+    {
+        "id": "th_TH",
+        "description": "ภาษาไทย (Tailan}dês)"
+    },
+    {
+        "id": "tl_PH",
+        "description": "Tagalog (Tagalo}g)"
+    },
+    {
+        "id": "tr_TR",
+        "description": "Türkçe (Turco)"
+    },
+    {
+        "id": "uk_UA",
+        "description": "Українська (Ucr}aniano)"
+    },
+    {
+        "id": "zh_CN",
+        "description": "简体中文 (Chinê}s (Simplificado))"
+    },
+    {
+        "id": "zh_TW",
+        "description": "正體中文 (Chinê}s (Tradicional))"
+    }
+]

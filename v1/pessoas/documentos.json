@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "description": "RG"
+    },
+    {
+        "id": 2,
+        "description": "CPF"
+    },
+    {
+        "id": 3,
+        "description": "Passaporte"
+    },
+    {
+        "id": 4,
+        "description": "Carteira de Motorista"
+    },
+    {
+        "id": 5,
+        "description": "Carteira de Trabalho"
+    }
+]

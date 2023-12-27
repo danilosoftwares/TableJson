@@ -1,0 +1,246 @@
+[
+	{
+		"id" : "AMPOLA",
+		"description" : "AMPOLA"
+	},
+	{
+		"id" : "BALDE",
+		"description" : "BALDE"
+	},
+	{
+		"id" : "BANDEJ",
+		"description" : "BANDEJA"
+	},
+	{
+		"id" : "BARRA",
+		"description" : "BARRA"
+	},
+	{
+		"id" : "BISNAG",
+		"description" : "BISNAGA"
+	},
+	{
+		"id" : "BLOCO",
+		"description" : "BLOCO"
+	},
+	{
+		"id" : "BOBINA",
+		"description" : "BOBINA"
+	},
+	{
+		"id" : "BOMB",
+		"description" : "BOMBONA"
+	},
+	{
+		"id" : "CAPS",
+		"description" : "CAPSULA"
+	},
+	{
+		"id" : "CART",
+		"description" : "CARTELA"
+	},
+	{
+		"id" : "CENTO",
+		"description" : "CENTO"
+	},
+	{
+		"id" : "CJ",
+		"description" : "CONJUNTO"
+	},
+	{
+		"id" : "CM",
+		"description" : "CENTIMETRO"
+	},
+	{
+		"id" : "CM2",
+		"description" : "CENTIMETRO QUADRADO"
+	},
+	{
+		"id" : "CX",
+		"description" : "CAIXA"
+	},
+	{
+		"id" : "CX10",
+		"description" : "CAIXA COM 10 UNIDADES"
+	},
+	{
+		"id" : "CX100",
+		"description" : "CAIXA COM 100 UNIDADES"
+	},
+	{
+		"id" : "CX15",
+		"description" : "CAIXA COM 15 UNIDADES"
+	},
+	{
+		"id" : "CX2",
+		"description" : "CAIXA COM 2 UNIDADES"
+	},
+	{
+		"id" : "CX20",
+		"description" : "CAIXA COM 20 UNIDADES"
+	},
+	{
+		"id" : "CX25",
+		"description" : "CAIXA COM 25 UNIDADES"
+	},
+	{
+		"id" : "CX3",
+		"description" : "CAIXA COM 3 UNIDADES"
+	},
+	{
+		"id" : "CX5",
+		"description" : "CAIXA COM 5 UNIDADES"
+	},
+	{
+		"id" : "CX50",
+		"description" : "CAIXA COM 50 UNIDADES"
+	},
+	{
+		"id" : "DISP",
+		"description" : "DISPLAY"
+	},
+	{
+		"id" : "DUZIA",
+		"description" : "DUZIA"
+	},
+	{
+		"id" : "EMBAL",
+		"description" : "EMBALAGEM"
+	},
+	{
+		"id" : "FARDO",
+		"description" : "FARDO"
+	},
+	{
+		"id" : "FOLHA",
+		"description" : "FOLHA"
+	},
+	{
+		"id" : "FRASCO",
+		"description" : "FRASCO"
+	},
+	{
+		"id" : "GALAO",
+		"description" : "GALAO"
+	},
+	{
+		"id" : "GF",
+		"description" : "GARRAFA"
+	},
+	{
+		"id" : "GRAMAS",
+		"description" : "GRAMAS"
+	},
+	{
+		"id" : "JOGO",
+		"description" : "JOGO"
+	},
+	{
+		"id" : "K",
+		"description" : "QUILATE"
+	},
+	{
+		"id" : "KG",
+		"description" : "QUILOGRAMA"
+	},
+	{
+		"id" : "KIT",
+		"description" : "KIT"
+	},
+	{
+		"id" : "LATA",
+		"description" : "LATA"
+	},
+	{
+		"id" : "LITRO",
+		"description" : "LITRO"
+	},
+	{
+		"id" : "M",
+		"description" : "METRO"
+	},
+	{
+		"id" : "M2",
+		"description" : "METRO QUADRADO"
+	},
+	{
+		"id" : "M3",
+		"description" : "METRO CUBICO"
+	},
+	{
+		"id" : "MILHEI",
+		"description" : "MILHEIRO"
+	},
+	{
+		"id" : "ML",
+		"description" : "MILILITRO"
+	},
+	{
+		"id" : "MWH",
+		"description" : "MEGAWATT HORA"
+	},
+	{
+		"id" : "PACOTE",
+		"description" : "PACOTE"
+	},
+	{
+		"id" : "PALETE",
+		"description" : "PALETE"
+	},
+	{
+		"id" : "PARES",
+		"description" : "PARES"
+	},
+	{
+		"id" : "PC",
+		"description" : "PECA"
+	},
+	{
+		"id" : "POTE",
+		"description" : "POTE"
+	},
+	{
+		"id" : "RESMA",
+		"description" : "RESMA"
+	},
+	{
+		"id" : "ROLO",
+		"description" : "ROLO"
+	},
+	{
+		"id" : "SACO",
+		"description" : "SACO"
+	},
+	{
+		"id" : "SACOLA",
+		"description" : "SACOLA"
+	},
+	{
+		"id" : "TAMBOR",
+		"description" : "TAMBOR"
+	},
+	{
+		"id" : "TANQUE",
+		"description" : "TANQUE"
+	},
+	{
+		"id" : "TON",
+		"description" : "TONELADA"
+	},
+	{
+		"id" : "TUBO",
+		"description" : "TUBO"
+	},
+	{
+		"id" : "UNID",
+		"description" : "UNIDADE"
+	},
+	{
+		"id" : "VASIL",
+		"description" : "VASILHAME"
+	},
+	{
+		"id" : "VIDRO",
+		"description" : "VIDRO"
+	}
+]

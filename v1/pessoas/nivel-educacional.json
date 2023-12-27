@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "description": "Educação Infantil"
+    },
+    {
+        "id": 2,
+        "description": "Ensino Fundamental I"
+    },
+    {
+        "id": 3,
+        "description": "Ensino Fundamental II"
+    },
+    {
+        "id": 4,
+        "description": "Ensino Médio"
+    },
+    {
+        "id": 5,
+        "description": "Educação Superior (Graduação)"
+    },
+    {
+        "id": 6,
+        "description": "Pós-graduação (Especialização, Mestrado, Doutorado)"
+    },
+    {
+        "id": 7,
+        "description": "Educação Profissional e Tecnológica"
+    },
+    {
+        "id": 8,
+        "description": "Educação de Jovens e Adultos (EJA)"
+    },
+    {
+        "id": 9,
+        "description": "Educação Especial"
+    },
+    {
+        "id": 10,
+        "description": "Outros"
+    }
+]
