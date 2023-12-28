@@ -1,0 +1,42 @@
+[
+    {
+        "id": "00",
+        "description": "Tributada integralmente"
+    },
+    {
+        "id": "01",
+        "description": "Tributada com alíquota zero"
+    },
+    {
+        "id": "02",
+        "description": "Tributada com redução da base de cálculo"
+    },
+    {
+        "id": "03",
+        "description": "Tributada com isenção"
+    },
+    {
+        "id": "04",
+        "description": "Tributada com suspensão"
+    },
+    {
+        "id": "49",
+        "description": "Outras"
+    },
+    {
+        "id": "50",
+        "description": "Tributação pelo ICMS"
+    },
+    {
+        "id": "51",
+        "description": "Tributação pelo ICMS com substituição tributária"
+    },
+    {
+        "id": "60",
+        "description": "ICMS cobrado anteriormente por substituição tributária"
+    },
+    {
+        "id": "90",
+        "description": "Outros"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "101",
+        "description": "Tributada pelo Simples Nacional com permissão de crédito"
+    },
+    {
+        "id": "102",
+        "description": "Tributada pelo Simples Nacional sem permissão de crédito"
+    },
+    {
+        "id": "103",
+        "description": "Isenção do ICMS no Simples Nacional para faixa de receita bruta"
+    },
+    {
+        "id": "201",
+        "description": "Tributada pelo Simples Nacional com permissão de crédito e com cobrança do ICMS por substituição tributária"
+    },
+    {
+        "id": "202",
+        "description": "Tributada pelo Simples Nacional sem permissão de crédito e com cobrança do ICMS por substituição tributária"
+    },
+    {
+        "id": "203",
+        "description": "Isenção do ICMS no Simples Nacional para faixa de receita bruta e com cobrança do ICMS por substituição tributária"
+    },
+    {
+        "id": "300",
+        "description": "Imune"
+    },
+    {
+        "id": "400",
+        "description": "Não tributada pelo Simples Nacional"
+    },
+    {
+        "id": "500",
+        "description": "ICMS cobrado anteriormente por substituição tributária (substituído)"
+    },
+    {
+        "id": "900",
+        "description": "Outros"
+    }
+]
