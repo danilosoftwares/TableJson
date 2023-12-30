@@ -8,15 +8,6 @@ Centralizar informações que são raramente modificadas, permitindo o uso compa
 ## *Acessando:*
 https://table-json.netlify.app/
 
-## *Installing*
-
-```sh
-git clone https://github.com/danilosoftwares/tablejson
-cd tablejson
-npm install
-npm start
-```
-
 ## License
 
 MIT
