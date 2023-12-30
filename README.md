@@ -6,7 +6,7 @@
 Centralizar informações que são raramente modificadas, permitindo o uso compartilhado por todos
 
 ## *See live:*
-table-json.netlify.app/
+https://table-json.netlify.app/
 
 ## *Installing*
 
