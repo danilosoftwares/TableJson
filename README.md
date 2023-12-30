@@ -5,7 +5,7 @@
 ## *Objetivo:*
 Centralizar informações que são raramente modificadas, permitindo o uso compartilhado por todos
 
-## *See live:*
+## *Acessando:*
 https://table-json.netlify.app/
 
 ## *Installing*
