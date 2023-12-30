@@ -1,114 +1,114 @@
 [
 	{
-		"CodigoIBGE" : 1600055,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "SERRA DO NAVIO"
+		"id" : 1600055,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "SERRA DO NAVIO"
 	},
 	{
-		"CodigoIBGE" : 1600105,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "AMAPA"
+		"id" : 1600105,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "AMAPA"
 	},
 	{
-		"CodigoIBGE" : 1600154,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "PEDRA BRANCA DO AMAPARI"
+		"id" : 1600154,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "PEDRA BRANCA DO AMAPARI"
 	},
 	{
-		"CodigoIBGE" : 1600204,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "CALCOENE"
+		"id" : 1600204,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "CALCOENE"
 	},
 	{
-		"CodigoIBGE" : 1600212,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "CUTIAS"
+		"id" : 1600212,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "CUTIAS"
 	},
 	{
-		"CodigoIBGE" : 1600238,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "FERREIRA GOMES"
+		"id" : 1600238,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "FERREIRA GOMES"
 	},
 	{
-		"CodigoIBGE" : 1600253,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "ITAUBAL"
+		"id" : 1600253,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "ITAUBAL"
 	},
 	{
-		"CodigoIBGE" : 1600279,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "LARANJAL DO JARI"
+		"id" : 1600279,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "LARANJAL DO JARI"
 	},
 	{
-		"CodigoIBGE" : 1600303,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "MACAPA"
+		"id" : 1600303,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "MACAPA"
 	},
 	{
-		"CodigoIBGE" : 1600402,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "MAZAGAO"
+		"id" : 1600402,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "MAZAGAO"
 	},
 	{
-		"CodigoIBGE" : 1600501,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "OIAPOQUE"
+		"id" : 1600501,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "OIAPOQUE"
 	},
 	{
-		"CodigoIBGE" : 1600535,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "PORTO GRANDE"
+		"id" : 1600535,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "PORTO GRANDE"
 	},
 	{
-		"CodigoIBGE" : 1600550,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "PRACUUBA"
+		"id" : 1600550,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "PRACUUBA"
 	},
 	{
-		"CodigoIBGE" : 1600600,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "SANTANA"
+		"id" : 1600600,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "SANTANA"
 	},
 	{
-		"CodigoIBGE" : 1600709,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "TARTARUGALZINHO"
+		"id" : 1600709,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "TARTARUGALZINHO"
 	},
 	{
-		"CodigoIBGE" : 1600808,
-		"CodigoIBGEUF" : 16,
-		"SiglaUF" : "AP",
-		"NomeUF" : "AMAPA",
-		"NomeMunicipio" : "VITORIA DO JARI"
+		"id" : 1600808,
+		"parentId" : 16,
+		"acronym" : "AP",
+		"descriptionParent" : "AMAPA",
+		"description" : "VITORIA DO JARI"
 	}
 ]

@@ -1,716 +1,716 @@
 [
 	{
-		"CodigoIBGE" : 2700102,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "AGUA BRANCA"
+		"id" : 2700102,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "AGUA BRANCA"
 	},
 	{
-		"CodigoIBGE" : 2700201,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "ANADIA"
+		"id" : 2700201,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "ANADIA"
 	},
 	{
-		"CodigoIBGE" : 2700300,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "ARAPIRACA"
+		"id" : 2700300,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "ARAPIRACA"
 	},
 	{
-		"CodigoIBGE" : 2700409,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "ATALAIA"
+		"id" : 2700409,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "ATALAIA"
 	},
 	{
-		"CodigoIBGE" : 2700508,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BARRA DE SANTO ANTONIO"
+		"id" : 2700508,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BARRA DE SANTO ANTONIO"
 	},
 	{
-		"CodigoIBGE" : 2700607,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BARRA DE SAO MIGUEL"
+		"id" : 2700607,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BARRA DE SAO MIGUEL"
 	},
 	{
-		"CodigoIBGE" : 2700706,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BATALHA"
+		"id" : 2700706,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BATALHA"
 	},
 	{
-		"CodigoIBGE" : 2700805,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BELEM"
+		"id" : 2700805,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BELEM"
 	},
 	{
-		"CodigoIBGE" : 2700904,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BELO MONTE"
+		"id" : 2700904,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BELO MONTE"
 	},
 	{
-		"CodigoIBGE" : 2701001,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BOCA DA MATA"
+		"id" : 2701001,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BOCA DA MATA"
 	},
 	{
-		"CodigoIBGE" : 2701100,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "BRANQUINHA"
+		"id" : 2701100,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "BRANQUINHA"
 	},
 	{
-		"CodigoIBGE" : 2701209,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CACIMBINHAS"
+		"id" : 2701209,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CACIMBINHAS"
 	},
 	{
-		"CodigoIBGE" : 2701308,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CAJUEIRO"
+		"id" : 2701308,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CAJUEIRO"
 	},
 	{
-		"CodigoIBGE" : 2701357,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CAMPESTRE"
+		"id" : 2701357,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CAMPESTRE"
 	},
 	{
-		"CodigoIBGE" : 2701407,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CAMPO ALEGRE"
+		"id" : 2701407,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CAMPO ALEGRE"
 	},
 	{
-		"CodigoIBGE" : 2701506,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CAMPO GRANDE"
+		"id" : 2701506,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CAMPO GRANDE"
 	},
 	{
-		"CodigoIBGE" : 2701605,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CANAPI"
+		"id" : 2701605,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CANAPI"
 	},
 	{
-		"CodigoIBGE" : 2701704,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CAPELA"
+		"id" : 2701704,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CAPELA"
 	},
 	{
-		"CodigoIBGE" : 2701803,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CARNEIROS"
+		"id" : 2701803,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CARNEIROS"
 	},
 	{
-		"CodigoIBGE" : 2701902,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CHA PRETA"
+		"id" : 2701902,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CHA PRETA"
 	},
 	{
-		"CodigoIBGE" : 2702009,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "COITE DO NOIA"
+		"id" : 2702009,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "COITE DO NOIA"
 	},
 	{
-		"CodigoIBGE" : 2702108,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "COLONIA LEOPOLDINA"
+		"id" : 2702108,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "COLONIA LEOPOLDINA"
 	},
 	{
-		"CodigoIBGE" : 2702207,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "COQUEIRO SECO"
+		"id" : 2702207,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "COQUEIRO SECO"
 	},
 	{
-		"CodigoIBGE" : 2702306,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CORURIPE"
+		"id" : 2702306,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CORURIPE"
 	},
 	{
-		"CodigoIBGE" : 2702355,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "CRAIBAS"
+		"id" : 2702355,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "CRAIBAS"
 	},
 	{
-		"CodigoIBGE" : 2702405,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "DELMIRO GOUVEIA"
+		"id" : 2702405,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "DELMIRO GOUVEIA"
 	},
 	{
-		"CodigoIBGE" : 2702504,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "DOIS RIACHOS"
+		"id" : 2702504,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "DOIS RIACHOS"
 	},
 	{
-		"CodigoIBGE" : 2702553,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "ESTRELA DE ALAGOAS"
+		"id" : 2702553,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "ESTRELA DE ALAGOAS"
 	},
 	{
-		"CodigoIBGE" : 2702603,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "FEIRA GRANDE"
+		"id" : 2702603,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "FEIRA GRANDE"
 	},
 	{
-		"CodigoIBGE" : 2702702,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "FELIZ DESERTO"
+		"id" : 2702702,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "FELIZ DESERTO"
 	},
 	{
-		"CodigoIBGE" : 2702801,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "FLEXEIRAS"
+		"id" : 2702801,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "FLEXEIRAS"
 	},
 	{
-		"CodigoIBGE" : 2702900,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "GIRAU DO PONCIANO"
+		"id" : 2702900,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "GIRAU DO PONCIANO"
 	},
 	{
-		"CodigoIBGE" : 2703007,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "IBATEGUARA"
+		"id" : 2703007,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "IBATEGUARA"
 	},
 	{
-		"CodigoIBGE" : 2703106,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "IGACI"
+		"id" : 2703106,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "IGACI"
 	},
 	{
-		"CodigoIBGE" : 2703205,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "IGREJA NOVA"
+		"id" : 2703205,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "IGREJA NOVA"
 	},
 	{
-		"CodigoIBGE" : 2703304,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "INHAPI"
+		"id" : 2703304,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "INHAPI"
 	},
 	{
-		"CodigoIBGE" : 2703403,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JACARE DOS HOMENS"
+		"id" : 2703403,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JACARE DOS HOMENS"
 	},
 	{
-		"CodigoIBGE" : 2703502,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JACUIPE"
+		"id" : 2703502,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JACUIPE"
 	},
 	{
-		"CodigoIBGE" : 2703601,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JAPARATINGA"
+		"id" : 2703601,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JAPARATINGA"
 	},
 	{
-		"CodigoIBGE" : 2703700,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JARAMATAIA"
+		"id" : 2703700,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JARAMATAIA"
 	},
 	{
-		"CodigoIBGE" : 2703759,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JEQUIA DA PRAIA"
+		"id" : 2703759,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JEQUIA DA PRAIA"
 	},
 	{
-		"CodigoIBGE" : 2703809,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JOAQUIM GOMES"
+		"id" : 2703809,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JOAQUIM GOMES"
 	},
 	{
-		"CodigoIBGE" : 2703908,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JUNDIA"
+		"id" : 2703908,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JUNDIA"
 	},
 	{
-		"CodigoIBGE" : 2704005,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "JUNQUEIRO"
+		"id" : 2704005,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "JUNQUEIRO"
 	},
 	{
-		"CodigoIBGE" : 2704104,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "LAGOA DA CANOA"
+		"id" : 2704104,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "LAGOA DA CANOA"
 	},
 	{
-		"CodigoIBGE" : 2704203,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "LIMOEIRO DE ANADIA"
+		"id" : 2704203,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "LIMOEIRO DE ANADIA"
 	},
 	{
-		"CodigoIBGE" : 2704302,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MACEIO"
+		"id" : 2704302,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MACEIO"
 	},
 	{
-		"CodigoIBGE" : 2704401,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MAJOR ISIDORO"
+		"id" : 2704401,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MAJOR ISIDORO"
 	},
 	{
-		"CodigoIBGE" : 2704500,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MARAGOGI"
+		"id" : 2704500,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MARAGOGI"
 	},
 	{
-		"CodigoIBGE" : 2704609,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MARAVILHA"
+		"id" : 2704609,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MARAVILHA"
 	},
 	{
-		"CodigoIBGE" : 2704708,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MARECHAL DEODORO"
+		"id" : 2704708,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MARECHAL DEODORO"
 	},
 	{
-		"CodigoIBGE" : 2704807,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MARIBONDO"
+		"id" : 2704807,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MARIBONDO"
 	},
 	{
-		"CodigoIBGE" : 2704906,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MAR VERMELHO"
+		"id" : 2704906,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MAR VERMELHO"
 	},
 	{
-		"CodigoIBGE" : 2705002,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MATA GRANDE"
+		"id" : 2705002,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MATA GRANDE"
 	},
 	{
-		"CodigoIBGE" : 2705101,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MATRIZ DE CAMARAGIBE"
+		"id" : 2705101,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MATRIZ DE CAMARAGIBE"
 	},
 	{
-		"CodigoIBGE" : 2705200,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MESSIAS"
+		"id" : 2705200,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MESSIAS"
 	},
 	{
-		"CodigoIBGE" : 2705309,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MINADOR DO NEGRAO"
+		"id" : 2705309,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MINADOR DO NEGRAO"
 	},
 	{
-		"CodigoIBGE" : 2705408,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MONTEIROPOLIS"
+		"id" : 2705408,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MONTEIROPOLIS"
 	},
 	{
-		"CodigoIBGE" : 2705507,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "MURICI"
+		"id" : 2705507,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "MURICI"
 	},
 	{
-		"CodigoIBGE" : 2705606,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "NOVO LINO"
+		"id" : 2705606,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "NOVO LINO"
 	},
 	{
-		"CodigoIBGE" : 2705705,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "OLHO D-  AGUA DAS FLORES"
+		"id" : 2705705,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "OLHO D-  AGUA DAS FLORES"
 	},
 	{
-		"CodigoIBGE" : 2705804,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "OLHO D-  AGUA DO CASADO"
+		"id" : 2705804,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "OLHO D-  AGUA DO CASADO"
 	},
 	{
-		"CodigoIBGE" : 2705903,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "OLHO D-  AGUA GRANDE"
+		"id" : 2705903,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "OLHO D-  AGUA GRANDE"
 	},
 	{
-		"CodigoIBGE" : 2706000,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "OLIVENCA"
+		"id" : 2706000,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "OLIVENCA"
 	},
 	{
-		"CodigoIBGE" : 2706109,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "OURO BRANCO"
+		"id" : 2706109,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "OURO BRANCO"
 	},
 	{
-		"CodigoIBGE" : 2706208,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PALESTINA"
+		"id" : 2706208,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PALESTINA"
 	},
 	{
-		"CodigoIBGE" : 2706307,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PALMEIRA DOS INDIOS"
+		"id" : 2706307,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PALMEIRA DOS INDIOS"
 	},
 	{
-		"CodigoIBGE" : 2706406,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PAO DE ACUCAR"
+		"id" : 2706406,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PAO DE ACUCAR"
 	},
 	{
-		"CodigoIBGE" : 2706422,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PARICONHA"
+		"id" : 2706422,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PARICONHA"
 	},
 	{
-		"CodigoIBGE" : 2706448,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PARIPUEIRA"
+		"id" : 2706448,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PARIPUEIRA"
 	},
 	{
-		"CodigoIBGE" : 2706505,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PASSO DE CAMARAGIBE"
+		"id" : 2706505,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PASSO DE CAMARAGIBE"
 	},
 	{
-		"CodigoIBGE" : 2706604,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PAULO JACINTO"
+		"id" : 2706604,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PAULO JACINTO"
 	},
 	{
-		"CodigoIBGE" : 2706703,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PENEDO"
+		"id" : 2706703,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PENEDO"
 	},
 	{
-		"CodigoIBGE" : 2706802,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PIACABUCU"
+		"id" : 2706802,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PIACABUCU"
 	},
 	{
-		"CodigoIBGE" : 2706901,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PILAR"
+		"id" : 2706901,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PILAR"
 	},
 	{
-		"CodigoIBGE" : 2707008,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PINDOBA"
+		"id" : 2707008,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PINDOBA"
 	},
 	{
-		"CodigoIBGE" : 2707107,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PIRANHAS"
+		"id" : 2707107,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PIRANHAS"
 	},
 	{
-		"CodigoIBGE" : 2707206,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "POCO DAS TRINCHEIRAS"
+		"id" : 2707206,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "POCO DAS TRINCHEIRAS"
 	},
 	{
-		"CodigoIBGE" : 2707305,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PORTO CALVO"
+		"id" : 2707305,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PORTO CALVO"
 	},
 	{
-		"CodigoIBGE" : 2707404,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PORTO DE PEDRAS"
+		"id" : 2707404,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PORTO DE PEDRAS"
 	},
 	{
-		"CodigoIBGE" : 2707503,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "PORTO REAL DO COLEGIO"
+		"id" : 2707503,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "PORTO REAL DO COLEGIO"
 	},
 	{
-		"CodigoIBGE" : 2707602,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "QUEBRANGULO"
+		"id" : 2707602,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "QUEBRANGULO"
 	},
 	{
-		"CodigoIBGE" : 2707701,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "RIO LARGO"
+		"id" : 2707701,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "RIO LARGO"
 	},
 	{
-		"CodigoIBGE" : 2707800,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "ROTEIRO"
+		"id" : 2707800,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "ROTEIRO"
 	},
 	{
-		"CodigoIBGE" : 2707909,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SANTA LUZIA DO NORTE"
+		"id" : 2707909,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SANTA LUZIA DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 2708006,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SANTANA DO IPANEMA"
+		"id" : 2708006,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SANTANA DO IPANEMA"
 	},
 	{
-		"CodigoIBGE" : 2708105,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SANTANA DO MUNDAU"
+		"id" : 2708105,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SANTANA DO MUNDAU"
 	},
 	{
-		"CodigoIBGE" : 2708204,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO BRAS"
+		"id" : 2708204,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO BRAS"
 	},
 	{
-		"CodigoIBGE" : 2708303,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO JOSE DA LAJE"
+		"id" : 2708303,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO JOSE DA LAJE"
 	},
 	{
-		"CodigoIBGE" : 2708402,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO JOSE DA TAPERA"
+		"id" : 2708402,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO JOSE DA TAPERA"
 	},
 	{
-		"CodigoIBGE" : 2708501,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO LUIS DO QUITUNDE"
+		"id" : 2708501,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO LUIS DO QUITUNDE"
 	},
 	{
-		"CodigoIBGE" : 2708600,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO MIGUEL DOS CAMPOS"
+		"id" : 2708600,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO MIGUEL DOS CAMPOS"
 	},
 	{
-		"CodigoIBGE" : 2708709,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO MIGUEL DOS MILAGRES"
+		"id" : 2708709,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO MIGUEL DOS MILAGRES"
 	},
 	{
-		"CodigoIBGE" : 2708808,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SAO SEBASTIAO"
+		"id" : 2708808,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SAO SEBASTIAO"
 	},
 	{
-		"CodigoIBGE" : 2708907,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SATUBA"
+		"id" : 2708907,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SATUBA"
 	},
 	{
-		"CodigoIBGE" : 2708956,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "SENADOR RUI PALMEIRA"
+		"id" : 2708956,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "SENADOR RUI PALMEIRA"
 	},
 	{
-		"CodigoIBGE" : 2709004,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "TANQUE D-  ARCA"
+		"id" : 2709004,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "TANQUE D-  ARCA"
 	},
 	{
-		"CodigoIBGE" : 2709103,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "TAQUARANA"
+		"id" : 2709103,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "TAQUARANA"
 	},
 	{
-		"CodigoIBGE" : 2709152,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "TEOTONIO VILELA"
+		"id" : 2709152,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "TEOTONIO VILELA"
 	},
 	{
-		"CodigoIBGE" : 2709202,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "TRAIPU"
+		"id" : 2709202,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "TRAIPU"
 	},
 	{
-		"CodigoIBGE" : 2709301,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "UNIAO DOS PALMARES"
+		"id" : 2709301,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "UNIAO DOS PALMARES"
 	},
 	{
-		"CodigoIBGE" : 2709400,
-		"CodigoIBGEUF" : 27,
-		"SiglaUF" : "AL",
-		"NomeUF" : "ALAGOAS",
-		"NomeMunicipio" : "VICOSA"
+		"id" : 2709400,
+		"parentId" : 27,
+		"acronym" : "AL",
+		"descriptionParent" : "ALAGOAS",
+		"description" : "VICOSA"
 	}
 ]

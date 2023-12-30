@@ -1,527 +1,527 @@
 [
 	{
-		"CodigoIBGE": 2800100,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "AMPARO DE SAO FRANCISCO"
+		"id": 2800100,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "AMPARO DE SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2800209,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "AQUIDABA"
+		"id": 2800209,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "AQUIDABA"
 	},
 	{
-		"CodigoIBGE": 2800308,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ARACAJU"
+		"id": 2800308,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ARACAJU"
 	},
 	{
-		"CodigoIBGE": 2800407,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ARAUA"
+		"id": 2800407,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ARAUA"
 	},
 	{
-		"CodigoIBGE": 2800506,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "AREIA BRANCA"
+		"id": 2800506,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "AREIA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2800605,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "BARRA DOS COQUEIROS"
+		"id": 2800605,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "BARRA DOS COQUEIROS"
 	},
 	{
-		"CodigoIBGE": 2800670,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "BOQUIM"
+		"id": 2800670,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "BOQUIM"
 	},
 	{
-		"CodigoIBGE": 2800704,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "BREJO GRANDE"
+		"id": 2800704,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "BREJO GRANDE"
 	},
 	{
-		"CodigoIBGE": 2801009,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CAMPO DO BRITO"
+		"id": 2801009,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CAMPO DO BRITO"
 	},
 	{
-		"CodigoIBGE": 2801108,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CANHOBA"
+		"id": 2801108,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CANHOBA"
 	},
 	{
-		"CodigoIBGE": 2801207,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CANINDE DE SAO FRANCISCO"
+		"id": 2801207,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CANINDE DE SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2801306,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CAPELA"
+		"id": 2801306,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CAPELA"
 	},
 	{
-		"CodigoIBGE": 2801405,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CARIRA"
+		"id": 2801405,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CARIRA"
 	},
 	{
-		"CodigoIBGE": 2801504,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CARMOPOLIS"
+		"id": 2801504,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CARMOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2801603,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CEDRO DE SAO JOAO"
+		"id": 2801603,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CEDRO DE SAO JOAO"
 	},
 	{
-		"CodigoIBGE": 2801702,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CRISTINAPOLIS"
+		"id": 2801702,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CRISTINAPOLIS"
 	},
 	{
-		"CodigoIBGE": 2801900,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "CUMBE"
+		"id": 2801900,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "CUMBE"
 	},
 	{
-		"CodigoIBGE": 2802007,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "DIVINA PASTORA"
+		"id": 2802007,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "DIVINA PASTORA"
 	},
 	{
-		"CodigoIBGE": 2802106,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ESTANCIA"
+		"id": 2802106,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ESTANCIA"
 	},
 	{
-		"CodigoIBGE": 2802205,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "FEIRA NOVA"
+		"id": 2802205,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "FEIRA NOVA"
 	},
 	{
-		"CodigoIBGE": 2802304,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "FREI PAULO"
+		"id": 2802304,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "FREI PAULO"
 	},
 	{
-		"CodigoIBGE": 2802403,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "GARARU"
+		"id": 2802403,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "GARARU"
 	},
 	{
-		"CodigoIBGE": 2802502,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "GENERAL MAYNARD"
+		"id": 2802502,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "GENERAL MAYNARD"
 	},
 	{
-		"CodigoIBGE": 2802601,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "GRACHO CARDOSO"
+		"id": 2802601,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "GRACHO CARDOSO"
 	},
 	{
-		"CodigoIBGE": 2802700,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ILHA DAS FLORES"
+		"id": 2802700,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ILHA DAS FLORES"
 	},
 	{
-		"CodigoIBGE": 2802809,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "INDIAROBA"
+		"id": 2802809,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "INDIAROBA"
 	},
 	{
-		"CodigoIBGE": 2802908,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ITABAIANA"
+		"id": 2802908,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ITABAIANA"
 	},
 	{
-		"CodigoIBGE": 2803005,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ITABAIANINHA"
+		"id": 2803005,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ITABAIANINHA"
 	},
 	{
-		"CodigoIBGE": 2803104,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ITABI"
+		"id": 2803104,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ITABI"
 	},
 	{
-		"CodigoIBGE": 2803203,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ITAPORANGA D-  AJUDA"
+		"id": 2803203,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ITAPORANGA D-  AJUDA"
 	},
 	{
-		"CodigoIBGE": 2803302,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "JAPARATUBA"
+		"id": 2803302,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "JAPARATUBA"
 	},
 	{
-		"CodigoIBGE": 2803401,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "JAPOATA"
+		"id": 2803401,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "JAPOATA"
 	},
 	{
-		"CodigoIBGE": 2803500,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "LAGARTO"
+		"id": 2803500,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "LAGARTO"
 	},
 	{
-		"CodigoIBGE": 2803609,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "LARANJEIRAS"
+		"id": 2803609,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "LARANJEIRAS"
 	},
 	{
-		"CodigoIBGE": 2803708,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MACAMBIRA"
+		"id": 2803708,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MACAMBIRA"
 	},
 	{
-		"CodigoIBGE": 2803807,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MALHADA DOS BOIS"
+		"id": 2803807,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MALHADA DOS BOIS"
 	},
 	{
-		"CodigoIBGE": 2803906,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MALHADOR"
+		"id": 2803906,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MALHADOR"
 	},
 	{
-		"CodigoIBGE": 2804003,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MARUIM"
+		"id": 2804003,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MARUIM"
 	},
 	{
-		"CodigoIBGE": 2804102,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MOITA BONITA"
+		"id": 2804102,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MOITA BONITA"
 	},
 	{
-		"CodigoIBGE": 2804201,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MONTE ALEGRE DE SERGIPE"
+		"id": 2804201,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MONTE ALEGRE DE SERGIPE"
 	},
 	{
-		"CodigoIBGE": 2804300,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "MURIBECA"
+		"id": 2804300,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "MURIBECA"
 	},
 	{
-		"CodigoIBGE": 2804409,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "NEOPOLIS"
+		"id": 2804409,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "NEOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2804458,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "NOSSA SENHORA APARECIDA"
+		"id": 2804458,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "NOSSA SENHORA APARECIDA"
 	},
 	{
-		"CodigoIBGE": 2804508,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "NOSSA SENHORA DA GLORIA"
+		"id": 2804508,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "NOSSA SENHORA DA GLORIA"
 	},
 	{
-		"CodigoIBGE": 2804607,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "NOSSA SENHORA DAS DORES"
+		"id": 2804607,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "NOSSA SENHORA DAS DORES"
 	},
 	{
-		"CodigoIBGE": 2804706,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "NOSSA SENHORA DE LOURDES"
+		"id": 2804706,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "NOSSA SENHORA DE LOURDES"
 	},
 	{
-		"CodigoIBGE": 2804805,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "NOSSA SENHORA DO SOCORRO"
+		"id": 2804805,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "NOSSA SENHORA DO SOCORRO"
 	},
 	{
-		"CodigoIBGE": 2804904,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PACATUBA"
+		"id": 2804904,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PACATUBA"
 	},
 	{
-		"CodigoIBGE": 2805000,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PEDRA MOLE"
+		"id": 2805000,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PEDRA MOLE"
 	},
 	{
-		"CodigoIBGE": 2805109,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PEDRINHAS"
+		"id": 2805109,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PEDRINHAS"
 	},
 	{
-		"CodigoIBGE": 2805208,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PINHAO"
+		"id": 2805208,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PINHAO"
 	},
 	{
-		"CodigoIBGE": 2805307,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PIRAMBU"
+		"id": 2805307,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PIRAMBU"
 	},
 	{
-		"CodigoIBGE": 2805406,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "POCO REDONDO"
+		"id": 2805406,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "POCO REDONDO"
 	},
 	{
-		"CodigoIBGE": 2805505,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "POCO VERDE"
+		"id": 2805505,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "POCO VERDE"
 	},
 	{
-		"CodigoIBGE": 2805604,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PORTO DA FOLHA"
+		"id": 2805604,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PORTO DA FOLHA"
 	},
 	{
-		"CodigoIBGE": 2805703,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "PROPRIA"
+		"id": 2805703,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "PROPRIA"
 	},
 	{
-		"CodigoIBGE": 2805802,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "RIACHAO DO DANTAS"
+		"id": 2805802,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "RIACHAO DO DANTAS"
 	},
 	{
-		"CodigoIBGE": 2805901,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "RIACHUELO"
+		"id": 2805901,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "RIACHUELO"
 	},
 	{
-		"CodigoIBGE": 2806008,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "RIBEIROPOLIS"
+		"id": 2806008,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "RIBEIROPOLIS"
 	},
 	{
-		"CodigoIBGE": 2806107,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "ROSARIO DO CATETE"
+		"id": 2806107,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "ROSARIO DO CATETE"
 	},
 	{
-		"CodigoIBGE": 2806206,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SALGADO"
+		"id": 2806206,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SALGADO"
 	},
 	{
-		"CodigoIBGE": 2806305,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SANTA LUZIA DO ITANHY"
+		"id": 2806305,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SANTA LUZIA DO ITANHY"
 	},
 	{
-		"CodigoIBGE": 2806404,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SANTANA DO SAO FRANCISCO"
+		"id": 2806404,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SANTANA DO SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2806503,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SANTA ROSA DE LIMA"
+		"id": 2806503,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SANTA ROSA DE LIMA"
 	},
 	{
-		"CodigoIBGE": 2806602,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SANTO AMARO DAS BROTAS"
+		"id": 2806602,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SANTO AMARO DAS BROTAS"
 	},
 	{
-		"CodigoIBGE": 2806701,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SAO CRISTOVAO"
+		"id": 2806701,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SAO CRISTOVAO"
 	},
 	{
-		"CodigoIBGE": 2806800,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SAO DOMINGOS"
+		"id": 2806800,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SAO DOMINGOS"
 	},
 	{
-		"CodigoIBGE": 2806909,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SAO FRANCISCO"
+		"id": 2806909,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2807006,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SAO MIGUEL DO ALEIXO"
+		"id": 2807006,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SAO MIGUEL DO ALEIXO"
 	},
 	{
-		"CodigoIBGE": 2807105,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SIMAO DIAS"
+		"id": 2807105,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SIMAO DIAS"
 	},
 	{
-		"CodigoIBGE": 2807204,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "SIRIRI"
+		"id": 2807204,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "SIRIRI"
 	},
 	{
-		"CodigoIBGE": 2807303,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "TELHA"
+		"id": 2807303,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "TELHA"
 	},
 	{
-		"CodigoIBGE": 2807402,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "TOBIAS BARRETO"
+		"id": 2807402,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "TOBIAS BARRETO"
 	},
 	{
-		"CodigoIBGE": 2807501,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "TOMAR DO GERU"
+		"id": 2807501,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "TOMAR DO GERU"
 	},
 	{
-		"CodigoIBGE": 2807600,
-		"CodigoIBGEUF": 28,
-		"SiglaUF": "SE",
-		"NomeUF": "SERGIPE",
-		"NomeMunicipio": "UMBAUBA"
+		"id": 2807600,
+		"parentId": 28,
+		"acronym": "SE",
+		"descriptionParent": "SERGIPE",
+		"description": "UMBAUBA"
 	}
 ]

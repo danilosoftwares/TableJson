@@ -1,1563 +1,1563 @@
 [
 	{
-		"CodigoIBGE": 2500106,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AGUA BRANCA"
+		"id": 2500106,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AGUA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2500205,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AGUIAR"
+		"id": 2500205,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AGUIAR"
 	},
 	{
-		"CodigoIBGE": 2500304,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ALAGOA GRANDE"
+		"id": 2500304,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ALAGOA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2500403,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ALAGOA NOVA"
+		"id": 2500403,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ALAGOA NOVA"
 	},
 	{
-		"CodigoIBGE": 2500502,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ALAGOINHA"
+		"id": 2500502,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ALAGOINHA"
 	},
 	{
-		"CodigoIBGE": 2500536,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ALCANTIL"
+		"id": 2500536,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ALCANTIL"
 	},
 	{
-		"CodigoIBGE": 2500577,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ALGODAO DE JANDAIRA"
+		"id": 2500577,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ALGODAO DE JANDAIRA"
 	},
 	{
-		"CodigoIBGE": 2500601,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ALHANDRA"
+		"id": 2500601,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ALHANDRA"
 	},
 	{
-		"CodigoIBGE": 2500700,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOAO DO RIO DO PEIXE"
+		"id": 2500700,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOAO DO RIO DO PEIXE"
 	},
 	{
-		"CodigoIBGE": 2500734,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AMPARO"
+		"id": 2500734,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AMPARO"
 	},
 	{
-		"CodigoIBGE": 2500775,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "APARECIDA"
+		"id": 2500775,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "APARECIDA"
 	},
 	{
-		"CodigoIBGE": 2500809,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ARACAGI"
+		"id": 2500809,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ARACAGI"
 	},
 	{
-		"CodigoIBGE": 2500908,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ARARA"
+		"id": 2500908,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ARARA"
 	},
 	{
-		"CodigoIBGE": 2501005,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ARARUNA"
+		"id": 2501005,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ARARUNA"
 	},
 	{
-		"CodigoIBGE": 2501104,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AREIA"
+		"id": 2501104,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AREIA"
 	},
 	{
-		"CodigoIBGE": 2501153,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AREIA DE BARAUNAS"
+		"id": 2501153,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AREIA DE BARAUNAS"
 	},
 	{
-		"CodigoIBGE": 2501203,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AREIAL"
+		"id": 2501203,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AREIAL"
 	},
 	{
-		"CodigoIBGE": 2501302,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "AROEIRAS"
+		"id": 2501302,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "AROEIRAS"
 	},
 	{
-		"CodigoIBGE": 2501351,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ASSUNCAO"
+		"id": 2501351,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ASSUNCAO"
 	},
 	{
-		"CodigoIBGE": 2501401,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BAIA DA TRAICAO"
+		"id": 2501401,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BAIA DA TRAICAO"
 	},
 	{
-		"CodigoIBGE": 2501500,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BANANEIRAS"
+		"id": 2501500,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BANANEIRAS"
 	},
 	{
-		"CodigoIBGE": 2501534,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BARAUNA"
+		"id": 2501534,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BARAUNA"
 	},
 	{
-		"CodigoIBGE": 2501575,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BARRA DE SANTANA"
+		"id": 2501575,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BARRA DE SANTANA"
 	},
 	{
-		"CodigoIBGE": 2501609,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BARRA DE SANTA ROSA"
+		"id": 2501609,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BARRA DE SANTA ROSA"
 	},
 	{
-		"CodigoIBGE": 2501708,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BARRA DE SAO MIGUEL"
+		"id": 2501708,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BARRA DE SAO MIGUEL"
 	},
 	{
-		"CodigoIBGE": 2501807,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BAYEUX"
+		"id": 2501807,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BAYEUX"
 	},
 	{
-		"CodigoIBGE": 2501906,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BELEM"
+		"id": 2501906,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BELEM"
 	},
 	{
-		"CodigoIBGE": 2502003,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BELEM DO BREJO DO CRUZ"
+		"id": 2502003,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BELEM DO BREJO DO CRUZ"
 	},
 	{
-		"CodigoIBGE": 2502052,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BERNARDINO BATISTA"
+		"id": 2502052,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BERNARDINO BATISTA"
 	},
 	{
-		"CodigoIBGE": 2502102,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BOA VENTURA"
+		"id": 2502102,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BOA VENTURA"
 	},
 	{
-		"CodigoIBGE": 2502151,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BOA VISTA"
+		"id": 2502151,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BOA VISTA"
 	},
 	{
-		"CodigoIBGE": 2502201,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BOM JESUS"
+		"id": 2502201,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BOM JESUS"
 	},
 	{
-		"CodigoIBGE": 2502300,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BOM SUCESSO"
+		"id": 2502300,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BOM SUCESSO"
 	},
 	{
-		"CodigoIBGE": 2502409,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BONITO DE SANTA FE"
+		"id": 2502409,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BONITO DE SANTA FE"
 	},
 	{
-		"CodigoIBGE": 2502508,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BOQUEIRAO"
+		"id": 2502508,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BOQUEIRAO"
 	},
 	{
-		"CodigoIBGE": 2502607,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "IGARACY"
+		"id": 2502607,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "IGARACY"
 	},
 	{
-		"CodigoIBGE": 2502706,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BORBOREMA"
+		"id": 2502706,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BORBOREMA"
 	},
 	{
-		"CodigoIBGE": 2502805,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BREJO DO CRUZ"
+		"id": 2502805,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BREJO DO CRUZ"
 	},
 	{
-		"CodigoIBGE": 2502904,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "BREJO DOS SANTOS"
+		"id": 2502904,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "BREJO DOS SANTOS"
 	},
 	{
-		"CodigoIBGE": 2503001,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAAPORA"
+		"id": 2503001,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAAPORA"
 	},
 	{
-		"CodigoIBGE": 2503100,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CABACEIRAS"
+		"id": 2503100,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CABACEIRAS"
 	},
 	{
-		"CodigoIBGE": 2503209,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CABEDELO"
+		"id": 2503209,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CABEDELO"
 	},
 	{
-		"CodigoIBGE": 2503308,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CACHOEIRA DOS INDIOS"
+		"id": 2503308,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CACHOEIRA DOS INDIOS"
 	},
 	{
-		"CodigoIBGE": 2503407,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CACIMBA DE AREIA"
+		"id": 2503407,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CACIMBA DE AREIA"
 	},
 	{
-		"CodigoIBGE": 2503506,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CACIMBA DE DENTRO"
+		"id": 2503506,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CACIMBA DE DENTRO"
 	},
 	{
-		"CodigoIBGE": 2503555,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CACIMBAS"
+		"id": 2503555,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CACIMBAS"
 	},
 	{
-		"CodigoIBGE": 2503605,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAICARA"
+		"id": 2503605,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAICARA"
 	},
 	{
-		"CodigoIBGE": 2503704,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAJAZEIRAS"
+		"id": 2503704,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAJAZEIRAS"
 	},
 	{
-		"CodigoIBGE": 2503753,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAJAZEIRINHAS"
+		"id": 2503753,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAJAZEIRINHAS"
 	},
 	{
-		"CodigoIBGE": 2503803,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CALDAS BRANDAO"
+		"id": 2503803,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CALDAS BRANDAO"
 	},
 	{
-		"CodigoIBGE": 2503902,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAMALAU"
+		"id": 2503902,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAMALAU"
 	},
 	{
-		"CodigoIBGE": 2504009,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAMPINA GRANDE"
+		"id": 2504009,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAMPINA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2504033,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CAPIM"
+		"id": 2504033,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CAPIM"
 	},
 	{
-		"CodigoIBGE": 2504074,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CARAUBAS"
+		"id": 2504074,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CARAUBAS"
 	},
 	{
-		"CodigoIBGE": 2504108,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CARRAPATEIRA"
+		"id": 2504108,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CARRAPATEIRA"
 	},
 	{
-		"CodigoIBGE": 2504157,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CASSERENGUE"
+		"id": 2504157,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CASSERENGUE"
 	},
 	{
-		"CodigoIBGE": 2504207,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CATINGUEIRA"
+		"id": 2504207,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CATINGUEIRA"
 	},
 	{
-		"CodigoIBGE": 2504306,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CATOLE DO ROCHA"
+		"id": 2504306,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CATOLE DO ROCHA"
 	},
 	{
-		"CodigoIBGE": 2504355,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CATURITE"
+		"id": 2504355,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CATURITE"
 	},
 	{
-		"CodigoIBGE": 2504405,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CONCEICAO"
+		"id": 2504405,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CONCEICAO"
 	},
 	{
-		"CodigoIBGE": 2504504,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CONDADO"
+		"id": 2504504,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CONDADO"
 	},
 	{
-		"CodigoIBGE": 2504603,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CONDE"
+		"id": 2504603,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CONDE"
 	},
 	{
-		"CodigoIBGE": 2504702,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CONGO"
+		"id": 2504702,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CONGO"
 	},
 	{
-		"CodigoIBGE": 2504801,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "COREMAS"
+		"id": 2504801,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "COREMAS"
 	},
 	{
-		"CodigoIBGE": 2504850,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "COXIXOLA"
+		"id": 2504850,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "COXIXOLA"
 	},
 	{
-		"CodigoIBGE": 2504900,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CRUZ DO ESPIRITO SANTO"
+		"id": 2504900,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CRUZ DO ESPIRITO SANTO"
 	},
 	{
-		"CodigoIBGE": 2505006,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CUBATI"
+		"id": 2505006,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CUBATI"
 	},
 	{
-		"CodigoIBGE": 2505105,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CUITE"
+		"id": 2505105,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CUITE"
 	},
 	{
-		"CodigoIBGE": 2505204,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CUITEGI"
+		"id": 2505204,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CUITEGI"
 	},
 	{
-		"CodigoIBGE": 2505238,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CUITE DE MAMANGUAPE"
+		"id": 2505238,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CUITE DE MAMANGUAPE"
 	},
 	{
-		"CodigoIBGE": 2505279,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CURRAL DE CIMA"
+		"id": 2505279,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CURRAL DE CIMA"
 	},
 	{
-		"CodigoIBGE": 2505303,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "CURRAL VELHO"
+		"id": 2505303,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "CURRAL VELHO"
 	},
 	{
-		"CodigoIBGE": 2505352,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "DAMIAO"
+		"id": 2505352,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "DAMIAO"
 	},
 	{
-		"CodigoIBGE": 2505402,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "DESTERRO"
+		"id": 2505402,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "DESTERRO"
 	},
 	{
-		"CodigoIBGE": 2505501,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "VISTA SERRANA"
+		"id": 2505501,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "VISTA SERRANA"
 	},
 	{
-		"CodigoIBGE": 2505600,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "DIAMANTE"
+		"id": 2505600,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "DIAMANTE"
 	},
 	{
-		"CodigoIBGE": 2505709,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "DONA INES"
+		"id": 2505709,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "DONA INES"
 	},
 	{
-		"CodigoIBGE": 2505808,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "DUAS ESTRADAS"
+		"id": 2505808,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "DUAS ESTRADAS"
 	},
 	{
-		"CodigoIBGE": 2505907,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "EMAS"
+		"id": 2505907,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "EMAS"
 	},
 	{
-		"CodigoIBGE": 2506004,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ESPERANCA"
+		"id": 2506004,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ESPERANCA"
 	},
 	{
-		"CodigoIBGE": 2506103,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "FAGUNDES"
+		"id": 2506103,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "FAGUNDES"
 	},
 	{
-		"CodigoIBGE": 2506202,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "FREI MARTINHO"
+		"id": 2506202,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "FREI MARTINHO"
 	},
 	{
-		"CodigoIBGE": 2506251,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "GADO BRAVO"
+		"id": 2506251,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "GADO BRAVO"
 	},
 	{
-		"CodigoIBGE": 2506301,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "GUARABIRA"
+		"id": 2506301,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "GUARABIRA"
 	},
 	{
-		"CodigoIBGE": 2506400,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "GURINHEM"
+		"id": 2506400,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "GURINHEM"
 	},
 	{
-		"CodigoIBGE": 2506509,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "GURJAO"
+		"id": 2506509,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "GURJAO"
 	},
 	{
-		"CodigoIBGE": 2506608,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "IBIARA"
+		"id": 2506608,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "IBIARA"
 	},
 	{
-		"CodigoIBGE": 2506707,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "IMACULADA"
+		"id": 2506707,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "IMACULADA"
 	},
 	{
-		"CodigoIBGE": 2506806,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "INGA"
+		"id": 2506806,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "INGA"
 	},
 	{
-		"CodigoIBGE": 2506905,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ITABAIANA"
+		"id": 2506905,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ITABAIANA"
 	},
 	{
-		"CodigoIBGE": 2507002,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ITAPORANGA"
+		"id": 2507002,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ITAPORANGA"
 	},
 	{
-		"CodigoIBGE": 2507101,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ITAPOROROCA"
+		"id": 2507101,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ITAPOROROCA"
 	},
 	{
-		"CodigoIBGE": 2507200,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ITATUBA"
+		"id": 2507200,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ITATUBA"
 	},
 	{
-		"CodigoIBGE": 2507309,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JACARAU"
+		"id": 2507309,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JACARAU"
 	},
 	{
-		"CodigoIBGE": 2507408,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JERICO"
+		"id": 2507408,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JERICO"
 	},
 	{
-		"CodigoIBGE": 2507507,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JOAO PESSOA"
+		"id": 2507507,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JOAO PESSOA"
 	},
 	{
-		"CodigoIBGE": 2507606,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JUAREZ TAVORA"
+		"id": 2507606,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JUAREZ TAVORA"
 	},
 	{
-		"CodigoIBGE": 2507705,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JUAZEIRINHO"
+		"id": 2507705,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JUAZEIRINHO"
 	},
 	{
-		"CodigoIBGE": 2507804,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JUNCO DO SERIDO"
+		"id": 2507804,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JUNCO DO SERIDO"
 	},
 	{
-		"CodigoIBGE": 2507903,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JURIPIRANGA"
+		"id": 2507903,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JURIPIRANGA"
 	},
 	{
-		"CodigoIBGE": 2508000,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "JURU"
+		"id": 2508000,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "JURU"
 	},
 	{
-		"CodigoIBGE": 2508109,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LAGOA"
+		"id": 2508109,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LAGOA"
 	},
 	{
-		"CodigoIBGE": 2508208,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LAGOA DE DENTRO"
+		"id": 2508208,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LAGOA DE DENTRO"
 	},
 	{
-		"CodigoIBGE": 2508307,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LAGOA SECA"
+		"id": 2508307,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LAGOA SECA"
 	},
 	{
-		"CodigoIBGE": 2508406,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LASTRO"
+		"id": 2508406,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LASTRO"
 	},
 	{
-		"CodigoIBGE": 2508505,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LIVRAMENTO"
+		"id": 2508505,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LIVRAMENTO"
 	},
 	{
-		"CodigoIBGE": 2508554,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LOGRADOURO"
+		"id": 2508554,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LOGRADOURO"
 	},
 	{
-		"CodigoIBGE": 2508604,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "LUCENA"
+		"id": 2508604,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "LUCENA"
 	},
 	{
-		"CodigoIBGE": 2508703,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MAE D-  AGUA"
+		"id": 2508703,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MAE D-  AGUA"
 	},
 	{
-		"CodigoIBGE": 2508802,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MALTA"
+		"id": 2508802,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MALTA"
 	},
 	{
-		"CodigoIBGE": 2508901,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MAMANGUAPE"
+		"id": 2508901,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MAMANGUAPE"
 	},
 	{
-		"CodigoIBGE": 2509008,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MANAIRA"
+		"id": 2509008,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MANAIRA"
 	},
 	{
-		"CodigoIBGE": 2509057,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MARCACAO"
+		"id": 2509057,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MARCACAO"
 	},
 	{
-		"CodigoIBGE": 2509107,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MARI"
+		"id": 2509107,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MARI"
 	},
 	{
-		"CodigoIBGE": 2509156,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MARIZOPOLIS"
+		"id": 2509156,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MARIZOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2509206,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MASSARANDUBA"
+		"id": 2509206,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MASSARANDUBA"
 	},
 	{
-		"CodigoIBGE": 2509305,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MATARACA"
+		"id": 2509305,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MATARACA"
 	},
 	{
-		"CodigoIBGE": 2509339,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MATINHAS"
+		"id": 2509339,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MATINHAS"
 	},
 	{
-		"CodigoIBGE": 2509370,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MATO GROSSO"
+		"id": 2509370,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MATO GROSSO"
 	},
 	{
-		"CodigoIBGE": 2509396,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MATUREIA"
+		"id": 2509396,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MATUREIA"
 	},
 	{
-		"CodigoIBGE": 2509404,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MOGEIRO"
+		"id": 2509404,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MOGEIRO"
 	},
 	{
-		"CodigoIBGE": 2509503,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MONTADAS"
+		"id": 2509503,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MONTADAS"
 	},
 	{
-		"CodigoIBGE": 2509602,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MONTE HOREBE"
+		"id": 2509602,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MONTE HOREBE"
 	},
 	{
-		"CodigoIBGE": 2509701,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MONTEIRO"
+		"id": 2509701,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MONTEIRO"
 	},
 	{
-		"CodigoIBGE": 2509800,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "MULUNGU"
+		"id": 2509800,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "MULUNGU"
 	},
 	{
-		"CodigoIBGE": 2509909,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "NATUBA"
+		"id": 2509909,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "NATUBA"
 	},
 	{
-		"CodigoIBGE": 2510006,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "NAZAREZINHO"
+		"id": 2510006,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "NAZAREZINHO"
 	},
 	{
-		"CodigoIBGE": 2510105,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "NOVA FLORESTA"
+		"id": 2510105,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "NOVA FLORESTA"
 	},
 	{
-		"CodigoIBGE": 2510204,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "NOVA OLINDA"
+		"id": 2510204,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "NOVA OLINDA"
 	},
 	{
-		"CodigoIBGE": 2510303,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "NOVA PALMEIRA"
+		"id": 2510303,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "NOVA PALMEIRA"
 	},
 	{
-		"CodigoIBGE": 2510402,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "OLHO D-  AGUA"
+		"id": 2510402,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "OLHO D-  AGUA"
 	},
 	{
-		"CodigoIBGE": 2510501,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "OLIVEDOS"
+		"id": 2510501,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "OLIVEDOS"
 	},
 	{
-		"CodigoIBGE": 2510600,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "OURO VELHO"
+		"id": 2510600,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "OURO VELHO"
 	},
 	{
-		"CodigoIBGE": 2510659,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PARARI"
+		"id": 2510659,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PARARI"
 	},
 	{
-		"CodigoIBGE": 2510709,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PASSAGEM"
+		"id": 2510709,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PASSAGEM"
 	},
 	{
-		"CodigoIBGE": 2510808,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PATOS"
+		"id": 2510808,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PATOS"
 	},
 	{
-		"CodigoIBGE": 2510907,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PAULISTA"
+		"id": 2510907,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PAULISTA"
 	},
 	{
-		"CodigoIBGE": 2511004,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PEDRA BRANCA"
+		"id": 2511004,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PEDRA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2511103,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PEDRA LAVRADA"
+		"id": 2511103,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PEDRA LAVRADA"
 	},
 	{
-		"CodigoIBGE": 2511202,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PEDRAS DE FOGO"
+		"id": 2511202,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PEDRAS DE FOGO"
 	},
 	{
-		"CodigoIBGE": 2511301,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PIANCO"
+		"id": 2511301,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PIANCO"
 	},
 	{
-		"CodigoIBGE": 2511400,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PICUI"
+		"id": 2511400,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PICUI"
 	},
 	{
-		"CodigoIBGE": 2511509,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PILAR"
+		"id": 2511509,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PILAR"
 	},
 	{
-		"CodigoIBGE": 2511608,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PILOES"
+		"id": 2511608,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PILOES"
 	},
 	{
-		"CodigoIBGE": 2511707,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PILOEZINHOS"
+		"id": 2511707,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PILOEZINHOS"
 	},
 	{
-		"CodigoIBGE": 2511806,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PIRPIRITUBA"
+		"id": 2511806,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PIRPIRITUBA"
 	},
 	{
-		"CodigoIBGE": 2511905,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PITIMBU"
+		"id": 2511905,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PITIMBU"
 	},
 	{
-		"CodigoIBGE": 2512002,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "POCINHOS"
+		"id": 2512002,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "POCINHOS"
 	},
 	{
-		"CodigoIBGE": 2512036,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "POCO DANTAS"
+		"id": 2512036,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "POCO DANTAS"
 	},
 	{
-		"CodigoIBGE": 2512077,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "POCO DE JOSE DE MOURA"
+		"id": 2512077,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "POCO DE JOSE DE MOURA"
 	},
 	{
-		"CodigoIBGE": 2512101,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "POMBAL"
+		"id": 2512101,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "POMBAL"
 	},
 	{
-		"CodigoIBGE": 2512200,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PRATA"
+		"id": 2512200,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PRATA"
 	},
 	{
-		"CodigoIBGE": 2512309,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PRINCESA ISABEL"
+		"id": 2512309,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PRINCESA ISABEL"
 	},
 	{
-		"CodigoIBGE": 2512408,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PUXINANA"
+		"id": 2512408,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PUXINANA"
 	},
 	{
-		"CodigoIBGE": 2512507,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "QUEIMADAS"
+		"id": 2512507,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "QUEIMADAS"
 	},
 	{
-		"CodigoIBGE": 2512606,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "QUIXABA"
+		"id": 2512606,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "QUIXABA"
 	},
 	{
-		"CodigoIBGE": 2512705,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "REMIGIO"
+		"id": 2512705,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "REMIGIO"
 	},
 	{
-		"CodigoIBGE": 2512721,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "PEDRO REGIS"
+		"id": 2512721,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "PEDRO REGIS"
 	},
 	{
-		"CodigoIBGE": 2512747,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "RIACHAO"
+		"id": 2512747,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "RIACHAO"
 	},
 	{
-		"CodigoIBGE": 2512754,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "RIACHAO DO BACAMARTE"
+		"id": 2512754,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "RIACHAO DO BACAMARTE"
 	},
 	{
-		"CodigoIBGE": 2512762,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "RIACHAO DO POCO"
+		"id": 2512762,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "RIACHAO DO POCO"
 	},
 	{
-		"CodigoIBGE": 2512788,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "RIACHO DE SANTO ANTONIO"
+		"id": 2512788,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "RIACHO DE SANTO ANTONIO"
 	},
 	{
-		"CodigoIBGE": 2512804,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "RIACHO DOS CAVALOS"
+		"id": 2512804,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "RIACHO DOS CAVALOS"
 	},
 	{
-		"CodigoIBGE": 2512903,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "RIO TINTO"
+		"id": 2512903,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "RIO TINTO"
 	},
 	{
-		"CodigoIBGE": 2513000,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SALGADINHO"
+		"id": 2513000,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SALGADINHO"
 	},
 	{
-		"CodigoIBGE": 2513109,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SALGADO DE SAO FELIX"
+		"id": 2513109,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SALGADO DE SAO FELIX"
 	},
 	{
-		"CodigoIBGE": 2513158,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA CECILIA"
+		"id": 2513158,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA CECILIA"
 	},
 	{
-		"CodigoIBGE": 2513208,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA CRUZ"
+		"id": 2513208,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA CRUZ"
 	},
 	{
-		"CodigoIBGE": 2513307,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA HELENA"
+		"id": 2513307,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA HELENA"
 	},
 	{
-		"CodigoIBGE": 2513356,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA INES"
+		"id": 2513356,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA INES"
 	},
 	{
-		"CodigoIBGE": 2513406,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA LUZIA"
+		"id": 2513406,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA LUZIA"
 	},
 	{
-		"CodigoIBGE": 2513505,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTANA DE MANGUEIRA"
+		"id": 2513505,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTANA DE MANGUEIRA"
 	},
 	{
-		"CodigoIBGE": 2513604,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTANA DOS GARROTES"
+		"id": 2513604,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTANA DOS GARROTES"
 	},
 	{
-		"CodigoIBGE": 2513653,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTAREM"
+		"id": 2513653,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTAREM"
 	},
 	{
-		"CodigoIBGE": 2513703,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA RITA"
+		"id": 2513703,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA RITA"
 	},
 	{
-		"CodigoIBGE": 2513802,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTA TERESINHA"
+		"id": 2513802,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTA TERESINHA"
 	},
 	{
-		"CodigoIBGE": 2513851,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SANTO ANDRE"
+		"id": 2513851,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SANTO ANDRE"
 	},
 	{
-		"CodigoIBGE": 2513901,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO BENTO"
+		"id": 2513901,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO BENTO"
 	},
 	{
-		"CodigoIBGE": 2513927,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO BENTINHO"
+		"id": 2513927,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO BENTINHO"
 	},
 	{
-		"CodigoIBGE": 2513943,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO DOMINGOS DO CARIRI"
+		"id": 2513943,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO DOMINGOS DO CARIRI"
 	},
 	{
-		"CodigoIBGE": 2513968,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO DOMINGOS DE POMBAL"
+		"id": 2513968,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO DOMINGOS DE POMBAL"
 	},
 	{
-		"CodigoIBGE": 2513984,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO FRANCISCO"
+		"id": 2513984,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2514008,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOAO DO CARIRI"
+		"id": 2514008,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOAO DO CARIRI"
 	},
 	{
-		"CodigoIBGE": 2514107,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOAO DO TIGRE"
+		"id": 2514107,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOAO DO TIGRE"
 	},
 	{
-		"CodigoIBGE": 2514206,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DA LAGOA TAPADA"
+		"id": 2514206,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DA LAGOA TAPADA"
 	},
 	{
-		"CodigoIBGE": 2514305,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DE CAIANA"
+		"id": 2514305,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DE CAIANA"
 	},
 	{
-		"CodigoIBGE": 2514404,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DE ESPINHARAS"
+		"id": 2514404,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DE ESPINHARAS"
 	},
 	{
-		"CodigoIBGE": 2514453,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DOS RAMOS"
+		"id": 2514453,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DOS RAMOS"
 	},
 	{
-		"CodigoIBGE": 2514503,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DE PIRANHAS"
+		"id": 2514503,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DE PIRANHAS"
 	},
 	{
-		"CodigoIBGE": 2514552,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DE PRINCESA"
+		"id": 2514552,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DE PRINCESA"
 	},
 	{
-		"CodigoIBGE": 2514602,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DO BONFIM"
+		"id": 2514602,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DO BONFIM"
 	},
 	{
-		"CodigoIBGE": 2514651,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DO BREJO DO CRUZ"
+		"id": 2514651,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DO BREJO DO CRUZ"
 	},
 	{
-		"CodigoIBGE": 2514701,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DO SABUGI"
+		"id": 2514701,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DO SABUGI"
 	},
 	{
-		"CodigoIBGE": 2514800,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO JOSE DOS CORDEIROS"
+		"id": 2514800,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO JOSE DOS CORDEIROS"
 	},
 	{
-		"CodigoIBGE": 2514909,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO MAMEDE"
+		"id": 2514909,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO MAMEDE"
 	},
 	{
-		"CodigoIBGE": 2515005,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO MIGUEL DE TAIPU"
+		"id": 2515005,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO MIGUEL DE TAIPU"
 	},
 	{
-		"CodigoIBGE": 2515104,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO SEBASTIAO DE LAGOA DE ROCA"
+		"id": 2515104,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO SEBASTIAO DE LAGOA DE ROCA"
 	},
 	{
-		"CodigoIBGE": 2515203,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAO SEBASTIAO DO UMBUZEIRO"
+		"id": 2515203,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAO SEBASTIAO DO UMBUZEIRO"
 	},
 	{
-		"CodigoIBGE": 2515302,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SAPE"
+		"id": 2515302,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SAPE"
 	},
 	{
-		"CodigoIBGE": 2515401,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERIDO"
+		"id": 2515401,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERIDO"
 	},
 	{
-		"CodigoIBGE": 2515500,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERRA BRANCA"
+		"id": 2515500,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERRA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2515609,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERRA DA RAIZ"
+		"id": 2515609,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERRA DA RAIZ"
 	},
 	{
-		"CodigoIBGE": 2515708,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERRA GRANDE"
+		"id": 2515708,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERRA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2515807,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERRA REDONDA"
+		"id": 2515807,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERRA REDONDA"
 	},
 	{
-		"CodigoIBGE": 2515906,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERRARIA"
+		"id": 2515906,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERRARIA"
 	},
 	{
-		"CodigoIBGE": 2515930,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SERTAOZINHO"
+		"id": 2515930,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SERTAOZINHO"
 	},
 	{
-		"CodigoIBGE": 2515971,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SOBRADO"
+		"id": 2515971,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SOBRADO"
 	},
 	{
-		"CodigoIBGE": 2516003,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SOLANEA"
+		"id": 2516003,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SOLANEA"
 	},
 	{
-		"CodigoIBGE": 2516102,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SOLEDADE"
+		"id": 2516102,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SOLEDADE"
 	},
 	{
-		"CodigoIBGE": 2516151,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SOSSEGO"
+		"id": 2516151,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SOSSEGO"
 	},
 	{
-		"CodigoIBGE": 2516201,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SOUSA"
+		"id": 2516201,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SOUSA"
 	},
 	{
-		"CodigoIBGE": 2516300,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "SUME"
+		"id": 2516300,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "SUME"
 	},
 	{
-		"CodigoIBGE": 2516409,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "TACIMA"
+		"id": 2516409,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "TACIMA"
 	},
 	{
-		"CodigoIBGE": 2516508,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "TAPEROA"
+		"id": 2516508,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "TAPEROA"
 	},
 	{
-		"CodigoIBGE": 2516607,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "TAVARES"
+		"id": 2516607,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "TAVARES"
 	},
 	{
-		"CodigoIBGE": 2516706,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "TEIXEIRA"
+		"id": 2516706,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "TEIXEIRA"
 	},
 	{
-		"CodigoIBGE": 2516755,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "TENORIO"
+		"id": 2516755,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "TENORIO"
 	},
 	{
-		"CodigoIBGE": 2516805,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "TRIUNFO"
+		"id": 2516805,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "TRIUNFO"
 	},
 	{
-		"CodigoIBGE": 2516904,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "UIRAUNA"
+		"id": 2516904,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "UIRAUNA"
 	},
 	{
-		"CodigoIBGE": 2517001,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "UMBUZEIRO"
+		"id": 2517001,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "UMBUZEIRO"
 	},
 	{
-		"CodigoIBGE": 2517100,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "VARZEA"
+		"id": 2517100,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "VARZEA"
 	},
 	{
-		"CodigoIBGE": 2517209,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "VIEROPOLIS"
+		"id": 2517209,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "VIEROPOLIS"
 	},
 	{
-		"CodigoIBGE": 2517407,
-		"CodigoIBGEUF": 25,
-		"SiglaUF": "PB",
-		"NomeUF": "PARAIBA",
-		"NomeMunicipio": "ZABELE"
+		"id": 2517407,
+		"parentId": 25,
+		"acronym": "PB",
+		"descriptionParent": "PARAIBA",
+		"description": "ZABELE"
 	}
 ]

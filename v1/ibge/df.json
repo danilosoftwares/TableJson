@@ -1,9 +1,9 @@
 [
 	{
-		"CodigoIBGE": 5300108,
-		"CodigoIBGEUF": 53,
-		"SiglaUF": "DF",
-		"NomeUF": "DISTRITO FEDERAL",
-		"NomeMunicipio": "BRASILIA"
+		"id": 5300108,
+		"parentId": 53,
+		"acronym": "DF",
+		"descriptionParent": "DISTRITO FEDERAL",
+		"description": "BRASILIA"
 	}
 ]

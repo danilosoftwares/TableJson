@@ -1,989 +1,989 @@
 [
 	{
-		"CodigoIBGE": 5100102,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ACORIZAL"
+		"id": 5100102,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ACORIZAL"
 	},
 	{
-		"CodigoIBGE": 5100201,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "AGUA BOA"
+		"id": 5100201,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "AGUA BOA"
 	},
 	{
-		"CodigoIBGE": 5100250,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ALTA FLORESTA"
+		"id": 5100250,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ALTA FLORESTA"
 	},
 	{
-		"CodigoIBGE": 5100300,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ALTO ARAGUAIA"
+		"id": 5100300,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ALTO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 5100359,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ALTO BOA VISTA"
+		"id": 5100359,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ALTO BOA VISTA"
 	},
 	{
-		"CodigoIBGE": 5100409,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ALTO GARCAS"
+		"id": 5100409,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ALTO GARCAS"
 	},
 	{
-		"CodigoIBGE": 5100508,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ALTO PARAGUAI"
+		"id": 5100508,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ALTO PARAGUAI"
 	},
 	{
-		"CodigoIBGE": 5100607,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ALTO TAQUARI"
+		"id": 5100607,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ALTO TAQUARI"
 	},
 	{
-		"CodigoIBGE": 5100805,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "APIACAS"
+		"id": 5100805,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "APIACAS"
 	},
 	{
-		"CodigoIBGE": 5101001,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ARAGUAIANA"
+		"id": 5101001,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ARAGUAIANA"
 	},
 	{
-		"CodigoIBGE": 5101209,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ARAGUAINHA"
+		"id": 5101209,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ARAGUAINHA"
 	},
 	{
-		"CodigoIBGE": 5101258,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ARAPUTANGA"
+		"id": 5101258,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ARAPUTANGA"
 	},
 	{
-		"CodigoIBGE": 5101308,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ARENAPOLIS"
+		"id": 5101308,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ARENAPOLIS"
 	},
 	{
-		"CodigoIBGE": 5101407,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ARIPUANA"
+		"id": 5101407,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ARIPUANA"
 	},
 	{
-		"CodigoIBGE": 5101605,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "BARAO DE MELGACO"
+		"id": 5101605,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "BARAO DE MELGACO"
 	},
 	{
-		"CodigoIBGE": 5101704,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "BARRA DO BUGRES"
+		"id": 5101704,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "BARRA DO BUGRES"
 	},
 	{
-		"CodigoIBGE": 5101803,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "BARRA DO GARCAS"
+		"id": 5101803,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "BARRA DO GARCAS"
 	},
 	{
-		"CodigoIBGE": 5101852,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "BOM JESUS DO ARAGUAIA"
+		"id": 5101852,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "BOM JESUS DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 5101902,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "BRASNORTE"
+		"id": 5101902,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "BRASNORTE"
 	},
 	{
-		"CodigoIBGE": 5102504,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CACERES"
+		"id": 5102504,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CACERES"
 	},
 	{
-		"CodigoIBGE": 5102603,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CAMPINAPOLIS"
+		"id": 5102603,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CAMPINAPOLIS"
 	},
 	{
-		"CodigoIBGE": 5102637,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CAMPO NOVO DO PARECIS"
+		"id": 5102637,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CAMPO NOVO DO PARECIS"
 	},
 	{
-		"CodigoIBGE": 5102678,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CAMPO VERDE"
+		"id": 5102678,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CAMPO VERDE"
 	},
 	{
-		"CodigoIBGE": 5102686,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CAMPOS DE JULIO"
+		"id": 5102686,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CAMPOS DE JULIO"
 	},
 	{
-		"CodigoIBGE": 5102694,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CANABRAVA DO NORTE"
+		"id": 5102694,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CANABRAVA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5102702,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CANARANA"
+		"id": 5102702,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CANARANA"
 	},
 	{
-		"CodigoIBGE": 5102793,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CARLINDA"
+		"id": 5102793,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CARLINDA"
 	},
 	{
-		"CodigoIBGE": 5102850,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CASTANHEIRA"
+		"id": 5102850,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CASTANHEIRA"
 	},
 	{
-		"CodigoIBGE": 5103007,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CHAPADA DOS GUIMARAES"
+		"id": 5103007,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CHAPADA DOS GUIMARAES"
 	},
 	{
-		"CodigoIBGE": 5103056,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CLAUDIA"
+		"id": 5103056,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CLAUDIA"
 	},
 	{
-		"CodigoIBGE": 5103106,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "COCALINHO"
+		"id": 5103106,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "COCALINHO"
 	},
 	{
-		"CodigoIBGE": 5103205,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "COLIDER"
+		"id": 5103205,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "COLIDER"
 	},
 	{
-		"CodigoIBGE": 5103254,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "COLNIZA"
+		"id": 5103254,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "COLNIZA"
 	},
 	{
-		"CodigoIBGE": 5103304,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "COMODORO"
+		"id": 5103304,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "COMODORO"
 	},
 	{
-		"CodigoIBGE": 5103353,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CONFRESA"
+		"id": 5103353,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CONFRESA"
 	},
 	{
-		"CodigoIBGE": 5103361,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CONQUISTA DOESTE"
+		"id": 5103361,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CONQUISTA DOESTE"
 	},
 	{
-		"CodigoIBGE": 5103379,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "COTRIGUACU"
+		"id": 5103379,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "COTRIGUACU"
 	},
 	{
-		"CodigoIBGE": 5103403,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CUIABA"
+		"id": 5103403,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CUIABA"
 	},
 	{
-		"CodigoIBGE": 5103437,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "CURVELANDIA"
+		"id": 5103437,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "CURVELANDIA"
 	},
 	{
-		"CodigoIBGE": 5103452,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "DENISE"
+		"id": 5103452,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "DENISE"
 	},
 	{
-		"CodigoIBGE": 5103502,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "DIAMANTINO"
+		"id": 5103502,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "DIAMANTINO"
 	},
 	{
-		"CodigoIBGE": 5103601,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "DOM AQUINO"
+		"id": 5103601,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "DOM AQUINO"
 	},
 	{
-		"CodigoIBGE": 5103700,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "FELIZ NATAL"
+		"id": 5103700,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "FELIZ NATAL"
 	},
 	{
-		"CodigoIBGE": 5103809,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "FIGUEIROPOLIS D-  OESTE"
+		"id": 5103809,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "FIGUEIROPOLIS D-  OESTE"
 	},
 	{
-		"CodigoIBGE": 5103858,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "GAUCHA DO NORTE"
+		"id": 5103858,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "GAUCHA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5103908,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "GENERAL CARNEIRO"
+		"id": 5103908,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "GENERAL CARNEIRO"
 	},
 	{
-		"CodigoIBGE": 5103957,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "GLORIA D-  OESTE"
+		"id": 5103957,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "GLORIA D-  OESTE"
 	},
 	{
-		"CodigoIBGE": 5104104,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "GUARANTA DO NORTE"
+		"id": 5104104,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "GUARANTA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5104203,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "GUIRATINGA"
+		"id": 5104203,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "GUIRATINGA"
 	},
 	{
-		"CodigoIBGE": 5104500,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "INDIAVAI"
+		"id": 5104500,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "INDIAVAI"
 	},
 	{
-		"CodigoIBGE": 5104526,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "IPIRANGA DO NORTE"
+		"id": 5104526,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "IPIRANGA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5104542,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ITANHANGA"
+		"id": 5104542,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ITANHANGA"
 	},
 	{
-		"CodigoIBGE": 5104559,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ITAUBA"
+		"id": 5104559,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ITAUBA"
 	},
 	{
-		"CodigoIBGE": 5104609,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ITIQUIRA"
+		"id": 5104609,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ITIQUIRA"
 	},
 	{
-		"CodigoIBGE": 5104807,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JACIARA"
+		"id": 5104807,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JACIARA"
 	},
 	{
-		"CodigoIBGE": 5104906,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JANGADA"
+		"id": 5104906,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JANGADA"
 	},
 	{
-		"CodigoIBGE": 5105002,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JAURU"
+		"id": 5105002,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JAURU"
 	},
 	{
-		"CodigoIBGE": 5105101,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JUARA"
+		"id": 5105101,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JUARA"
 	},
 	{
-		"CodigoIBGE": 5105150,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JUINA"
+		"id": 5105150,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JUINA"
 	},
 	{
-		"CodigoIBGE": 5105176,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JURUENA"
+		"id": 5105176,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JURUENA"
 	},
 	{
-		"CodigoIBGE": 5105200,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "JUSCIMEIRA"
+		"id": 5105200,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "JUSCIMEIRA"
 	},
 	{
-		"CodigoIBGE": 5105234,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "LAMBARI D-  OESTE"
+		"id": 5105234,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "LAMBARI D-  OESTE"
 	},
 	{
-		"CodigoIBGE": 5105259,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "LUCAS DO RIO VERDE"
+		"id": 5105259,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "LUCAS DO RIO VERDE"
 	},
 	{
-		"CodigoIBGE": 5105309,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "LUCIARA"
+		"id": 5105309,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "LUCIARA"
 	},
 	{
-		"CodigoIBGE": 5105507,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "VILA BELA DA SANTISSIMA TRINDADE"
+		"id": 5105507,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "VILA BELA DA SANTISSIMA TRINDADE"
 	},
 	{
-		"CodigoIBGE": 5105580,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "MARCELANDIA"
+		"id": 5105580,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "MARCELANDIA"
 	},
 	{
-		"CodigoIBGE": 5105606,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "MATUPA"
+		"id": 5105606,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "MATUPA"
 	},
 	{
-		"CodigoIBGE": 5105622,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "MIRASSOL D-  OESTE"
+		"id": 5105622,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "MIRASSOL D-  OESTE"
 	},
 	{
-		"CodigoIBGE": 5105903,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOBRES"
+		"id": 5105903,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOBRES"
 	},
 	{
-		"CodigoIBGE": 5106000,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NORTELANDIA"
+		"id": 5106000,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NORTELANDIA"
 	},
 	{
-		"CodigoIBGE": 5106109,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOSSA SENHORA DO LIVRAMENTO"
+		"id": 5106109,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOSSA SENHORA DO LIVRAMENTO"
 	},
 	{
-		"CodigoIBGE": 5106158,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA BANDEIRANTES"
+		"id": 5106158,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA BANDEIRANTES"
 	},
 	{
-		"CodigoIBGE": 5106174,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA NAZARE"
+		"id": 5106174,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA NAZARE"
 	},
 	{
-		"CodigoIBGE": 5106182,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA LACERDA"
+		"id": 5106182,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA LACERDA"
 	},
 	{
-		"CodigoIBGE": 5106190,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA SANTA HELENA"
+		"id": 5106190,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA SANTA HELENA"
 	},
 	{
-		"CodigoIBGE": 5106208,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA BRASILANDIA"
+		"id": 5106208,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA BRASILANDIA"
 	},
 	{
-		"CodigoIBGE": 5106216,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA CANAA DO NORTE"
+		"id": 5106216,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA CANAA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5106224,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA MUTUM"
+		"id": 5106224,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA MUTUM"
 	},
 	{
-		"CodigoIBGE": 5106232,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA OLIMPIA"
+		"id": 5106232,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA OLIMPIA"
 	},
 	{
-		"CodigoIBGE": 5106240,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA UBIRATA"
+		"id": 5106240,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA UBIRATA"
 	},
 	{
-		"CodigoIBGE": 5106257,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA XAVANTINA"
+		"id": 5106257,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA XAVANTINA"
 	},
 	{
-		"CodigoIBGE": 5106265,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVO MUNDO"
+		"id": 5106265,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVO MUNDO"
 	},
 	{
-		"CodigoIBGE": 5106273,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVO HORIZONTE DO NORTE"
+		"id": 5106273,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVO HORIZONTE DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5106281,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVO SAO JOAQUIM"
+		"id": 5106281,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVO SAO JOAQUIM"
 	},
 	{
-		"CodigoIBGE": 5106299,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PARANAITA"
+		"id": 5106299,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PARANAITA"
 	},
 	{
-		"CodigoIBGE": 5106307,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PARANATINGA"
+		"id": 5106307,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PARANATINGA"
 	},
 	{
-		"CodigoIBGE": 5106315,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVO SANTO ANTONIO"
+		"id": 5106315,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVO SANTO ANTONIO"
 	},
 	{
-		"CodigoIBGE": 5106372,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PEDRA PRETA"
+		"id": 5106372,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PEDRA PRETA"
 	},
 	{
-		"CodigoIBGE": 5106422,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PEIXOTO DE AZEVEDO"
+		"id": 5106422,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PEIXOTO DE AZEVEDO"
 	},
 	{
-		"CodigoIBGE": 5106455,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PLANALTO DA SERRA"
+		"id": 5106455,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PLANALTO DA SERRA"
 	},
 	{
-		"CodigoIBGE": 5106505,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "POCONE"
+		"id": 5106505,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "POCONE"
 	},
 	{
-		"CodigoIBGE": 5106653,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PONTAL DO ARAGUAIA"
+		"id": 5106653,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PONTAL DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 5106703,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PONTE BRANCA"
+		"id": 5106703,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PONTE BRANCA"
 	},
 	{
-		"CodigoIBGE": 5106752,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PONTES E LACERDA"
+		"id": 5106752,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PONTES E LACERDA"
 	},
 	{
-		"CodigoIBGE": 5106778,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PORTO ALEGRE DO NORTE"
+		"id": 5106778,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PORTO ALEGRE DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5106802,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PORTO DOS GAUCHOS"
+		"id": 5106802,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PORTO DOS GAUCHOS"
 	},
 	{
-		"CodigoIBGE": 5106828,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PORTO ESPERIDIAO"
+		"id": 5106828,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PORTO ESPERIDIAO"
 	},
 	{
-		"CodigoIBGE": 5106851,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PORTO ESTRELA"
+		"id": 5106851,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PORTO ESTRELA"
 	},
 	{
-		"CodigoIBGE": 5107008,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "POXOREO"
+		"id": 5107008,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "POXOREO"
 	},
 	{
-		"CodigoIBGE": 5107040,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "PRIMAVERA DO LESTE"
+		"id": 5107040,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "PRIMAVERA DO LESTE"
 	},
 	{
-		"CodigoIBGE": 5107065,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "QUERENCIA"
+		"id": 5107065,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "QUERENCIA"
 	},
 	{
-		"CodigoIBGE": 5107107,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAO JOSE DOS QUATRO MARCOS"
+		"id": 5107107,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAO JOSE DOS QUATRO MARCOS"
 	},
 	{
-		"CodigoIBGE": 5107156,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "RESERVA DO CABACAL"
+		"id": 5107156,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "RESERVA DO CABACAL"
 	},
 	{
-		"CodigoIBGE": 5107180,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "RIBEIRAO CASCALHEIRA"
+		"id": 5107180,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "RIBEIRAO CASCALHEIRA"
 	},
 	{
-		"CodigoIBGE": 5107198,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "RIBEIRAOZINHO"
+		"id": 5107198,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "RIBEIRAOZINHO"
 	},
 	{
-		"CodigoIBGE": 5107206,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "RIO BRANCO"
+		"id": 5107206,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "RIO BRANCO"
 	},
 	{
-		"CodigoIBGE": 5107248,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTA CARMEM"
+		"id": 5107248,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTA CARMEM"
 	},
 	{
-		"CodigoIBGE": 5107263,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTO AFONSO"
+		"id": 5107263,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTO AFONSO"
 	},
 	{
-		"CodigoIBGE": 5107297,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAO JOSE DO POVO"
+		"id": 5107297,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAO JOSE DO POVO"
 	},
 	{
-		"CodigoIBGE": 5107305,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAO JOSE DO RIO CLARO"
+		"id": 5107305,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAO JOSE DO RIO CLARO"
 	},
 	{
-		"CodigoIBGE": 5107354,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAO JOSE DO XINGU"
+		"id": 5107354,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAO JOSE DO XINGU"
 	},
 	{
-		"CodigoIBGE": 5107404,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAO PEDRO DA CIPA"
+		"id": 5107404,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAO PEDRO DA CIPA"
 	},
 	{
-		"CodigoIBGE": 5107578,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "RONDOLANDIA"
+		"id": 5107578,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "RONDOLANDIA"
 	},
 	{
-		"CodigoIBGE": 5107602,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "RONDONOPOLIS"
+		"id": 5107602,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "RONDONOPOLIS"
 	},
 	{
-		"CodigoIBGE": 5107701,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "ROSARIO DO OESTE"
+		"id": 5107701,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "ROSARIO DO OESTE"
 	},
 	{
-		"CodigoIBGE": 5107743,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTA CRUZ DO XINGU"
+		"id": 5107743,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTA CRUZ DO XINGU"
 	},
 	{
-		"CodigoIBGE": 5107750,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SALTO DO CEU"
+		"id": 5107750,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SALTO DO CEU"
 	},
 	{
-		"CodigoIBGE": 5107768,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTA RITA DO TRIVELATO"
+		"id": 5107768,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTA RITA DO TRIVELATO"
 	},
 	{
-		"CodigoIBGE": 5107776,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTA TEREZINHA"
+		"id": 5107776,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTA TEREZINHA"
 	},
 	{
-		"CodigoIBGE": 5107792,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTO ANTONIO DO LESTE"
+		"id": 5107792,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTO ANTONIO DO LESTE"
 	},
 	{
-		"CodigoIBGE": 5107800,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SANTO ANTONIO DO LEVERGER"
+		"id": 5107800,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SANTO ANTONIO DO LEVERGER"
 	},
 	{
-		"CodigoIBGE": 5107859,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAO FELIX DO ARAGUAIA"
+		"id": 5107859,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAO FELIX DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 5107875,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SAPEZAL"
+		"id": 5107875,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SAPEZAL"
 	},
 	{
-		"CodigoIBGE": 5107883,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SERRA NOVA DOURADA"
+		"id": 5107883,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SERRA NOVA DOURADA"
 	},
 	{
-		"CodigoIBGE": 5107909,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SINOP"
+		"id": 5107909,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SINOP"
 	},
 	{
-		"CodigoIBGE": 5107925,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "SORRISO"
+		"id": 5107925,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "SORRISO"
 	},
 	{
-		"CodigoIBGE": 5107941,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "TABAPORA"
+		"id": 5107941,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "TABAPORA"
 	},
 	{
-		"CodigoIBGE": 5107958,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "TANGARA DA SERRA"
+		"id": 5107958,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "TANGARA DA SERRA"
 	},
 	{
-		"CodigoIBGE": 5108006,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "TAPURAH"
+		"id": 5108006,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "TAPURAH"
 	},
 	{
-		"CodigoIBGE": 5108055,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "TERRA NOVA DO NORTE"
+		"id": 5108055,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "TERRA NOVA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 5108105,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "TESOURO"
+		"id": 5108105,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "TESOURO"
 	},
 	{
-		"CodigoIBGE": 5108204,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "TORIXOREU"
+		"id": 5108204,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "TORIXOREU"
 	},
 	{
-		"CodigoIBGE": 5108303,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "UNIAO DO SUL"
+		"id": 5108303,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "UNIAO DO SUL"
 	},
 	{
-		"CodigoIBGE": 5108352,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "VALE DE SAO DOMINGOS"
+		"id": 5108352,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "VALE DE SAO DOMINGOS"
 	},
 	{
-		"CodigoIBGE": 5108402,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "VARZEA GRANDE"
+		"id": 5108402,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "VARZEA GRANDE"
 	},
 	{
-		"CodigoIBGE": 5108501,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "VERA"
+		"id": 5108501,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "VERA"
 	},
 	{
-		"CodigoIBGE": 5108600,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "VILA RICA"
+		"id": 5108600,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "VILA RICA"
 	},
 	{
-		"CodigoIBGE": 5108808,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA GUARITA"
+		"id": 5108808,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA GUARITA"
 	},
 	{
-		"CodigoIBGE": 5108857,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA MARILANDIA"
+		"id": 5108857,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA MARILANDIA"
 	},
 	{
-		"CodigoIBGE": 5108907,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA MARINGA"
+		"id": 5108907,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA MARINGA"
 	},
 	{
-		"CodigoIBGE": 5108956,
-		"CodigoIBGEUF": 51,
-		"SiglaUF": "MT",
-		"NomeUF": "MATO GROSSO",
-		"NomeMunicipio": "NOVA MONTE VERDE"
+		"id": 5108956,
+		"parentId": 51,
+		"acronym": "MT",
+		"descriptionParent": "MATO GROSSO",
+		"description": "NOVA MONTE VERDE"
 	}
 ]

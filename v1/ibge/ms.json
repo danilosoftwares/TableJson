@@ -1,548 +1,548 @@
 [
 	{
-		"CodigoIBGE": 5000203,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "AGUA CLARA"
+		"id": 5000203,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "AGUA CLARA"
 	},
 	{
-		"CodigoIBGE": 5000252,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ALCINOPOLIS"
+		"id": 5000252,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ALCINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 5000609,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "AMAMBAI"
+		"id": 5000609,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "AMAMBAI"
 	},
 	{
-		"CodigoIBGE": 5000708,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ANASTACIO"
+		"id": 5000708,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ANASTACIO"
 	},
 	{
-		"CodigoIBGE": 5000807,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ANAURILANDIA"
+		"id": 5000807,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ANAURILANDIA"
 	},
 	{
-		"CodigoIBGE": 5000856,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ANGELICA"
+		"id": 5000856,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ANGELICA"
 	},
 	{
-		"CodigoIBGE": 5000906,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ANTONIO JOAO"
+		"id": 5000906,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ANTONIO JOAO"
 	},
 	{
-		"CodigoIBGE": 5001003,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "APARECIDA DO TABOADO"
+		"id": 5001003,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "APARECIDA DO TABOADO"
 	},
 	{
-		"CodigoIBGE": 5001102,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "AQUIDAUANA"
+		"id": 5001102,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "AQUIDAUANA"
 	},
 	{
-		"CodigoIBGE": 5001243,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ARAL MOREIRA"
+		"id": 5001243,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ARAL MOREIRA"
 	},
 	{
-		"CodigoIBGE": 5001508,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BANDEIRANTES"
+		"id": 5001508,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BANDEIRANTES"
 	},
 	{
-		"CodigoIBGE": 5001904,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BATAGUASSU"
+		"id": 5001904,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BATAGUASSU"
 	},
 	{
-		"CodigoIBGE": 5002001,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BATAYPORA"
+		"id": 5002001,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BATAYPORA"
 	},
 	{
-		"CodigoIBGE": 5002100,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BELA VISTA"
+		"id": 5002100,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BELA VISTA"
 	},
 	{
-		"CodigoIBGE": 5002159,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BODOQUENA"
+		"id": 5002159,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BODOQUENA"
 	},
 	{
-		"CodigoIBGE": 5002209,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BONITO"
+		"id": 5002209,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BONITO"
 	},
 	{
-		"CodigoIBGE": 5002308,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "BRASILANDIA"
+		"id": 5002308,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "BRASILANDIA"
 	},
 	{
-		"CodigoIBGE": 5002407,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CAARAPO"
+		"id": 5002407,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CAARAPO"
 	},
 	{
-		"CodigoIBGE": 5002605,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CAMAPUA"
+		"id": 5002605,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CAMAPUA"
 	},
 	{
-		"CodigoIBGE": 5002704,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CAMPO GRANDE"
+		"id": 5002704,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CAMPO GRANDE"
 	},
 	{
-		"CodigoIBGE": 5002803,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CARACOL"
+		"id": 5002803,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CARACOL"
 	},
 	{
-		"CodigoIBGE": 5002902,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CASSILANDIA"
+		"id": 5002902,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CASSILANDIA"
 	},
 	{
-		"CodigoIBGE": 5002951,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CHAPADAO DO SUL"
+		"id": 5002951,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CHAPADAO DO SUL"
 	},
 	{
-		"CodigoIBGE": 5003108,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CORGUINHO"
+		"id": 5003108,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CORGUINHO"
 	},
 	{
-		"CodigoIBGE": 5003157,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CORONEL SAPUCAIA"
+		"id": 5003157,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CORONEL SAPUCAIA"
 	},
 	{
-		"CodigoIBGE": 5003207,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "CORUMBA"
+		"id": 5003207,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "CORUMBA"
 	},
 	{
-		"CodigoIBGE": 5003256,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "COSTA RICA"
+		"id": 5003256,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "COSTA RICA"
 	},
 	{
-		"CodigoIBGE": 5003306,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "COXIM"
+		"id": 5003306,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "COXIM"
 	},
 	{
-		"CodigoIBGE": 5003454,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "DEODAPOLIS"
+		"id": 5003454,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "DEODAPOLIS"
 	},
 	{
-		"CodigoIBGE": 5003488,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "DOIS IRMAOS DO BURITI"
+		"id": 5003488,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "DOIS IRMAOS DO BURITI"
 	},
 	{
-		"CodigoIBGE": 5003504,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "DOURADINA"
+		"id": 5003504,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "DOURADINA"
 	},
 	{
-		"CodigoIBGE": 5003702,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "DOURADOS"
+		"id": 5003702,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "DOURADOS"
 	},
 	{
-		"CodigoIBGE": 5003751,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ELDORADO"
+		"id": 5003751,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ELDORADO"
 	},
 	{
-		"CodigoIBGE": 5003801,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "FATIMA DO SUL"
+		"id": 5003801,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "FATIMA DO SUL"
 	},
 	{
-		"CodigoIBGE": 5003900,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "FIGUEIRAO"
+		"id": 5003900,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "FIGUEIRAO"
 	},
 	{
-		"CodigoIBGE": 5004007,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "GLORIA DE DOURADOS"
+		"id": 5004007,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "GLORIA DE DOURADOS"
 	},
 	{
-		"CodigoIBGE": 5004106,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "GUIA LOPES DA LAGUNA"
+		"id": 5004106,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "GUIA LOPES DA LAGUNA"
 	},
 	{
-		"CodigoIBGE": 5004304,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "IGUATEMI"
+		"id": 5004304,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "IGUATEMI"
 	},
 	{
-		"CodigoIBGE": 5004403,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "INOCENCIA"
+		"id": 5004403,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "INOCENCIA"
 	},
 	{
-		"CodigoIBGE": 5004502,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ITAPORA"
+		"id": 5004502,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ITAPORA"
 	},
 	{
-		"CodigoIBGE": 5004601,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ITAQUIRAI"
+		"id": 5004601,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ITAQUIRAI"
 	},
 	{
-		"CodigoIBGE": 5004700,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "IVINHEMA"
+		"id": 5004700,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "IVINHEMA"
 	},
 	{
-		"CodigoIBGE": 5004809,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "JAPORA"
+		"id": 5004809,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "JAPORA"
 	},
 	{
-		"CodigoIBGE": 5004908,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "JARAGUARI"
+		"id": 5004908,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "JARAGUARI"
 	},
 	{
-		"CodigoIBGE": 5005004,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "JARDIM"
+		"id": 5005004,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "JARDIM"
 	},
 	{
-		"CodigoIBGE": 5005103,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "JATEI"
+		"id": 5005103,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "JATEI"
 	},
 	{
-		"CodigoIBGE": 5005152,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "JUTI"
+		"id": 5005152,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "JUTI"
 	},
 	{
-		"CodigoIBGE": 5005202,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "LADARIO"
+		"id": 5005202,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "LADARIO"
 	},
 	{
-		"CodigoIBGE": 5005251,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "LAGUNA CARAPA"
+		"id": 5005251,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "LAGUNA CARAPA"
 	},
 	{
-		"CodigoIBGE": 5005400,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "MARACAJU"
+		"id": 5005400,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "MARACAJU"
 	},
 	{
-		"CodigoIBGE": 5005608,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "MIRANDA"
+		"id": 5005608,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "MIRANDA"
 	},
 	{
-		"CodigoIBGE": 5005681,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "MUNDO NOVO"
+		"id": 5005681,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "MUNDO NOVO"
 	},
 	{
-		"CodigoIBGE": 5005707,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "NAVIRAI"
+		"id": 5005707,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "NAVIRAI"
 	},
 	{
-		"CodigoIBGE": 5005806,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "NIOAQUE"
+		"id": 5005806,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "NIOAQUE"
 	},
 	{
-		"CodigoIBGE": 5006002,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "NOVA ALVORADA DO SUL"
+		"id": 5006002,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "NOVA ALVORADA DO SUL"
 	},
 	{
-		"CodigoIBGE": 5006200,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "NOVA ANDRADINA"
+		"id": 5006200,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "NOVA ANDRADINA"
 	},
 	{
-		"CodigoIBGE": 5006259,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "NOVO HORIZONTE DO SUL"
+		"id": 5006259,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "NOVO HORIZONTE DO SUL"
 	},
 	{
-		"CodigoIBGE": 5006309,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "PARANAIBA"
+		"id": 5006309,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "PARANAIBA"
 	},
 	{
-		"CodigoIBGE": 5006358,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "PARANHOS"
+		"id": 5006358,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "PARANHOS"
 	},
 	{
-		"CodigoIBGE": 5006408,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "PEDRO GOMES"
+		"id": 5006408,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "PEDRO GOMES"
 	},
 	{
-		"CodigoIBGE": 5006606,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "PONTA PORA"
+		"id": 5006606,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "PONTA PORA"
 	},
 	{
-		"CodigoIBGE": 5006903,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "PORTO MURTINHO"
+		"id": 5006903,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "PORTO MURTINHO"
 	},
 	{
-		"CodigoIBGE": 5007109,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "RIBAS DO RIO PARDO"
+		"id": 5007109,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "RIBAS DO RIO PARDO"
 	},
 	{
-		"CodigoIBGE": 5007208,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "RIO BRILHANTE"
+		"id": 5007208,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "RIO BRILHANTE"
 	},
 	{
-		"CodigoIBGE": 5007307,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "RIO NEGRO"
+		"id": 5007307,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "RIO NEGRO"
 	},
 	{
-		"CodigoIBGE": 5007406,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "RIO VERDE DE MATO GROSSO"
+		"id": 5007406,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "RIO VERDE DE MATO GROSSO"
 	},
 	{
-		"CodigoIBGE": 5007505,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "ROCHEDO"
+		"id": 5007505,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "ROCHEDO"
 	},
 	{
-		"CodigoIBGE": 5007554,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "SANTA RITA DO PARDO"
+		"id": 5007554,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "SANTA RITA DO PARDO"
 	},
 	{
-		"CodigoIBGE": 5007695,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "SAO GABRIEL DO OESTE"
+		"id": 5007695,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "SAO GABRIEL DO OESTE"
 	},
 	{
-		"CodigoIBGE": 5007703,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "SETE QUEDAS"
+		"id": 5007703,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "SETE QUEDAS"
 	},
 	{
-		"CodigoIBGE": 5007802,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "SELVIRIA"
+		"id": 5007802,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "SELVIRIA"
 	},
 	{
-		"CodigoIBGE": 5007901,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "SIDROLANDIA"
+		"id": 5007901,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "SIDROLANDIA"
 	},
 	{
-		"CodigoIBGE": 5007935,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "SONORA"
+		"id": 5007935,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "SONORA"
 	},
 	{
-		"CodigoIBGE": 5007950,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "TACURU"
+		"id": 5007950,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "TACURU"
 	},
 	{
-		"CodigoIBGE": 5007976,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "TAQUARUSSU"
+		"id": 5007976,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "TAQUARUSSU"
 	},
 	{
-		"CodigoIBGE": 5008008,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "TERENOS"
+		"id": 5008008,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "TERENOS"
 	},
 	{
-		"CodigoIBGE": 5008305,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "TRES LAGOAS"
+		"id": 5008305,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "TRES LAGOAS"
 	},
 	{
-		"CodigoIBGE": 5008404,
-		"CodigoIBGEUF": 50,
-		"SiglaUF": "MS",
-		"NomeUF": "MATO GROSSO DO SUL",
-		"NomeMunicipio": "VICENTINA"
+		"id": 5008404,
+		"parentId": 50,
+		"acronym": "MS",
+		"descriptionParent": "MATO GROSSO DO SUL",
+		"description": "VICENTINA"
 	}
 ]

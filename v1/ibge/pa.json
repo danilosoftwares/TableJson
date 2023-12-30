@@ -1,1003 +1,1003 @@
 [
 	{
-		"CodigoIBGE": 1500107,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ABAETETUBA"
+		"id": 1500107,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ABAETETUBA"
 	},
 	{
-		"CodigoIBGE": 1500131,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ABEL FIGUEIREDO"
+		"id": 1500131,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ABEL FIGUEIREDO"
 	},
 	{
-		"CodigoIBGE": 1500206,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ACARA"
+		"id": 1500206,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ACARA"
 	},
 	{
-		"CodigoIBGE": 1500305,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "AFUA"
+		"id": 1500305,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "AFUA"
 	},
 	{
-		"CodigoIBGE": 1500347,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "AGUA AZUL DO NORTE"
+		"id": 1500347,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "AGUA AZUL DO NORTE"
 	},
 	{
-		"CodigoIBGE": 1500404,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ALENQUER"
+		"id": 1500404,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ALENQUER"
 	},
 	{
-		"CodigoIBGE": 1500503,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ALMEIRIM"
+		"id": 1500503,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ALMEIRIM"
 	},
 	{
-		"CodigoIBGE": 1500602,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ALTAMIRA"
+		"id": 1500602,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ALTAMIRA"
 	},
 	{
-		"CodigoIBGE": 1500701,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ANAJAS"
+		"id": 1500701,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ANAJAS"
 	},
 	{
-		"CodigoIBGE": 1500800,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ANANINDEUA"
+		"id": 1500800,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ANANINDEUA"
 	},
 	{
-		"CodigoIBGE": 1500859,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ANAPU"
+		"id": 1500859,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ANAPU"
 	},
 	{
-		"CodigoIBGE": 1500909,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "AUGUSTO CORREA"
+		"id": 1500909,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "AUGUSTO CORREA"
 	},
 	{
-		"CodigoIBGE": 1500958,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "AURORA DO PARA"
+		"id": 1500958,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "AURORA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1501006,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "AVEIRO"
+		"id": 1501006,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "AVEIRO"
 	},
 	{
-		"CodigoIBGE": 1501105,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BAGRE"
+		"id": 1501105,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BAGRE"
 	},
 	{
-		"CodigoIBGE": 1501204,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BAIAO"
+		"id": 1501204,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BAIAO"
 	},
 	{
-		"CodigoIBGE": 1501253,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BANNACH"
+		"id": 1501253,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BANNACH"
 	},
 	{
-		"CodigoIBGE": 1501303,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BARCARENA"
+		"id": 1501303,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BARCARENA"
 	},
 	{
-		"CodigoIBGE": 1501402,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BELEM"
+		"id": 1501402,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BELEM"
 	},
 	{
-		"CodigoIBGE": 1501451,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BELTERRA"
+		"id": 1501451,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BELTERRA"
 	},
 	{
-		"CodigoIBGE": 1501501,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BENEVIDES"
+		"id": 1501501,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BENEVIDES"
 	},
 	{
-		"CodigoIBGE": 1501576,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BOM JESUS DO TOCANTINS"
+		"id": 1501576,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BOM JESUS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1501600,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BONITO"
+		"id": 1501600,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BONITO"
 	},
 	{
-		"CodigoIBGE": 1501709,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BRAGANCA"
+		"id": 1501709,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BRAGANCA"
 	},
 	{
-		"CodigoIBGE": 1501725,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BRASIL NOVO"
+		"id": 1501725,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BRASIL NOVO"
 	},
 	{
-		"CodigoIBGE": 1501758,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BREJO GRANDE DO ARAGUAIA"
+		"id": 1501758,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BREJO GRANDE DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1501782,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BREU BRANCO"
+		"id": 1501782,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BREU BRANCO"
 	},
 	{
-		"CodigoIBGE": 1501808,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BREVES"
+		"id": 1501808,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BREVES"
 	},
 	{
-		"CodigoIBGE": 1501907,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "BUJARU"
+		"id": 1501907,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "BUJARU"
 	},
 	{
-		"CodigoIBGE": 1501956,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CACHOEIRA DO PIRIA"
+		"id": 1501956,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CACHOEIRA DO PIRIA"
 	},
 	{
-		"CodigoIBGE": 1502004,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CACHOEIRA DO ARARI"
+		"id": 1502004,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CACHOEIRA DO ARARI"
 	},
 	{
-		"CodigoIBGE": 1502103,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CAMETA"
+		"id": 1502103,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CAMETA"
 	},
 	{
-		"CodigoIBGE": 1502152,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CANAA DOS CARAJAS"
+		"id": 1502152,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CANAA DOS CARAJAS"
 	},
 	{
-		"CodigoIBGE": 1502202,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CAPANEMA"
+		"id": 1502202,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CAPANEMA"
 	},
 	{
-		"CodigoIBGE": 1502301,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CAPITAO POCO"
+		"id": 1502301,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CAPITAO POCO"
 	},
 	{
-		"CodigoIBGE": 1502400,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CASTANHAL"
+		"id": 1502400,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CASTANHAL"
 	},
 	{
-		"CodigoIBGE": 1502509,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CHAVES"
+		"id": 1502509,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CHAVES"
 	},
 	{
-		"CodigoIBGE": 1502608,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "COLARES"
+		"id": 1502608,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "COLARES"
 	},
 	{
-		"CodigoIBGE": 1502707,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CONCEICAO DO ARAGUAIA"
+		"id": 1502707,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CONCEICAO DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1502756,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CONCORDIA DO PARA"
+		"id": 1502756,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CONCORDIA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1502764,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CUMARU DO NORTE"
+		"id": 1502764,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CUMARU DO NORTE"
 	},
 	{
-		"CodigoIBGE": 1502772,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CURIONOPOLIS"
+		"id": 1502772,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CURIONOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1502806,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CURRALINHO"
+		"id": 1502806,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CURRALINHO"
 	},
 	{
-		"CodigoIBGE": 1502855,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CURUA"
+		"id": 1502855,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CURUA"
 	},
 	{
-		"CodigoIBGE": 1502905,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "CURUCA"
+		"id": 1502905,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "CURUCA"
 	},
 	{
-		"CodigoIBGE": 1502939,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "DOM ELISEU"
+		"id": 1502939,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "DOM ELISEU"
 	},
 	{
-		"CodigoIBGE": 1502954,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ELDORADO DOS CARAJAS"
+		"id": 1502954,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ELDORADO DOS CARAJAS"
 	},
 	{
-		"CodigoIBGE": 1503002,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "FARO"
+		"id": 1503002,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "FARO"
 	},
 	{
-		"CodigoIBGE": 1503044,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "FLORESTA DO ARAGUAIA"
+		"id": 1503044,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "FLORESTA DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1503077,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "GARRAFAO DO NORTE"
+		"id": 1503077,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "GARRAFAO DO NORTE"
 	},
 	{
-		"CodigoIBGE": 1503093,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "GOIANESIA DO PARA"
+		"id": 1503093,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "GOIANESIA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1503101,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "GURUPA"
+		"id": 1503101,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "GURUPA"
 	},
 	{
-		"CodigoIBGE": 1503200,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "IGARAPEACU"
+		"id": 1503200,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "IGARAPEACU"
 	},
 	{
-		"CodigoIBGE": 1503309,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "IGARAPEMIRI"
+		"id": 1503309,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "IGARAPEMIRI"
 	},
 	{
-		"CodigoIBGE": 1503408,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "INHANGAPI"
+		"id": 1503408,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "INHANGAPI"
 	},
 	{
-		"CodigoIBGE": 1503457,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "IPIXUNA DO PARA"
+		"id": 1503457,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "IPIXUNA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1503507,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "IRITUIA"
+		"id": 1503507,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "IRITUIA"
 	},
 	{
-		"CodigoIBGE": 1503606,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ITAITUBA"
+		"id": 1503606,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ITAITUBA"
 	},
 	{
-		"CodigoIBGE": 1503705,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ITUPIRANGA"
+		"id": 1503705,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ITUPIRANGA"
 	},
 	{
-		"CodigoIBGE": 1503754,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "JACAREACANGA"
+		"id": 1503754,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "JACAREACANGA"
 	},
 	{
-		"CodigoIBGE": 1503804,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "JACUNDA"
+		"id": 1503804,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "JACUNDA"
 	},
 	{
-		"CodigoIBGE": 1503903,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "JURUTI"
+		"id": 1503903,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "JURUTI"
 	},
 	{
-		"CodigoIBGE": 1504000,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "LIMOEIRO DO AJURU"
+		"id": 1504000,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "LIMOEIRO DO AJURU"
 	},
 	{
-		"CodigoIBGE": 1504059,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MAE DO RIO"
+		"id": 1504059,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MAE DO RIO"
 	},
 	{
-		"CodigoIBGE": 1504109,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MAGALHAES BARATA"
+		"id": 1504109,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MAGALHAES BARATA"
 	},
 	{
-		"CodigoIBGE": 1504208,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MARABA"
+		"id": 1504208,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MARABA"
 	},
 	{
-		"CodigoIBGE": 1504307,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MARACANA"
+		"id": 1504307,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MARACANA"
 	},
 	{
-		"CodigoIBGE": 1504406,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MARAPANIM"
+		"id": 1504406,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MARAPANIM"
 	},
 	{
-		"CodigoIBGE": 1504422,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MARITUBA"
+		"id": 1504422,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MARITUBA"
 	},
 	{
-		"CodigoIBGE": 1504455,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MEDICILANDIA"
+		"id": 1504455,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MEDICILANDIA"
 	},
 	{
-		"CodigoIBGE": 1504505,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MELGACO"
+		"id": 1504505,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MELGACO"
 	},
 	{
-		"CodigoIBGE": 1504604,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MOCAJUBA"
+		"id": 1504604,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MOCAJUBA"
 	},
 	{
-		"CodigoIBGE": 1504703,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MOJU"
+		"id": 1504703,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MOJU"
 	},
 	{
-		"CodigoIBGE": 1504802,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MONTE ALEGRE"
+		"id": 1504802,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MONTE ALEGRE"
 	},
 	{
-		"CodigoIBGE": 1504901,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "MUANA"
+		"id": 1504901,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "MUANA"
 	},
 	{
-		"CodigoIBGE": 1504950,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "NOVA ESPERANCA DO PIRIA"
+		"id": 1504950,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "NOVA ESPERANCA DO PIRIA"
 	},
 	{
-		"CodigoIBGE": 1504976,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "NOVA IPIXUNA"
+		"id": 1504976,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "NOVA IPIXUNA"
 	},
 	{
-		"CodigoIBGE": 1505007,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "NOVA TIMBOTEUA"
+		"id": 1505007,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "NOVA TIMBOTEUA"
 	},
 	{
-		"CodigoIBGE": 1505031,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "NOVO PROGRESSO"
+		"id": 1505031,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "NOVO PROGRESSO"
 	},
 	{
-		"CodigoIBGE": 1505064,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "NOVO REPARTIMENTO"
+		"id": 1505064,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "NOVO REPARTIMENTO"
 	},
 	{
-		"CodigoIBGE": 1505106,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "OBIDOS"
+		"id": 1505106,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "OBIDOS"
 	},
 	{
-		"CodigoIBGE": 1505205,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "OEIRAS DO PARA"
+		"id": 1505205,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "OEIRAS DO PARA"
 	},
 	{
-		"CodigoIBGE": 1505304,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ORIXIMINA"
+		"id": 1505304,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ORIXIMINA"
 	},
 	{
-		"CodigoIBGE": 1505403,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "OUREM"
+		"id": 1505403,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "OUREM"
 	},
 	{
-		"CodigoIBGE": 1505437,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "OURILANDIA DO NORTE"
+		"id": 1505437,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "OURILANDIA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 1505486,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PACAJA"
+		"id": 1505486,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PACAJA"
 	},
 	{
-		"CodigoIBGE": 1505494,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PALESTINA DO PARA"
+		"id": 1505494,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PALESTINA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1505502,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PARAGOMINAS"
+		"id": 1505502,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PARAGOMINAS"
 	},
 	{
-		"CodigoIBGE": 1505536,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PARAUAPEBAS"
+		"id": 1505536,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PARAUAPEBAS"
 	},
 	{
-		"CodigoIBGE": 1505551,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PAU D-  ARCO"
+		"id": 1505551,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PAU D-  ARCO"
 	},
 	{
-		"CodigoIBGE": 1505601,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PEIXEBOI"
+		"id": 1505601,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PEIXEBOI"
 	},
 	{
-		"CodigoIBGE": 1505635,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PICARRA"
+		"id": 1505635,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PICARRA"
 	},
 	{
-		"CodigoIBGE": 1505650,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PLACAS"
+		"id": 1505650,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PLACAS"
 	},
 	{
-		"CodigoIBGE": 1505700,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PONTA DE PEDRAS"
+		"id": 1505700,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PONTA DE PEDRAS"
 	},
 	{
-		"CodigoIBGE": 1505809,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PORTEL"
+		"id": 1505809,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PORTEL"
 	},
 	{
-		"CodigoIBGE": 1505908,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PORTO DE MOZ"
+		"id": 1505908,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PORTO DE MOZ"
 	},
 	{
-		"CodigoIBGE": 1506005,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PRAINHA"
+		"id": 1506005,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PRAINHA"
 	},
 	{
-		"CodigoIBGE": 1506104,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "PRIMAVERA"
+		"id": 1506104,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "PRIMAVERA"
 	},
 	{
-		"CodigoIBGE": 1506112,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "QUATIPURU"
+		"id": 1506112,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "QUATIPURU"
 	},
 	{
-		"CodigoIBGE": 1506138,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "REDENCAO"
+		"id": 1506138,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "REDENCAO"
 	},
 	{
-		"CodigoIBGE": 1506161,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "RIO MARIA"
+		"id": 1506161,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "RIO MARIA"
 	},
 	{
-		"CodigoIBGE": 1506187,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "RONDON DO PARA"
+		"id": 1506187,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "RONDON DO PARA"
 	},
 	{
-		"CodigoIBGE": 1506195,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "RUROPOLIS"
+		"id": 1506195,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "RUROPOLIS"
 	},
 	{
-		"CodigoIBGE": 1506203,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SALINOPOLIS"
+		"id": 1506203,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SALINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1506302,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SALVATERRA"
+		"id": 1506302,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SALVATERRA"
 	},
 	{
-		"CodigoIBGE": 1506351,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTA BARBARA DO PARA"
+		"id": 1506351,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTA BARBARA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1506401,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTA CRUZ DO ARARI"
+		"id": 1506401,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTA CRUZ DO ARARI"
 	},
 	{
-		"CodigoIBGE": 1506500,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTA ISABEL DO PARA"
+		"id": 1506500,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTA ISABEL DO PARA"
 	},
 	{
-		"CodigoIBGE": 1506559,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTA LUZIA DO PARA"
+		"id": 1506559,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTA LUZIA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1506583,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTA MARIA DAS BARREIRAS"
+		"id": 1506583,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTA MARIA DAS BARREIRAS"
 	},
 	{
-		"CodigoIBGE": 1506609,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTA MARIA DO PARA"
+		"id": 1506609,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTA MARIA DO PARA"
 	},
 	{
-		"CodigoIBGE": 1506708,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTANA DO ARAGUAIA"
+		"id": 1506708,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTANA DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1506807,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTAREM"
+		"id": 1506807,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTAREM"
 	},
 	{
-		"CodigoIBGE": 1506906,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTAREM NOVO"
+		"id": 1506906,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTAREM NOVO"
 	},
 	{
-		"CodigoIBGE": 1507003,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SANTO ANTONIO DO TAUA"
+		"id": 1507003,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SANTO ANTONIO DO TAUA"
 	},
 	{
-		"CodigoIBGE": 1507102,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO CAETANO DE ODIVELAS"
+		"id": 1507102,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO CAETANO DE ODIVELAS"
 	},
 	{
-		"CodigoIBGE": 1507151,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO DOMINGOS DO ARAGUAIA"
+		"id": 1507151,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO DOMINGOS DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1507201,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO DOMINGOS DO CAPIM"
+		"id": 1507201,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO DOMINGOS DO CAPIM"
 	},
 	{
-		"CodigoIBGE": 1507300,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO FELIX DO XINGU"
+		"id": 1507300,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO FELIX DO XINGU"
 	},
 	{
-		"CodigoIBGE": 1507409,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO FRANCISCO DO PARA"
+		"id": 1507409,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO FRANCISCO DO PARA"
 	},
 	{
-		"CodigoIBGE": 1507458,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO GERALDO DO ARAGUAIA"
+		"id": 1507458,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO GERALDO DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1507466,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO JOAO DA PONTA"
+		"id": 1507466,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO JOAO DA PONTA"
 	},
 	{
-		"CodigoIBGE": 1507474,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO JOAO DE PIRABAS"
+		"id": 1507474,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO JOAO DE PIRABAS"
 	},
 	{
-		"CodigoIBGE": 1507508,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO JOAO DO ARAGUAIA"
+		"id": 1507508,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO JOAO DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1507607,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO MIGUEL DO GUAMA"
+		"id": 1507607,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO MIGUEL DO GUAMA"
 	},
 	{
-		"CodigoIBGE": 1507706,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAO SEBASTIAO DA BOA VISTA"
+		"id": 1507706,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAO SEBASTIAO DA BOA VISTA"
 	},
 	{
-		"CodigoIBGE": 1507755,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SAPUCAIA"
+		"id": 1507755,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SAPUCAIA"
 	},
 	{
-		"CodigoIBGE": 1507805,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SENADOR JOSE PORFIRIO"
+		"id": 1507805,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SENADOR JOSE PORFIRIO"
 	},
 	{
-		"CodigoIBGE": 1507904,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "SOURE"
+		"id": 1507904,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "SOURE"
 	},
 	{
-		"CodigoIBGE": 1507953,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TAILANDIA"
+		"id": 1507953,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TAILANDIA"
 	},
 	{
-		"CodigoIBGE": 1507961,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TERRA ALTA"
+		"id": 1507961,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TERRA ALTA"
 	},
 	{
-		"CodigoIBGE": 1507979,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TERRA SANTA"
+		"id": 1507979,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TERRA SANTA"
 	},
 	{
-		"CodigoIBGE": 1508001,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TOMEACU"
+		"id": 1508001,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TOMEACU"
 	},
 	{
-		"CodigoIBGE": 1508035,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TRACUATEUA"
+		"id": 1508035,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TRACUATEUA"
 	},
 	{
-		"CodigoIBGE": 1508050,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TRAIRAO"
+		"id": 1508050,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TRAIRAO"
 	},
 	{
-		"CodigoIBGE": 1508084,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TUCUMA"
+		"id": 1508084,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TUCUMA"
 	},
 	{
-		"CodigoIBGE": 1508100,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "TUCURUI"
+		"id": 1508100,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "TUCURUI"
 	},
 	{
-		"CodigoIBGE": 1508126,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "ULIANOPOLIS"
+		"id": 1508126,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "ULIANOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1508159,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "URUARA"
+		"id": 1508159,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "URUARA"
 	},
 	{
-		"CodigoIBGE": 1508209,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "VIGIA"
+		"id": 1508209,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "VIGIA"
 	},
 	{
-		"CodigoIBGE": 1508308,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "VISEU"
+		"id": 1508308,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "VISEU"
 	},
 	{
-		"CodigoIBGE": 1508357,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "VITORIA DO XINGU"
+		"id": 1508357,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "VITORIA DO XINGU"
 	},
 	{
-		"CodigoIBGE": 1508407,
-		"CodigoIBGEUF": 15,
-		"SiglaUF": "PA",
-		"NomeUF": "PARA",
-		"NomeMunicipio": "XINGUARA"
+		"id": 1508407,
+		"parentId": 15,
+		"acronym": "PA",
+		"descriptionParent": "PARA",
+		"description": "XINGUARA"
 	}
 ]

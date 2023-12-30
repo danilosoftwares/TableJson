@@ -1,1297 +1,1297 @@
 [
 	{
-		"CodigoIBGE": 2600054,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ABREU E LIMA"
+		"id": 2600054,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ABREU E LIMA"
 	},
 	{
-		"CodigoIBGE": 2600104,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "AFOGADOS DA INGAZEIRA"
+		"id": 2600104,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "AFOGADOS DA INGAZEIRA"
 	},
 	{
-		"CodigoIBGE": 2600203,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "AFRANIO"
+		"id": 2600203,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "AFRANIO"
 	},
 	{
-		"CodigoIBGE": 2600302,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "AGRESTINA"
+		"id": 2600302,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "AGRESTINA"
 	},
 	{
-		"CodigoIBGE": 2600401,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "AGUA PRETA"
+		"id": 2600401,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "AGUA PRETA"
 	},
 	{
-		"CodigoIBGE": 2600500,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "AGUAS BELAS"
+		"id": 2600500,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "AGUAS BELAS"
 	},
 	{
-		"CodigoIBGE": 2600609,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ALAGOINHA"
+		"id": 2600609,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ALAGOINHA"
 	},
 	{
-		"CodigoIBGE": 2600708,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ALIANCA"
+		"id": 2600708,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ALIANCA"
 	},
 	{
-		"CodigoIBGE": 2600807,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ALTINHO"
+		"id": 2600807,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ALTINHO"
 	},
 	{
-		"CodigoIBGE": 2600906,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "AMARAJI"
+		"id": 2600906,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "AMARAJI"
 	},
 	{
-		"CodigoIBGE": 2601003,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ANGELIM"
+		"id": 2601003,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ANGELIM"
 	},
 	{
-		"CodigoIBGE": 2601052,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ARACOIABA"
+		"id": 2601052,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ARACOIABA"
 	},
 	{
-		"CodigoIBGE": 2601102,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ARARIPINA"
+		"id": 2601102,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ARARIPINA"
 	},
 	{
-		"CodigoIBGE": 2601201,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ARCOVERDE"
+		"id": 2601201,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ARCOVERDE"
 	},
 	{
-		"CodigoIBGE": 2601300,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BARRA DE GUABIRABA"
+		"id": 2601300,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BARRA DE GUABIRABA"
 	},
 	{
-		"CodigoIBGE": 2601409,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BARREIROS"
+		"id": 2601409,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BARREIROS"
 	},
 	{
-		"CodigoIBGE": 2601508,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BELEM DE MARIA"
+		"id": 2601508,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BELEM DE MARIA"
 	},
 	{
-		"CodigoIBGE": 2601607,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BELEM DO SAO FRANCISCO"
+		"id": 2601607,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BELEM DO SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2601706,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BELO JARDIM"
+		"id": 2601706,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BELO JARDIM"
 	},
 	{
-		"CodigoIBGE": 2601805,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BETANIA"
+		"id": 2601805,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BETANIA"
 	},
 	{
-		"CodigoIBGE": 2601904,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BEZERROS"
+		"id": 2601904,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BEZERROS"
 	},
 	{
-		"CodigoIBGE": 2602001,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BODOCO"
+		"id": 2602001,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BODOCO"
 	},
 	{
-		"CodigoIBGE": 2602100,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BOM CONSELHO"
+		"id": 2602100,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BOM CONSELHO"
 	},
 	{
-		"CodigoIBGE": 2602209,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BOM JARDIM"
+		"id": 2602209,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BOM JARDIM"
 	},
 	{
-		"CodigoIBGE": 2602308,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BONITO"
+		"id": 2602308,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BONITO"
 	},
 	{
-		"CodigoIBGE": 2602407,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BREJAO"
+		"id": 2602407,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BREJAO"
 	},
 	{
-		"CodigoIBGE": 2602506,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BREJINHO"
+		"id": 2602506,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BREJINHO"
 	},
 	{
-		"CodigoIBGE": 2602605,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BREJO DA MADRE DE DEUS"
+		"id": 2602605,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BREJO DA MADRE DE DEUS"
 	},
 	{
-		"CodigoIBGE": 2602704,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BUENOS AIRES"
+		"id": 2602704,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BUENOS AIRES"
 	},
 	{
-		"CodigoIBGE": 2602803,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "BUIQUE"
+		"id": 2602803,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "BUIQUE"
 	},
 	{
-		"CodigoIBGE": 2602902,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CABO DE SANTO AGOSTINHO"
+		"id": 2602902,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CABO DE SANTO AGOSTINHO"
 	},
 	{
-		"CodigoIBGE": 2603009,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CABROBO"
+		"id": 2603009,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CABROBO"
 	},
 	{
-		"CodigoIBGE": 2603108,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CACHOEIRINHA"
+		"id": 2603108,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CACHOEIRINHA"
 	},
 	{
-		"CodigoIBGE": 2603207,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CAETES"
+		"id": 2603207,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CAETES"
 	},
 	{
-		"CodigoIBGE": 2603306,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CALCADO"
+		"id": 2603306,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CALCADO"
 	},
 	{
-		"CodigoIBGE": 2603405,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CALUMBI"
+		"id": 2603405,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CALUMBI"
 	},
 	{
-		"CodigoIBGE": 2603454,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CAMARAGIBE"
+		"id": 2603454,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CAMARAGIBE"
 	},
 	{
-		"CodigoIBGE": 2603504,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CAMOCIM DE SAO FELIX"
+		"id": 2603504,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CAMOCIM DE SAO FELIX"
 	},
 	{
-		"CodigoIBGE": 2603603,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CAMUTANGA"
+		"id": 2603603,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CAMUTANGA"
 	},
 	{
-		"CodigoIBGE": 2603702,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CANHOTINHO"
+		"id": 2603702,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CANHOTINHO"
 	},
 	{
-		"CodigoIBGE": 2603801,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CAPOEIRAS"
+		"id": 2603801,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CAPOEIRAS"
 	},
 	{
-		"CodigoIBGE": 2603900,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CARNAIBA"
+		"id": 2603900,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CARNAIBA"
 	},
 	{
-		"CodigoIBGE": 2603926,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CARNAUBEIRAS DA PENHA"
+		"id": 2603926,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CARNAUBEIRAS DA PENHA"
 	},
 	{
-		"CodigoIBGE": 2604007,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CARPINA"
+		"id": 2604007,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CARPINA"
 	},
 	{
-		"CodigoIBGE": 2604106,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CARUARU"
+		"id": 2604106,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CARUARU"
 	},
 	{
-		"CodigoIBGE": 2604155,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CASINHAS"
+		"id": 2604155,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CASINHAS"
 	},
 	{
-		"CodigoIBGE": 2604205,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CATENDE"
+		"id": 2604205,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CATENDE"
 	},
 	{
-		"CodigoIBGE": 2604304,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CEDRO"
+		"id": 2604304,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CEDRO"
 	},
 	{
-		"CodigoIBGE": 2604403,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CHA DE ALEGRIA"
+		"id": 2604403,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CHA DE ALEGRIA"
 	},
 	{
-		"CodigoIBGE": 2604502,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CHA GRANDE"
+		"id": 2604502,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CHA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2604601,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CONDADO"
+		"id": 2604601,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CONDADO"
 	},
 	{
-		"CodigoIBGE": 2604700,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CORRENTES"
+		"id": 2604700,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CORRENTES"
 	},
 	{
-		"CodigoIBGE": 2604809,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CORTES"
+		"id": 2604809,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CORTES"
 	},
 	{
-		"CodigoIBGE": 2604908,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CUMARU"
+		"id": 2604908,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CUMARU"
 	},
 	{
-		"CodigoIBGE": 2605004,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CUPIRA"
+		"id": 2605004,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CUPIRA"
 	},
 	{
-		"CodigoIBGE": 2605103,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "CUSTODIA"
+		"id": 2605103,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "CUSTODIA"
 	},
 	{
-		"CodigoIBGE": 2605152,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "DORMENTES"
+		"id": 2605152,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "DORMENTES"
 	},
 	{
-		"CodigoIBGE": 2605202,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ESCADA"
+		"id": 2605202,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ESCADA"
 	},
 	{
-		"CodigoIBGE": 2605301,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "EXU"
+		"id": 2605301,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "EXU"
 	},
 	{
-		"CodigoIBGE": 2605400,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "FEIRA NOVA"
+		"id": 2605400,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "FEIRA NOVA"
 	},
 	{
-		"CodigoIBGE": 2605459,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "FERNANDO DE NORONHA"
+		"id": 2605459,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "FERNANDO DE NORONHA"
 	},
 	{
-		"CodigoIBGE": 2605509,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "FERREIROS"
+		"id": 2605509,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "FERREIROS"
 	},
 	{
-		"CodigoIBGE": 2605608,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "FLORES"
+		"id": 2605608,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "FLORES"
 	},
 	{
-		"CodigoIBGE": 2605707,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "FLORESTA"
+		"id": 2605707,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "FLORESTA"
 	},
 	{
-		"CodigoIBGE": 2605806,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "FREI MIGUELINHO"
+		"id": 2605806,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "FREI MIGUELINHO"
 	},
 	{
-		"CodigoIBGE": 2605905,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "GAMELEIRA"
+		"id": 2605905,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "GAMELEIRA"
 	},
 	{
-		"CodigoIBGE": 2606002,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "GARANHUNS"
+		"id": 2606002,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "GARANHUNS"
 	},
 	{
-		"CodigoIBGE": 2606101,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "GLORIA DO GOITA"
+		"id": 2606101,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "GLORIA DO GOITA"
 	},
 	{
-		"CodigoIBGE": 2606200,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "GOIANA"
+		"id": 2606200,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "GOIANA"
 	},
 	{
-		"CodigoIBGE": 2606309,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "GRANITO"
+		"id": 2606309,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "GRANITO"
 	},
 	{
-		"CodigoIBGE": 2606408,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "GRAVATA"
+		"id": 2606408,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "GRAVATA"
 	},
 	{
-		"CodigoIBGE": 2606507,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IATI"
+		"id": 2606507,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IATI"
 	},
 	{
-		"CodigoIBGE": 2606606,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IBIMIRIM"
+		"id": 2606606,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IBIMIRIM"
 	},
 	{
-		"CodigoIBGE": 2606705,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IBIRAJUBA"
+		"id": 2606705,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IBIRAJUBA"
 	},
 	{
-		"CodigoIBGE": 2606804,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IGARASSU"
+		"id": 2606804,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IGARASSU"
 	},
 	{
-		"CodigoIBGE": 2606903,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IGUARACI"
+		"id": 2606903,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IGUARACI"
 	},
 	{
-		"CodigoIBGE": 2607000,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "INAJA"
+		"id": 2607000,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "INAJA"
 	},
 	{
-		"CodigoIBGE": 2607109,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "INGAZEIRA"
+		"id": 2607109,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "INGAZEIRA"
 	},
 	{
-		"CodigoIBGE": 2607208,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IPOJUCA"
+		"id": 2607208,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IPOJUCA"
 	},
 	{
-		"CodigoIBGE": 2607307,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "IPUBI"
+		"id": 2607307,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "IPUBI"
 	},
 	{
-		"CodigoIBGE": 2607406,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ITACURUBA"
+		"id": 2607406,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ITACURUBA"
 	},
 	{
-		"CodigoIBGE": 2607505,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ITAIBA"
+		"id": 2607505,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ITAIBA"
 	},
 	{
-		"CodigoIBGE": 2607604,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ILHA DE ITAMARACA"
+		"id": 2607604,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ILHA DE ITAMARACA"
 	},
 	{
-		"CodigoIBGE": 2607653,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ITAMBE"
+		"id": 2607653,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ITAMBE"
 	},
 	{
-		"CodigoIBGE": 2607703,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ITAPETIM"
+		"id": 2607703,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ITAPETIM"
 	},
 	{
-		"CodigoIBGE": 2607752,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ITAPISSUMA"
+		"id": 2607752,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ITAPISSUMA"
 	},
 	{
-		"CodigoIBGE": 2607802,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "ITAQUITINGA"
+		"id": 2607802,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "ITAQUITINGA"
 	},
 	{
-		"CodigoIBGE": 2607901,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JABOATAO DOS GUARARAPES"
+		"id": 2607901,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JABOATAO DOS GUARARAPES"
 	},
 	{
-		"CodigoIBGE": 2607950,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JAQUEIRA"
+		"id": 2607950,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JAQUEIRA"
 	},
 	{
-		"CodigoIBGE": 2608008,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JATAUBA"
+		"id": 2608008,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JATAUBA"
 	},
 	{
-		"CodigoIBGE": 2608057,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JATOBA"
+		"id": 2608057,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JATOBA"
 	},
 	{
-		"CodigoIBGE": 2608107,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JOAO ALFREDO"
+		"id": 2608107,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JOAO ALFREDO"
 	},
 	{
-		"CodigoIBGE": 2608206,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JOAQUIM NABUCO"
+		"id": 2608206,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JOAQUIM NABUCO"
 	},
 	{
-		"CodigoIBGE": 2608255,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JUCATI"
+		"id": 2608255,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JUCATI"
 	},
 	{
-		"CodigoIBGE": 2608305,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JUPI"
+		"id": 2608305,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JUPI"
 	},
 	{
-		"CodigoIBGE": 2608404,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "JUREMA"
+		"id": 2608404,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "JUREMA"
 	},
 	{
-		"CodigoIBGE": 2608453,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LAGOA DO CARRO"
+		"id": 2608453,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LAGOA DO CARRO"
 	},
 	{
-		"CodigoIBGE": 2608503,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LAGOA DO ITAENGA"
+		"id": 2608503,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LAGOA DO ITAENGA"
 	},
 	{
-		"CodigoIBGE": 2608602,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LAGOA DO OURO"
+		"id": 2608602,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LAGOA DO OURO"
 	},
 	{
-		"CodigoIBGE": 2608701,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LAGOA DOS GATOS"
+		"id": 2608701,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LAGOA DOS GATOS"
 	},
 	{
-		"CodigoIBGE": 2608750,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LAGOA GRANDE"
+		"id": 2608750,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LAGOA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2608800,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LAJEDO"
+		"id": 2608800,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LAJEDO"
 	},
 	{
-		"CodigoIBGE": 2608909,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "LIMOEIRO"
+		"id": 2608909,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "LIMOEIRO"
 	},
 	{
-		"CodigoIBGE": 2609006,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MACAPARANA"
+		"id": 2609006,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MACAPARANA"
 	},
 	{
-		"CodigoIBGE": 2609105,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MACHADOS"
+		"id": 2609105,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MACHADOS"
 	},
 	{
-		"CodigoIBGE": 2609154,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MANARI"
+		"id": 2609154,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MANARI"
 	},
 	{
-		"CodigoIBGE": 2609204,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MARAIAL"
+		"id": 2609204,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MARAIAL"
 	},
 	{
-		"CodigoIBGE": 2609303,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MIRANDIBA"
+		"id": 2609303,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MIRANDIBA"
 	},
 	{
-		"CodigoIBGE": 2609402,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MORENO"
+		"id": 2609402,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MORENO"
 	},
 	{
-		"CodigoIBGE": 2609501,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "NAZARE DA MATA"
+		"id": 2609501,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "NAZARE DA MATA"
 	},
 	{
-		"CodigoIBGE": 2609600,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "OLINDA"
+		"id": 2609600,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "OLINDA"
 	},
 	{
-		"CodigoIBGE": 2609709,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "OROBO"
+		"id": 2609709,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "OROBO"
 	},
 	{
-		"CodigoIBGE": 2609808,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "OROCO"
+		"id": 2609808,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "OROCO"
 	},
 	{
-		"CodigoIBGE": 2609907,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "OURICURI"
+		"id": 2609907,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "OURICURI"
 	},
 	{
-		"CodigoIBGE": 2610004,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PALMARES"
+		"id": 2610004,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PALMARES"
 	},
 	{
-		"CodigoIBGE": 2610103,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PALMEIRINA"
+		"id": 2610103,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PALMEIRINA"
 	},
 	{
-		"CodigoIBGE": 2610202,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PANELAS"
+		"id": 2610202,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PANELAS"
 	},
 	{
-		"CodigoIBGE": 2610301,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PARANATAMA"
+		"id": 2610301,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PARANATAMA"
 	},
 	{
-		"CodigoIBGE": 2610400,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PARNAMIRIM"
+		"id": 2610400,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PARNAMIRIM"
 	},
 	{
-		"CodigoIBGE": 2610509,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PASSIRA"
+		"id": 2610509,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PASSIRA"
 	},
 	{
-		"CodigoIBGE": 2610608,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PAUDALHO"
+		"id": 2610608,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PAUDALHO"
 	},
 	{
-		"CodigoIBGE": 2610707,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PAULISTA"
+		"id": 2610707,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PAULISTA"
 	},
 	{
-		"CodigoIBGE": 2610806,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PEDRA"
+		"id": 2610806,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PEDRA"
 	},
 	{
-		"CodigoIBGE": 2610905,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PESQUEIRA"
+		"id": 2610905,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PESQUEIRA"
 	},
 	{
-		"CodigoIBGE": 2611002,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PETROLANDIA"
+		"id": 2611002,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PETROLANDIA"
 	},
 	{
-		"CodigoIBGE": 2611101,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PETROLINA"
+		"id": 2611101,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PETROLINA"
 	},
 	{
-		"CodigoIBGE": 2611200,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "POCAO"
+		"id": 2611200,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "POCAO"
 	},
 	{
-		"CodigoIBGE": 2611309,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "POMBOS"
+		"id": 2611309,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "POMBOS"
 	},
 	{
-		"CodigoIBGE": 2611408,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "PRIMAVERA"
+		"id": 2611408,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "PRIMAVERA"
 	},
 	{
-		"CodigoIBGE": 2611507,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "QUIPAPA"
+		"id": 2611507,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "QUIPAPA"
 	},
 	{
-		"CodigoIBGE": 2611533,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "QUIXABA"
+		"id": 2611533,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "QUIXABA"
 	},
 	{
-		"CodigoIBGE": 2611606,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "RECIFE"
+		"id": 2611606,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "RECIFE"
 	},
 	{
-		"CodigoIBGE": 2611705,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "RIACHO DAS ALMAS"
+		"id": 2611705,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "RIACHO DAS ALMAS"
 	},
 	{
-		"CodigoIBGE": 2611804,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "RIBEIRAO"
+		"id": 2611804,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "RIBEIRAO"
 	},
 	{
-		"CodigoIBGE": 2611903,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "RIO FORMOSO"
+		"id": 2611903,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "RIO FORMOSO"
 	},
 	{
-		"CodigoIBGE": 2612000,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAIRE"
+		"id": 2612000,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAIRE"
 	},
 	{
-		"CodigoIBGE": 2612109,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SALGADINHO"
+		"id": 2612109,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SALGADINHO"
 	},
 	{
-		"CodigoIBGE": 2612208,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SALGUEIRO"
+		"id": 2612208,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SALGUEIRO"
 	},
 	{
-		"CodigoIBGE": 2612307,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SALOA"
+		"id": 2612307,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SALOA"
 	},
 	{
-		"CodigoIBGE": 2612406,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANHARO"
+		"id": 2612406,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANHARO"
 	},
 	{
-		"CodigoIBGE": 2612455,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA CRUZ"
+		"id": 2612455,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA CRUZ"
 	},
 	{
-		"CodigoIBGE": 2612471,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA CRUZ DA BAIXA VERDE"
+		"id": 2612471,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA CRUZ DA BAIXA VERDE"
 	},
 	{
-		"CodigoIBGE": 2612505,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA CRUZ DO CAPIBARIBE"
+		"id": 2612505,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA CRUZ DO CAPIBARIBE"
 	},
 	{
-		"CodigoIBGE": 2612554,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA FILOMENA"
+		"id": 2612554,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA FILOMENA"
 	},
 	{
-		"CodigoIBGE": 2612604,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA MARIA DA BOA VISTA"
+		"id": 2612604,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA MARIA DA BOA VISTA"
 	},
 	{
-		"CodigoIBGE": 2612703,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA MARIA DO CAMBUCA"
+		"id": 2612703,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA MARIA DO CAMBUCA"
 	},
 	{
-		"CodigoIBGE": 2612802,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SANTA TEREZINHA"
+		"id": 2612802,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SANTA TEREZINHA"
 	},
 	{
-		"CodigoIBGE": 2612901,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO BENEDITO DO SUL"
+		"id": 2612901,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO BENEDITO DO SUL"
 	},
 	{
-		"CodigoIBGE": 2613008,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO BENTO DO UNA"
+		"id": 2613008,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO BENTO DO UNA"
 	},
 	{
-		"CodigoIBGE": 2613107,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO CAITANO"
+		"id": 2613107,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO CAITANO"
 	},
 	{
-		"CodigoIBGE": 2613206,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO JOAO"
+		"id": 2613206,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO JOAO"
 	},
 	{
-		"CodigoIBGE": 2613305,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO JOAQUIM DO MONTE"
+		"id": 2613305,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO JOAQUIM DO MONTE"
 	},
 	{
-		"CodigoIBGE": 2613404,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO JOSE DA COROA GRANDE"
+		"id": 2613404,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO JOSE DA COROA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2613503,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO JOSE DO BELMONTE"
+		"id": 2613503,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO JOSE DO BELMONTE"
 	},
 	{
-		"CodigoIBGE": 2613602,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO JOSE DO EGITO"
+		"id": 2613602,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO JOSE DO EGITO"
 	},
 	{
-		"CodigoIBGE": 2613701,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO LOURENCO DA MATA"
+		"id": 2613701,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO LOURENCO DA MATA"
 	},
 	{
-		"CodigoIBGE": 2613800,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SAO VICENTE FERRER"
+		"id": 2613800,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SAO VICENTE FERRER"
 	},
 	{
-		"CodigoIBGE": 2613909,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SERRA TALHADA"
+		"id": 2613909,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SERRA TALHADA"
 	},
 	{
-		"CodigoIBGE": 2614006,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SERRITA"
+		"id": 2614006,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SERRITA"
 	},
 	{
-		"CodigoIBGE": 2614105,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SERTANIA"
+		"id": 2614105,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SERTANIA"
 	},
 	{
-		"CodigoIBGE": 2614204,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SIRINHAEM"
+		"id": 2614204,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SIRINHAEM"
 	},
 	{
-		"CodigoIBGE": 2614303,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "MOREILANDIA"
+		"id": 2614303,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "MOREILANDIA"
 	},
 	{
-		"CodigoIBGE": 2614402,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SOLIDAO"
+		"id": 2614402,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SOLIDAO"
 	},
 	{
-		"CodigoIBGE": 2614501,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "SURUBIM"
+		"id": 2614501,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "SURUBIM"
 	},
 	{
-		"CodigoIBGE": 2614600,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TABIRA"
+		"id": 2614600,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TABIRA"
 	},
 	{
-		"CodigoIBGE": 2614709,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TACAIMBO"
+		"id": 2614709,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TACAIMBO"
 	},
 	{
-		"CodigoIBGE": 2614808,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TACARATU"
+		"id": 2614808,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TACARATU"
 	},
 	{
-		"CodigoIBGE": 2614857,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TAMANDARE"
+		"id": 2614857,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TAMANDARE"
 	},
 	{
-		"CodigoIBGE": 2615003,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TAQUARITINGA DO NORTE"
+		"id": 2615003,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TAQUARITINGA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 2615102,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TEREZINHA"
+		"id": 2615102,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TEREZINHA"
 	},
 	{
-		"CodigoIBGE": 2615201,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TERRA NOVA"
+		"id": 2615201,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TERRA NOVA"
 	},
 	{
-		"CodigoIBGE": 2615300,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TIMBAUBA"
+		"id": 2615300,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TIMBAUBA"
 	},
 	{
-		"CodigoIBGE": 2615409,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TORITAMA"
+		"id": 2615409,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TORITAMA"
 	},
 	{
-		"CodigoIBGE": 2615508,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TRACUNHAEM"
+		"id": 2615508,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TRACUNHAEM"
 	},
 	{
-		"CodigoIBGE": 2615607,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TRINDADE"
+		"id": 2615607,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TRINDADE"
 	},
 	{
-		"CodigoIBGE": 2615706,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TRIUNFO"
+		"id": 2615706,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TRIUNFO"
 	},
 	{
-		"CodigoIBGE": 2615805,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TUPANATINGA"
+		"id": 2615805,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TUPANATINGA"
 	},
 	{
-		"CodigoIBGE": 2615904,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "TUPARETAMA"
+		"id": 2615904,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "TUPARETAMA"
 	},
 	{
-		"CodigoIBGE": 2616001,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "VENTUROSA"
+		"id": 2616001,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "VENTUROSA"
 	},
 	{
-		"CodigoIBGE": 2616100,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "VERDEJANTE"
+		"id": 2616100,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "VERDEJANTE"
 	},
 	{
-		"CodigoIBGE": 2616183,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "VERTENTE DO LERIO"
+		"id": 2616183,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "VERTENTE DO LERIO"
 	},
 	{
-		"CodigoIBGE": 2616209,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "VERTENTES"
+		"id": 2616209,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "VERTENTES"
 	},
 	{
-		"CodigoIBGE": 2616308,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "VICENCIA"
+		"id": 2616308,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "VICENCIA"
 	},
 	{
-		"CodigoIBGE": 2616407,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "VITORIA DE SANTO ANTAO"
+		"id": 2616407,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "VITORIA DE SANTO ANTAO"
 	},
 	{
-		"CodigoIBGE": 2616506,
-		"CodigoIBGEUF": 26,
-		"SiglaUF": "PE",
-		"NomeUF": "PERNAMBUCO",
-		"NomeMunicipio": "XEXEU"
+		"id": 2616506,
+		"parentId": 26,
+		"acronym": "PE",
+		"descriptionParent": "PERNAMBUCO",
+		"description": "XEXEU"
 	}
 ]

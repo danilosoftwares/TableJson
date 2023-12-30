@@ -1,1171 +1,1171 @@
 [
 	{
-		"CodigoIBGE" : 2400109,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ACARI"
+		"id" : 2400109,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ACARI"
 	},
 	{
-		"CodigoIBGE" : 2400208,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ACU"
+		"id" : 2400208,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ACU"
 	},
 	{
-		"CodigoIBGE" : 2400307,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "AFONSO BEZERRA"
+		"id" : 2400307,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "AFONSO BEZERRA"
 	},
 	{
-		"CodigoIBGE" : 2400406,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "AGUA NOVA"
+		"id" : 2400406,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "AGUA NOVA"
 	},
 	{
-		"CodigoIBGE" : 2400505,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ALEXANDRIA"
+		"id" : 2400505,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ALEXANDRIA"
 	},
 	{
-		"CodigoIBGE" : 2400604,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ALMINO AFONSO"
+		"id" : 2400604,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ALMINO AFONSO"
 	},
 	{
-		"CodigoIBGE" : 2400703,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ALTO DO RODRIGUES"
+		"id" : 2400703,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ALTO DO RODRIGUES"
 	},
 	{
-		"CodigoIBGE" : 2400802,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ANGICOS"
+		"id" : 2400802,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ANGICOS"
 	},
 	{
-		"CodigoIBGE" : 2400901,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ANTONIO MARTINS"
+		"id" : 2400901,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ANTONIO MARTINS"
 	},
 	{
-		"CodigoIBGE" : 2401008,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "APODI"
+		"id" : 2401008,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "APODI"
 	},
 	{
-		"CodigoIBGE" : 2401107,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "AREIA BRANCA"
+		"id" : 2401107,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "AREIA BRANCA"
 	},
 	{
-		"CodigoIBGE" : 2401206,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ARES"
+		"id" : 2401206,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ARES"
 	},
 	{
-		"CodigoIBGE" : 2401305,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "AUGUSTO SEVERO"
+		"id" : 2401305,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "AUGUSTO SEVERO"
 	},
 	{
-		"CodigoIBGE" : 2401404,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BAIA FORMOSA"
+		"id" : 2401404,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BAIA FORMOSA"
 	},
 	{
-		"CodigoIBGE" : 2401453,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BARAUNA"
+		"id" : 2401453,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BARAUNA"
 	},
 	{
-		"CodigoIBGE" : 2401503,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BARCELONA"
+		"id" : 2401503,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BARCELONA"
 	},
 	{
-		"CodigoIBGE" : 2401602,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BENTO FERNANDES"
+		"id" : 2401602,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BENTO FERNANDES"
 	},
 	{
-		"CodigoIBGE" : 2401651,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BODO"
+		"id" : 2401651,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BODO"
 	},
 	{
-		"CodigoIBGE" : 2401701,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BOM JESUS"
+		"id" : 2401701,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BOM JESUS"
 	},
 	{
-		"CodigoIBGE" : 2401800,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "BREJINHO"
+		"id" : 2401800,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "BREJINHO"
 	},
 	{
-		"CodigoIBGE" : 2401859,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CAICARA DO NORTE"
+		"id" : 2401859,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CAICARA DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 2401909,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CAICARA DO RIO DO VENTO"
+		"id" : 2401909,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CAICARA DO RIO DO VENTO"
 	},
 	{
-		"CodigoIBGE" : 2402006,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CAICO"
+		"id" : 2402006,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CAICO"
 	},
 	{
-		"CodigoIBGE" : 2402105,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CAMPO REDONDO"
+		"id" : 2402105,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CAMPO REDONDO"
 	},
 	{
-		"CodigoIBGE" : 2402204,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CANGUARETAMA"
+		"id" : 2402204,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CANGUARETAMA"
 	},
 	{
-		"CodigoIBGE" : 2402303,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CARAUBAS"
+		"id" : 2402303,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CARAUBAS"
 	},
 	{
-		"CodigoIBGE" : 2402402,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CARNAUBA DOS DANTAS"
+		"id" : 2402402,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CARNAUBA DOS DANTAS"
 	},
 	{
-		"CodigoIBGE" : 2402501,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CARNAUBAIS"
+		"id" : 2402501,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CARNAUBAIS"
 	},
 	{
-		"CodigoIBGE" : 2402600,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CEARAMIRIM"
+		"id" : 2402600,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CEARAMIRIM"
 	},
 	{
-		"CodigoIBGE" : 2402709,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CERRO CORA"
+		"id" : 2402709,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CERRO CORA"
 	},
 	{
-		"CodigoIBGE" : 2402808,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CORONEL EZEQUIEL"
+		"id" : 2402808,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CORONEL EZEQUIEL"
 	},
 	{
-		"CodigoIBGE" : 2402907,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CORONEL JOAO PESSOA"
+		"id" : 2402907,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CORONEL JOAO PESSOA"
 	},
 	{
-		"CodigoIBGE" : 2403004,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CRUZETA"
+		"id" : 2403004,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CRUZETA"
 	},
 	{
-		"CodigoIBGE" : 2403103,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "CURRAIS NOVOS"
+		"id" : 2403103,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "CURRAIS NOVOS"
 	},
 	{
-		"CodigoIBGE" : 2403202,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "DOUTOR SEVERIANO"
+		"id" : 2403202,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "DOUTOR SEVERIANO"
 	},
 	{
-		"CodigoIBGE" : 2403251,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PARNAMIRIM"
+		"id" : 2403251,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PARNAMIRIM"
 	},
 	{
-		"CodigoIBGE" : 2403301,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ENCANTO"
+		"id" : 2403301,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ENCANTO"
 	},
 	{
-		"CodigoIBGE" : 2403400,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "EQUADOR"
+		"id" : 2403400,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "EQUADOR"
 	},
 	{
-		"CodigoIBGE" : 2403509,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ESPIRITO SANTO"
+		"id" : 2403509,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ESPIRITO SANTO"
 	},
 	{
-		"CodigoIBGE" : 2403608,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "EXTREMOZ"
+		"id" : 2403608,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "EXTREMOZ"
 	},
 	{
-		"CodigoIBGE" : 2403707,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "FELIPE GUERRA"
+		"id" : 2403707,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "FELIPE GUERRA"
 	},
 	{
-		"CodigoIBGE" : 2403756,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "FERNANDO PEDROZA"
+		"id" : 2403756,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "FERNANDO PEDROZA"
 	},
 	{
-		"CodigoIBGE" : 2403806,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "FLORANIA"
+		"id" : 2403806,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "FLORANIA"
 	},
 	{
-		"CodigoIBGE" : 2403905,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "FRANCISCO DANTAS"
+		"id" : 2403905,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "FRANCISCO DANTAS"
 	},
 	{
-		"CodigoIBGE" : 2404002,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "FRUTUOSO GOMES"
+		"id" : 2404002,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "FRUTUOSO GOMES"
 	},
 	{
-		"CodigoIBGE" : 2404101,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "GALINHOS"
+		"id" : 2404101,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "GALINHOS"
 	},
 	{
-		"CodigoIBGE" : 2404200,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "GOIANINHA"
+		"id" : 2404200,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "GOIANINHA"
 	},
 	{
-		"CodigoIBGE" : 2404309,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "GOVERNADOR DIXSEPT ROSADO"
+		"id" : 2404309,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "GOVERNADOR DIXSEPT ROSADO"
 	},
 	{
-		"CodigoIBGE" : 2404408,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "GROSSOS"
+		"id" : 2404408,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "GROSSOS"
 	},
 	{
-		"CodigoIBGE" : 2404507,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "GUAMARE"
+		"id" : 2404507,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "GUAMARE"
 	},
 	{
-		"CodigoIBGE" : 2404606,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "IELMO MARINHO"
+		"id" : 2404606,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "IELMO MARINHO"
 	},
 	{
-		"CodigoIBGE" : 2404705,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "IPANGUACU"
+		"id" : 2404705,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "IPANGUACU"
 	},
 	{
-		"CodigoIBGE" : 2404804,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "IPUEIRA"
+		"id" : 2404804,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "IPUEIRA"
 	},
 	{
-		"CodigoIBGE" : 2404853,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ITAJA"
+		"id" : 2404853,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ITAJA"
 	},
 	{
-		"CodigoIBGE" : 2404903,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "ITAU"
+		"id" : 2404903,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "ITAU"
 	},
 	{
-		"CodigoIBGE" : 2405009,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JACANA"
+		"id" : 2405009,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JACANA"
 	},
 	{
-		"CodigoIBGE" : 2405108,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JANDAIRA"
+		"id" : 2405108,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JANDAIRA"
 	},
 	{
-		"CodigoIBGE" : 2405207,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JANDUIS"
+		"id" : 2405207,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JANDUIS"
 	},
 	{
-		"CodigoIBGE" : 2405306,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JANUARIO CICCO"
+		"id" : 2405306,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JANUARIO CICCO"
 	},
 	{
-		"CodigoIBGE" : 2405405,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JAPI"
+		"id" : 2405405,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JAPI"
 	},
 	{
-		"CodigoIBGE" : 2405504,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JARDIM DE ANGICOS"
+		"id" : 2405504,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JARDIM DE ANGICOS"
 	},
 	{
-		"CodigoIBGE" : 2405603,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JARDIM DE PIRANHAS"
+		"id" : 2405603,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JARDIM DE PIRANHAS"
 	},
 	{
-		"CodigoIBGE" : 2405702,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JARDIM DO SERIDO"
+		"id" : 2405702,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JARDIM DO SERIDO"
 	},
 	{
-		"CodigoIBGE" : 2405801,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JOAO CAMARA"
+		"id" : 2405801,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JOAO CAMARA"
 	},
 	{
-		"CodigoIBGE" : 2405900,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JOAO DIAS"
+		"id" : 2405900,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JOAO DIAS"
 	},
 	{
-		"CodigoIBGE" : 2406007,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JOSE DA PENHA"
+		"id" : 2406007,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JOSE DA PENHA"
 	},
 	{
-		"CodigoIBGE" : 2406106,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JUCURUTU"
+		"id" : 2406106,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JUCURUTU"
 	},
 	{
-		"CodigoIBGE" : 2406155,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "JUNDIA"
+		"id" : 2406155,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "JUNDIA"
 	},
 	{
-		"CodigoIBGE" : 2406205,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAGOA D-  ANTA"
+		"id" : 2406205,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAGOA D-  ANTA"
 	},
 	{
-		"CodigoIBGE" : 2406304,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAGOA DE PEDRAS"
+		"id" : 2406304,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAGOA DE PEDRAS"
 	},
 	{
-		"CodigoIBGE" : 2406403,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAGOA DE VELHOS"
+		"id" : 2406403,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAGOA DE VELHOS"
 	},
 	{
-		"CodigoIBGE" : 2406502,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAGOA NOVA"
+		"id" : 2406502,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAGOA NOVA"
 	},
 	{
-		"CodigoIBGE" : 2406601,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAGOA SALGADA"
+		"id" : 2406601,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAGOA SALGADA"
 	},
 	{
-		"CodigoIBGE" : 2406700,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAJES"
+		"id" : 2406700,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAJES"
 	},
 	{
-		"CodigoIBGE" : 2406809,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LAJES PINTADAS"
+		"id" : 2406809,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LAJES PINTADAS"
 	},
 	{
-		"CodigoIBGE" : 2406908,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LUCRECIA"
+		"id" : 2406908,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LUCRECIA"
 	},
 	{
-		"CodigoIBGE" : 2407005,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "LUIS GOMES"
+		"id" : 2407005,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "LUIS GOMES"
 	},
 	{
-		"CodigoIBGE" : 2407104,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MACAIBA"
+		"id" : 2407104,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MACAIBA"
 	},
 	{
-		"CodigoIBGE" : 2407203,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MACAU"
+		"id" : 2407203,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MACAU"
 	},
 	{
-		"CodigoIBGE" : 2407252,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MAJOR SALES"
+		"id" : 2407252,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MAJOR SALES"
 	},
 	{
-		"CodigoIBGE" : 2407302,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MARCELINO VIEIRA"
+		"id" : 2407302,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MARCELINO VIEIRA"
 	},
 	{
-		"CodigoIBGE" : 2407401,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MARTINS"
+		"id" : 2407401,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MARTINS"
 	},
 	{
-		"CodigoIBGE" : 2407500,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MAXARANGUAPE"
+		"id" : 2407500,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MAXARANGUAPE"
 	},
 	{
-		"CodigoIBGE" : 2407609,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MESSIAS TARGINO"
+		"id" : 2407609,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MESSIAS TARGINO"
 	},
 	{
-		"CodigoIBGE" : 2407708,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MONTANHAS"
+		"id" : 2407708,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MONTANHAS"
 	},
 	{
-		"CodigoIBGE" : 2407807,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MONTE ALEGRE"
+		"id" : 2407807,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MONTE ALEGRE"
 	},
 	{
-		"CodigoIBGE" : 2407906,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MONTE DAS GAMELEIRAS"
+		"id" : 2407906,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MONTE DAS GAMELEIRAS"
 	},
 	{
-		"CodigoIBGE" : 2408003,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "MOSSORO"
+		"id" : 2408003,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "MOSSORO"
 	},
 	{
-		"CodigoIBGE" : 2408102,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "NATAL"
+		"id" : 2408102,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "NATAL"
 	},
 	{
-		"CodigoIBGE" : 2408201,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "NISIA FLORESTA"
+		"id" : 2408201,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "NISIA FLORESTA"
 	},
 	{
-		"CodigoIBGE" : 2408300,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "NOVA CRUZ"
+		"id" : 2408300,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "NOVA CRUZ"
 	},
 	{
-		"CodigoIBGE" : 2408409,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "OLHO D-  AGUA DO BORGES"
+		"id" : 2408409,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "OLHO D-  AGUA DO BORGES"
 	},
 	{
-		"CodigoIBGE" : 2408508,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "OURO BRANCO"
+		"id" : 2408508,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "OURO BRANCO"
 	},
 	{
-		"CodigoIBGE" : 2408607,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PARANA"
+		"id" : 2408607,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PARANA"
 	},
 	{
-		"CodigoIBGE" : 2408706,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PARAU"
+		"id" : 2408706,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PARAU"
 	},
 	{
-		"CodigoIBGE" : 2408805,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PARAZINHO"
+		"id" : 2408805,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PARAZINHO"
 	},
 	{
-		"CodigoIBGE" : 2408904,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PARELHAS"
+		"id" : 2408904,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PARELHAS"
 	},
 	{
-		"CodigoIBGE" : 2408953,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RIO DO FOGO"
+		"id" : 2408953,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RIO DO FOGO"
 	},
 	{
-		"CodigoIBGE" : 2409100,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PASSA E FICA"
+		"id" : 2409100,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PASSA E FICA"
 	},
 	{
-		"CodigoIBGE" : 2409209,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PASSAGEM"
+		"id" : 2409209,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PASSAGEM"
 	},
 	{
-		"CodigoIBGE" : 2409308,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PATU"
+		"id" : 2409308,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PATU"
 	},
 	{
-		"CodigoIBGE" : 2409332,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SANTA MARIA"
+		"id" : 2409332,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SANTA MARIA"
 	},
 	{
-		"CodigoIBGE" : 2409407,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PAU DOS FERROS"
+		"id" : 2409407,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PAU DOS FERROS"
 	},
 	{
-		"CodigoIBGE" : 2409506,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PEDRA GRANDE"
+		"id" : 2409506,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PEDRA GRANDE"
 	},
 	{
-		"CodigoIBGE" : 2409605,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PEDRA PRETA"
+		"id" : 2409605,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PEDRA PRETA"
 	},
 	{
-		"CodigoIBGE" : 2409704,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PEDRO AVELINO"
+		"id" : 2409704,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PEDRO AVELINO"
 	},
 	{
-		"CodigoIBGE" : 2409803,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PEDRO VELHO"
+		"id" : 2409803,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PEDRO VELHO"
 	},
 	{
-		"CodigoIBGE" : 2409902,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PENDENCIAS"
+		"id" : 2409902,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PENDENCIAS"
 	},
 	{
-		"CodigoIBGE" : 2410009,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PILOES"
+		"id" : 2410009,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PILOES"
 	},
 	{
-		"CodigoIBGE" : 2410108,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "POCO BRANCO"
+		"id" : 2410108,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "POCO BRANCO"
 	},
 	{
-		"CodigoIBGE" : 2410207,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PORTALEGRE"
+		"id" : 2410207,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PORTALEGRE"
 	},
 	{
-		"CodigoIBGE" : 2410256,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PORTO DO MANGUE"
+		"id" : 2410256,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PORTO DO MANGUE"
 	},
 	{
-		"CodigoIBGE" : 2410306,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PRESIDENTE JUSCELINO"
+		"id" : 2410306,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PRESIDENTE JUSCELINO"
 	},
 	{
-		"CodigoIBGE" : 2410405,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "PUREZA"
+		"id" : 2410405,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "PUREZA"
 	},
 	{
-		"CodigoIBGE" : 2410504,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RAFAEL FERNANDES"
+		"id" : 2410504,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RAFAEL FERNANDES"
 	},
 	{
-		"CodigoIBGE" : 2410603,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RAFAEL GODEIRO"
+		"id" : 2410603,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RAFAEL GODEIRO"
 	},
 	{
-		"CodigoIBGE" : 2410702,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RIACHO DA CRUZ"
+		"id" : 2410702,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RIACHO DA CRUZ"
 	},
 	{
-		"CodigoIBGE" : 2410801,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RIACHO DE SANTANA"
+		"id" : 2410801,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RIACHO DE SANTANA"
 	},
 	{
-		"CodigoIBGE" : 2410900,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RIACHUELO"
+		"id" : 2410900,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RIACHUELO"
 	},
 	{
-		"CodigoIBGE" : 2411007,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RODOLFO FERNANDES"
+		"id" : 2411007,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RODOLFO FERNANDES"
 	},
 	{
-		"CodigoIBGE" : 2411056,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TIBAU"
+		"id" : 2411056,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TIBAU"
 	},
 	{
-		"CodigoIBGE" : 2411106,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "RUY BARBOSA"
+		"id" : 2411106,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "RUY BARBOSA"
 	},
 	{
-		"CodigoIBGE" : 2411205,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SANTA CRUZ"
+		"id" : 2411205,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SANTA CRUZ"
 	},
 	{
-		"CodigoIBGE" : 2411403,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SANTANA DO MATOS"
+		"id" : 2411403,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SANTANA DO MATOS"
 	},
 	{
-		"CodigoIBGE" : 2411429,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SANTANA DO SERIDO"
+		"id" : 2411429,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SANTANA DO SERIDO"
 	},
 	{
-		"CodigoIBGE" : 2411502,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SANTO ANTONIO"
+		"id" : 2411502,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SANTO ANTONIO"
 	},
 	{
-		"CodigoIBGE" : 2411601,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO BENTO DO NORTE"
+		"id" : 2411601,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO BENTO DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 2411700,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO BENTO DO TRAIRI"
+		"id" : 2411700,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO BENTO DO TRAIRI"
 	},
 	{
-		"CodigoIBGE" : 2411809,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO FERNANDO"
+		"id" : 2411809,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO FERNANDO"
 	},
 	{
-		"CodigoIBGE" : 2411908,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO FRANCISCO DO OESTE"
+		"id" : 2411908,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO FRANCISCO DO OESTE"
 	},
 	{
-		"CodigoIBGE" : 2412005,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO GONCALO DO AMARANTE"
+		"id" : 2412005,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO GONCALO DO AMARANTE"
 	},
 	{
-		"CodigoIBGE" : 2412104,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO JOAO DO SABUGI"
+		"id" : 2412104,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO JOAO DO SABUGI"
 	},
 	{
-		"CodigoIBGE" : 2412203,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO JOSE DE MIPIBU"
+		"id" : 2412203,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO JOSE DE MIPIBU"
 	},
 	{
-		"CodigoIBGE" : 2412302,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO JOSE DO CAMPESTRE"
+		"id" : 2412302,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO JOSE DO CAMPESTRE"
 	},
 	{
-		"CodigoIBGE" : 2412401,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO JOSE DO SERIDO"
+		"id" : 2412401,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO JOSE DO SERIDO"
 	},
 	{
-		"CodigoIBGE" : 2412500,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO MIGUEL"
+		"id" : 2412500,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO MIGUEL"
 	},
 	{
-		"CodigoIBGE" : 2412559,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO MIGUEL DO GOSTOSO"
+		"id" : 2412559,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO MIGUEL DO GOSTOSO"
 	},
 	{
-		"CodigoIBGE" : 2412609,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO PAULO DO POTENGI"
+		"id" : 2412609,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO PAULO DO POTENGI"
 	},
 	{
-		"CodigoIBGE" : 2412708,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO PEDRO"
+		"id" : 2412708,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO PEDRO"
 	},
 	{
-		"CodigoIBGE" : 2412807,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO RAFAEL"
+		"id" : 2412807,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO RAFAEL"
 	},
 	{
-		"CodigoIBGE" : 2412906,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO TOME"
+		"id" : 2412906,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO TOME"
 	},
 	{
-		"CodigoIBGE" : 2413003,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SAO VICENTE"
+		"id" : 2413003,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SAO VICENTE"
 	},
 	{
-		"CodigoIBGE" : 2413102,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SENADOR ELOI DE SOUZA"
+		"id" : 2413102,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SENADOR ELOI DE SOUZA"
 	},
 	{
-		"CodigoIBGE" : 2413201,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SENADOR GEORGINO AVELINO"
+		"id" : 2413201,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SENADOR GEORGINO AVELINO"
 	},
 	{
-		"CodigoIBGE" : 2413300,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SERRA DE SAO BENTO"
+		"id" : 2413300,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SERRA DE SAO BENTO"
 	},
 	{
-		"CodigoIBGE" : 2413359,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SERRA DO MEL"
+		"id" : 2413359,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SERRA DO MEL"
 	},
 	{
-		"CodigoIBGE" : 2413409,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SERRA NEGRA DO NORTE"
+		"id" : 2413409,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SERRA NEGRA DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 2413508,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SERRINHA"
+		"id" : 2413508,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SERRINHA"
 	},
 	{
-		"CodigoIBGE" : 2413557,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SERRINHA DOS PINTOS"
+		"id" : 2413557,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SERRINHA DOS PINTOS"
 	},
 	{
-		"CodigoIBGE" : 2413607,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SEVERIANO MELO"
+		"id" : 2413607,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SEVERIANO MELO"
 	},
 	{
-		"CodigoIBGE" : 2413706,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "SITIO NOVO"
+		"id" : 2413706,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "SITIO NOVO"
 	},
 	{
-		"CodigoIBGE" : 2413805,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TABOLEIRO GRANDE"
+		"id" : 2413805,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TABOLEIRO GRANDE"
 	},
 	{
-		"CodigoIBGE" : 2413904,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TAIPU"
+		"id" : 2413904,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TAIPU"
 	},
 	{
-		"CodigoIBGE" : 2414001,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TANGARA"
+		"id" : 2414001,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TANGARA"
 	},
 	{
-		"CodigoIBGE" : 2414100,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TENENTE ANANIAS"
+		"id" : 2414100,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TENENTE ANANIAS"
 	},
 	{
-		"CodigoIBGE" : 2414159,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TENENTE LAURENTINO CRUZ"
+		"id" : 2414159,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TENENTE LAURENTINO CRUZ"
 	},
 	{
-		"CodigoIBGE" : 2414209,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TIBAU DO SUL"
+		"id" : 2414209,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TIBAU DO SUL"
 	},
 	{
-		"CodigoIBGE" : 2414308,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TIMBAUBA DOS BATISTAS"
+		"id" : 2414308,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TIMBAUBA DOS BATISTAS"
 	},
 	{
-		"CodigoIBGE" : 2414407,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TOUROS"
+		"id" : 2414407,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TOUROS"
 	},
 	{
-		"CodigoIBGE" : 2414456,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "TRIUNFO POTIGUAR"
+		"id" : 2414456,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "TRIUNFO POTIGUAR"
 	},
 	{
-		"CodigoIBGE" : 2414506,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "UMARIZAL"
+		"id" : 2414506,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "UMARIZAL"
 	},
 	{
-		"CodigoIBGE" : 2414605,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "UPANEMA"
+		"id" : 2414605,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "UPANEMA"
 	},
 	{
-		"CodigoIBGE" : 2414704,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "VARZEA"
+		"id" : 2414704,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "VARZEA"
 	},
 	{
-		"CodigoIBGE" : 2414753,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "VENHAVER"
+		"id" : 2414753,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "VENHAVER"
 	},
 	{
-		"CodigoIBGE" : 2414803,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "VERA CRUZ"
+		"id" : 2414803,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "VERA CRUZ"
 	},
 	{
-		"CodigoIBGE" : 2414902,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "VICOSA"
+		"id" : 2414902,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "VICOSA"
 	},
 	{
-		"CodigoIBGE" : 2415008,
-		"CodigoIBGEUF" : 24,
-		"SiglaUF" : "RN",
-		"NomeUF" : "RIO GRANDE DO NORTE",
-		"NomeMunicipio" : "VILA FLOR"
+		"id" : 2415008,
+		"parentId" : 24,
+		"acronym" : "RN",
+		"descriptionParent" : "RIO GRANDE DO NORTE",
+		"description" : "VILA FLOR"
 	}
 ]

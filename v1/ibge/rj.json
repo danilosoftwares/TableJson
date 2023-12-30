@@ -1,646 +1,646 @@
 [
 	{
-		"CodigoIBGE": 3300100,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ANGRA DOS REIS"
+		"id": 3300100,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ANGRA DOS REIS"
 	},
 	{
-		"CodigoIBGE": 3300159,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "APERIBE"
+		"id": 3300159,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "APERIBE"
 	},
 	{
-		"CodigoIBGE": 3300209,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ARARUAMA"
+		"id": 3300209,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ARARUAMA"
 	},
 	{
-		"CodigoIBGE": 3300225,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "AREAL"
+		"id": 3300225,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "AREAL"
 	},
 	{
-		"CodigoIBGE": 3300233,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ARMACAO DOS BUZIOS"
+		"id": 3300233,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ARMACAO DOS BUZIOS"
 	},
 	{
-		"CodigoIBGE": 3300258,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ARRAIAL DO CABO"
+		"id": 3300258,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ARRAIAL DO CABO"
 	},
 	{
-		"CodigoIBGE": 3300308,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "BARRA DO PIRAI"
+		"id": 3300308,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "BARRA DO PIRAI"
 	},
 	{
-		"CodigoIBGE": 3300407,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "BARRA MANSA"
+		"id": 3300407,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "BARRA MANSA"
 	},
 	{
-		"CodigoIBGE": 3300456,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "BELFORD-  ROXO"
+		"id": 3300456,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "BELFORD-  ROXO"
 	},
 	{
-		"CodigoIBGE": 3300506,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "BOM JARDIM"
+		"id": 3300506,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "BOM JARDIM"
 	},
 	{
-		"CodigoIBGE": 3300605,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "BOM JESUS DO ITABAPOANA"
+		"id": 3300605,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "BOM JESUS DO ITABAPOANA"
 	},
 	{
-		"CodigoIBGE": 3300704,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CABO FRIO"
+		"id": 3300704,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CABO FRIO"
 	},
 	{
-		"CodigoIBGE": 3300803,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CACHOEIRAS DE MACACU"
+		"id": 3300803,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CACHOEIRAS DE MACACU"
 	},
 	{
-		"CodigoIBGE": 3300902,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CAMBUCI"
+		"id": 3300902,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CAMBUCI"
 	},
 	{
-		"CodigoIBGE": 3300936,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CARAPEBUS"
+		"id": 3300936,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CARAPEBUS"
 	},
 	{
-		"CodigoIBGE": 3300951,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "COMENDADOR LEVY GASPARIAN"
+		"id": 3300951,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "COMENDADOR LEVY GASPARIAN"
 	},
 	{
-		"CodigoIBGE": 3301009,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CAMPOS DOS GOYTACAZES"
+		"id": 3301009,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CAMPOS DOS GOYTACAZES"
 	},
 	{
-		"CodigoIBGE": 3301108,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CANTAGALO"
+		"id": 3301108,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CANTAGALO"
 	},
 	{
-		"CodigoIBGE": 3301157,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CARDOSO MOREIRA"
+		"id": 3301157,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CARDOSO MOREIRA"
 	},
 	{
-		"CodigoIBGE": 3301207,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CARMO"
+		"id": 3301207,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CARMO"
 	},
 	{
-		"CodigoIBGE": 3301306,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CASIMIRO DE ABREU"
+		"id": 3301306,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CASIMIRO DE ABREU"
 	},
 	{
-		"CodigoIBGE": 3301405,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CONCEICAO DE MACABU"
+		"id": 3301405,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CONCEICAO DE MACABU"
 	},
 	{
-		"CodigoIBGE": 3301504,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "CORDEIRO"
+		"id": 3301504,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "CORDEIRO"
 	},
 	{
-		"CodigoIBGE": 3301603,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "DUAS BARRAS"
+		"id": 3301603,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "DUAS BARRAS"
 	},
 	{
-		"CodigoIBGE": 3301702,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "DUQUE DE CAXIAS"
+		"id": 3301702,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "DUQUE DE CAXIAS"
 	},
 	{
-		"CodigoIBGE": 3301801,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ENGENHEIRO PAULO DE FRONTIN"
+		"id": 3301801,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ENGENHEIRO PAULO DE FRONTIN"
 	},
 	{
-		"CodigoIBGE": 3301850,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "GUAPIMIRIM"
+		"id": 3301850,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "GUAPIMIRIM"
 	},
 	{
-		"CodigoIBGE": 3301876,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "IGUABA GRANDE"
+		"id": 3301876,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "IGUABA GRANDE"
 	},
 	{
-		"CodigoIBGE": 3301900,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ITABORAI"
+		"id": 3301900,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ITABORAI"
 	},
 	{
-		"CodigoIBGE": 3302007,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ITAGUAI"
+		"id": 3302007,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ITAGUAI"
 	},
 	{
-		"CodigoIBGE": 3302056,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ITALVA"
+		"id": 3302056,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ITALVA"
 	},
 	{
-		"CodigoIBGE": 3302106,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ITAOCARA"
+		"id": 3302106,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ITAOCARA"
 	},
 	{
-		"CodigoIBGE": 3302205,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ITAPERUNA"
+		"id": 3302205,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ITAPERUNA"
 	},
 	{
-		"CodigoIBGE": 3302254,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "ITATIAIA"
+		"id": 3302254,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "ITATIAIA"
 	},
 	{
-		"CodigoIBGE": 3302270,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "JAPERI"
+		"id": 3302270,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "JAPERI"
 	},
 	{
-		"CodigoIBGE": 3302304,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "LAJE DO MURIAE"
+		"id": 3302304,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "LAJE DO MURIAE"
 	},
 	{
-		"CodigoIBGE": 3302403,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MACAE"
+		"id": 3302403,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MACAE"
 	},
 	{
-		"CodigoIBGE": 3302452,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MACUCO"
+		"id": 3302452,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MACUCO"
 	},
 	{
-		"CodigoIBGE": 3302502,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MAGE"
+		"id": 3302502,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MAGE"
 	},
 	{
-		"CodigoIBGE": 3302601,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MANGARATIBA"
+		"id": 3302601,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MANGARATIBA"
 	},
 	{
-		"CodigoIBGE": 3302700,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MARICA"
+		"id": 3302700,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MARICA"
 	},
 	{
-		"CodigoIBGE": 3302809,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MENDES"
+		"id": 3302809,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MENDES"
 	},
 	{
-		"CodigoIBGE": 3302858,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MESQUITA"
+		"id": 3302858,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MESQUITA"
 	},
 	{
-		"CodigoIBGE": 3302908,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MIGUEL PEREIRA"
+		"id": 3302908,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MIGUEL PEREIRA"
 	},
 	{
-		"CodigoIBGE": 3303005,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "MIRACEMA"
+		"id": 3303005,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "MIRACEMA"
 	},
 	{
-		"CodigoIBGE": 3303104,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "NATIVIDADE"
+		"id": 3303104,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "NATIVIDADE"
 	},
 	{
-		"CodigoIBGE": 3303203,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "NILOPOLIS"
+		"id": 3303203,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "NILOPOLIS"
 	},
 	{
-		"CodigoIBGE": 3303302,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "NITEROI"
+		"id": 3303302,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "NITEROI"
 	},
 	{
-		"CodigoIBGE": 3303401,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "NOVA FRIBURGO"
+		"id": 3303401,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "NOVA FRIBURGO"
 	},
 	{
-		"CodigoIBGE": 3303500,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "NOVA IGUACU"
+		"id": 3303500,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "NOVA IGUACU"
 	},
 	{
-		"CodigoIBGE": 3303609,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PARACAMBI"
+		"id": 3303609,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PARACAMBI"
 	},
 	{
-		"CodigoIBGE": 3303708,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PARAIBA DO SUL"
+		"id": 3303708,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PARAIBA DO SUL"
 	},
 	{
-		"CodigoIBGE": 3303807,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PARATI"
+		"id": 3303807,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PARATI"
 	},
 	{
-		"CodigoIBGE": 3303856,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PATY DO ALFERES"
+		"id": 3303856,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PATY DO ALFERES"
 	},
 	{
-		"CodigoIBGE": 3303906,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PETROPOLIS"
+		"id": 3303906,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PETROPOLIS"
 	},
 	{
-		"CodigoIBGE": 3303955,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PINHEIRAL"
+		"id": 3303955,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PINHEIRAL"
 	},
 	{
-		"CodigoIBGE": 3304003,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PIRAI"
+		"id": 3304003,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PIRAI"
 	},
 	{
-		"CodigoIBGE": 3304102,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PORCIUNCULA"
+		"id": 3304102,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PORCIUNCULA"
 	},
 	{
-		"CodigoIBGE": 3304110,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "PORTO REAL"
+		"id": 3304110,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "PORTO REAL"
 	},
 	{
-		"CodigoIBGE": 3304128,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "QUATIS"
+		"id": 3304128,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "QUATIS"
 	},
 	{
-		"CodigoIBGE": 3304144,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "QUEIMADOS"
+		"id": 3304144,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "QUEIMADOS"
 	},
 	{
-		"CodigoIBGE": 3304151,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "QUISSAMA"
+		"id": 3304151,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "QUISSAMA"
 	},
 	{
-		"CodigoIBGE": 3304201,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "RESENDE"
+		"id": 3304201,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "RESENDE"
 	},
 	{
-		"CodigoIBGE": 3304300,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "RIO BONITO"
+		"id": 3304300,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "RIO BONITO"
 	},
 	{
-		"CodigoIBGE": 3304409,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "RIO CLARO"
+		"id": 3304409,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "RIO CLARO"
 	},
 	{
-		"CodigoIBGE": 3304508,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "RIO DAS FLORES"
+		"id": 3304508,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "RIO DAS FLORES"
 	},
 	{
-		"CodigoIBGE": 3304524,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "RIO DAS OSTRAS"
+		"id": 3304524,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "RIO DAS OSTRAS"
 	},
 	{
-		"CodigoIBGE": 3304557,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "RIO DE JANEIRO"
+		"id": 3304557,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "RIO DE JANEIRO"
 	},
 	{
-		"CodigoIBGE": 3304607,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SANTA MARIA MADALENA"
+		"id": 3304607,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SANTA MARIA MADALENA"
 	},
 	{
-		"CodigoIBGE": 3304706,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SANTO ANTONIO DE PADUA"
+		"id": 3304706,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SANTO ANTONIO DE PADUA"
 	},
 	{
-		"CodigoIBGE": 3304755,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO FRANCISCO DE ITABAPOANA"
+		"id": 3304755,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO FRANCISCO DE ITABAPOANA"
 	},
 	{
-		"CodigoIBGE": 3304805,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO FIDELIS"
+		"id": 3304805,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO FIDELIS"
 	},
 	{
-		"CodigoIBGE": 3304904,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO GONCALO"
+		"id": 3304904,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO GONCALO"
 	},
 	{
-		"CodigoIBGE": 3305000,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO JOAO DA BARRA"
+		"id": 3305000,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO JOAO DA BARRA"
 	},
 	{
-		"CodigoIBGE": 3305109,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO JOAO DE MERITI"
+		"id": 3305109,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO JOAO DE MERITI"
 	},
 	{
-		"CodigoIBGE": 3305133,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO JOSE DE UBA"
+		"id": 3305133,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO JOSE DE UBA"
 	},
 	{
-		"CodigoIBGE": 3305158,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO JOSE DO VALE DO RIO PRETO"
+		"id": 3305158,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO JOSE DO VALE DO RIO PRETO"
 	},
 	{
-		"CodigoIBGE": 3305208,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO PEDRO DA ALDEIA"
+		"id": 3305208,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO PEDRO DA ALDEIA"
 	},
 	{
-		"CodigoIBGE": 3305307,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAO SEBASTIAO DO ALTO"
+		"id": 3305307,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAO SEBASTIAO DO ALTO"
 	},
 	{
-		"CodigoIBGE": 3305406,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAPUCAIA"
+		"id": 3305406,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAPUCAIA"
 	},
 	{
-		"CodigoIBGE": 3305505,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SAQUAREMA"
+		"id": 3305505,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SAQUAREMA"
 	},
 	{
-		"CodigoIBGE": 3305554,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SEROPEDICA"
+		"id": 3305554,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SEROPEDICA"
 	},
 	{
-		"CodigoIBGE": 3305604,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SILVA JARDIM"
+		"id": 3305604,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SILVA JARDIM"
 	},
 	{
-		"CodigoIBGE": 3305703,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "SUMIDOURO"
+		"id": 3305703,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "SUMIDOURO"
 	},
 	{
-		"CodigoIBGE": 3305752,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "TANGUA"
+		"id": 3305752,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "TANGUA"
 	},
 	{
-		"CodigoIBGE": 3305802,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "TERESOPOLIS"
+		"id": 3305802,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "TERESOPOLIS"
 	},
 	{
-		"CodigoIBGE": 3305901,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "TRAJANO DE MORAIS"
+		"id": 3305901,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "TRAJANO DE MORAIS"
 	},
 	{
-		"CodigoIBGE": 3306008,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "TRES RIOS"
+		"id": 3306008,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "TRES RIOS"
 	},
 	{
-		"CodigoIBGE": 3306107,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "VALENCA"
+		"id": 3306107,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "VALENCA"
 	},
 	{
-		"CodigoIBGE": 3306156,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "VARRESAI"
+		"id": 3306156,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "VARRESAI"
 	},
 	{
-		"CodigoIBGE": 3306206,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "VASSOURAS"
+		"id": 3306206,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "VASSOURAS"
 	},
 	{
-		"CodigoIBGE": 3306305,
-		"CodigoIBGEUF": 33,
-		"SiglaUF": "RJ",
-		"NomeUF": "RIO DE JANEIRO",
-		"NomeMunicipio": "VOLTA REDONDA"
+		"id": 3306305,
+		"parentId": 33,
+		"acronym": "RJ",
+		"descriptionParent": "RIO DE JANEIRO",
+		"description": "VOLTA REDONDA"
 	}
 ]

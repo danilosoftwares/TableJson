@@ -1,4517 +1,4517 @@
 [
 	{
-		"CodigoIBGE" : 3500105,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ADAMANTINA"
+		"id" : 3500105,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ADAMANTINA"
 	},
 	{
-		"CodigoIBGE" : 3500204,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ADOLFO"
+		"id" : 3500204,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ADOLFO"
 	},
 	{
-		"CodigoIBGE" : 3500303,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AGUAI"
+		"id" : 3500303,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AGUAI"
 	},
 	{
-		"CodigoIBGE" : 3500402,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AGUAS DA PRATA"
+		"id" : 3500402,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AGUAS DA PRATA"
 	},
 	{
-		"CodigoIBGE" : 3500501,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AGUAS DE LINDOIA"
+		"id" : 3500501,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AGUAS DE LINDOIA"
 	},
 	{
-		"CodigoIBGE" : 3500550,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AGUAS DE SANTA BARBARA"
+		"id" : 3500550,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AGUAS DE SANTA BARBARA"
 	},
 	{
-		"CodigoIBGE" : 3500600,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AGUAS DE SAO PEDRO"
+		"id" : 3500600,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AGUAS DE SAO PEDRO"
 	},
 	{
-		"CodigoIBGE" : 3500709,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AGUDOS"
+		"id" : 3500709,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AGUDOS"
 	},
 	{
-		"CodigoIBGE" : 3500758,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALAMBARI"
+		"id" : 3500758,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALAMBARI"
 	},
 	{
-		"CodigoIBGE" : 3500808,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALFREDO MARCONDES"
+		"id" : 3500808,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALFREDO MARCONDES"
 	},
 	{
-		"CodigoIBGE" : 3500907,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALTAIR"
+		"id" : 3500907,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALTAIR"
 	},
 	{
-		"CodigoIBGE" : 3501004,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALTINOPOLIS"
+		"id" : 3501004,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALTINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3501103,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALTO ALEGRE"
+		"id" : 3501103,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALTO ALEGRE"
 	},
 	{
-		"CodigoIBGE" : 3501152,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALUMINIO"
+		"id" : 3501152,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALUMINIO"
 	},
 	{
-		"CodigoIBGE" : 3501202,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALVARES FLORENCE"
+		"id" : 3501202,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALVARES FLORENCE"
 	},
 	{
-		"CodigoIBGE" : 3501301,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALVARES MACHADO"
+		"id" : 3501301,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALVARES MACHADO"
 	},
 	{
-		"CodigoIBGE" : 3501400,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALVARO DE CARVALHO"
+		"id" : 3501400,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALVARO DE CARVALHO"
 	},
 	{
-		"CodigoIBGE" : 3501509,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ALVINLANDIA"
+		"id" : 3501509,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ALVINLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3501608,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AMERICANA"
+		"id" : 3501608,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AMERICANA"
 	},
 	{
-		"CodigoIBGE" : 3501707,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AMERICO BRASILIENSE"
+		"id" : 3501707,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AMERICO BRASILIENSE"
 	},
 	{
-		"CodigoIBGE" : 3501806,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AMERICO DE CAMPOS"
+		"id" : 3501806,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AMERICO DE CAMPOS"
 	},
 	{
-		"CodigoIBGE" : 3501905,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AMPARO"
+		"id" : 3501905,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AMPARO"
 	},
 	{
-		"CodigoIBGE" : 3502002,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ANALANDIA"
+		"id" : 3502002,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ANALANDIA"
 	},
 	{
-		"CodigoIBGE" : 3502101,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ANDRADINA"
+		"id" : 3502101,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ANDRADINA"
 	},
 	{
-		"CodigoIBGE" : 3502200,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ANGATUBA"
+		"id" : 3502200,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ANGATUBA"
 	},
 	{
-		"CodigoIBGE" : 3502309,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ANHEMBI"
+		"id" : 3502309,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ANHEMBI"
 	},
 	{
-		"CodigoIBGE" : 3502408,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ANHUMAS"
+		"id" : 3502408,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ANHUMAS"
 	},
 	{
-		"CodigoIBGE" : 3502507,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "APARECIDA"
+		"id" : 3502507,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "APARECIDA"
 	},
 	{
-		"CodigoIBGE" : 3502606,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "APARECIDA D-  OESTE"
+		"id" : 3502606,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "APARECIDA D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3502705,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "APIAI"
+		"id" : 3502705,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "APIAI"
 	},
 	{
-		"CodigoIBGE" : 3502754,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARACARIGUAMA"
+		"id" : 3502754,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARACARIGUAMA"
 	},
 	{
-		"CodigoIBGE" : 3502804,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARACATUBA"
+		"id" : 3502804,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARACATUBA"
 	},
 	{
-		"CodigoIBGE" : 3502903,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARACOIABA DA SERRA"
+		"id" : 3502903,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARACOIABA DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3503000,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARAMINA"
+		"id" : 3503000,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARAMINA"
 	},
 	{
-		"CodigoIBGE" : 3503109,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARANDU"
+		"id" : 3503109,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARANDU"
 	},
 	{
-		"CodigoIBGE" : 3503158,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARAPEI"
+		"id" : 3503158,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARAPEI"
 	},
 	{
-		"CodigoIBGE" : 3503208,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARARAQUARA"
+		"id" : 3503208,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARARAQUARA"
 	},
 	{
-		"CodigoIBGE" : 3503307,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARARAS"
+		"id" : 3503307,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARARAS"
 	},
 	{
-		"CodigoIBGE" : 3503356,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARCOIRIS"
+		"id" : 3503356,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARCOIRIS"
 	},
 	{
-		"CodigoIBGE" : 3503406,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AREALVA"
+		"id" : 3503406,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AREALVA"
 	},
 	{
-		"CodigoIBGE" : 3503505,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AREIAS"
+		"id" : 3503505,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AREIAS"
 	},
 	{
-		"CodigoIBGE" : 3503604,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AREIOPOLIS"
+		"id" : 3503604,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AREIOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3503703,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARIRANHA"
+		"id" : 3503703,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARIRANHA"
 	},
 	{
-		"CodigoIBGE" : 3503802,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARTUR NOGUEIRA"
+		"id" : 3503802,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARTUR NOGUEIRA"
 	},
 	{
-		"CodigoIBGE" : 3503901,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ARUJA"
+		"id" : 3503901,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ARUJA"
 	},
 	{
-		"CodigoIBGE" : 3503950,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ASPASIA"
+		"id" : 3503950,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ASPASIA"
 	},
 	{
-		"CodigoIBGE" : 3504008,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ASSIS"
+		"id" : 3504008,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ASSIS"
 	},
 	{
-		"CodigoIBGE" : 3504107,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ATIBAIA"
+		"id" : 3504107,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ATIBAIA"
 	},
 	{
-		"CodigoIBGE" : 3504206,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AURIFLAMA"
+		"id" : 3504206,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AURIFLAMA"
 	},
 	{
-		"CodigoIBGE" : 3504305,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AVAI"
+		"id" : 3504305,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AVAI"
 	},
 	{
-		"CodigoIBGE" : 3504404,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AVANHANDAVA"
+		"id" : 3504404,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AVANHANDAVA"
 	},
 	{
-		"CodigoIBGE" : 3504503,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "AVARE"
+		"id" : 3504503,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "AVARE"
 	},
 	{
-		"CodigoIBGE" : 3504602,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BADY BASSITT"
+		"id" : 3504602,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BADY BASSITT"
 	},
 	{
-		"CodigoIBGE" : 3504701,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BALBINOS"
+		"id" : 3504701,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BALBINOS"
 	},
 	{
-		"CodigoIBGE" : 3504800,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BALSAMO"
+		"id" : 3504800,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BALSAMO"
 	},
 	{
-		"CodigoIBGE" : 3504909,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BANANAL"
+		"id" : 3504909,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BANANAL"
 	},
 	{
-		"CodigoIBGE" : 3505005,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARAO DE ANTONINA"
+		"id" : 3505005,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARAO DE ANTONINA"
 	},
 	{
-		"CodigoIBGE" : 3505104,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARBOSA"
+		"id" : 3505104,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARBOSA"
 	},
 	{
-		"CodigoIBGE" : 3505203,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARIRI"
+		"id" : 3505203,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARIRI"
 	},
 	{
-		"CodigoIBGE" : 3505302,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARRA BONITA"
+		"id" : 3505302,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARRA BONITA"
 	},
 	{
-		"CodigoIBGE" : 3505351,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARRA DO CHAPEU"
+		"id" : 3505351,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARRA DO CHAPEU"
 	},
 	{
-		"CodigoIBGE" : 3505401,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARRA DO TURVO"
+		"id" : 3505401,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARRA DO TURVO"
 	},
 	{
-		"CodigoIBGE" : 3505500,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARRETOS"
+		"id" : 3505500,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARRETOS"
 	},
 	{
-		"CodigoIBGE" : 3505609,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARRINHA"
+		"id" : 3505609,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARRINHA"
 	},
 	{
-		"CodigoIBGE" : 3505708,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BARUERI"
+		"id" : 3505708,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BARUERI"
 	},
 	{
-		"CodigoIBGE" : 3505807,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BASTOS"
+		"id" : 3505807,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BASTOS"
 	},
 	{
-		"CodigoIBGE" : 3505906,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BATATAIS"
+		"id" : 3505906,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BATATAIS"
 	},
 	{
-		"CodigoIBGE" : 3506003,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BAURU"
+		"id" : 3506003,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BAURU"
 	},
 	{
-		"CodigoIBGE" : 3506102,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BEBEDOURO"
+		"id" : 3506102,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BEBEDOURO"
 	},
 	{
-		"CodigoIBGE" : 3506201,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BENTO DE ABREU"
+		"id" : 3506201,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BENTO DE ABREU"
 	},
 	{
-		"CodigoIBGE" : 3506300,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BERNARDINO DE CAMPOS"
+		"id" : 3506300,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BERNARDINO DE CAMPOS"
 	},
 	{
-		"CodigoIBGE" : 3506359,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BERTIOGA"
+		"id" : 3506359,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BERTIOGA"
 	},
 	{
-		"CodigoIBGE" : 3506409,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BILAC"
+		"id" : 3506409,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BILAC"
 	},
 	{
-		"CodigoIBGE" : 3506508,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BIRIGUI"
+		"id" : 3506508,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BIRIGUI"
 	},
 	{
-		"CodigoIBGE" : 3506607,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BIRITIBAMIRIM"
+		"id" : 3506607,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BIRITIBAMIRIM"
 	},
 	{
-		"CodigoIBGE" : 3506706,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOA ESPERANCA DO SUL"
+		"id" : 3506706,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOA ESPERANCA DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3506805,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOCAINA"
+		"id" : 3506805,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOCAINA"
 	},
 	{
-		"CodigoIBGE" : 3506904,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOFETE"
+		"id" : 3506904,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOFETE"
 	},
 	{
-		"CodigoIBGE" : 3507001,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOITUVA"
+		"id" : 3507001,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOITUVA"
 	},
 	{
-		"CodigoIBGE" : 3507100,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOM JESUS DOS PERDOES"
+		"id" : 3507100,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOM JESUS DOS PERDOES"
 	},
 	{
-		"CodigoIBGE" : 3507159,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOM SUCESSO DE ITARARE"
+		"id" : 3507159,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOM SUCESSO DE ITARARE"
 	},
 	{
-		"CodigoIBGE" : 3507209,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BORA"
+		"id" : 3507209,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BORA"
 	},
 	{
-		"CodigoIBGE" : 3507308,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BORACEIA"
+		"id" : 3507308,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BORACEIA"
 	},
 	{
-		"CodigoIBGE" : 3507407,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BORBOREMA"
+		"id" : 3507407,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BORBOREMA"
 	},
 	{
-		"CodigoIBGE" : 3507456,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOREBI"
+		"id" : 3507456,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOREBI"
 	},
 	{
-		"CodigoIBGE" : 3507506,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BOTUCATU"
+		"id" : 3507506,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BOTUCATU"
 	},
 	{
-		"CodigoIBGE" : 3507605,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BRAGANCA PAULISTA"
+		"id" : 3507605,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BRAGANCA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3507704,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BRAUNA"
+		"id" : 3507704,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BRAUNA"
 	},
 	{
-		"CodigoIBGE" : 3507753,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BREJO ALEGRE"
+		"id" : 3507753,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BREJO ALEGRE"
 	},
 	{
-		"CodigoIBGE" : 3507803,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BRODOWSKI"
+		"id" : 3507803,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BRODOWSKI"
 	},
 	{
-		"CodigoIBGE" : 3507902,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BROTAS"
+		"id" : 3507902,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BROTAS"
 	},
 	{
-		"CodigoIBGE" : 3508009,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BURI"
+		"id" : 3508009,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BURI"
 	},
 	{
-		"CodigoIBGE" : 3508108,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BURITAMA"
+		"id" : 3508108,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BURITAMA"
 	},
 	{
-		"CodigoIBGE" : 3508207,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "BURITIZAL"
+		"id" : 3508207,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "BURITIZAL"
 	},
 	{
-		"CodigoIBGE" : 3508306,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CABRALIA PAULISTA"
+		"id" : 3508306,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CABRALIA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3508405,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CABREUVA"
+		"id" : 3508405,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CABREUVA"
 	},
 	{
-		"CodigoIBGE" : 3508504,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CACAPAVA"
+		"id" : 3508504,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CACAPAVA"
 	},
 	{
-		"CodigoIBGE" : 3508603,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CACHOEIRA PAULISTA"
+		"id" : 3508603,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CACHOEIRA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3508702,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CACONDE"
+		"id" : 3508702,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CACONDE"
 	},
 	{
-		"CodigoIBGE" : 3508801,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAFELANDIA"
+		"id" : 3508801,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAFELANDIA"
 	},
 	{
-		"CodigoIBGE" : 3508900,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAIABU"
+		"id" : 3508900,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAIABU"
 	},
 	{
-		"CodigoIBGE" : 3509007,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAIEIRAS"
+		"id" : 3509007,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAIEIRAS"
 	},
 	{
-		"CodigoIBGE" : 3509106,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAIUA"
+		"id" : 3509106,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAIUA"
 	},
 	{
-		"CodigoIBGE" : 3509205,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAJAMAR"
+		"id" : 3509205,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAJAMAR"
 	},
 	{
-		"CodigoIBGE" : 3509254,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAJATI"
+		"id" : 3509254,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAJATI"
 	},
 	{
-		"CodigoIBGE" : 3509304,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAJOBI"
+		"id" : 3509304,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAJOBI"
 	},
 	{
-		"CodigoIBGE" : 3509403,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAJURU"
+		"id" : 3509403,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAJURU"
 	},
 	{
-		"CodigoIBGE" : 3509452,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAMPINA DO MONTE ALEGRE"
+		"id" : 3509452,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAMPINA DO MONTE ALEGRE"
 	},
 	{
-		"CodigoIBGE" : 3509502,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAMPINAS"
+		"id" : 3509502,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAMPINAS"
 	},
 	{
-		"CodigoIBGE" : 3509601,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAMPO LIMPO PAULISTA"
+		"id" : 3509601,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAMPO LIMPO PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3509700,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAMPOS DO JORDAO"
+		"id" : 3509700,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAMPOS DO JORDAO"
 	},
 	{
-		"CodigoIBGE" : 3509809,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAMPOS NOVOS PAULISTA"
+		"id" : 3509809,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAMPOS NOVOS PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3509908,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CANANEIA"
+		"id" : 3509908,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CANANEIA"
 	},
 	{
-		"CodigoIBGE" : 3509957,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CANAS"
+		"id" : 3509957,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CANAS"
 	},
 	{
-		"CodigoIBGE" : 3510005,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CANDIDO MOTA"
+		"id" : 3510005,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CANDIDO MOTA"
 	},
 	{
-		"CodigoIBGE" : 3510104,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CANDIDO RODRIGUES"
+		"id" : 3510104,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CANDIDO RODRIGUES"
 	},
 	{
-		"CodigoIBGE" : 3510153,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CANITAR"
+		"id" : 3510153,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CANITAR"
 	},
 	{
-		"CodigoIBGE" : 3510203,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAPAO BONITO"
+		"id" : 3510203,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAPAO BONITO"
 	},
 	{
-		"CodigoIBGE" : 3510302,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAPELA DO ALTO"
+		"id" : 3510302,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAPELA DO ALTO"
 	},
 	{
-		"CodigoIBGE" : 3510401,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CAPIVARI"
+		"id" : 3510401,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CAPIVARI"
 	},
 	{
-		"CodigoIBGE" : 3510500,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CARAGUATATUBA"
+		"id" : 3510500,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CARAGUATATUBA"
 	},
 	{
-		"CodigoIBGE" : 3510609,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CARAPICUIBA"
+		"id" : 3510609,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CARAPICUIBA"
 	},
 	{
-		"CodigoIBGE" : 3510708,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CARDOSO"
+		"id" : 3510708,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CARDOSO"
 	},
 	{
-		"CodigoIBGE" : 3510807,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CASA BRANCA"
+		"id" : 3510807,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CASA BRANCA"
 	},
 	{
-		"CodigoIBGE" : 3510906,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CASSIA DOS COQUEIROS"
+		"id" : 3510906,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CASSIA DOS COQUEIROS"
 	},
 	{
-		"CodigoIBGE" : 3511003,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CASTILHO"
+		"id" : 3511003,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CASTILHO"
 	},
 	{
-		"CodigoIBGE" : 3511102,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CATANDUVA"
+		"id" : 3511102,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CATANDUVA"
 	},
 	{
-		"CodigoIBGE" : 3511201,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CATIGUA"
+		"id" : 3511201,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CATIGUA"
 	},
 	{
-		"CodigoIBGE" : 3511300,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CEDRAL"
+		"id" : 3511300,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CEDRAL"
 	},
 	{
-		"CodigoIBGE" : 3511409,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CERQUEIRA CESAR"
+		"id" : 3511409,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CERQUEIRA CESAR"
 	},
 	{
-		"CodigoIBGE" : 3511508,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CERQUILHO"
+		"id" : 3511508,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CERQUILHO"
 	},
 	{
-		"CodigoIBGE" : 3511607,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CESARIO LANGE"
+		"id" : 3511607,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CESARIO LANGE"
 	},
 	{
-		"CodigoIBGE" : 3511706,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CHARQUEADA"
+		"id" : 3511706,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CHARQUEADA"
 	},
 	{
-		"CodigoIBGE" : 3511904,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CLEMENTINA"
+		"id" : 3511904,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CLEMENTINA"
 	},
 	{
-		"CodigoIBGE" : 3512001,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "COLINA"
+		"id" : 3512001,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "COLINA"
 	},
 	{
-		"CodigoIBGE" : 3512100,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "COLOMBIA"
+		"id" : 3512100,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "COLOMBIA"
 	},
 	{
-		"CodigoIBGE" : 3512209,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CONCHAL"
+		"id" : 3512209,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CONCHAL"
 	},
 	{
-		"CodigoIBGE" : 3512308,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CONCHAS"
+		"id" : 3512308,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CONCHAS"
 	},
 	{
-		"CodigoIBGE" : 3512407,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CORDEIROPOLIS"
+		"id" : 3512407,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CORDEIROPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3512506,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "COROADOS"
+		"id" : 3512506,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "COROADOS"
 	},
 	{
-		"CodigoIBGE" : 3512605,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CORONEL MACEDO"
+		"id" : 3512605,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CORONEL MACEDO"
 	},
 	{
-		"CodigoIBGE" : 3512704,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CORUMBATAI"
+		"id" : 3512704,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CORUMBATAI"
 	},
 	{
-		"CodigoIBGE" : 3512803,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "COSMOPOLIS"
+		"id" : 3512803,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "COSMOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3512902,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "COSMORAMA"
+		"id" : 3512902,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "COSMORAMA"
 	},
 	{
-		"CodigoIBGE" : 3513009,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "COTIA"
+		"id" : 3513009,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "COTIA"
 	},
 	{
-		"CodigoIBGE" : 3513108,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CRAVINHOS"
+		"id" : 3513108,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CRAVINHOS"
 	},
 	{
-		"CodigoIBGE" : 3513207,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CRISTAIS PAULISTA"
+		"id" : 3513207,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CRISTAIS PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3513306,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CRUZALIA"
+		"id" : 3513306,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CRUZALIA"
 	},
 	{
-		"CodigoIBGE" : 3513405,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CRUZEIRO"
+		"id" : 3513405,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CRUZEIRO"
 	},
 	{
-		"CodigoIBGE" : 3513504,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CUBATAO"
+		"id" : 3513504,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CUBATAO"
 	},
 	{
-		"CodigoIBGE" : 3513603,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CUNHA"
+		"id" : 3513603,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CUNHA"
 	},
 	{
-		"CodigoIBGE" : 3513702,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DESCALVADO"
+		"id" : 3513702,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DESCALVADO"
 	},
 	{
-		"CodigoIBGE" : 3513801,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DIADEMA"
+		"id" : 3513801,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DIADEMA"
 	},
 	{
-		"CodigoIBGE" : 3513850,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DIRCE REIS"
+		"id" : 3513850,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DIRCE REIS"
 	},
 	{
-		"CodigoIBGE" : 3513900,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DIVINOLANDIA"
+		"id" : 3513900,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DIVINOLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3514007,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DOBRADA"
+		"id" : 3514007,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DOBRADA"
 	},
 	{
-		"CodigoIBGE" : 3514106,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DOIS CORREGOS"
+		"id" : 3514106,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DOIS CORREGOS"
 	},
 	{
-		"CodigoIBGE" : 3514205,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DOLCINOPOLIS"
+		"id" : 3514205,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DOLCINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3514304,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DOURADO"
+		"id" : 3514304,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DOURADO"
 	},
 	{
-		"CodigoIBGE" : 3514403,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DRACENA"
+		"id" : 3514403,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DRACENA"
 	},
 	{
-		"CodigoIBGE" : 3514502,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DUARTINA"
+		"id" : 3514502,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DUARTINA"
 	},
 	{
-		"CodigoIBGE" : 3514601,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "DUMONT"
+		"id" : 3514601,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "DUMONT"
 	},
 	{
-		"CodigoIBGE" : 3514700,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ECHAPORA"
+		"id" : 3514700,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ECHAPORA"
 	},
 	{
-		"CodigoIBGE" : 3514809,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ELDORADO"
+		"id" : 3514809,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ELDORADO"
 	},
 	{
-		"CodigoIBGE" : 3514908,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ELIAS FAUSTO"
+		"id" : 3514908,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ELIAS FAUSTO"
 	},
 	{
-		"CodigoIBGE" : 3514924,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ELISIARIO"
+		"id" : 3514924,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ELISIARIO"
 	},
 	{
-		"CodigoIBGE" : 3514957,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "EMBAUBA"
+		"id" : 3514957,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "EMBAUBA"
 	},
 	{
-		"CodigoIBGE" : 3515004,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "EMBU"
+		"id" : 3515004,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "EMBU"
 	},
 	{
-		"CodigoIBGE" : 3515103,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "EMBUGUACU"
+		"id" : 3515103,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "EMBUGUACU"
 	},
 	{
-		"CodigoIBGE" : 3515129,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "EMILIANOPOLIS"
+		"id" : 3515129,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "EMILIANOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3515152,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ENGENHEIRO COELHO"
+		"id" : 3515152,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ENGENHEIRO COELHO"
 	},
 	{
-		"CodigoIBGE" : 3515186,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ESPIRITO SANTO DO PINHAL"
+		"id" : 3515186,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ESPIRITO SANTO DO PINHAL"
 	},
 	{
-		"CodigoIBGE" : 3515194,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ESPIRITO SANTO DO TURVO"
+		"id" : 3515194,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ESPIRITO SANTO DO TURVO"
 	},
 	{
-		"CodigoIBGE" : 3515202,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ESTRELA D-  OESTE"
+		"id" : 3515202,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ESTRELA D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3515301,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ESTRELA DO NORTE"
+		"id" : 3515301,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ESTRELA DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 3515350,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "EUCLIDES DA CUNHA PAULISTA"
+		"id" : 3515350,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "EUCLIDES DA CUNHA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3515400,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FARTURA"
+		"id" : 3515400,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FARTURA"
 	},
 	{
-		"CodigoIBGE" : 3515509,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FERNANDOPOLIS"
+		"id" : 3515509,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FERNANDOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3515608,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FERNANDO PRESTES"
+		"id" : 3515608,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FERNANDO PRESTES"
 	},
 	{
-		"CodigoIBGE" : 3515657,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FERNAO"
+		"id" : 3515657,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FERNAO"
 	},
 	{
-		"CodigoIBGE" : 3515707,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FERRAZ DE VASCONCELOS"
+		"id" : 3515707,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FERRAZ DE VASCONCELOS"
 	},
 	{
-		"CodigoIBGE" : 3515806,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FLORA RICA"
+		"id" : 3515806,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FLORA RICA"
 	},
 	{
-		"CodigoIBGE" : 3515905,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FLOREAL"
+		"id" : 3515905,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FLOREAL"
 	},
 	{
-		"CodigoIBGE" : 3516002,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FLORIDA PAULISTA"
+		"id" : 3516002,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FLORIDA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3516101,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FLORINIA"
+		"id" : 3516101,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FLORINIA"
 	},
 	{
-		"CodigoIBGE" : 3516200,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FRANCA"
+		"id" : 3516200,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FRANCA"
 	},
 	{
-		"CodigoIBGE" : 3516309,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FRANCISCO MORATO"
+		"id" : 3516309,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FRANCISCO MORATO"
 	},
 	{
-		"CodigoIBGE" : 3516408,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "FRANCO DA ROCHA"
+		"id" : 3516408,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "FRANCO DA ROCHA"
 	},
 	{
-		"CodigoIBGE" : 3516507,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GABRIEL MONTEIRO"
+		"id" : 3516507,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GABRIEL MONTEIRO"
 	},
 	{
-		"CodigoIBGE" : 3516606,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GALIA"
+		"id" : 3516606,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GALIA"
 	},
 	{
-		"CodigoIBGE" : 3516705,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GARCA"
+		"id" : 3516705,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GARCA"
 	},
 	{
-		"CodigoIBGE" : 3516804,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GASTAO VIDIGAL"
+		"id" : 3516804,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GASTAO VIDIGAL"
 	},
 	{
-		"CodigoIBGE" : 3516853,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GAVIAO PEIXOTO"
+		"id" : 3516853,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GAVIAO PEIXOTO"
 	},
 	{
-		"CodigoIBGE" : 3516903,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GENERAL SALGADO"
+		"id" : 3516903,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GENERAL SALGADO"
 	},
 	{
-		"CodigoIBGE" : 3517000,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GETULINA"
+		"id" : 3517000,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GETULINA"
 	},
 	{
-		"CodigoIBGE" : 3517109,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GLICERIO"
+		"id" : 3517109,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GLICERIO"
 	},
 	{
-		"CodigoIBGE" : 3517208,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUAICARA"
+		"id" : 3517208,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUAICARA"
 	},
 	{
-		"CodigoIBGE" : 3517307,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUAIMBE"
+		"id" : 3517307,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUAIMBE"
 	},
 	{
-		"CodigoIBGE" : 3517406,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUAIRA"
+		"id" : 3517406,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUAIRA"
 	},
 	{
-		"CodigoIBGE" : 3517505,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUAPIACU"
+		"id" : 3517505,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUAPIACU"
 	},
 	{
-		"CodigoIBGE" : 3517604,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUAPIARA"
+		"id" : 3517604,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUAPIARA"
 	},
 	{
-		"CodigoIBGE" : 3517703,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARA"
+		"id" : 3517703,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARA"
 	},
 	{
-		"CodigoIBGE" : 3517802,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARACAI"
+		"id" : 3517802,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARACAI"
 	},
 	{
-		"CodigoIBGE" : 3517901,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARACI"
+		"id" : 3517901,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARACI"
 	},
 	{
-		"CodigoIBGE" : 3518008,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARANI D-  OESTE"
+		"id" : 3518008,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARANI D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3518107,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARANTA"
+		"id" : 3518107,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARANTA"
 	},
 	{
-		"CodigoIBGE" : 3518206,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARARAPES"
+		"id" : 3518206,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARARAPES"
 	},
 	{
-		"CodigoIBGE" : 3518305,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARAREMA"
+		"id" : 3518305,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARAREMA"
 	},
 	{
-		"CodigoIBGE" : 3518404,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARATINGUETA"
+		"id" : 3518404,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARATINGUETA"
 	},
 	{
-		"CodigoIBGE" : 3518503,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUAREI"
+		"id" : 3518503,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUAREI"
 	},
 	{
-		"CodigoIBGE" : 3518602,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARIBA"
+		"id" : 3518602,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARIBA"
 	},
 	{
-		"CodigoIBGE" : 3518701,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARUJA"
+		"id" : 3518701,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARUJA"
 	},
 	{
-		"CodigoIBGE" : 3518800,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUARULHOS"
+		"id" : 3518800,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUARULHOS"
 	},
 	{
-		"CodigoIBGE" : 3518859,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUATAPARA"
+		"id" : 3518859,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUATAPARA"
 	},
 	{
-		"CodigoIBGE" : 3518909,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "GUZOLANDIA"
+		"id" : 3518909,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "GUZOLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3519006,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "HERCULANDIA"
+		"id" : 3519006,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "HERCULANDIA"
 	},
 	{
-		"CodigoIBGE" : 3519055,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "HOLAMBRA"
+		"id" : 3519055,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "HOLAMBRA"
 	},
 	{
-		"CodigoIBGE" : 3519071,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "HORTOLANDIA"
+		"id" : 3519071,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "HORTOLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3519105,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IACANGA"
+		"id" : 3519105,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IACANGA"
 	},
 	{
-		"CodigoIBGE" : 3519204,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IACRI"
+		"id" : 3519204,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IACRI"
 	},
 	{
-		"CodigoIBGE" : 3519253,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IARAS"
+		"id" : 3519253,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IARAS"
 	},
 	{
-		"CodigoIBGE" : 3519303,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IBATE"
+		"id" : 3519303,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IBATE"
 	},
 	{
-		"CodigoIBGE" : 3519402,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IBIRA"
+		"id" : 3519402,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IBIRA"
 	},
 	{
-		"CodigoIBGE" : 3519501,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IBIRAREMA"
+		"id" : 3519501,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IBIRAREMA"
 	},
 	{
-		"CodigoIBGE" : 3519600,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IBITINGA"
+		"id" : 3519600,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IBITINGA"
 	},
 	{
-		"CodigoIBGE" : 3519709,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IBIUNA"
+		"id" : 3519709,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IBIUNA"
 	},
 	{
-		"CodigoIBGE" : 3519808,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ICEM"
+		"id" : 3519808,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ICEM"
 	},
 	{
-		"CodigoIBGE" : 3519907,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IEPE"
+		"id" : 3519907,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IEPE"
 	},
 	{
-		"CodigoIBGE" : 3520004,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IGARACU DO TIETE"
+		"id" : 3520004,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IGARACU DO TIETE"
 	},
 	{
-		"CodigoIBGE" : 3520103,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IGARAPAVA"
+		"id" : 3520103,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IGARAPAVA"
 	},
 	{
-		"CodigoIBGE" : 3520202,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IGARATA"
+		"id" : 3520202,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IGARATA"
 	},
 	{
-		"CodigoIBGE" : 3520301,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IGUAPE"
+		"id" : 3520301,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IGUAPE"
 	},
 	{
-		"CodigoIBGE" : 3520400,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ILHABELA"
+		"id" : 3520400,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ILHABELA"
 	},
 	{
-		"CodigoIBGE" : 3520426,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ILHA COMPRIDA"
+		"id" : 3520426,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ILHA COMPRIDA"
 	},
 	{
-		"CodigoIBGE" : 3520442,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ILHA SOLTEIRA"
+		"id" : 3520442,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ILHA SOLTEIRA"
 	},
 	{
-		"CodigoIBGE" : 3520509,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "INDAIATUBA"
+		"id" : 3520509,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "INDAIATUBA"
 	},
 	{
-		"CodigoIBGE" : 3520608,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "INDIANA"
+		"id" : 3520608,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "INDIANA"
 	},
 	{
-		"CodigoIBGE" : 3520707,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "INDIAPORA"
+		"id" : 3520707,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "INDIAPORA"
 	},
 	{
-		"CodigoIBGE" : 3520806,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "INUBIA PAULISTA"
+		"id" : 3520806,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "INUBIA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3520905,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IPAUSSU"
+		"id" : 3520905,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IPAUSSU"
 	},
 	{
-		"CodigoIBGE" : 3521002,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IPERO"
+		"id" : 3521002,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IPERO"
 	},
 	{
-		"CodigoIBGE" : 3521101,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IPEUNA"
+		"id" : 3521101,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IPEUNA"
 	},
 	{
-		"CodigoIBGE" : 3521150,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IPIGUA"
+		"id" : 3521150,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IPIGUA"
 	},
 	{
-		"CodigoIBGE" : 3521200,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IPORANGA"
+		"id" : 3521200,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IPORANGA"
 	},
 	{
-		"CodigoIBGE" : 3521309,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IPUA"
+		"id" : 3521309,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IPUA"
 	},
 	{
-		"CodigoIBGE" : 3521408,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IRACEMAPOLIS"
+		"id" : 3521408,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IRACEMAPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3521507,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IRAPUA"
+		"id" : 3521507,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IRAPUA"
 	},
 	{
-		"CodigoIBGE" : 3521606,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "IRAPURU"
+		"id" : 3521606,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "IRAPURU"
 	},
 	{
-		"CodigoIBGE" : 3521705,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITABERA"
+		"id" : 3521705,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITABERA"
 	},
 	{
-		"CodigoIBGE" : 3521804,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAI"
+		"id" : 3521804,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAI"
 	},
 	{
-		"CodigoIBGE" : 3521903,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAJOBI"
+		"id" : 3521903,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAJOBI"
 	},
 	{
-		"CodigoIBGE" : 3522000,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAJU"
+		"id" : 3522000,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAJU"
 	},
 	{
-		"CodigoIBGE" : 3522109,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITANHAEM"
+		"id" : 3522109,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITANHAEM"
 	},
 	{
-		"CodigoIBGE" : 3522158,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAOCA"
+		"id" : 3522158,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAOCA"
 	},
 	{
-		"CodigoIBGE" : 3522208,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPECERICA DA SERRA"
+		"id" : 3522208,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPECERICA DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3522307,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPETININGA"
+		"id" : 3522307,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPETININGA"
 	},
 	{
-		"CodigoIBGE" : 3522406,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPEVA"
+		"id" : 3522406,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPEVA"
 	},
 	{
-		"CodigoIBGE" : 3522505,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPEVI"
+		"id" : 3522505,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPEVI"
 	},
 	{
-		"CodigoIBGE" : 3522604,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPIRA"
+		"id" : 3522604,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPIRA"
 	},
 	{
-		"CodigoIBGE" : 3522653,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPIRAPUA PAULISTA"
+		"id" : 3522653,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPIRAPUA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3522703,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPOLIS"
+		"id" : 3522703,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3522802,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPORANGA"
+		"id" : 3522802,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPORANGA"
 	},
 	{
-		"CodigoIBGE" : 3522901,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPUI"
+		"id" : 3522901,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPUI"
 	},
 	{
-		"CodigoIBGE" : 3523008,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAPURA"
+		"id" : 3523008,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAPURA"
 	},
 	{
-		"CodigoIBGE" : 3523107,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITAQUAQUECETUBA"
+		"id" : 3523107,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITAQUAQUECETUBA"
 	},
 	{
-		"CodigoIBGE" : 3523206,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITARARE"
+		"id" : 3523206,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITARARE"
 	},
 	{
-		"CodigoIBGE" : 3523305,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITARIRI"
+		"id" : 3523305,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITARIRI"
 	},
 	{
-		"CodigoIBGE" : 3523404,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITATIBA"
+		"id" : 3523404,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITATIBA"
 	},
 	{
-		"CodigoIBGE" : 3523503,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITATINGA"
+		"id" : 3523503,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITATINGA"
 	},
 	{
-		"CodigoIBGE" : 3523602,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITIRAPINA"
+		"id" : 3523602,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITIRAPINA"
 	},
 	{
-		"CodigoIBGE" : 3523701,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITIRAPUA"
+		"id" : 3523701,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITIRAPUA"
 	},
 	{
-		"CodigoIBGE" : 3523800,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITOBI"
+		"id" : 3523800,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITOBI"
 	},
 	{
-		"CodigoIBGE" : 3523909,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITU"
+		"id" : 3523909,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITU"
 	},
 	{
-		"CodigoIBGE" : 3524006,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITUPEVA"
+		"id" : 3524006,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITUPEVA"
 	},
 	{
-		"CodigoIBGE" : 3524105,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ITUVERAVA"
+		"id" : 3524105,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ITUVERAVA"
 	},
 	{
-		"CodigoIBGE" : 3524204,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JABORANDI"
+		"id" : 3524204,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JABORANDI"
 	},
 	{
-		"CodigoIBGE" : 3524303,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JABOTICABAL"
+		"id" : 3524303,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JABOTICABAL"
 	},
 	{
-		"CodigoIBGE" : 3524402,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JACAREI"
+		"id" : 3524402,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JACAREI"
 	},
 	{
-		"CodigoIBGE" : 3524501,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JACI"
+		"id" : 3524501,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JACI"
 	},
 	{
-		"CodigoIBGE" : 3524600,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JACUPIRANGA"
+		"id" : 3524600,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JACUPIRANGA"
 	},
 	{
-		"CodigoIBGE" : 3524709,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JAGUARIUNA"
+		"id" : 3524709,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JAGUARIUNA"
 	},
 	{
-		"CodigoIBGE" : 3524808,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JALES"
+		"id" : 3524808,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JALES"
 	},
 	{
-		"CodigoIBGE" : 3524907,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JAMBEIRO"
+		"id" : 3524907,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JAMBEIRO"
 	},
 	{
-		"CodigoIBGE" : 3525003,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JANDIRA"
+		"id" : 3525003,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JANDIRA"
 	},
 	{
-		"CodigoIBGE" : 3525102,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JARDINOPOLIS"
+		"id" : 3525102,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JARDINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3525201,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JARINU"
+		"id" : 3525201,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JARINU"
 	},
 	{
-		"CodigoIBGE" : 3525300,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JAU"
+		"id" : 3525300,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JAU"
 	},
 	{
-		"CodigoIBGE" : 3525409,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JERIQUARA"
+		"id" : 3525409,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JERIQUARA"
 	},
 	{
-		"CodigoIBGE" : 3525508,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JOANOPOLIS"
+		"id" : 3525508,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JOANOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3525607,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JOAO RAMALHO"
+		"id" : 3525607,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JOAO RAMALHO"
 	},
 	{
-		"CodigoIBGE" : 3525706,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JOSE BONIFACIO"
+		"id" : 3525706,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JOSE BONIFACIO"
 	},
 	{
-		"CodigoIBGE" : 3525805,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JULIO MESQUITA"
+		"id" : 3525805,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JULIO MESQUITA"
 	},
 	{
-		"CodigoIBGE" : 3525854,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JUMIRIM"
+		"id" : 3525854,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JUMIRIM"
 	},
 	{
-		"CodigoIBGE" : 3525904,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JUNDIAI"
+		"id" : 3525904,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JUNDIAI"
 	},
 	{
-		"CodigoIBGE" : 3526001,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JUNQUEIROPOLIS"
+		"id" : 3526001,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JUNQUEIROPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3526100,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JUQUIA"
+		"id" : 3526100,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JUQUIA"
 	},
 	{
-		"CodigoIBGE" : 3526209,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "JUQUITIBA"
+		"id" : 3526209,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "JUQUITIBA"
 	},
 	{
-		"CodigoIBGE" : 3526308,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LAGOINHA"
+		"id" : 3526308,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LAGOINHA"
 	},
 	{
-		"CodigoIBGE" : 3526407,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LARANJAL PAULISTA"
+		"id" : 3526407,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LARANJAL PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3526506,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LAVINIA"
+		"id" : 3526506,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LAVINIA"
 	},
 	{
-		"CodigoIBGE" : 3526605,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LAVRINHAS"
+		"id" : 3526605,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LAVRINHAS"
 	},
 	{
-		"CodigoIBGE" : 3526704,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LEME"
+		"id" : 3526704,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LEME"
 	},
 	{
-		"CodigoIBGE" : 3526803,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LENCOIS PAULISTA"
+		"id" : 3526803,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LENCOIS PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3526902,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LIMEIRA"
+		"id" : 3526902,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LIMEIRA"
 	},
 	{
-		"CodigoIBGE" : 3527009,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LINDOIA"
+		"id" : 3527009,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LINDOIA"
 	},
 	{
-		"CodigoIBGE" : 3527108,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LINS"
+		"id" : 3527108,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LINS"
 	},
 	{
-		"CodigoIBGE" : 3527207,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LORENA"
+		"id" : 3527207,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LORENA"
 	},
 	{
-		"CodigoIBGE" : 3527256,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LOURDES"
+		"id" : 3527256,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LOURDES"
 	},
 	{
-		"CodigoIBGE" : 3527306,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LOUVEIRA"
+		"id" : 3527306,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LOUVEIRA"
 	},
 	{
-		"CodigoIBGE" : 3527405,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LUCELIA"
+		"id" : 3527405,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LUCELIA"
 	},
 	{
-		"CodigoIBGE" : 3527504,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LUCIANOPOLIS"
+		"id" : 3527504,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LUCIANOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3527603,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LUIS ANTONIO"
+		"id" : 3527603,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LUIS ANTONIO"
 	},
 	{
-		"CodigoIBGE" : 3527702,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LUIZIANIA"
+		"id" : 3527702,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LUIZIANIA"
 	},
 	{
-		"CodigoIBGE" : 3527801,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LUPERCIO"
+		"id" : 3527801,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LUPERCIO"
 	},
 	{
-		"CodigoIBGE" : 3527900,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "LUTECIA"
+		"id" : 3527900,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "LUTECIA"
 	},
 	{
-		"CodigoIBGE" : 3528007,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MACATUBA"
+		"id" : 3528007,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MACATUBA"
 	},
 	{
-		"CodigoIBGE" : 3528106,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MACAUBAL"
+		"id" : 3528106,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MACAUBAL"
 	},
 	{
-		"CodigoIBGE" : 3528205,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MACEDONIA"
+		"id" : 3528205,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MACEDONIA"
 	},
 	{
-		"CodigoIBGE" : 3528304,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MAGDA"
+		"id" : 3528304,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MAGDA"
 	},
 	{
-		"CodigoIBGE" : 3528403,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MAIRINQUE"
+		"id" : 3528403,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MAIRINQUE"
 	},
 	{
-		"CodigoIBGE" : 3528502,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MAIRIPORA"
+		"id" : 3528502,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MAIRIPORA"
 	},
 	{
-		"CodigoIBGE" : 3528601,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MANDURI"
+		"id" : 3528601,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MANDURI"
 	},
 	{
-		"CodigoIBGE" : 3528700,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARABA PAULISTA"
+		"id" : 3528700,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARABA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3528809,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARACAI"
+		"id" : 3528809,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARACAI"
 	},
 	{
-		"CodigoIBGE" : 3528858,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARAPOAMA"
+		"id" : 3528858,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARAPOAMA"
 	},
 	{
-		"CodigoIBGE" : 3528908,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARIAPOLIS"
+		"id" : 3528908,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARIAPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3529005,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARILIA"
+		"id" : 3529005,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARILIA"
 	},
 	{
-		"CodigoIBGE" : 3529104,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARINOPOLIS"
+		"id" : 3529104,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3529203,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MARTINOPOLIS"
+		"id" : 3529203,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MARTINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3529302,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MATAO"
+		"id" : 3529302,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MATAO"
 	},
 	{
-		"CodigoIBGE" : 3529401,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MAUA"
+		"id" : 3529401,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MAUA"
 	},
 	{
-		"CodigoIBGE" : 3529500,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MENDONCA"
+		"id" : 3529500,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MENDONCA"
 	},
 	{
-		"CodigoIBGE" : 3529609,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MERIDIANO"
+		"id" : 3529609,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MERIDIANO"
 	},
 	{
-		"CodigoIBGE" : 3529658,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MESOPOLIS"
+		"id" : 3529658,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MESOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3529708,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIGUELOPOLIS"
+		"id" : 3529708,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIGUELOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3529807,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MINEIROS DO TIETE"
+		"id" : 3529807,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MINEIROS DO TIETE"
 	},
 	{
-		"CodigoIBGE" : 3529906,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIRACATU"
+		"id" : 3529906,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIRACATU"
 	},
 	{
-		"CodigoIBGE" : 3530003,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIRA ESTRELA"
+		"id" : 3530003,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIRA ESTRELA"
 	},
 	{
-		"CodigoIBGE" : 3530102,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIRANDOPOLIS"
+		"id" : 3530102,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIRANDOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3530201,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIRANTE DO PARANAPANEMA"
+		"id" : 3530201,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIRANTE DO PARANAPANEMA"
 	},
 	{
-		"CodigoIBGE" : 3530300,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIRASSOL"
+		"id" : 3530300,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIRASSOL"
 	},
 	{
-		"CodigoIBGE" : 3530409,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MIRASSOLANDIA"
+		"id" : 3530409,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MIRASSOLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3530508,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MOCOCA"
+		"id" : 3530508,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MOCOCA"
 	},
 	{
-		"CodigoIBGE" : 3530607,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MOGI DAS CRUZES"
+		"id" : 3530607,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MOGI DAS CRUZES"
 	},
 	{
-		"CodigoIBGE" : 3530706,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MOGIGUACU"
+		"id" : 3530706,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MOGIGUACU"
 	},
 	{
-		"CodigoIBGE" : 3530805,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MOGI MIRIM"
+		"id" : 3530805,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MOGI MIRIM"
 	},
 	{
-		"CodigoIBGE" : 3530904,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MOMBUCA"
+		"id" : 3530904,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MOMBUCA"
 	},
 	{
-		"CodigoIBGE" : 3531001,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONCOES"
+		"id" : 3531001,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONCOES"
 	},
 	{
-		"CodigoIBGE" : 3531100,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONGAGUA"
+		"id" : 3531100,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONGAGUA"
 	},
 	{
-		"CodigoIBGE" : 3531209,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTE ALEGRE DO SUL"
+		"id" : 3531209,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTE ALEGRE DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3531308,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTE ALTO"
+		"id" : 3531308,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTE ALTO"
 	},
 	{
-		"CodigoIBGE" : 3531407,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTE APRAZIVEL"
+		"id" : 3531407,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTE APRAZIVEL"
 	},
 	{
-		"CodigoIBGE" : 3531506,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTE AZUL PAULISTA"
+		"id" : 3531506,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTE AZUL PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3531605,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTE CASTELO"
+		"id" : 3531605,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTE CASTELO"
 	},
 	{
-		"CodigoIBGE" : 3531704,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTEIRO LOBATO"
+		"id" : 3531704,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTEIRO LOBATO"
 	},
 	{
-		"CodigoIBGE" : 3531803,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MONTE MOR"
+		"id" : 3531803,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MONTE MOR"
 	},
 	{
-		"CodigoIBGE" : 3531902,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MORRO AGUDO"
+		"id" : 3531902,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MORRO AGUDO"
 	},
 	{
-		"CodigoIBGE" : 3532009,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MORUNGABA"
+		"id" : 3532009,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MORUNGABA"
 	},
 	{
-		"CodigoIBGE" : 3532058,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MOTUCA"
+		"id" : 3532058,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MOTUCA"
 	},
 	{
-		"CodigoIBGE" : 3532108,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "MURUTINGA DO SUL"
+		"id" : 3532108,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "MURUTINGA DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3532157,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NANTES"
+		"id" : 3532157,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NANTES"
 	},
 	{
-		"CodigoIBGE" : 3532207,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NARANDIBA"
+		"id" : 3532207,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NARANDIBA"
 	},
 	{
-		"CodigoIBGE" : 3532306,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NATIVIDADE DA SERRA"
+		"id" : 3532306,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NATIVIDADE DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3532405,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NAZARE PAULISTA"
+		"id" : 3532405,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NAZARE PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3532504,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NEVES PAULISTA"
+		"id" : 3532504,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NEVES PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3532603,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NHANDEARA"
+		"id" : 3532603,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NHANDEARA"
 	},
 	{
-		"CodigoIBGE" : 3532702,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NIPOA"
+		"id" : 3532702,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NIPOA"
 	},
 	{
-		"CodigoIBGE" : 3532801,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA ALIANCA"
+		"id" : 3532801,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA ALIANCA"
 	},
 	{
-		"CodigoIBGE" : 3532827,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA CAMPINA"
+		"id" : 3532827,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA CAMPINA"
 	},
 	{
-		"CodigoIBGE" : 3532843,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA CANAA PAULISTA"
+		"id" : 3532843,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA CANAA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3532868,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA CASTILHO"
+		"id" : 3532868,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA CASTILHO"
 	},
 	{
-		"CodigoIBGE" : 3532900,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA EUROPA"
+		"id" : 3532900,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA EUROPA"
 	},
 	{
-		"CodigoIBGE" : 3533007,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA GRANADA"
+		"id" : 3533007,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA GRANADA"
 	},
 	{
-		"CodigoIBGE" : 3533106,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA GUATAPORANGA"
+		"id" : 3533106,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA GUATAPORANGA"
 	},
 	{
-		"CodigoIBGE" : 3533205,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA INDEPENDENCIA"
+		"id" : 3533205,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA INDEPENDENCIA"
 	},
 	{
-		"CodigoIBGE" : 3533254,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVAIS"
+		"id" : 3533254,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVAIS"
 	},
 	{
-		"CodigoIBGE" : 3533304,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA LUZITANIA"
+		"id" : 3533304,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA LUZITANIA"
 	},
 	{
-		"CodigoIBGE" : 3533403,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVA ODESSA"
+		"id" : 3533403,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVA ODESSA"
 	},
 	{
-		"CodigoIBGE" : 3533502,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NOVO HORIZONTE"
+		"id" : 3533502,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NOVO HORIZONTE"
 	},
 	{
-		"CodigoIBGE" : 3533601,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "NUPORANGA"
+		"id" : 3533601,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "NUPORANGA"
 	},
 	{
-		"CodigoIBGE" : 3533700,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OCAUCU"
+		"id" : 3533700,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OCAUCU"
 	},
 	{
-		"CodigoIBGE" : 3533809,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OLEO"
+		"id" : 3533809,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OLEO"
 	},
 	{
-		"CodigoIBGE" : 3533908,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OLIMPIA"
+		"id" : 3533908,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OLIMPIA"
 	},
 	{
-		"CodigoIBGE" : 3534005,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ONDA VERDE"
+		"id" : 3534005,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ONDA VERDE"
 	},
 	{
-		"CodigoIBGE" : 3534104,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ORIENTE"
+		"id" : 3534104,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ORIENTE"
 	},
 	{
-		"CodigoIBGE" : 3534203,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ORINDIUVA"
+		"id" : 3534203,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ORINDIUVA"
 	},
 	{
-		"CodigoIBGE" : 3534302,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ORLANDIA"
+		"id" : 3534302,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ORLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3534401,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OSASCO"
+		"id" : 3534401,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OSASCO"
 	},
 	{
-		"CodigoIBGE" : 3534500,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OSCAR BRESSANE"
+		"id" : 3534500,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OSCAR BRESSANE"
 	},
 	{
-		"CodigoIBGE" : 3534609,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OSVALDO CRUZ"
+		"id" : 3534609,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OSVALDO CRUZ"
 	},
 	{
-		"CodigoIBGE" : 3534708,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OURINHOS"
+		"id" : 3534708,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OURINHOS"
 	},
 	{
-		"CodigoIBGE" : 3534757,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OUROESTE"
+		"id" : 3534757,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OUROESTE"
 	},
 	{
-		"CodigoIBGE" : 3534807,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "OURO VERDE"
+		"id" : 3534807,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "OURO VERDE"
 	},
 	{
-		"CodigoIBGE" : 3534906,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PACAEMBU"
+		"id" : 3534906,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PACAEMBU"
 	},
 	{
-		"CodigoIBGE" : 3535002,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PALESTINA"
+		"id" : 3535002,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PALESTINA"
 	},
 	{
-		"CodigoIBGE" : 3535101,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PALMARES PAULISTA"
+		"id" : 3535101,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PALMARES PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3535200,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PALMEIRA D-  OESTE"
+		"id" : 3535200,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PALMEIRA D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3535309,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PALMITAL"
+		"id" : 3535309,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PALMITAL"
 	},
 	{
-		"CodigoIBGE" : 3535408,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PANORAMA"
+		"id" : 3535408,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PANORAMA"
 	},
 	{
-		"CodigoIBGE" : 3535507,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARAGUACU PAULISTA"
+		"id" : 3535507,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARAGUACU PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3535606,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARAIBUNA"
+		"id" : 3535606,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARAIBUNA"
 	},
 	{
-		"CodigoIBGE" : 3535705,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARAISO"
+		"id" : 3535705,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARAISO"
 	},
 	{
-		"CodigoIBGE" : 3535804,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARANAPANEMA"
+		"id" : 3535804,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARANAPANEMA"
 	},
 	{
-		"CodigoIBGE" : 3535903,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARANAPUA"
+		"id" : 3535903,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARANAPUA"
 	},
 	{
-		"CodigoIBGE" : 3536000,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARAPUA"
+		"id" : 3536000,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARAPUA"
 	},
 	{
-		"CodigoIBGE" : 3536109,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARDINHO"
+		"id" : 3536109,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARDINHO"
 	},
 	{
-		"CodigoIBGE" : 3536208,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARIQUERAACU"
+		"id" : 3536208,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARIQUERAACU"
 	},
 	{
-		"CodigoIBGE" : 3536257,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PARISI"
+		"id" : 3536257,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PARISI"
 	},
 	{
-		"CodigoIBGE" : 3536307,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PATROCINIO PAULISTA"
+		"id" : 3536307,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PATROCINIO PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3536406,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PAULICEIA"
+		"id" : 3536406,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PAULICEIA"
 	},
 	{
-		"CodigoIBGE" : 3536505,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PAULINIA"
+		"id" : 3536505,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PAULINIA"
 	},
 	{
-		"CodigoIBGE" : 3536570,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PAULISTANIA"
+		"id" : 3536570,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PAULISTANIA"
 	},
 	{
-		"CodigoIBGE" : 3536604,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PAULO DE FARIA"
+		"id" : 3536604,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PAULO DE FARIA"
 	},
 	{
-		"CodigoIBGE" : 3536703,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDERNEIRAS"
+		"id" : 3536703,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDERNEIRAS"
 	},
 	{
-		"CodigoIBGE" : 3536802,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDRA BELA"
+		"id" : 3536802,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDRA BELA"
 	},
 	{
-		"CodigoIBGE" : 3536901,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDRANOPOLIS"
+		"id" : 3536901,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDRANOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3537008,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDREGULHO"
+		"id" : 3537008,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDREGULHO"
 	},
 	{
-		"CodigoIBGE" : 3537107,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDREIRA"
+		"id" : 3537107,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDREIRA"
 	},
 	{
-		"CodigoIBGE" : 3537156,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDRINHAS PAULISTA"
+		"id" : 3537156,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDRINHAS PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3537206,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEDRO DE TOLEDO"
+		"id" : 3537206,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEDRO DE TOLEDO"
 	},
 	{
-		"CodigoIBGE" : 3537305,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PENAPOLIS"
+		"id" : 3537305,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PENAPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3537404,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEREIRA BARRETO"
+		"id" : 3537404,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEREIRA BARRETO"
 	},
 	{
-		"CodigoIBGE" : 3537503,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PEREIRAS"
+		"id" : 3537503,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PEREIRAS"
 	},
 	{
-		"CodigoIBGE" : 3537602,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PERUIBE"
+		"id" : 3537602,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PERUIBE"
 	},
 	{
-		"CodigoIBGE" : 3537701,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIACATU"
+		"id" : 3537701,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIACATU"
 	},
 	{
-		"CodigoIBGE" : 3537800,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIEDADE"
+		"id" : 3537800,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIEDADE"
 	},
 	{
-		"CodigoIBGE" : 3537909,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PILAR DO SUL"
+		"id" : 3537909,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PILAR DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3538006,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PINDAMONHANGABA"
+		"id" : 3538006,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PINDAMONHANGABA"
 	},
 	{
-		"CodigoIBGE" : 3538105,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PINDORAMA"
+		"id" : 3538105,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PINDORAMA"
 	},
 	{
-		"CodigoIBGE" : 3538204,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PINHALZINHO"
+		"id" : 3538204,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PINHALZINHO"
 	},
 	{
-		"CodigoIBGE" : 3538303,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIQUEROBI"
+		"id" : 3538303,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIQUEROBI"
 	},
 	{
-		"CodigoIBGE" : 3538501,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIQUETE"
+		"id" : 3538501,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIQUETE"
 	},
 	{
-		"CodigoIBGE" : 3538600,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRACAIA"
+		"id" : 3538600,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRACAIA"
 	},
 	{
-		"CodigoIBGE" : 3538709,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRACICABA"
+		"id" : 3538709,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRACICABA"
 	},
 	{
-		"CodigoIBGE" : 3538808,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRAJU"
+		"id" : 3538808,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRAJU"
 	},
 	{
-		"CodigoIBGE" : 3538907,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRAJUI"
+		"id" : 3538907,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRAJUI"
 	},
 	{
-		"CodigoIBGE" : 3539004,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRANGI"
+		"id" : 3539004,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRANGI"
 	},
 	{
-		"CodigoIBGE" : 3539103,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRAPORA DO BOM JESUS"
+		"id" : 3539103,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRAPORA DO BOM JESUS"
 	},
 	{
-		"CodigoIBGE" : 3539202,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRAPOZINHO"
+		"id" : 3539202,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRAPOZINHO"
 	},
 	{
-		"CodigoIBGE" : 3539301,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRASSUNUNGA"
+		"id" : 3539301,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRASSUNUNGA"
 	},
 	{
-		"CodigoIBGE" : 3539400,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PIRATININGA"
+		"id" : 3539400,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PIRATININGA"
 	},
 	{
-		"CodigoIBGE" : 3539509,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PITANGUEIRAS"
+		"id" : 3539509,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PITANGUEIRAS"
 	},
 	{
-		"CodigoIBGE" : 3539608,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PLANALTO"
+		"id" : 3539608,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PLANALTO"
 	},
 	{
-		"CodigoIBGE" : 3539707,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PLATINA"
+		"id" : 3539707,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PLATINA"
 	},
 	{
-		"CodigoIBGE" : 3539806,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "POA"
+		"id" : 3539806,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "POA"
 	},
 	{
-		"CodigoIBGE" : 3539905,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "POLONI"
+		"id" : 3539905,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "POLONI"
 	},
 	{
-		"CodigoIBGE" : 3540002,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "POMPEIA"
+		"id" : 3540002,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "POMPEIA"
 	},
 	{
-		"CodigoIBGE" : 3540101,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PONGAI"
+		"id" : 3540101,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PONGAI"
 	},
 	{
-		"CodigoIBGE" : 3540200,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PONTAL"
+		"id" : 3540200,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PONTAL"
 	},
 	{
-		"CodigoIBGE" : 3540259,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PONTALINDA"
+		"id" : 3540259,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PONTALINDA"
 	},
 	{
-		"CodigoIBGE" : 3540309,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PONTES GESTAL"
+		"id" : 3540309,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PONTES GESTAL"
 	},
 	{
-		"CodigoIBGE" : 3540408,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "POPULINA"
+		"id" : 3540408,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "POPULINA"
 	},
 	{
-		"CodigoIBGE" : 3540507,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PORANGABA"
+		"id" : 3540507,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PORANGABA"
 	},
 	{
-		"CodigoIBGE" : 3540606,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PORTO FELIZ"
+		"id" : 3540606,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PORTO FELIZ"
 	},
 	{
-		"CodigoIBGE" : 3540705,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PORTO FERREIRA"
+		"id" : 3540705,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PORTO FERREIRA"
 	},
 	{
-		"CodigoIBGE" : 3540754,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "POTIM"
+		"id" : 3540754,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "POTIM"
 	},
 	{
-		"CodigoIBGE" : 3540804,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "POTIRENDABA"
+		"id" : 3540804,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "POTIRENDABA"
 	},
 	{
-		"CodigoIBGE" : 3540853,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRACINHA"
+		"id" : 3540853,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRACINHA"
 	},
 	{
-		"CodigoIBGE" : 3540903,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRADOPOLIS"
+		"id" : 3540903,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRADOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3541000,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRAIA GRANDE"
+		"id" : 3541000,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRAIA GRANDE"
 	},
 	{
-		"CodigoIBGE" : 3541059,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRATANIA"
+		"id" : 3541059,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRATANIA"
 	},
 	{
-		"CodigoIBGE" : 3541109,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRESIDENTE ALVES"
+		"id" : 3541109,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRESIDENTE ALVES"
 	},
 	{
-		"CodigoIBGE" : 3541208,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRESIDENTE BERNARDES"
+		"id" : 3541208,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRESIDENTE BERNARDES"
 	},
 	{
-		"CodigoIBGE" : 3541307,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRESIDENTE EPITACIO"
+		"id" : 3541307,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRESIDENTE EPITACIO"
 	},
 	{
-		"CodigoIBGE" : 3541406,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRESIDENTE PRUDENTE"
+		"id" : 3541406,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRESIDENTE PRUDENTE"
 	},
 	{
-		"CodigoIBGE" : 3541505,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PRESIDENTE VENCESLAU"
+		"id" : 3541505,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PRESIDENTE VENCESLAU"
 	},
 	{
-		"CodigoIBGE" : 3541604,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "PROMISSAO"
+		"id" : 3541604,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "PROMISSAO"
 	},
 	{
-		"CodigoIBGE" : 3541653,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "QUADRA"
+		"id" : 3541653,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "QUADRA"
 	},
 	{
-		"CodigoIBGE" : 3541703,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "QUATA"
+		"id" : 3541703,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "QUATA"
 	},
 	{
-		"CodigoIBGE" : 3541802,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "QUEIROZ"
+		"id" : 3541802,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "QUEIROZ"
 	},
 	{
-		"CodigoIBGE" : 3541901,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "QUELUZ"
+		"id" : 3541901,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "QUELUZ"
 	},
 	{
-		"CodigoIBGE" : 3542008,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "QUINTANA"
+		"id" : 3542008,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "QUINTANA"
 	},
 	{
-		"CodigoIBGE" : 3542107,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RAFARD"
+		"id" : 3542107,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RAFARD"
 	},
 	{
-		"CodigoIBGE" : 3542206,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RANCHARIA"
+		"id" : 3542206,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RANCHARIA"
 	},
 	{
-		"CodigoIBGE" : 3542305,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "REDENCAO DA SERRA"
+		"id" : 3542305,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "REDENCAO DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3542404,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "REGENTE FEIJO"
+		"id" : 3542404,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "REGENTE FEIJO"
 	},
 	{
-		"CodigoIBGE" : 3542503,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "REGINOPOLIS"
+		"id" : 3542503,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "REGINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3542602,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "REGISTRO"
+		"id" : 3542602,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "REGISTRO"
 	},
 	{
-		"CodigoIBGE" : 3542701,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RESTINGA"
+		"id" : 3542701,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RESTINGA"
 	},
 	{
-		"CodigoIBGE" : 3542800,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRA"
+		"id" : 3542800,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRA"
 	},
 	{
-		"CodigoIBGE" : 3542909,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO BONITO"
+		"id" : 3542909,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO BONITO"
 	},
 	{
-		"CodigoIBGE" : 3543006,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO BRANCO"
+		"id" : 3543006,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO BRANCO"
 	},
 	{
-		"CodigoIBGE" : 3543105,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO CORRENTE"
+		"id" : 3543105,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO CORRENTE"
 	},
 	{
-		"CodigoIBGE" : 3543204,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO DO SUL"
+		"id" : 3543204,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3543238,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO DOS INDIOS"
+		"id" : 3543238,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO DOS INDIOS"
 	},
 	{
-		"CodigoIBGE" : 3543253,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO GRANDE"
+		"id" : 3543253,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO GRANDE"
 	},
 	{
-		"CodigoIBGE" : 3543303,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO PIRES"
+		"id" : 3543303,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO PIRES"
 	},
 	{
-		"CodigoIBGE" : 3543402,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIBEIRAO PRETO"
+		"id" : 3543402,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIBEIRAO PRETO"
 	},
 	{
-		"CodigoIBGE" : 3543501,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIVERSUL"
+		"id" : 3543501,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIVERSUL"
 	},
 	{
-		"CodigoIBGE" : 3543600,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIFAINA"
+		"id" : 3543600,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIFAINA"
 	},
 	{
-		"CodigoIBGE" : 3543709,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RINCAO"
+		"id" : 3543709,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RINCAO"
 	},
 	{
-		"CodigoIBGE" : 3543808,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RINOPOLIS"
+		"id" : 3543808,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RINOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3543907,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIO CLARO"
+		"id" : 3543907,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIO CLARO"
 	},
 	{
-		"CodigoIBGE" : 3544004,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIO DAS PEDRAS"
+		"id" : 3544004,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIO DAS PEDRAS"
 	},
 	{
-		"CodigoIBGE" : 3544103,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIO GRANDE DA SERRA"
+		"id" : 3544103,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIO GRANDE DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3544202,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RIOLANDIA"
+		"id" : 3544202,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RIOLANDIA"
 	},
 	{
-		"CodigoIBGE" : 3544251,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ROSANA"
+		"id" : 3544251,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ROSANA"
 	},
 	{
-		"CodigoIBGE" : 3544301,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ROSEIRA"
+		"id" : 3544301,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ROSEIRA"
 	},
 	{
-		"CodigoIBGE" : 3544400,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RUBIACEA"
+		"id" : 3544400,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RUBIACEA"
 	},
 	{
-		"CodigoIBGE" : 3544509,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "RUBINEIA"
+		"id" : 3544509,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "RUBINEIA"
 	},
 	{
-		"CodigoIBGE" : 3544608,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SABINO"
+		"id" : 3544608,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SABINO"
 	},
 	{
-		"CodigoIBGE" : 3544707,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAGRES"
+		"id" : 3544707,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAGRES"
 	},
 	{
-		"CodigoIBGE" : 3544806,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALES"
+		"id" : 3544806,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALES"
 	},
 	{
-		"CodigoIBGE" : 3544905,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALES OLIVEIRA"
+		"id" : 3544905,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALES OLIVEIRA"
 	},
 	{
-		"CodigoIBGE" : 3545001,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALESOPOLIS"
+		"id" : 3545001,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALESOPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3545100,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALMOURAO"
+		"id" : 3545100,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALMOURAO"
 	},
 	{
-		"CodigoIBGE" : 3545159,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALTINHO"
+		"id" : 3545159,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALTINHO"
 	},
 	{
-		"CodigoIBGE" : 3545209,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALTO"
+		"id" : 3545209,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALTO"
 	},
 	{
-		"CodigoIBGE" : 3545308,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALTO DE PIRAPORA"
+		"id" : 3545308,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALTO DE PIRAPORA"
 	},
 	{
-		"CodigoIBGE" : 3545407,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SALTO GRANDE"
+		"id" : 3545407,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SALTO GRANDE"
 	},
 	{
-		"CodigoIBGE" : 3545506,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANDOVALINA"
+		"id" : 3545506,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANDOVALINA"
 	},
 	{
-		"CodigoIBGE" : 3545605,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA ADELIA"
+		"id" : 3545605,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA ADELIA"
 	},
 	{
-		"CodigoIBGE" : 3545704,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA ALBERTINA"
+		"id" : 3545704,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA ALBERTINA"
 	},
 	{
-		"CodigoIBGE" : 3545803,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA BARBARA D-  OESTE"
+		"id" : 3545803,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA BARBARA D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3546009,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA BRANCA"
+		"id" : 3546009,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA BRANCA"
 	},
 	{
-		"CodigoIBGE" : 3546108,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA CLARA D-  OESTE"
+		"id" : 3546108,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA CLARA D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3546207,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA CRUZ DA CONCEICAO"
+		"id" : 3546207,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA CRUZ DA CONCEICAO"
 	},
 	{
-		"CodigoIBGE" : 3546256,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA CRUZ DA ESPERANCA"
+		"id" : 3546256,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA CRUZ DA ESPERANCA"
 	},
 	{
-		"CodigoIBGE" : 3546306,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA CRUZ DAS PALMEIRAS"
+		"id" : 3546306,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA CRUZ DAS PALMEIRAS"
 	},
 	{
-		"CodigoIBGE" : 3546405,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA CRUZ DO RIO PARDO"
+		"id" : 3546405,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA CRUZ DO RIO PARDO"
 	},
 	{
-		"CodigoIBGE" : 3546504,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA ERNESTINA"
+		"id" : 3546504,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA ERNESTINA"
 	},
 	{
-		"CodigoIBGE" : 3546603,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA FE DO SUL"
+		"id" : 3546603,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA FE DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3546702,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA GERTRUDES"
+		"id" : 3546702,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA GERTRUDES"
 	},
 	{
-		"CodigoIBGE" : 3546801,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA ISABEL"
+		"id" : 3546801,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA ISABEL"
 	},
 	{
-		"CodigoIBGE" : 3546900,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA LUCIA"
+		"id" : 3546900,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA LUCIA"
 	},
 	{
-		"CodigoIBGE" : 3547007,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA MARIA DA SERRA"
+		"id" : 3547007,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA MARIA DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3547106,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA MERCEDES"
+		"id" : 3547106,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA MERCEDES"
 	},
 	{
-		"CodigoIBGE" : 3547205,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTANA DA PONTE PENSA"
+		"id" : 3547205,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTANA DA PONTE PENSA"
 	},
 	{
-		"CodigoIBGE" : 3547304,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTANA DE PARNAIBA"
+		"id" : 3547304,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTANA DE PARNAIBA"
 	},
 	{
-		"CodigoIBGE" : 3547403,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA RITA D-  OESTE"
+		"id" : 3547403,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA RITA D-  OESTE"
 	},
 	{
-		"CodigoIBGE" : 3547502,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA RITA DO PASSA QUATRO"
+		"id" : 3547502,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA RITA DO PASSA QUATRO"
 	},
 	{
-		"CodigoIBGE" : 3547601,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA ROSA DE VITERBO"
+		"id" : 3547601,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA ROSA DE VITERBO"
 	},
 	{
-		"CodigoIBGE" : 3547650,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTA SALETE"
+		"id" : 3547650,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTA SALETE"
 	},
 	{
-		"CodigoIBGE" : 3547700,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANASTACIO"
+		"id" : 3547700,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANASTACIO"
 	},
 	{
-		"CodigoIBGE" : 3547809,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANDRE"
+		"id" : 3547809,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANDRE"
 	},
 	{
-		"CodigoIBGE" : 3547908,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANTONIO DA ALEGRIA"
+		"id" : 3547908,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANTONIO DA ALEGRIA"
 	},
 	{
-		"CodigoIBGE" : 3548005,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANTONIO DE POSSE"
+		"id" : 3548005,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANTONIO DE POSSE"
 	},
 	{
-		"CodigoIBGE" : 3548054,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANTONIO DO ARACANGUA"
+		"id" : 3548054,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANTONIO DO ARACANGUA"
 	},
 	{
-		"CodigoIBGE" : 3548104,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANTONIO DO JARDIM"
+		"id" : 3548104,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANTONIO DO JARDIM"
 	},
 	{
-		"CodigoIBGE" : 3548203,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO ANTONIO DO PINHAL"
+		"id" : 3548203,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO ANTONIO DO PINHAL"
 	},
 	{
-		"CodigoIBGE" : 3548302,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTO EXPEDITO"
+		"id" : 3548302,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTO EXPEDITO"
 	},
 	{
-		"CodigoIBGE" : 3548401,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTOPOLIS DO AGUAPEI"
+		"id" : 3548401,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTOPOLIS DO AGUAPEI"
 	},
 	{
-		"CodigoIBGE" : 3548500,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SANTOS"
+		"id" : 3548500,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SANTOS"
 	},
 	{
-		"CodigoIBGE" : 3548609,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO BENTO DO SAPUCAI"
+		"id" : 3548609,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO BENTO DO SAPUCAI"
 	},
 	{
-		"CodigoIBGE" : 3548708,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO BERNARDO DO CAMPO"
+		"id" : 3548708,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO BERNARDO DO CAMPO"
 	},
 	{
-		"CodigoIBGE" : 3548807,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO CAETANO DO SUL"
+		"id" : 3548807,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO CAETANO DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3548906,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO CARLOS"
+		"id" : 3548906,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO CARLOS"
 	},
 	{
-		"CodigoIBGE" : 3549003,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO FRANCISCO"
+		"id" : 3549003,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE" : 3549102,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOAO DA BOA VISTA"
+		"id" : 3549102,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOAO DA BOA VISTA"
 	},
 	{
-		"CodigoIBGE" : 3549201,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOAO DAS DUAS PONTES"
+		"id" : 3549201,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOAO DAS DUAS PONTES"
 	},
 	{
-		"CodigoIBGE" : 3549250,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOAO DE IRACEMA"
+		"id" : 3549250,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOAO DE IRACEMA"
 	},
 	{
-		"CodigoIBGE" : 3549300,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOAO DO PAU D-  ALHO"
+		"id" : 3549300,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOAO DO PAU D-  ALHO"
 	},
 	{
-		"CodigoIBGE" : 3549409,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOAQUIM DA BARRA"
+		"id" : 3549409,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOAQUIM DA BARRA"
 	},
 	{
-		"CodigoIBGE" : 3549508,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOSE DA BELA VISTA"
+		"id" : 3549508,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOSE DA BELA VISTA"
 	},
 	{
-		"CodigoIBGE" : 3549607,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOSE DO BARREIRO"
+		"id" : 3549607,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOSE DO BARREIRO"
 	},
 	{
-		"CodigoIBGE" : 3549706,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOSE DO RIO PARDO"
+		"id" : 3549706,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOSE DO RIO PARDO"
 	},
 	{
-		"CodigoIBGE" : 3549805,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOSE DO RIO PRETO"
+		"id" : 3549805,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOSE DO RIO PRETO"
 	},
 	{
-		"CodigoIBGE" : 3549904,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO JOSE DOS CAMPOS"
+		"id" : 3549904,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO JOSE DOS CAMPOS"
 	},
 	{
-		"CodigoIBGE" : 3549953,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO LOURENCO DA SERRA"
+		"id" : 3549953,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO LOURENCO DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3550001,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO LUIS DO PARAITINGA"
+		"id" : 3550001,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO LUIS DO PARAITINGA"
 	},
 	{
-		"CodigoIBGE" : 3550100,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO MANUEL"
+		"id" : 3550100,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO MANUEL"
 	},
 	{
-		"CodigoIBGE" : 3550209,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO MIGUEL ARCANJO"
+		"id" : 3550209,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO MIGUEL ARCANJO"
 	},
 	{
-		"CodigoIBGE" : 3550308,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO PAULO"
+		"id" : 3550308,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO PAULO"
 	},
 	{
-		"CodigoIBGE" : 3550407,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO PEDRO"
+		"id" : 3550407,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO PEDRO"
 	},
 	{
-		"CodigoIBGE" : 3550506,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO PEDRO DO TURVO"
+		"id" : 3550506,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO PEDRO DO TURVO"
 	},
 	{
-		"CodigoIBGE" : 3550605,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO ROQUE"
+		"id" : 3550605,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO ROQUE"
 	},
 	{
-		"CodigoIBGE" : 3550704,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO SEBASTIAO"
+		"id" : 3550704,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO SEBASTIAO"
 	},
 	{
-		"CodigoIBGE" : 3550803,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO SEBASTIAO DA GRAMA"
+		"id" : 3550803,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO SEBASTIAO DA GRAMA"
 	},
 	{
-		"CodigoIBGE" : 3550902,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO SIMAO"
+		"id" : 3550902,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO SIMAO"
 	},
 	{
-		"CodigoIBGE" : 3551009,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SAO VICENTE"
+		"id" : 3551009,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SAO VICENTE"
 	},
 	{
-		"CodigoIBGE" : 3551108,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SARAPUI"
+		"id" : 3551108,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SARAPUI"
 	},
 	{
-		"CodigoIBGE" : 3551207,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SARUTAIA"
+		"id" : 3551207,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SARUTAIA"
 	},
 	{
-		"CodigoIBGE" : 3551306,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SEBASTIANOPOLIS DO SUL"
+		"id" : 3551306,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SEBASTIANOPOLIS DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3551405,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SERRA AZUL"
+		"id" : 3551405,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SERRA AZUL"
 	},
 	{
-		"CodigoIBGE" : 3551504,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SERRANA"
+		"id" : 3551504,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SERRANA"
 	},
 	{
-		"CodigoIBGE" : 3551603,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SERRA NEGRA"
+		"id" : 3551603,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SERRA NEGRA"
 	},
 	{
-		"CodigoIBGE" : 3551702,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SERTAOZINHO"
+		"id" : 3551702,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SERTAOZINHO"
 	},
 	{
-		"CodigoIBGE" : 3551801,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SETE BARRAS"
+		"id" : 3551801,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SETE BARRAS"
 	},
 	{
-		"CodigoIBGE" : 3551900,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SEVERINIA"
+		"id" : 3551900,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SEVERINIA"
 	},
 	{
-		"CodigoIBGE" : 3552007,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SILVEIRAS"
+		"id" : 3552007,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SILVEIRAS"
 	},
 	{
-		"CodigoIBGE" : 3552106,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SOCORRO"
+		"id" : 3552106,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SOCORRO"
 	},
 	{
-		"CodigoIBGE" : 3552205,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SOROCABA"
+		"id" : 3552205,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SOROCABA"
 	},
 	{
-		"CodigoIBGE" : 3552304,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SUD MENNUCCI"
+		"id" : 3552304,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SUD MENNUCCI"
 	},
 	{
-		"CodigoIBGE" : 3552403,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SUMARE"
+		"id" : 3552403,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SUMARE"
 	},
 	{
-		"CodigoIBGE" : 3552502,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SUZANO"
+		"id" : 3552502,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SUZANO"
 	},
 	{
-		"CodigoIBGE" : 3552551,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "SUZANAPOLIS"
+		"id" : 3552551,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "SUZANAPOLIS"
 	},
 	{
-		"CodigoIBGE" : 3552601,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TABAPUA"
+		"id" : 3552601,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TABAPUA"
 	},
 	{
-		"CodigoIBGE" : 3552700,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TABATINGA"
+		"id" : 3552700,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TABATINGA"
 	},
 	{
-		"CodigoIBGE" : 3552809,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TABOAO DA SERRA"
+		"id" : 3552809,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TABOAO DA SERRA"
 	},
 	{
-		"CodigoIBGE" : 3552908,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TACIBA"
+		"id" : 3552908,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TACIBA"
 	},
 	{
-		"CodigoIBGE" : 3553005,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAGUAI"
+		"id" : 3553005,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAGUAI"
 	},
 	{
-		"CodigoIBGE" : 3553104,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAIACU"
+		"id" : 3553104,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAIACU"
 	},
 	{
-		"CodigoIBGE" : 3553203,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAIUVA"
+		"id" : 3553203,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAIUVA"
 	},
 	{
-		"CodigoIBGE" : 3553302,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAMBAU"
+		"id" : 3553302,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAMBAU"
 	},
 	{
-		"CodigoIBGE" : 3553401,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TANABI"
+		"id" : 3553401,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TANABI"
 	},
 	{
-		"CodigoIBGE" : 3553500,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAPIRAI"
+		"id" : 3553500,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAPIRAI"
 	},
 	{
-		"CodigoIBGE" : 3553609,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAPIRATIBA"
+		"id" : 3553609,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAPIRATIBA"
 	},
 	{
-		"CodigoIBGE" : 3553658,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAQUARAL"
+		"id" : 3553658,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAQUARAL"
 	},
 	{
-		"CodigoIBGE" : 3553708,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAQUARITINGA"
+		"id" : 3553708,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAQUARITINGA"
 	},
 	{
-		"CodigoIBGE" : 3553807,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAQUARITUBA"
+		"id" : 3553807,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAQUARITUBA"
 	},
 	{
-		"CodigoIBGE" : 3553856,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAQUARIVAI"
+		"id" : 3553856,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAQUARIVAI"
 	},
 	{
-		"CodigoIBGE" : 3553906,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TARABAI"
+		"id" : 3553906,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TARABAI"
 	},
 	{
-		"CodigoIBGE" : 3553955,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TARUMA"
+		"id" : 3553955,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TARUMA"
 	},
 	{
-		"CodigoIBGE" : 3554003,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TATUI"
+		"id" : 3554003,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TATUI"
 	},
 	{
-		"CodigoIBGE" : 3554102,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TAUBATE"
+		"id" : 3554102,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TAUBATE"
 	},
 	{
-		"CodigoIBGE" : 3554201,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TEJUPA"
+		"id" : 3554201,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TEJUPA"
 	},
 	{
-		"CodigoIBGE" : 3554300,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TEODORO SAMPAIO"
+		"id" : 3554300,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TEODORO SAMPAIO"
 	},
 	{
-		"CodigoIBGE" : 3554409,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TERRA ROXA"
+		"id" : 3554409,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TERRA ROXA"
 	},
 	{
-		"CodigoIBGE" : 3554508,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TIETE"
+		"id" : 3554508,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TIETE"
 	},
 	{
-		"CodigoIBGE" : 3554607,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TIMBURI"
+		"id" : 3554607,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TIMBURI"
 	},
 	{
-		"CodigoIBGE" : 3554656,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TORRE DE PEDRA"
+		"id" : 3554656,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TORRE DE PEDRA"
 	},
 	{
-		"CodigoIBGE" : 3554706,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TORRINHA"
+		"id" : 3554706,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TORRINHA"
 	},
 	{
-		"CodigoIBGE" : 3554755,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TRABIJU"
+		"id" : 3554755,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TRABIJU"
 	},
 	{
-		"CodigoIBGE" : 3554805,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TREMEMBE"
+		"id" : 3554805,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TREMEMBE"
 	},
 	{
-		"CodigoIBGE" : 3554904,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TRES FRONTEIRAS"
+		"id" : 3554904,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TRES FRONTEIRAS"
 	},
 	{
-		"CodigoIBGE" : 3554953,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TUIUTI"
+		"id" : 3554953,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TUIUTI"
 	},
 	{
-		"CodigoIBGE" : 3555000,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TUPA"
+		"id" : 3555000,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TUPA"
 	},
 	{
-		"CodigoIBGE" : 3555109,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TUPI PAULISTA"
+		"id" : 3555109,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TUPI PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3555208,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TURIUBA"
+		"id" : 3555208,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TURIUBA"
 	},
 	{
-		"CodigoIBGE" : 3555307,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "TURMALINA"
+		"id" : 3555307,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "TURMALINA"
 	},
 	{
-		"CodigoIBGE" : 3555356,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "UBARANA"
+		"id" : 3555356,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "UBARANA"
 	},
 	{
-		"CodigoIBGE" : 3555406,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "UBATUBA"
+		"id" : 3555406,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "UBATUBA"
 	},
 	{
-		"CodigoIBGE" : 3555505,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "UBIRAJARA"
+		"id" : 3555505,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "UBIRAJARA"
 	},
 	{
-		"CodigoIBGE" : 3555604,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "UCHOA"
+		"id" : 3555604,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "UCHOA"
 	},
 	{
-		"CodigoIBGE" : 3555703,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "UNIAO PAULISTA"
+		"id" : 3555703,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "UNIAO PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3555802,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "URANIA"
+		"id" : 3555802,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "URANIA"
 	},
 	{
-		"CodigoIBGE" : 3555901,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "URU"
+		"id" : 3555901,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "URU"
 	},
 	{
-		"CodigoIBGE" : 3556008,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "URUPES"
+		"id" : 3556008,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "URUPES"
 	},
 	{
-		"CodigoIBGE" : 3556107,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VALENTIM GENTIL"
+		"id" : 3556107,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VALENTIM GENTIL"
 	},
 	{
-		"CodigoIBGE" : 3556206,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VALINHOS"
+		"id" : 3556206,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VALINHOS"
 	},
 	{
-		"CodigoIBGE" : 3556305,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VALPARAISO"
+		"id" : 3556305,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VALPARAISO"
 	},
 	{
-		"CodigoIBGE" : 3556354,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VARGEM"
+		"id" : 3556354,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VARGEM"
 	},
 	{
-		"CodigoIBGE" : 3556404,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VARGEM GRANDE DO SUL"
+		"id" : 3556404,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VARGEM GRANDE DO SUL"
 	},
 	{
-		"CodigoIBGE" : 3556453,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VARGEM GRANDE PAULISTA"
+		"id" : 3556453,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VARGEM GRANDE PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3556503,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VARZEA PAULISTA"
+		"id" : 3556503,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VARZEA PAULISTA"
 	},
 	{
-		"CodigoIBGE" : 3556602,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VERA CRUZ"
+		"id" : 3556602,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VERA CRUZ"
 	},
 	{
-		"CodigoIBGE" : 3556701,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VINHEDO"
+		"id" : 3556701,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VINHEDO"
 	},
 	{
-		"CodigoIBGE" : 3556800,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VIRADOURO"
+		"id" : 3556800,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VIRADOURO"
 	},
 	{
-		"CodigoIBGE" : 3556909,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VISTA ALEGRE DO ALTO"
+		"id" : 3556909,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VISTA ALEGRE DO ALTO"
 	},
 	{
-		"CodigoIBGE" : 3556958,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VITORIA BRASIL"
+		"id" : 3556958,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VITORIA BRASIL"
 	},
 	{
-		"CodigoIBGE" : 3557006,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VOTORANTIM"
+		"id" : 3557006,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VOTORANTIM"
 	},
 	{
-		"CodigoIBGE" : 3557105,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "VOTUPORANGA"
+		"id" : 3557105,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "VOTUPORANGA"
 	},
 	{
-		"CodigoIBGE" : 3557154,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ZACARIAS"
+		"id" : 3557154,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ZACARIAS"
 	},
 	{
-		"CodigoIBGE" : 3557204,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "CHAVANTES"
+		"id" : 3557204,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "CHAVANTES"
 	},
 	{
-		"CodigoIBGE" : 3557303,
-		"CodigoIBGEUF" : 35,
-		"SiglaUF" : "SP",
-		"NomeUF" : "SAO PAULO",
-		"NomeMunicipio" : "ESTIVA GERBI"
+		"id" : 3557303,
+		"parentId" : 35,
+		"acronym" : "SP",
+		"descriptionParent" : "SAO PAULO",
+		"description" : "ESTIVA GERBI"
 	}
 ]

@@ -1,436 +1,436 @@
 [
 	{
-		"CodigoIBGE" : 1300029,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ALVARAES"
+		"id" : 1300029,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ALVARAES"
 	},
 	{
-		"CodigoIBGE" : 1300060,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "AMATURA"
+		"id" : 1300060,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "AMATURA"
 	},
 	{
-		"CodigoIBGE" : 1300086,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ANAMA"
+		"id" : 1300086,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ANAMA"
 	},
 	{
-		"CodigoIBGE" : 1300102,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ANORI"
+		"id" : 1300102,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ANORI"
 	},
 	{
-		"CodigoIBGE" : 1300144,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "APUI"
+		"id" : 1300144,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "APUI"
 	},
 	{
-		"CodigoIBGE" : 1300201,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ATALAIA DO NORTE"
+		"id" : 1300201,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ATALAIA DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 1300300,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "AUTAZES"
+		"id" : 1300300,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "AUTAZES"
 	},
 	{
-		"CodigoIBGE" : 1300409,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BARCELOS"
+		"id" : 1300409,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BARCELOS"
 	},
 	{
-		"CodigoIBGE" : 1300508,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BARREIRINHA"
+		"id" : 1300508,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BARREIRINHA"
 	},
 	{
-		"CodigoIBGE" : 1300607,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BENJAMIN CONSTANT"
+		"id" : 1300607,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BENJAMIN CONSTANT"
 	},
 	{
-		"CodigoIBGE" : 1300631,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BERURI"
+		"id" : 1300631,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BERURI"
 	},
 	{
-		"CodigoIBGE" : 1300680,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BOA VISTA DO RAMOS"
+		"id" : 1300680,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BOA VISTA DO RAMOS"
 	},
 	{
-		"CodigoIBGE" : 1300706,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BOCA DO ACRE"
+		"id" : 1300706,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BOCA DO ACRE"
 	},
 	{
-		"CodigoIBGE" : 1300805,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "BORBA"
+		"id" : 1300805,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "BORBA"
 	},
 	{
-		"CodigoIBGE" : 1300839,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "CAAPIRANGA"
+		"id" : 1300839,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "CAAPIRANGA"
 	},
 	{
-		"CodigoIBGE" : 1300904,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "CANUTAMA"
+		"id" : 1300904,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "CANUTAMA"
 	},
 	{
-		"CodigoIBGE" : 1301001,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "CARAUARI"
+		"id" : 1301001,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "CARAUARI"
 	},
 	{
-		"CodigoIBGE" : 1301100,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "CAREIRO"
+		"id" : 1301100,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "CAREIRO"
 	},
 	{
-		"CodigoIBGE" : 1301159,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "CAREIRO DA VARZEA"
+		"id" : 1301159,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "CAREIRO DA VARZEA"
 	},
 	{
-		"CodigoIBGE" : 1301209,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "COARI"
+		"id" : 1301209,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "COARI"
 	},
 	{
-		"CodigoIBGE" : 1301308,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "CODAJAS"
+		"id" : 1301308,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "CODAJAS"
 	},
 	{
-		"CodigoIBGE" : 1301407,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "EIRUNEPE"
+		"id" : 1301407,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "EIRUNEPE"
 	},
 	{
-		"CodigoIBGE" : 1301506,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ENVIRA"
+		"id" : 1301506,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ENVIRA"
 	},
 	{
-		"CodigoIBGE" : 1301605,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "FONTE BOA"
+		"id" : 1301605,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "FONTE BOA"
 	},
 	{
-		"CodigoIBGE" : 1301654,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "GUAJARA"
+		"id" : 1301654,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "GUAJARA"
 	},
 	{
-		"CodigoIBGE" : 1301704,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "HUMAITA"
+		"id" : 1301704,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "HUMAITA"
 	},
 	{
-		"CodigoIBGE" : 1301803,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "IPIXUNA"
+		"id" : 1301803,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "IPIXUNA"
 	},
 	{
-		"CodigoIBGE" : 1301852,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "IRANDUBA"
+		"id" : 1301852,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "IRANDUBA"
 	},
 	{
-		"CodigoIBGE" : 1301902,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ITACOATIARA"
+		"id" : 1301902,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ITACOATIARA"
 	},
 	{
-		"CodigoIBGE" : 1301951,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ITAMARATI"
+		"id" : 1301951,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ITAMARATI"
 	},
 	{
-		"CodigoIBGE" : 1302009,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "ITAPIRANGA"
+		"id" : 1302009,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "ITAPIRANGA"
 	},
 	{
-		"CodigoIBGE" : 1302108,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "JAPURA"
+		"id" : 1302108,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "JAPURA"
 	},
 	{
-		"CodigoIBGE" : 1302207,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "JURUA"
+		"id" : 1302207,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "JURUA"
 	},
 	{
-		"CodigoIBGE" : 1302306,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "JUTAI"
+		"id" : 1302306,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "JUTAI"
 	},
 	{
-		"CodigoIBGE" : 1302405,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "LABREA"
+		"id" : 1302405,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "LABREA"
 	},
 	{
-		"CodigoIBGE" : 1302504,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "MANACAPURU"
+		"id" : 1302504,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "MANACAPURU"
 	},
 	{
-		"CodigoIBGE" : 1302553,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "MANAQUIRI"
+		"id" : 1302553,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "MANAQUIRI"
 	},
 	{
-		"CodigoIBGE" : 1302603,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "MANAUS"
+		"id" : 1302603,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "MANAUS"
 	},
 	{
-		"CodigoIBGE" : 1302702,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "MANICORE"
+		"id" : 1302702,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "MANICORE"
 	},
 	{
-		"CodigoIBGE" : 1302801,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "MARAA"
+		"id" : 1302801,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "MARAA"
 	},
 	{
-		"CodigoIBGE" : 1302900,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "MAUES"
+		"id" : 1302900,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "MAUES"
 	},
 	{
-		"CodigoIBGE" : 1303007,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "NHAMUNDA"
+		"id" : 1303007,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "NHAMUNDA"
 	},
 	{
-		"CodigoIBGE" : 1303106,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "NOVA OLINDA DO NORTE"
+		"id" : 1303106,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "NOVA OLINDA DO NORTE"
 	},
 	{
-		"CodigoIBGE" : 1303205,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "NOVO AIRAO"
+		"id" : 1303205,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "NOVO AIRAO"
 	},
 	{
-		"CodigoIBGE" : 1303304,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "NOVO ARIPUANA"
+		"id" : 1303304,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "NOVO ARIPUANA"
 	},
 	{
-		"CodigoIBGE" : 1303403,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "PARINTINS"
+		"id" : 1303403,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "PARINTINS"
 	},
 	{
-		"CodigoIBGE" : 1303502,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "PAUINI"
+		"id" : 1303502,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "PAUINI"
 	},
 	{
-		"CodigoIBGE" : 1303536,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "PRESIDENTE FIGUEIREDO"
+		"id" : 1303536,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "PRESIDENTE FIGUEIREDO"
 	},
 	{
-		"CodigoIBGE" : 1303569,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "RIO PRETO DA EVA"
+		"id" : 1303569,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "RIO PRETO DA EVA"
 	},
 	{
-		"CodigoIBGE" : 1303601,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "SANTA ISABEL DO RIO NEGRO"
+		"id" : 1303601,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "SANTA ISABEL DO RIO NEGRO"
 	},
 	{
-		"CodigoIBGE" : 1303700,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "SANTO ANTONIO DO ICA"
+		"id" : 1303700,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "SANTO ANTONIO DO ICA"
 	},
 	{
-		"CodigoIBGE" : 1303809,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "SAO GABRIEL DA CACHOEIRA"
+		"id" : 1303809,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "SAO GABRIEL DA CACHOEIRA"
 	},
 	{
-		"CodigoIBGE" : 1303908,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "SAO PAULO DE OLIVENCA"
+		"id" : 1303908,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "SAO PAULO DE OLIVENCA"
 	},
 	{
-		"CodigoIBGE" : 1303957,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "SAO SEBASTIAO DO UATUMA"
+		"id" : 1303957,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "SAO SEBASTIAO DO UATUMA"
 	},
 	{
-		"CodigoIBGE" : 1304005,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "SILVES"
+		"id" : 1304005,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "SILVES"
 	},
 	{
-		"CodigoIBGE" : 1304062,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "TABATINGA"
+		"id" : 1304062,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "TABATINGA"
 	},
 	{
-		"CodigoIBGE" : 1304104,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "TAPAUA"
+		"id" : 1304104,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "TAPAUA"
 	},
 	{
-		"CodigoIBGE" : 1304203,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "TEFE"
+		"id" : 1304203,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "TEFE"
 	},
 	{
-		"CodigoIBGE" : 1304237,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "TONANTINS"
+		"id" : 1304237,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "TONANTINS"
 	},
 	{
-		"CodigoIBGE" : 1304260,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "UARINI"
+		"id" : 1304260,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "UARINI"
 	},
 	{
-		"CodigoIBGE" : 1304302,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "URUCARA"
+		"id" : 1304302,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "URUCARA"
 	},
 	{
-		"CodigoIBGE" : 1304401,
-		"CodigoIBGEUF" : 13,
-		"SiglaUF" : "AM",
-		"NomeUF" : "AMAZONAS",
-		"NomeMunicipio" : "URUCURITUBA"
+		"id" : 1304401,
+		"parentId" : 13,
+		"acronym" : "AM",
+		"descriptionParent" : "AMAZONAS",
+		"description" : "URUCURITUBA"
 	}
 ]

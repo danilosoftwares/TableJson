@@ -1,156 +1,156 @@
 [
 	{
-		"CodigoIBGE" : 1200013,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "ACRELANDIA"
+		"id" : 1200013,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "ACRELANDIA"
 	},
 	{
-		"CodigoIBGE" : 1200054,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "ASSIS BRASIL"
+		"id" : 1200054,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "ASSIS BRASIL"
 	},
 	{
-		"CodigoIBGE" : 1200104,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "BRASILEIA"
+		"id" : 1200104,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "BRASILEIA"
 	},
 	{
-		"CodigoIBGE" : 1200138,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "BUJARI"
+		"id" : 1200138,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "BUJARI"
 	},
 	{
-		"CodigoIBGE" : 1200179,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "CAPIXABA"
+		"id" : 1200179,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "CAPIXABA"
 	},
 	{
-		"CodigoIBGE" : 1200203,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "CRUZEIRO DO SUL"
+		"id" : 1200203,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "CRUZEIRO DO SUL"
 	},
 	{
-		"CodigoIBGE" : 1200252,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "EPITACIOLANDIA"
+		"id" : 1200252,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "EPITACIOLANDIA"
 	},
 	{
-		"CodigoIBGE" : 1200302,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "FEIJO"
+		"id" : 1200302,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "FEIJO"
 	},
 	{
-		"CodigoIBGE" : 1200328,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "JORDAO"
+		"id" : 1200328,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "JORDAO"
 	},
 	{
-		"CodigoIBGE" : 1200336,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "MANCIO LIMA"
+		"id" : 1200336,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "MANCIO LIMA"
 	},
 	{
-		"CodigoIBGE" : 1200344,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "MANOEL URBANO"
+		"id" : 1200344,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "MANOEL URBANO"
 	},
 	{
-		"CodigoIBGE" : 1200351,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "MARECHAL THAUMATURGO"
+		"id" : 1200351,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "MARECHAL THAUMATURGO"
 	},
 	{
-		"CodigoIBGE" : 1200385,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "PLACIDO DE CASTRO"
+		"id" : 1200385,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "PLACIDO DE CASTRO"
 	},
 	{
-		"CodigoIBGE" : 1200393,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "PORTO WALTER"
+		"id" : 1200393,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "PORTO WALTER"
 	},
 	{
-		"CodigoIBGE" : 1200401,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "RIO BRANCO"
+		"id" : 1200401,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "RIO BRANCO"
 	},
 	{
-		"CodigoIBGE" : 1200427,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "RODRIGUES ALVES"
+		"id" : 1200427,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "RODRIGUES ALVES"
 	},
 	{
-		"CodigoIBGE" : 1200435,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "SANTA ROSA DO PURUS"
+		"id" : 1200435,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "SANTA ROSA DO PURUS"
 	},
 	{
-		"CodigoIBGE" : 1200450,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "SENADOR GUIOMARD"
+		"id" : 1200450,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "SENADOR GUIOMARD"
 	},
 	{
-		"CodigoIBGE" : 1200500,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "SENA MADUREIRA"
+		"id" : 1200500,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "SENA MADUREIRA"
 	},
 	{
-		"CodigoIBGE" : 1200609,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "TARAUACA"
+		"id" : 1200609,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "TARAUACA"
 	},
 	{
-		"CodigoIBGE" : 1200708,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "XAPURI"
+		"id" : 1200708,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "XAPURI"
 	},
 	{
-		"CodigoIBGE" : 1200807,
-		"CodigoIBGEUF" : 12,
-		"SiglaUF" : "AC",
-		"NomeUF" : "ACRE",
-		"NomeMunicipio" : "PORTO ACRE"
+		"id" : 1200807,
+		"parentId" : 12,
+		"acronym" : "AC",
+		"descriptionParent" : "ACRE",
+		"description" : "PORTO ACRE"
 	}
 ]

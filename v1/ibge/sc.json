@@ -1,2053 +1,2053 @@
 [
 	{
-		"CodigoIBGE": 4200051,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ABDON BATISTA"
+		"id": 4200051,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ABDON BATISTA"
 	},
 	{
-		"CodigoIBGE": 4200101,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ABELARDO LUZ"
+		"id": 4200101,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ABELARDO LUZ"
 	},
 	{
-		"CodigoIBGE": 4200200,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AGROLANDIA"
+		"id": 4200200,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AGROLANDIA"
 	},
 	{
-		"CodigoIBGE": 4200309,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AGRONOMICA"
+		"id": 4200309,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AGRONOMICA"
 	},
 	{
-		"CodigoIBGE": 4200408,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AGUA DOCE"
+		"id": 4200408,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AGUA DOCE"
 	},
 	{
-		"CodigoIBGE": 4200507,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AGUAS DE CHAPECO"
+		"id": 4200507,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AGUAS DE CHAPECO"
 	},
 	{
-		"CodigoIBGE": 4200556,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AGUAS FRIAS"
+		"id": 4200556,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AGUAS FRIAS"
 	},
 	{
-		"CodigoIBGE": 4200606,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AGUAS MORNAS"
+		"id": 4200606,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AGUAS MORNAS"
 	},
 	{
-		"CodigoIBGE": 4200705,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ALFREDO WAGNER"
+		"id": 4200705,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ALFREDO WAGNER"
 	},
 	{
-		"CodigoIBGE": 4200754,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ALTO BELA VISTA"
+		"id": 4200754,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ALTO BELA VISTA"
 	},
 	{
-		"CodigoIBGE": 4200804,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ANCHIETA"
+		"id": 4200804,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ANCHIETA"
 	},
 	{
-		"CodigoIBGE": 4200903,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ANGELINA"
+		"id": 4200903,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ANGELINA"
 	},
 	{
-		"CodigoIBGE": 4201000,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ANITA GARIBALDI"
+		"id": 4201000,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ANITA GARIBALDI"
 	},
 	{
-		"CodigoIBGE": 4201109,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ANITAPOLIS"
+		"id": 4201109,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ANITAPOLIS"
 	},
 	{
-		"CodigoIBGE": 4201208,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ANTONIO CARLOS"
+		"id": 4201208,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ANTONIO CARLOS"
 	},
 	{
-		"CodigoIBGE": 4201257,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "APIUNA"
+		"id": 4201257,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "APIUNA"
 	},
 	{
-		"CodigoIBGE": 4201273,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ARABUTA"
+		"id": 4201273,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ARABUTA"
 	},
 	{
-		"CodigoIBGE": 4201307,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ARAQUARI"
+		"id": 4201307,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ARAQUARI"
 	},
 	{
-		"CodigoIBGE": 4201406,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ARARANGUA"
+		"id": 4201406,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ARARANGUA"
 	},
 	{
-		"CodigoIBGE": 4201505,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ARMAZEM"
+		"id": 4201505,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ARMAZEM"
 	},
 	{
-		"CodigoIBGE": 4201604,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ARROIO TRINTA"
+		"id": 4201604,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ARROIO TRINTA"
 	},
 	{
-		"CodigoIBGE": 4201653,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ARVOREDO"
+		"id": 4201653,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ARVOREDO"
 	},
 	{
-		"CodigoIBGE": 4201703,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ASCURRA"
+		"id": 4201703,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ASCURRA"
 	},
 	{
-		"CodigoIBGE": 4201802,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ATALANTA"
+		"id": 4201802,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ATALANTA"
 	},
 	{
-		"CodigoIBGE": 4201901,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "AURORA"
+		"id": 4201901,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "AURORA"
 	},
 	{
-		"CodigoIBGE": 4201950,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BALNEARIO ARROIO DO SILVA"
+		"id": 4201950,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BALNEARIO ARROIO DO SILVA"
 	},
 	{
-		"CodigoIBGE": 4202008,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BALNEARIO CAMBORIU"
+		"id": 4202008,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BALNEARIO CAMBORIU"
 	},
 	{
-		"CodigoIBGE": 4202057,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BALNEARIO BARRA DO SUL"
+		"id": 4202057,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BALNEARIO BARRA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4202073,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BALNEARIO GAIVOTA"
+		"id": 4202073,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BALNEARIO GAIVOTA"
 	},
 	{
-		"CodigoIBGE": 4202081,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BANDEIRANTE"
+		"id": 4202081,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BANDEIRANTE"
 	},
 	{
-		"CodigoIBGE": 4202099,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BARRA BONITA"
+		"id": 4202099,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BARRA BONITA"
 	},
 	{
-		"CodigoIBGE": 4202107,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BARRA VELHA"
+		"id": 4202107,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BARRA VELHA"
 	},
 	{
-		"CodigoIBGE": 4202131,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BELA VISTA DO TOLDO"
+		"id": 4202131,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BELA VISTA DO TOLDO"
 	},
 	{
-		"CodigoIBGE": 4202156,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BELMONTE"
+		"id": 4202156,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BELMONTE"
 	},
 	{
-		"CodigoIBGE": 4202206,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BENEDITO NOVO"
+		"id": 4202206,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BENEDITO NOVO"
 	},
 	{
-		"CodigoIBGE": 4202305,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BIGUACU"
+		"id": 4202305,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BIGUACU"
 	},
 	{
-		"CodigoIBGE": 4202404,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BLUMENAU"
+		"id": 4202404,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BLUMENAU"
 	},
 	{
-		"CodigoIBGE": 4202438,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOCAINA DO SUL"
+		"id": 4202438,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOCAINA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4202453,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOMBINHAS"
+		"id": 4202453,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOMBINHAS"
 	},
 	{
-		"CodigoIBGE": 4202503,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOM JARDIM DA SERRA"
+		"id": 4202503,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOM JARDIM DA SERRA"
 	},
 	{
-		"CodigoIBGE": 4202537,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOM JESUS"
+		"id": 4202537,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOM JESUS"
 	},
 	{
-		"CodigoIBGE": 4202578,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOM JESUS DO OESTE"
+		"id": 4202578,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOM JESUS DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4202602,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOM RETIRO"
+		"id": 4202602,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOM RETIRO"
 	},
 	{
-		"CodigoIBGE": 4202701,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BOTUVERA"
+		"id": 4202701,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BOTUVERA"
 	},
 	{
-		"CodigoIBGE": 4202800,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BRACO DO NORTE"
+		"id": 4202800,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BRACO DO NORTE"
 	},
 	{
-		"CodigoIBGE": 4202859,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BRACO DO TROMBUDO"
+		"id": 4202859,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BRACO DO TROMBUDO"
 	},
 	{
-		"CodigoIBGE": 4202875,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BRUNOPOLIS"
+		"id": 4202875,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BRUNOPOLIS"
 	},
 	{
-		"CodigoIBGE": 4202909,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BRUSQUE"
+		"id": 4202909,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BRUSQUE"
 	},
 	{
-		"CodigoIBGE": 4203006,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CACADOR"
+		"id": 4203006,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CACADOR"
 	},
 	{
-		"CodigoIBGE": 4203105,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAIBI"
+		"id": 4203105,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAIBI"
 	},
 	{
-		"CodigoIBGE": 4203154,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CALMON"
+		"id": 4203154,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CALMON"
 	},
 	{
-		"CodigoIBGE": 4203204,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAMBORIU"
+		"id": 4203204,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAMBORIU"
 	},
 	{
-		"CodigoIBGE": 4203253,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAPAO ALTO"
+		"id": 4203253,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAPAO ALTO"
 	},
 	{
-		"CodigoIBGE": 4203303,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAMPO ALEGRE"
+		"id": 4203303,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAMPO ALEGRE"
 	},
 	{
-		"CodigoIBGE": 4203402,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAMPO BELO DO SUL"
+		"id": 4203402,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAMPO BELO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4203501,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAMPO ERE"
+		"id": 4203501,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAMPO ERE"
 	},
 	{
-		"CodigoIBGE": 4203600,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAMPOS NOVOS"
+		"id": 4203600,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAMPOS NOVOS"
 	},
 	{
-		"CodigoIBGE": 4203709,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CANELINHA"
+		"id": 4203709,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CANELINHA"
 	},
 	{
-		"CodigoIBGE": 4203808,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CANOINHAS"
+		"id": 4203808,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CANOINHAS"
 	},
 	{
-		"CodigoIBGE": 4203907,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAPINZAL"
+		"id": 4203907,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAPINZAL"
 	},
 	{
-		"CodigoIBGE": 4203956,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAPIVARI DE BAIXO"
+		"id": 4203956,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAPIVARI DE BAIXO"
 	},
 	{
-		"CodigoIBGE": 4204004,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CATANDUVAS"
+		"id": 4204004,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CATANDUVAS"
 	},
 	{
-		"CodigoIBGE": 4204103,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CAXAMBU DO SUL"
+		"id": 4204103,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CAXAMBU DO SUL"
 	},
 	{
-		"CodigoIBGE": 4204152,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CELSO RAMOS"
+		"id": 4204152,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CELSO RAMOS"
 	},
 	{
-		"CodigoIBGE": 4204178,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CERRO NEGRO"
+		"id": 4204178,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CERRO NEGRO"
 	},
 	{
-		"CodigoIBGE": 4204194,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CHAPADAO DO LAGEADO"
+		"id": 4204194,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CHAPADAO DO LAGEADO"
 	},
 	{
-		"CodigoIBGE": 4204202,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CHAPECO"
+		"id": 4204202,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CHAPECO"
 	},
 	{
-		"CodigoIBGE": 4204251,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "COCAL DO SUL"
+		"id": 4204251,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "COCAL DO SUL"
 	},
 	{
-		"CodigoIBGE": 4204301,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CONCORDIA"
+		"id": 4204301,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CONCORDIA"
 	},
 	{
-		"CodigoIBGE": 4204350,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CORDILHEIRA ALTA"
+		"id": 4204350,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CORDILHEIRA ALTA"
 	},
 	{
-		"CodigoIBGE": 4204400,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CORONEL FREITAS"
+		"id": 4204400,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CORONEL FREITAS"
 	},
 	{
-		"CodigoIBGE": 4204459,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CORONEL MARTINS"
+		"id": 4204459,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CORONEL MARTINS"
 	},
 	{
-		"CodigoIBGE": 4204509,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CORUPA"
+		"id": 4204509,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CORUPA"
 	},
 	{
-		"CodigoIBGE": 4204558,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CORREIA PINTO"
+		"id": 4204558,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CORREIA PINTO"
 	},
 	{
-		"CodigoIBGE": 4204608,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CRICIUMA"
+		"id": 4204608,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CRICIUMA"
 	},
 	{
-		"CodigoIBGE": 4204707,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CUNHA PORA"
+		"id": 4204707,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CUNHA PORA"
 	},
 	{
-		"CodigoIBGE": 4204756,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CUNHATAI"
+		"id": 4204756,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CUNHATAI"
 	},
 	{
-		"CodigoIBGE": 4204806,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "CURITIBANOS"
+		"id": 4204806,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "CURITIBANOS"
 	},
 	{
-		"CodigoIBGE": 4204905,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "DESCANSO"
+		"id": 4204905,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "DESCANSO"
 	},
 	{
-		"CodigoIBGE": 4205001,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "DIONISIO CERQUEIRA"
+		"id": 4205001,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "DIONISIO CERQUEIRA"
 	},
 	{
-		"CodigoIBGE": 4205100,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "DONA EMMA"
+		"id": 4205100,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "DONA EMMA"
 	},
 	{
-		"CodigoIBGE": 4205159,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "DOUTOR PEDRINHO"
+		"id": 4205159,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "DOUTOR PEDRINHO"
 	},
 	{
-		"CodigoIBGE": 4205175,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ENTRE RIOS"
+		"id": 4205175,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ENTRE RIOS"
 	},
 	{
-		"CodigoIBGE": 4205191,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ERMO"
+		"id": 4205191,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ERMO"
 	},
 	{
-		"CodigoIBGE": 4205209,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ERVAL VELHO"
+		"id": 4205209,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ERVAL VELHO"
 	},
 	{
-		"CodigoIBGE": 4205308,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FAXINAL DOS GUEDES"
+		"id": 4205308,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FAXINAL DOS GUEDES"
 	},
 	{
-		"CodigoIBGE": 4205357,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FLOR DO SERTAO"
+		"id": 4205357,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FLOR DO SERTAO"
 	},
 	{
-		"CodigoIBGE": 4205407,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FLORIANOPOLIS"
+		"id": 4205407,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FLORIANOPOLIS"
 	},
 	{
-		"CodigoIBGE": 4205431,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FORMOSA DO SUL"
+		"id": 4205431,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FORMOSA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4205456,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FORQUILHINHA"
+		"id": 4205456,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FORQUILHINHA"
 	},
 	{
-		"CodigoIBGE": 4205506,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FRAIBURGO"
+		"id": 4205506,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FRAIBURGO"
 	},
 	{
-		"CodigoIBGE": 4205555,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "FREI ROGERIO"
+		"id": 4205555,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "FREI ROGERIO"
 	},
 	{
-		"CodigoIBGE": 4205605,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GALVAO"
+		"id": 4205605,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GALVAO"
 	},
 	{
-		"CodigoIBGE": 4205704,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GAROPABA"
+		"id": 4205704,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GAROPABA"
 	},
 	{
-		"CodigoIBGE": 4205803,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GARUVA"
+		"id": 4205803,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GARUVA"
 	},
 	{
-		"CodigoIBGE": 4205902,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GASPAR"
+		"id": 4205902,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GASPAR"
 	},
 	{
-		"CodigoIBGE": 4206009,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GOVERNADOR CELSO RAMOS"
+		"id": 4206009,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GOVERNADOR CELSO RAMOS"
 	},
 	{
-		"CodigoIBGE": 4206108,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GRAO PARA"
+		"id": 4206108,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GRAO PARA"
 	},
 	{
-		"CodigoIBGE": 4206207,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GRAVATAL"
+		"id": 4206207,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GRAVATAL"
 	},
 	{
-		"CodigoIBGE": 4206306,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GUABIRUBA"
+		"id": 4206306,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GUABIRUBA"
 	},
 	{
-		"CodigoIBGE": 4206405,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GUARACIABA"
+		"id": 4206405,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GUARACIABA"
 	},
 	{
-		"CodigoIBGE": 4206504,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GUARAMIRIM"
+		"id": 4206504,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GUARAMIRIM"
 	},
 	{
-		"CodigoIBGE": 4206603,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GUARUJA DO SUL"
+		"id": 4206603,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GUARUJA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4206652,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "GUATAMBU"
+		"id": 4206652,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "GUATAMBU"
 	},
 	{
-		"CodigoIBGE": 4206702,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "HERVAL D-  OESTE"
+		"id": 4206702,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "HERVAL D-  OESTE"
 	},
 	{
-		"CodigoIBGE": 4206751,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IBIAM"
+		"id": 4206751,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IBIAM"
 	},
 	{
-		"CodigoIBGE": 4206801,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IBICARE"
+		"id": 4206801,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IBICARE"
 	},
 	{
-		"CodigoIBGE": 4206900,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IBIRAMA"
+		"id": 4206900,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IBIRAMA"
 	},
 	{
-		"CodigoIBGE": 4207007,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ICARA"
+		"id": 4207007,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ICARA"
 	},
 	{
-		"CodigoIBGE": 4207106,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ILHOTA"
+		"id": 4207106,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ILHOTA"
 	},
 	{
-		"CodigoIBGE": 4207205,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IMARUI"
+		"id": 4207205,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IMARUI"
 	},
 	{
-		"CodigoIBGE": 4207304,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IMBITUBA"
+		"id": 4207304,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IMBITUBA"
 	},
 	{
-		"CodigoIBGE": 4207403,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IMBUIA"
+		"id": 4207403,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IMBUIA"
 	},
 	{
-		"CodigoIBGE": 4207502,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "INDAIAL"
+		"id": 4207502,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "INDAIAL"
 	},
 	{
-		"CodigoIBGE": 4207577,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IOMERE"
+		"id": 4207577,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IOMERE"
 	},
 	{
-		"CodigoIBGE": 4207601,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IPIRA"
+		"id": 4207601,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IPIRA"
 	},
 	{
-		"CodigoIBGE": 4207650,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IPORA DO OESTE"
+		"id": 4207650,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IPORA DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4207684,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IPUACU"
+		"id": 4207684,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IPUACU"
 	},
 	{
-		"CodigoIBGE": 4207700,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IPUMIRIM"
+		"id": 4207700,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IPUMIRIM"
 	},
 	{
-		"CodigoIBGE": 4207759,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IRACEMINHA"
+		"id": 4207759,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IRACEMINHA"
 	},
 	{
-		"CodigoIBGE": 4207809,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IRANI"
+		"id": 4207809,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IRANI"
 	},
 	{
-		"CodigoIBGE": 4207858,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IRATI"
+		"id": 4207858,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IRATI"
 	},
 	{
-		"CodigoIBGE": 4207908,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "IRINEOPOLIS"
+		"id": 4207908,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "IRINEOPOLIS"
 	},
 	{
-		"CodigoIBGE": 4208005,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITA"
+		"id": 4208005,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITA"
 	},
 	{
-		"CodigoIBGE": 4208104,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITAIOPOLIS"
+		"id": 4208104,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITAIOPOLIS"
 	},
 	{
-		"CodigoIBGE": 4208203,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITAJAI"
+		"id": 4208203,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITAJAI"
 	},
 	{
-		"CodigoIBGE": 4208302,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITAPEMA"
+		"id": 4208302,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITAPEMA"
 	},
 	{
-		"CodigoIBGE": 4208401,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITAPIRANGA"
+		"id": 4208401,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITAPIRANGA"
 	},
 	{
-		"CodigoIBGE": 4208450,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITAPOA"
+		"id": 4208450,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITAPOA"
 	},
 	{
-		"CodigoIBGE": 4208500,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ITUPORANGA"
+		"id": 4208500,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ITUPORANGA"
 	},
 	{
-		"CodigoIBGE": 4208609,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JABORA"
+		"id": 4208609,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JABORA"
 	},
 	{
-		"CodigoIBGE": 4208708,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JACINTO MACHADO"
+		"id": 4208708,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JACINTO MACHADO"
 	},
 	{
-		"CodigoIBGE": 4208807,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JAGUARUNA"
+		"id": 4208807,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JAGUARUNA"
 	},
 	{
-		"CodigoIBGE": 4208906,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JARAGUA DO SUL"
+		"id": 4208906,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JARAGUA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4208955,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JARDINOPOLIS"
+		"id": 4208955,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JARDINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 4209003,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JOACABA"
+		"id": 4209003,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JOACABA"
 	},
 	{
-		"CodigoIBGE": 4209102,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JOINVILLE"
+		"id": 4209102,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JOINVILLE"
 	},
 	{
-		"CodigoIBGE": 4209151,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JOSE BOITEUX"
+		"id": 4209151,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JOSE BOITEUX"
 	},
 	{
-		"CodigoIBGE": 4209177,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "JUPIA"
+		"id": 4209177,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "JUPIA"
 	},
 	{
-		"CodigoIBGE": 4209201,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LACERDOPOLIS"
+		"id": 4209201,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LACERDOPOLIS"
 	},
 	{
-		"CodigoIBGE": 4209300,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LAGES"
+		"id": 4209300,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LAGES"
 	},
 	{
-		"CodigoIBGE": 4209409,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LAGUNA"
+		"id": 4209409,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LAGUNA"
 	},
 	{
-		"CodigoIBGE": 4209458,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LAJEADO GRANDE"
+		"id": 4209458,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LAJEADO GRANDE"
 	},
 	{
-		"CodigoIBGE": 4209508,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LAURENTINO"
+		"id": 4209508,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LAURENTINO"
 	},
 	{
-		"CodigoIBGE": 4209607,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LAURO MULLER"
+		"id": 4209607,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LAURO MULLER"
 	},
 	{
-		"CodigoIBGE": 4209706,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LEBON REGIS"
+		"id": 4209706,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LEBON REGIS"
 	},
 	{
-		"CodigoIBGE": 4209805,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LEOBERTO LEAL"
+		"id": 4209805,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LEOBERTO LEAL"
 	},
 	{
-		"CodigoIBGE": 4209854,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LINDOIA DO SUL"
+		"id": 4209854,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LINDOIA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4209904,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LONTRAS"
+		"id": 4209904,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LONTRAS"
 	},
 	{
-		"CodigoIBGE": 4210001,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LUIZ ALVES"
+		"id": 4210001,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LUIZ ALVES"
 	},
 	{
-		"CodigoIBGE": 4210035,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "LUZERNA"
+		"id": 4210035,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "LUZERNA"
 	},
 	{
-		"CodigoIBGE": 4210050,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MACIEIRA"
+		"id": 4210050,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MACIEIRA"
 	},
 	{
-		"CodigoIBGE": 4210100,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MAFRA"
+		"id": 4210100,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MAFRA"
 	},
 	{
-		"CodigoIBGE": 4210209,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MAJOR GERCINO"
+		"id": 4210209,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MAJOR GERCINO"
 	},
 	{
-		"CodigoIBGE": 4210308,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MAJOR VIEIRA"
+		"id": 4210308,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MAJOR VIEIRA"
 	},
 	{
-		"CodigoIBGE": 4210407,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MARACAJA"
+		"id": 4210407,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MARACAJA"
 	},
 	{
-		"CodigoIBGE": 4210506,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MARAVILHA"
+		"id": 4210506,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MARAVILHA"
 	},
 	{
-		"CodigoIBGE": 4210555,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MAREMA"
+		"id": 4210555,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MAREMA"
 	},
 	{
-		"CodigoIBGE": 4210605,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MASSARANDUBA"
+		"id": 4210605,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MASSARANDUBA"
 	},
 	{
-		"CodigoIBGE": 4210704,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MATOS COSTA"
+		"id": 4210704,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MATOS COSTA"
 	},
 	{
-		"CodigoIBGE": 4210803,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MELEIRO"
+		"id": 4210803,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MELEIRO"
 	},
 	{
-		"CodigoIBGE": 4210852,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MIRIM DOCE"
+		"id": 4210852,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MIRIM DOCE"
 	},
 	{
-		"CodigoIBGE": 4210902,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MODELO"
+		"id": 4210902,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MODELO"
 	},
 	{
-		"CodigoIBGE": 4211009,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MONDAI"
+		"id": 4211009,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MONDAI"
 	},
 	{
-		"CodigoIBGE": 4211058,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MONTE CARLO"
+		"id": 4211058,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MONTE CARLO"
 	},
 	{
-		"CodigoIBGE": 4211108,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MONTE CASTELO"
+		"id": 4211108,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MONTE CASTELO"
 	},
 	{
-		"CodigoIBGE": 4211207,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MORRO DA FUMACA"
+		"id": 4211207,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MORRO DA FUMACA"
 	},
 	{
-		"CodigoIBGE": 4211256,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "MORRO GRANDE"
+		"id": 4211256,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "MORRO GRANDE"
 	},
 	{
-		"CodigoIBGE": 4211306,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "NAVEGANTES"
+		"id": 4211306,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "NAVEGANTES"
 	},
 	{
-		"CodigoIBGE": 4211405,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "NOVA ERECHIM"
+		"id": 4211405,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "NOVA ERECHIM"
 	},
 	{
-		"CodigoIBGE": 4211454,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "NOVA ITABERABA"
+		"id": 4211454,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "NOVA ITABERABA"
 	},
 	{
-		"CodigoIBGE": 4211504,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "NOVA TRENTO"
+		"id": 4211504,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "NOVA TRENTO"
 	},
 	{
-		"CodigoIBGE": 4211603,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "NOVA VENEZA"
+		"id": 4211603,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "NOVA VENEZA"
 	},
 	{
-		"CodigoIBGE": 4211652,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "NOVO HORIZONTE"
+		"id": 4211652,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "NOVO HORIZONTE"
 	},
 	{
-		"CodigoIBGE": 4211702,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ORLEANS"
+		"id": 4211702,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ORLEANS"
 	},
 	{
-		"CodigoIBGE": 4211751,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "OTACILIO COSTA"
+		"id": 4211751,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "OTACILIO COSTA"
 	},
 	{
-		"CodigoIBGE": 4211801,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "OURO"
+		"id": 4211801,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "OURO"
 	},
 	{
-		"CodigoIBGE": 4211850,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "OURO VERDE"
+		"id": 4211850,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "OURO VERDE"
 	},
 	{
-		"CodigoIBGE": 4211876,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PAIAL"
+		"id": 4211876,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PAIAL"
 	},
 	{
-		"CodigoIBGE": 4211892,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PAINEL"
+		"id": 4211892,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PAINEL"
 	},
 	{
-		"CodigoIBGE": 4211900,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PALHOCA"
+		"id": 4211900,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PALHOCA"
 	},
 	{
-		"CodigoIBGE": 4212007,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PALMA SOLA"
+		"id": 4212007,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PALMA SOLA"
 	},
 	{
-		"CodigoIBGE": 4212056,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PALMEIRA"
+		"id": 4212056,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PALMEIRA"
 	},
 	{
-		"CodigoIBGE": 4212106,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PALMITOS"
+		"id": 4212106,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PALMITOS"
 	},
 	{
-		"CodigoIBGE": 4212205,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PAPANDUVA"
+		"id": 4212205,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PAPANDUVA"
 	},
 	{
-		"CodigoIBGE": 4212239,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PARAISO"
+		"id": 4212239,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PARAISO"
 	},
 	{
-		"CodigoIBGE": 4212254,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PASSO DE TORRES"
+		"id": 4212254,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PASSO DE TORRES"
 	},
 	{
-		"CodigoIBGE": 4212270,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PASSOS MAIA"
+		"id": 4212270,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PASSOS MAIA"
 	},
 	{
-		"CodigoIBGE": 4212304,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PAULO LOPES"
+		"id": 4212304,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PAULO LOPES"
 	},
 	{
-		"CodigoIBGE": 4212403,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PEDRAS GRANDES"
+		"id": 4212403,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PEDRAS GRANDES"
 	},
 	{
-		"CodigoIBGE": 4212502,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PENHA"
+		"id": 4212502,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PENHA"
 	},
 	{
-		"CodigoIBGE": 4212601,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PERITIBA"
+		"id": 4212601,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PERITIBA"
 	},
 	{
-		"CodigoIBGE": 4212700,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PETROLANDIA"
+		"id": 4212700,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PETROLANDIA"
 	},
 	{
-		"CodigoIBGE": 4212809,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "BALNEARIO PICARRAS"
+		"id": 4212809,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "BALNEARIO PICARRAS"
 	},
 	{
-		"CodigoIBGE": 4212908,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PINHALZINHO"
+		"id": 4212908,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PINHALZINHO"
 	},
 	{
-		"CodigoIBGE": 4213005,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PINHEIRO PRETO"
+		"id": 4213005,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PINHEIRO PRETO"
 	},
 	{
-		"CodigoIBGE": 4213104,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PIRATUBA"
+		"id": 4213104,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PIRATUBA"
 	},
 	{
-		"CodigoIBGE": 4213153,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PLANALTO ALEGRE"
+		"id": 4213153,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PLANALTO ALEGRE"
 	},
 	{
-		"CodigoIBGE": 4213203,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "POMERODE"
+		"id": 4213203,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "POMERODE"
 	},
 	{
-		"CodigoIBGE": 4213302,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PONTE ALTA"
+		"id": 4213302,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PONTE ALTA"
 	},
 	{
-		"CodigoIBGE": 4213351,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PONTE ALTA DO NORTE"
+		"id": 4213351,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PONTE ALTA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 4213401,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PONTE SERRADA"
+		"id": 4213401,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PONTE SERRADA"
 	},
 	{
-		"CodigoIBGE": 4213500,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PORTO BELO"
+		"id": 4213500,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PORTO BELO"
 	},
 	{
-		"CodigoIBGE": 4213609,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PORTO UNIAO"
+		"id": 4213609,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PORTO UNIAO"
 	},
 	{
-		"CodigoIBGE": 4213708,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "POUSO REDONDO"
+		"id": 4213708,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "POUSO REDONDO"
 	},
 	{
-		"CodigoIBGE": 4213807,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PRAIA GRANDE"
+		"id": 4213807,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PRAIA GRANDE"
 	},
 	{
-		"CodigoIBGE": 4213906,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PRESIDENTE CASTELLO BRANCO"
+		"id": 4213906,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PRESIDENTE CASTELLO BRANCO"
 	},
 	{
-		"CodigoIBGE": 4214003,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PRESIDENTE GETULIO"
+		"id": 4214003,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PRESIDENTE GETULIO"
 	},
 	{
-		"CodigoIBGE": 4214102,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PRESIDENTE NEREU"
+		"id": 4214102,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PRESIDENTE NEREU"
 	},
 	{
-		"CodigoIBGE": 4214151,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "PRINCESA"
+		"id": 4214151,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "PRINCESA"
 	},
 	{
-		"CodigoIBGE": 4214201,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "QUILOMBO"
+		"id": 4214201,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "QUILOMBO"
 	},
 	{
-		"CodigoIBGE": 4214300,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RANCHO QUEIMADO"
+		"id": 4214300,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RANCHO QUEIMADO"
 	},
 	{
-		"CodigoIBGE": 4214409,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO DAS ANTAS"
+		"id": 4214409,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO DAS ANTAS"
 	},
 	{
-		"CodigoIBGE": 4214508,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO DO CAMPO"
+		"id": 4214508,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO DO CAMPO"
 	},
 	{
-		"CodigoIBGE": 4214607,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO DO OESTE"
+		"id": 4214607,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4214706,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO DOS CEDROS"
+		"id": 4214706,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO DOS CEDROS"
 	},
 	{
-		"CodigoIBGE": 4214805,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO DO SUL"
+		"id": 4214805,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4214904,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO FORTUNA"
+		"id": 4214904,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO FORTUNA"
 	},
 	{
-		"CodigoIBGE": 4215000,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO NEGRINHO"
+		"id": 4215000,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO NEGRINHO"
 	},
 	{
-		"CodigoIBGE": 4215059,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIO RUFINO"
+		"id": 4215059,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIO RUFINO"
 	},
 	{
-		"CodigoIBGE": 4215075,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RIQUEZA"
+		"id": 4215075,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RIQUEZA"
 	},
 	{
-		"CodigoIBGE": 4215109,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "RODEIO"
+		"id": 4215109,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "RODEIO"
 	},
 	{
-		"CodigoIBGE": 4215208,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ROMELANDIA"
+		"id": 4215208,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ROMELANDIA"
 	},
 	{
-		"CodigoIBGE": 4215307,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SALETE"
+		"id": 4215307,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SALETE"
 	},
 	{
-		"CodigoIBGE": 4215356,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SALTINHO"
+		"id": 4215356,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SALTINHO"
 	},
 	{
-		"CodigoIBGE": 4215406,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SALTO VELOSO"
+		"id": 4215406,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SALTO VELOSO"
 	},
 	{
-		"CodigoIBGE": 4215455,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANGAO"
+		"id": 4215455,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANGAO"
 	},
 	{
-		"CodigoIBGE": 4215505,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTA CECILIA"
+		"id": 4215505,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTA CECILIA"
 	},
 	{
-		"CodigoIBGE": 4215554,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTA HELENA"
+		"id": 4215554,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTA HELENA"
 	},
 	{
-		"CodigoIBGE": 4215604,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTA ROSA DE LIMA"
+		"id": 4215604,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTA ROSA DE LIMA"
 	},
 	{
-		"CodigoIBGE": 4215653,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTA ROSA DO SUL"
+		"id": 4215653,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTA ROSA DO SUL"
 	},
 	{
-		"CodigoIBGE": 4215679,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTA TEREZINHA"
+		"id": 4215679,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTA TEREZINHA"
 	},
 	{
-		"CodigoIBGE": 4215687,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTA TEREZINHA DO PROGRESSO"
+		"id": 4215687,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTA TEREZINHA DO PROGRESSO"
 	},
 	{
-		"CodigoIBGE": 4215695,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTIAGO DO SUL"
+		"id": 4215695,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTIAGO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4215703,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SANTO AMARO DA IMPERATRIZ"
+		"id": 4215703,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SANTO AMARO DA IMPERATRIZ"
 	},
 	{
-		"CodigoIBGE": 4215752,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO BERNARDINO"
+		"id": 4215752,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO BERNARDINO"
 	},
 	{
-		"CodigoIBGE": 4215802,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO BENTO DO SUL"
+		"id": 4215802,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO BENTO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4215901,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO BONIFACIO"
+		"id": 4215901,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO BONIFACIO"
 	},
 	{
-		"CodigoIBGE": 4216008,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO CARLOS"
+		"id": 4216008,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO CARLOS"
 	},
 	{
-		"CodigoIBGE": 4216057,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO CRISTOVAO DO SUL"
+		"id": 4216057,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO CRISTOVAO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4216107,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO DOMINGOS"
+		"id": 4216107,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO DOMINGOS"
 	},
 	{
-		"CodigoIBGE": 4216206,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO FRANCISCO DO SUL"
+		"id": 4216206,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO FRANCISCO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4216255,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOAO DO OESTE"
+		"id": 4216255,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOAO DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4216305,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOAO BATISTA"
+		"id": 4216305,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOAO BATISTA"
 	},
 	{
-		"CodigoIBGE": 4216354,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOAO DO ITAPERIU"
+		"id": 4216354,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOAO DO ITAPERIU"
 	},
 	{
-		"CodigoIBGE": 4216404,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOAO DO SUL"
+		"id": 4216404,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOAO DO SUL"
 	},
 	{
-		"CodigoIBGE": 4216503,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOAQUIM"
+		"id": 4216503,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOAQUIM"
 	},
 	{
-		"CodigoIBGE": 4216602,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOSE"
+		"id": 4216602,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOSE"
 	},
 	{
-		"CodigoIBGE": 4216701,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOSE DO CEDRO"
+		"id": 4216701,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOSE DO CEDRO"
 	},
 	{
-		"CodigoIBGE": 4216800,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO JOSE DO CERRITO"
+		"id": 4216800,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO JOSE DO CERRITO"
 	},
 	{
-		"CodigoIBGE": 4216909,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO LOURENCO DO OESTE"
+		"id": 4216909,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO LOURENCO DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4217006,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO LUDGERO"
+		"id": 4217006,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO LUDGERO"
 	},
 	{
-		"CodigoIBGE": 4217105,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO MARTINHO"
+		"id": 4217105,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO MARTINHO"
 	},
 	{
-		"CodigoIBGE": 4217154,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO MIGUEL DA BOA VISTA"
+		"id": 4217154,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO MIGUEL DA BOA VISTA"
 	},
 	{
-		"CodigoIBGE": 4217204,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO MIGUEL DO OESTE"
+		"id": 4217204,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO MIGUEL DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4217253,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAO PEDRO DE ALCANTARA"
+		"id": 4217253,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAO PEDRO DE ALCANTARA"
 	},
 	{
-		"CodigoIBGE": 4217303,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SAUDADES"
+		"id": 4217303,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SAUDADES"
 	},
 	{
-		"CodigoIBGE": 4217402,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SCHROEDER"
+		"id": 4217402,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SCHROEDER"
 	},
 	{
-		"CodigoIBGE": 4217501,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SEARA"
+		"id": 4217501,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SEARA"
 	},
 	{
-		"CodigoIBGE": 4217550,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SERRA ALTA"
+		"id": 4217550,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SERRA ALTA"
 	},
 	{
-		"CodigoIBGE": 4217600,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SIDEROPOLIS"
+		"id": 4217600,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SIDEROPOLIS"
 	},
 	{
-		"CodigoIBGE": 4217709,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SOMBRIO"
+		"id": 4217709,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SOMBRIO"
 	},
 	{
-		"CodigoIBGE": 4217758,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "SUL BRASIL"
+		"id": 4217758,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "SUL BRASIL"
 	},
 	{
-		"CodigoIBGE": 4217808,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TAIO"
+		"id": 4217808,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TAIO"
 	},
 	{
-		"CodigoIBGE": 4217907,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TANGARA"
+		"id": 4217907,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TANGARA"
 	},
 	{
-		"CodigoIBGE": 4217956,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TIGRINHOS"
+		"id": 4217956,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TIGRINHOS"
 	},
 	{
-		"CodigoIBGE": 4218004,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TIJUCAS"
+		"id": 4218004,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TIJUCAS"
 	},
 	{
-		"CodigoIBGE": 4218103,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TIMBE DO SUL"
+		"id": 4218103,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TIMBE DO SUL"
 	},
 	{
-		"CodigoIBGE": 4218202,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TIMBO"
+		"id": 4218202,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TIMBO"
 	},
 	{
-		"CodigoIBGE": 4218251,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TIMBO GRANDE"
+		"id": 4218251,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TIMBO GRANDE"
 	},
 	{
-		"CodigoIBGE": 4218301,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TRES BARRAS"
+		"id": 4218301,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TRES BARRAS"
 	},
 	{
-		"CodigoIBGE": 4218350,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TREVISO"
+		"id": 4218350,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TREVISO"
 	},
 	{
-		"CodigoIBGE": 4218400,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TREZE DE MAIO"
+		"id": 4218400,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TREZE DE MAIO"
 	},
 	{
-		"CodigoIBGE": 4218509,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TREZE TILIAS"
+		"id": 4218509,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TREZE TILIAS"
 	},
 	{
-		"CodigoIBGE": 4218608,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TROMBUDO CENTRAL"
+		"id": 4218608,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TROMBUDO CENTRAL"
 	},
 	{
-		"CodigoIBGE": 4218707,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TUBARAO"
+		"id": 4218707,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TUBARAO"
 	},
 	{
-		"CodigoIBGE": 4218756,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TUNAPOLIS"
+		"id": 4218756,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TUNAPOLIS"
 	},
 	{
-		"CodigoIBGE": 4218806,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "TURVO"
+		"id": 4218806,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "TURVO"
 	},
 	{
-		"CodigoIBGE": 4218855,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "UNIAO DO OESTE"
+		"id": 4218855,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "UNIAO DO OESTE"
 	},
 	{
-		"CodigoIBGE": 4218905,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "URUBICI"
+		"id": 4218905,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "URUBICI"
 	},
 	{
-		"CodigoIBGE": 4218954,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "URUPEMA"
+		"id": 4218954,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "URUPEMA"
 	},
 	{
-		"CodigoIBGE": 4219002,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "URUSSANGA"
+		"id": 4219002,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "URUSSANGA"
 	},
 	{
-		"CodigoIBGE": 4219101,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "VARGEAO"
+		"id": 4219101,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "VARGEAO"
 	},
 	{
-		"CodigoIBGE": 4219150,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "VARGEM"
+		"id": 4219150,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "VARGEM"
 	},
 	{
-		"CodigoIBGE": 4219176,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "VARGEM BONITA"
+		"id": 4219176,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "VARGEM BONITA"
 	},
 	{
-		"CodigoIBGE": 4219200,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "VIDAL RAMOS"
+		"id": 4219200,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "VIDAL RAMOS"
 	},
 	{
-		"CodigoIBGE": 4219309,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "VIDEIRA"
+		"id": 4219309,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "VIDEIRA"
 	},
 	{
-		"CodigoIBGE": 4219358,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "VITOR MEIRELES"
+		"id": 4219358,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "VITOR MEIRELES"
 	},
 	{
-		"CodigoIBGE": 4219408,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "WITMARSUM"
+		"id": 4219408,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "WITMARSUM"
 	},
 	{
-		"CodigoIBGE": 4219507,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "XANXERE"
+		"id": 4219507,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "XANXERE"
 	},
 	{
-		"CodigoIBGE": 4219606,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "XAVANTINA"
+		"id": 4219606,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "XAVANTINA"
 	},
 	{
-		"CodigoIBGE": 4219705,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "XAXIM"
+		"id": 4219705,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "XAXIM"
 	},
 	{
-		"CodigoIBGE": 4219853,
-		"CodigoIBGEUF": 42,
-		"SiglaUF": "SC",
-		"NomeUF": "SANTA CATARINA",
-		"NomeMunicipio": "ZORTEA"
+		"id": 4219853,
+		"parentId": 42,
+		"acronym": "SC",
+		"descriptionParent": "SANTA CATARINA",
+		"description": "ZORTEA"
 	}
 ]

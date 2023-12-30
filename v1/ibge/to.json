@@ -1,975 +1,975 @@
 [
 	{
-		"CodigoIBGE": 1700251,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ABREULANDIA"
+		"id": 1700251,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ABREULANDIA"
 	},
 	{
-		"CodigoIBGE": 1700301,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "AGUIARNOPOLIS"
+		"id": 1700301,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "AGUIARNOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1700350,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ALIANCA DO TOCANTINS"
+		"id": 1700350,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ALIANCA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1700400,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ALMAS"
+		"id": 1700400,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ALMAS"
 	},
 	{
-		"CodigoIBGE": 1700707,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ALVORADA"
+		"id": 1700707,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ALVORADA"
 	},
 	{
-		"CodigoIBGE": 1701002,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ANANAS"
+		"id": 1701002,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ANANAS"
 	},
 	{
-		"CodigoIBGE": 1701051,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ANGICO"
+		"id": 1701051,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ANGICO"
 	},
 	{
-		"CodigoIBGE": 1701101,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "APARECIDA DO RIO NEGRO"
+		"id": 1701101,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "APARECIDA DO RIO NEGRO"
 	},
 	{
-		"CodigoIBGE": 1701309,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAGOMINAS"
+		"id": 1701309,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAGOMINAS"
 	},
 	{
-		"CodigoIBGE": 1701903,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAGUACEMA"
+		"id": 1701903,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAGUACEMA"
 	},
 	{
-		"CodigoIBGE": 1702000,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAGUACU"
+		"id": 1702000,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAGUACU"
 	},
 	{
-		"CodigoIBGE": 1702109,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAGUAINA"
+		"id": 1702109,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAGUAINA"
 	},
 	{
-		"CodigoIBGE": 1702158,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAGUANA"
+		"id": 1702158,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAGUANA"
 	},
 	{
-		"CodigoIBGE": 1702208,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAGUATINS"
+		"id": 1702208,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAGUATINS"
 	},
 	{
-		"CodigoIBGE": 1702307,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARAPOEMA"
+		"id": 1702307,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARAPOEMA"
 	},
 	{
-		"CodigoIBGE": 1702406,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ARRAIAS"
+		"id": 1702406,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ARRAIAS"
 	},
 	{
-		"CodigoIBGE": 1702554,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "AUGUSTINOPOLIS"
+		"id": 1702554,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "AUGUSTINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1702703,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "AURORA DO TOCANTINS"
+		"id": 1702703,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "AURORA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1702901,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "AXIXA DO TOCANTINS"
+		"id": 1702901,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "AXIXA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1703008,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BABACULANDIA"
+		"id": 1703008,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BABACULANDIA"
 	},
 	{
-		"CodigoIBGE": 1703057,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BANDEIRANTES DO TOCANTINS"
+		"id": 1703057,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BANDEIRANTES DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1703073,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BARRA DO OURO"
+		"id": 1703073,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BARRA DO OURO"
 	},
 	{
-		"CodigoIBGE": 1703107,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BARROLANDIA"
+		"id": 1703107,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BARROLANDIA"
 	},
 	{
-		"CodigoIBGE": 1703206,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BERNARDO SAYAO"
+		"id": 1703206,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BERNARDO SAYAO"
 	},
 	{
-		"CodigoIBGE": 1703305,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BOM JESUS DO TOCANTINS"
+		"id": 1703305,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BOM JESUS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1703602,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BRASILANDIA DO TOCANTINS"
+		"id": 1703602,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BRASILANDIA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1703701,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BREJINHO DE NAZARE"
+		"id": 1703701,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BREJINHO DE NAZARE"
 	},
 	{
-		"CodigoIBGE": 1703800,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "BURITI DO TOCANTINS"
+		"id": 1703800,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "BURITI DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1703826,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CACHOEIRINHA"
+		"id": 1703826,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CACHOEIRINHA"
 	},
 	{
-		"CodigoIBGE": 1703842,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CAMPOS LINDOS"
+		"id": 1703842,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CAMPOS LINDOS"
 	},
 	{
-		"CodigoIBGE": 1703867,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CARIRI DO TOCANTINS"
+		"id": 1703867,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CARIRI DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1703883,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CARMOLANDIA"
+		"id": 1703883,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CARMOLANDIA"
 	},
 	{
-		"CodigoIBGE": 1703891,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CARRASCO BONITO"
+		"id": 1703891,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CARRASCO BONITO"
 	},
 	{
-		"CodigoIBGE": 1703909,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CASEARA"
+		"id": 1703909,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CASEARA"
 	},
 	{
-		"CodigoIBGE": 1704105,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CENTENARIO"
+		"id": 1704105,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CENTENARIO"
 	},
 	{
-		"CodigoIBGE": 1704600,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CHAPADA DE AREIA"
+		"id": 1704600,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CHAPADA DE AREIA"
 	},
 	{
-		"CodigoIBGE": 1705102,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CHAPADA DA NATIVIDADE"
+		"id": 1705102,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CHAPADA DA NATIVIDADE"
 	},
 	{
-		"CodigoIBGE": 1705508,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "COLINAS DO TOCANTINS"
+		"id": 1705508,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "COLINAS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1705557,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "COMBINADO"
+		"id": 1705557,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "COMBINADO"
 	},
 	{
-		"CodigoIBGE": 1705607,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CONCEICAO DO TOCANTINS"
+		"id": 1705607,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CONCEICAO DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1706001,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "COUTO DE MAGALHAES"
+		"id": 1706001,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "COUTO DE MAGALHAES"
 	},
 	{
-		"CodigoIBGE": 1706100,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CRISTALANDIA"
+		"id": 1706100,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CRISTALANDIA"
 	},
 	{
-		"CodigoIBGE": 1706258,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "CRIXAS DO TOCANTINS"
+		"id": 1706258,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "CRIXAS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1706506,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "DARCINOPOLIS"
+		"id": 1706506,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "DARCINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1707009,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "DIANOPOLIS"
+		"id": 1707009,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "DIANOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1707108,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "DIVINOPOLIS DO TOCANTINS"
+		"id": 1707108,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "DIVINOPOLIS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1707207,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "DOIS IRMAOS DO TOCANTINS"
+		"id": 1707207,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "DOIS IRMAOS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1707306,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "DUERE"
+		"id": 1707306,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "DUERE"
 	},
 	{
-		"CodigoIBGE": 1707405,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ESPERANTINA"
+		"id": 1707405,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ESPERANTINA"
 	},
 	{
-		"CodigoIBGE": 1707553,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "FATIMA"
+		"id": 1707553,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "FATIMA"
 	},
 	{
-		"CodigoIBGE": 1707652,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "FIGUEIROPOLIS"
+		"id": 1707652,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "FIGUEIROPOLIS"
 	},
 	{
-		"CodigoIBGE": 1707702,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "FILADELFIA"
+		"id": 1707702,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "FILADELFIA"
 	},
 	{
-		"CodigoIBGE": 1708205,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "FORMOSO DO ARAGUAIA"
+		"id": 1708205,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "FORMOSO DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1708254,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "FORTALEZA DO TABOCAO"
+		"id": 1708254,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "FORTALEZA DO TABOCAO"
 	},
 	{
-		"CodigoIBGE": 1708304,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "GOIANORTE"
+		"id": 1708304,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "GOIANORTE"
 	},
 	{
-		"CodigoIBGE": 1709005,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "GOIATINS"
+		"id": 1709005,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "GOIATINS"
 	},
 	{
-		"CodigoIBGE": 1709302,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "GUARAI"
+		"id": 1709302,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "GUARAI"
 	},
 	{
-		"CodigoIBGE": 1709500,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "GURUPI"
+		"id": 1709500,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "GURUPI"
 	},
 	{
-		"CodigoIBGE": 1709807,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "IPUEIRAS"
+		"id": 1709807,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "IPUEIRAS"
 	},
 	{
-		"CodigoIBGE": 1710508,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ITACAJA"
+		"id": 1710508,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ITACAJA"
 	},
 	{
-		"CodigoIBGE": 1710706,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ITAGUATINS"
+		"id": 1710706,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ITAGUATINS"
 	},
 	{
-		"CodigoIBGE": 1710904,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ITAPIRATINS"
+		"id": 1710904,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ITAPIRATINS"
 	},
 	{
-		"CodigoIBGE": 1711100,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "ITAPORA DO TOCANTINS"
+		"id": 1711100,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "ITAPORA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1711506,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "JAU DO TOCANTINS"
+		"id": 1711506,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "JAU DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1711803,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "JUARINA"
+		"id": 1711803,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "JUARINA"
 	},
 	{
-		"CodigoIBGE": 1711902,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "LAGOA DA CONFUSAO"
+		"id": 1711902,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "LAGOA DA CONFUSAO"
 	},
 	{
-		"CodigoIBGE": 1711951,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "LAGOA DO TOCANTINS"
+		"id": 1711951,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "LAGOA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1712009,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "LAJEADO"
+		"id": 1712009,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "LAJEADO"
 	},
 	{
-		"CodigoIBGE": 1712157,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "LAVANDEIRA"
+		"id": 1712157,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "LAVANDEIRA"
 	},
 	{
-		"CodigoIBGE": 1712405,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "LIZARDA"
+		"id": 1712405,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "LIZARDA"
 	},
 	{
-		"CodigoIBGE": 1712454,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "LUZINOPOLIS"
+		"id": 1712454,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "LUZINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1712504,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MARIANOPOLIS DO TOCANTINS"
+		"id": 1712504,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MARIANOPOLIS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1712702,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MATEIROS"
+		"id": 1712702,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MATEIROS"
 	},
 	{
-		"CodigoIBGE": 1712801,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MAURILANDIA DO TOCANTINS"
+		"id": 1712801,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MAURILANDIA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1713205,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MIRACEMA DO TOCANTINS"
+		"id": 1713205,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MIRACEMA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1713304,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MIRANORTE"
+		"id": 1713304,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MIRANORTE"
 	},
 	{
-		"CodigoIBGE": 1713601,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MONTE DO CARMO"
+		"id": 1713601,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MONTE DO CARMO"
 	},
 	{
-		"CodigoIBGE": 1713700,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MONTE SANTO DO TOCANTINS"
+		"id": 1713700,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MONTE SANTO DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1713809,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PALMEIRAS DO TOCANTINS"
+		"id": 1713809,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PALMEIRAS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1713957,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "MURICILANDIA"
+		"id": 1713957,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "MURICILANDIA"
 	},
 	{
-		"CodigoIBGE": 1714203,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NATIVIDADE"
+		"id": 1714203,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NATIVIDADE"
 	},
 	{
-		"CodigoIBGE": 1714302,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NAZARE"
+		"id": 1714302,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NAZARE"
 	},
 	{
-		"CodigoIBGE": 1714880,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NOVA OLINDA"
+		"id": 1714880,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NOVA OLINDA"
 	},
 	{
-		"CodigoIBGE": 1715002,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NOVA ROSALANDIA"
+		"id": 1715002,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NOVA ROSALANDIA"
 	},
 	{
-		"CodigoIBGE": 1715101,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NOVO ACORDO"
+		"id": 1715101,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NOVO ACORDO"
 	},
 	{
-		"CodigoIBGE": 1715150,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NOVO ALEGRE"
+		"id": 1715150,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NOVO ALEGRE"
 	},
 	{
-		"CodigoIBGE": 1715259,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "NOVO JARDIM"
+		"id": 1715259,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "NOVO JARDIM"
 	},
 	{
-		"CodigoIBGE": 1715507,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "OLIVEIRA DE FATIMA"
+		"id": 1715507,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "OLIVEIRA DE FATIMA"
 	},
 	{
-		"CodigoIBGE": 1715705,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PALMEIRANTE"
+		"id": 1715705,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PALMEIRANTE"
 	},
 	{
-		"CodigoIBGE": 1715754,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PALMEIROPOLIS"
+		"id": 1715754,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PALMEIROPOLIS"
 	},
 	{
-		"CodigoIBGE": 1716109,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PARAISO DO TOCANTINS"
+		"id": 1716109,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PARAISO DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1716208,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PARANA"
+		"id": 1716208,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PARANA"
 	},
 	{
-		"CodigoIBGE": 1716307,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PAU D-  ARCO"
+		"id": 1716307,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PAU D-  ARCO"
 	},
 	{
-		"CodigoIBGE": 1716505,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PEDRO AFONSO"
+		"id": 1716505,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PEDRO AFONSO"
 	},
 	{
-		"CodigoIBGE": 1716604,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PEIXE"
+		"id": 1716604,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PEIXE"
 	},
 	{
-		"CodigoIBGE": 1716653,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PEQUIZEIRO"
+		"id": 1716653,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PEQUIZEIRO"
 	},
 	{
-		"CodigoIBGE": 1716703,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "COLMEIA"
+		"id": 1716703,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "COLMEIA"
 	},
 	{
-		"CodigoIBGE": 1717008,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PINDORAMA DO TOCANTINS"
+		"id": 1717008,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PINDORAMA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1717206,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PIRAQUE"
+		"id": 1717206,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PIRAQUE"
 	},
 	{
-		"CodigoIBGE": 1717503,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PIUM"
+		"id": 1717503,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PIUM"
 	},
 	{
-		"CodigoIBGE": 1717800,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PONTE ALTA DO BOM JESUS"
+		"id": 1717800,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PONTE ALTA DO BOM JESUS"
 	},
 	{
-		"CodigoIBGE": 1717909,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PONTE ALTA DO TOCANTINS"
+		"id": 1717909,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PONTE ALTA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1718006,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PORTO ALEGRE DO TOCANTINS"
+		"id": 1718006,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PORTO ALEGRE DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1718204,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PORTO NACIONAL"
+		"id": 1718204,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PORTO NACIONAL"
 	},
 	{
-		"CodigoIBGE": 1718303,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PRAIA NORTE"
+		"id": 1718303,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PRAIA NORTE"
 	},
 	{
-		"CodigoIBGE": 1718402,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PRESIDENTE KENNEDY"
+		"id": 1718402,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PRESIDENTE KENNEDY"
 	},
 	{
-		"CodigoIBGE": 1718451,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PUGMIL"
+		"id": 1718451,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PUGMIL"
 	},
 	{
-		"CodigoIBGE": 1718501,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "RECURSOLANDIA"
+		"id": 1718501,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "RECURSOLANDIA"
 	},
 	{
-		"CodigoIBGE": 1718550,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "RIACHINHO"
+		"id": 1718550,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "RIACHINHO"
 	},
 	{
-		"CodigoIBGE": 1718659,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "RIO DA CONCEICAO"
+		"id": 1718659,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "RIO DA CONCEICAO"
 	},
 	{
-		"CodigoIBGE": 1718709,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "RIO DOS BOIS"
+		"id": 1718709,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "RIO DOS BOIS"
 	},
 	{
-		"CodigoIBGE": 1718758,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "RIO SONO"
+		"id": 1718758,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "RIO SONO"
 	},
 	{
-		"CodigoIBGE": 1718808,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAMPAIO"
+		"id": 1718808,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAMPAIO"
 	},
 	{
-		"CodigoIBGE": 1718840,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANDOLANDIA"
+		"id": 1718840,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANDOLANDIA"
 	},
 	{
-		"CodigoIBGE": 1718865,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANTA FE DO ARAGUAIA"
+		"id": 1718865,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANTA FE DO ARAGUAIA"
 	},
 	{
-		"CodigoIBGE": 1718881,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANTA MARIA DO TOCANTINS"
+		"id": 1718881,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANTA MARIA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1718899,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANTA RITA DO TOCANTINS"
+		"id": 1718899,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANTA RITA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1718907,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANTA ROSA DO TOCANTINS"
+		"id": 1718907,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANTA ROSA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1719004,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANTA TEREZA DO TOCANTINS"
+		"id": 1719004,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANTA TEREZA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720002,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SANTA TEREZINHA DO TOCANTINS"
+		"id": 1720002,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SANTA TEREZINHA DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720101,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAO BENTO DO TOCANTINS"
+		"id": 1720101,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAO BENTO DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720150,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAO FELIX DO TOCANTINS"
+		"id": 1720150,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAO FELIX DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720200,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAO MIGUEL DO TOCANTINS"
+		"id": 1720200,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAO MIGUEL DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720259,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAO SALVADOR DO TOCANTINS"
+		"id": 1720259,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAO SALVADOR DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720309,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAO SEBASTIAO DO TOCANTINS"
+		"id": 1720309,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAO SEBASTIAO DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720499,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SAO VALERIO DA NATIVIDADE"
+		"id": 1720499,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SAO VALERIO DA NATIVIDADE"
 	},
 	{
-		"CodigoIBGE": 1720655,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SILVANOPOLIS"
+		"id": 1720655,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SILVANOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1720804,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SITIO NOVO DO TOCANTINS"
+		"id": 1720804,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SITIO NOVO DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720853,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "SUCUPIRA"
+		"id": 1720853,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "SUCUPIRA"
 	},
 	{
-		"CodigoIBGE": 1720903,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TAGUATINGA"
+		"id": 1720903,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TAGUATINGA"
 	},
 	{
-		"CodigoIBGE": 1720937,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TAIPAS DO TOCANTINS"
+		"id": 1720937,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TAIPAS DO TOCANTINS"
 	},
 	{
-		"CodigoIBGE": 1720978,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TALISMA"
+		"id": 1720978,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TALISMA"
 	},
 	{
-		"CodigoIBGE": 1721000,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "PALMAS"
+		"id": 1721000,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "PALMAS"
 	},
 	{
-		"CodigoIBGE": 1721109,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TOCANTINIA"
+		"id": 1721109,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TOCANTINIA"
 	},
 	{
-		"CodigoIBGE": 1721208,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TOCANTINOPOLIS"
+		"id": 1721208,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TOCANTINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 1721257,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TUPIRAMA"
+		"id": 1721257,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TUPIRAMA"
 	},
 	{
-		"CodigoIBGE": 1721307,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "TUPIRATINS"
+		"id": 1721307,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "TUPIRATINS"
 	},
 	{
-		"CodigoIBGE": 1722081,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "WANDERLANDIA"
+		"id": 1722081,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "WANDERLANDIA"
 	},
 	{
-		"CodigoIBGE": 1722107,
-		"CodigoIBGEUF": 17,
-		"SiglaUF": "TO",
-		"NomeUF": "TOCANTINS",
-		"NomeMunicipio": "XAMBIOA"
+		"id": 1722107,
+		"parentId": 17,
+		"acronym": "TO",
+		"descriptionParent": "TOCANTINS",
+		"description": "XAMBIOA"
 	}
 ]

@@ -1,270 +1,270 @@
 [
 	{
-		"ddd" : 11,
-		"uf" : "SP"
+		"id" : 11,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 12,
-		"uf" : "SP"
+		"id" : 12,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 13,
-		"uf" : "SP"
+		"id" : 13,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 14,
-		"uf" : "SP"
+		"id" : 14,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 15,
-		"uf" : "SP"
+		"id" : 15,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 16,
-		"uf" : "SP"
+		"id" : 16,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 17,
-		"uf" : "SP"
+		"id" : 17,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 18,
-		"uf" : "SP"
+		"id" : 18,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 19,
-		"uf" : "SP"
+		"id" : 19,
+		"description" : "SP"
 	},
 	{
-		"ddd" : 21,
-		"uf" : "RJ"
+		"id" : 21,
+		"description" : "RJ"
 	},
 	{
-		"ddd" : 22,
-		"uf" : "RJ"
+		"id" : 22,
+		"description" : "RJ"
 	},
 	{
-		"ddd" : 24,
-		"uf" : "RJ"
+		"id" : 24,
+		"description" : "RJ"
 	},
 	{
-		"ddd" : 27,
-		"uf" : "ES"
+		"id" : 27,
+		"description" : "ES"
 	},
 	{
-		"ddd" : 28,
-		"uf" : "ES"
+		"id" : 28,
+		"description" : "ES"
 	},
 	{
-		"ddd" : 31,
-		"uf" : "MG"
+		"id" : 31,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 32,
-		"uf" : "MG"
+		"id" : 32,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 33,
-		"uf" : "MG"
+		"id" : 33,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 34,
-		"uf" : "MG"
+		"id" : 34,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 35,
-		"uf" : "MG"
+		"id" : 35,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 37,
-		"uf" : "MG"
+		"id" : 37,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 38,
-		"uf" : "MG"
+		"id" : 38,
+		"description" : "MG"
 	},
 	{
-		"ddd" : 41,
-		"uf" : "PR"
+		"id" : 41,
+		"description" : "PR"
 	},
 	{
-		"ddd" : 42,
-		"uf" : "PR"
+		"id" : 42,
+		"description" : "PR"
 	},
 	{
-		"ddd" : 43,
-		"uf" : "PR"
+		"id" : 43,
+		"description" : "PR"
 	},
 	{
-		"ddd" : 44,
-		"uf" : "PR"
+		"id" : 44,
+		"description" : "PR"
 	},
 	{
-		"ddd" : 45,
-		"uf" : "PR"
+		"id" : 45,
+		"description" : "PR"
 	},
 	{
-		"ddd" : 46,
-		"uf" : "PR"
+		"id" : 46,
+		"description" : "PR"
 	},
 	{
-		"ddd" : 47,
-		"uf" : "SC"
+		"id" : 47,
+		"description" : "SC"
 	},
 	{
-		"ddd" : 48,
-		"uf" : "SC"
+		"id" : 48,
+		"description" : "SC"
 	},
 	{
-		"ddd" : 49,
-		"uf" : "SC"
+		"id" : 49,
+		"description" : "SC"
 	},
 	{
-		"ddd" : 51,
-		"uf" : "RS"
+		"id" : 51,
+		"description" : "RS"
 	},
 	{
-		"ddd" : 53,
-		"uf" : "RS"
+		"id" : 53,
+		"description" : "RS"
 	},
 	{
-		"ddd" : 54,
-		"uf" : "RS"
+		"id" : 54,
+		"description" : "RS"
 	},
 	{
-		"ddd" : 55,
-		"uf" : "RS"
+		"id" : 55,
+		"description" : "RS"
 	},
 	{
-		"ddd" : 61,
-		"uf" : "DF"
+		"id" : 61,
+		"description" : "DF"
 	},
 	{
-		"ddd" : 62,
-		"uf" : "GO"
+		"id" : 62,
+		"description" : "GO"
 	},
 	{
-		"ddd" : 63,
-		"uf" : "TO"
+		"id" : 63,
+		"description" : "TO"
 	},
 	{
-		"ddd" : 64,
-		"uf" : "GO"
+		"id" : 64,
+		"description" : "GO"
 	},
 	{
-		"ddd" : 65,
-		"uf" : "MT"
+		"id" : 65,
+		"description" : "MT"
 	},
 	{
-		"ddd" : 66,
-		"uf" : "MT"
+		"id" : 66,
+		"description" : "MT"
 	},
 	{
-		"ddd" : 67,
-		"uf" : "MS"
+		"id" : 67,
+		"description" : "MS"
 	},
 	{
-		"ddd" : 68,
-		"uf" : "AC"
+		"id" : 68,
+		"description" : "AC"
 	},
 	{
-		"ddd" : 69,
-		"uf" : "RO"
+		"id" : 69,
+		"description" : "RO"
 	},
 	{
-		"ddd" : 71,
-		"uf" : "BA"
+		"id" : 71,
+		"description" : "BA"
 	},
 	{
-		"ddd" : 73,
-		"uf" : "BA"
+		"id" : 73,
+		"description" : "BA"
 	},
 	{
-		"ddd" : 74,
-		"uf" : "BA"
+		"id" : 74,
+		"description" : "BA"
 	},
 	{
-		"ddd" : 75,
-		"uf" : "BA"
+		"id" : 75,
+		"description" : "BA"
 	},
 	{
-		"ddd" : 77,
-		"uf" : "BA"
+		"id" : 77,
+		"description" : "BA"
 	},
 	{
-		"ddd" : 79,
-		"uf" : "SE"
+		"id" : 79,
+		"description" : "SE"
 	},
 	{
-		"ddd" : 81,
-		"uf" : "PE"
+		"id" : 81,
+		"description" : "PE"
 	},
 	{
-		"ddd" : 82,
-		"uf" : "AL"
+		"id" : 82,
+		"description" : "AL"
 	},
 	{
-		"ddd" : 83,
-		"uf" : "PB"
+		"id" : 83,
+		"description" : "PB"
 	},
 	{
-		"ddd" : 84,
-		"uf" : "RN"
+		"id" : 84,
+		"description" : "RN"
 	},
 	{
-		"ddd" : 85,
-		"uf" : "CE"
+		"id" : 85,
+		"description" : "CE"
 	},
 	{
-		"ddd" : 86,
-		"uf" : "PI"
+		"id" : 86,
+		"description" : "PI"
 	},
 	{
-		"ddd" : 87,
-		"uf" : "PE"
+		"id" : 87,
+		"description" : "PE"
 	},
 	{
-		"ddd" : 88,
-		"uf" : "CE"
+		"id" : 88,
+		"description" : "CE"
 	},
 	{
-		"ddd" : 89,
-		"uf" : "PI"
+		"id" : 89,
+		"description" : "PI"
 	},
 	{
-		"ddd" : 91,
-		"uf" : "PA"
+		"id" : 91,
+		"description" : "PA"
 	},
 	{
-		"ddd" : 92,
-		"uf" : "AM"
+		"id" : 92,
+		"description" : "AM"
 	},
 	{
-		"ddd" : 93,
-		"uf" : "PA"
+		"id" : 93,
+		"description" : "PA"
 	},
 	{
-		"ddd" : 94,
-		"uf" : "PA"
+		"id" : 94,
+		"description" : "PA"
 	},
 	{
-		"ddd" : 95,
-		"uf" : "RR"
+		"id" : 95,
+		"description" : "RR"
 	},
 	{
-		"ddd" : 96,
-		"uf" : "AP"
+		"id" : 96,
+		"description" : "AP"
 	},
 	{
-		"ddd" : 97,
-		"uf" : "AM"
+		"id" : 97,
+		"description" : "AM"
 	},
 	{
-		"ddd" : 98,
-		"uf" : "MA"
+		"id" : 98,
+		"description" : "MA"
 	},
 	{
-		"ddd" : 99,
-		"uf" : "MA"
+		"id" : 99,
+		"description" : "MA"
 	}
 ]

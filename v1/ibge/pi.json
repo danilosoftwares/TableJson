@@ -1,1563 +1,1563 @@
 [
 	{
-		"CodigoIBGE": 2200053,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ACAUA"
+		"id": 2200053,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ACAUA"
 	},
 	{
-		"CodigoIBGE": 2200103,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "AGRICOLANDIA"
+		"id": 2200103,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "AGRICOLANDIA"
 	},
 	{
-		"CodigoIBGE": 2200202,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "AGUA BRANCA"
+		"id": 2200202,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "AGUA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2200251,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ALAGOINHA DO PIAUI"
+		"id": 2200251,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ALAGOINHA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2200277,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ALEGRETE DO PIAUI"
+		"id": 2200277,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ALEGRETE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2200301,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ALTO LONGA"
+		"id": 2200301,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ALTO LONGA"
 	},
 	{
-		"CodigoIBGE": 2200400,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ALTOS"
+		"id": 2200400,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ALTOS"
 	},
 	{
-		"CodigoIBGE": 2200459,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ALVORADA DO GURGUEIA"
+		"id": 2200459,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ALVORADA DO GURGUEIA"
 	},
 	{
-		"CodigoIBGE": 2200509,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "AMARANTE"
+		"id": 2200509,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "AMARANTE"
 	},
 	{
-		"CodigoIBGE": 2200608,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ANGICAL DO PIAUI"
+		"id": 2200608,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ANGICAL DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2200707,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ANISIO DE ABREU"
+		"id": 2200707,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ANISIO DE ABREU"
 	},
 	{
-		"CodigoIBGE": 2200806,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ANTONIO ALMEIDA"
+		"id": 2200806,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ANTONIO ALMEIDA"
 	},
 	{
-		"CodigoIBGE": 2200905,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "AROAZES"
+		"id": 2200905,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "AROAZES"
 	},
 	{
-		"CodigoIBGE": 2200954,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "AROEIRAS DO ITAIM"
+		"id": 2200954,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "AROEIRAS DO ITAIM"
 	},
 	{
-		"CodigoIBGE": 2201002,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ARRAIAL"
+		"id": 2201002,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ARRAIAL"
 	},
 	{
-		"CodigoIBGE": 2201051,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ASSUNCAO DO PIAUI"
+		"id": 2201051,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ASSUNCAO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201101,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "AVELINO LOPES"
+		"id": 2201101,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "AVELINO LOPES"
 	},
 	{
-		"CodigoIBGE": 2201150,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BAIXA GRANDE DO RIBEIRO"
+		"id": 2201150,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BAIXA GRANDE DO RIBEIRO"
 	},
 	{
-		"CodigoIBGE": 2201176,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BARRA D-  ALCANTARA"
+		"id": 2201176,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BARRA D-  ALCANTARA"
 	},
 	{
-		"CodigoIBGE": 2201200,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BARRAS"
+		"id": 2201200,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BARRAS"
 	},
 	{
-		"CodigoIBGE": 2201309,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BARREIRAS DO PIAUI"
+		"id": 2201309,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BARREIRAS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201408,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BARRO DURO"
+		"id": 2201408,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BARRO DURO"
 	},
 	{
-		"CodigoIBGE": 2201507,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BATALHA"
+		"id": 2201507,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BATALHA"
 	},
 	{
-		"CodigoIBGE": 2201556,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BELA VISTA DO PIAUI"
+		"id": 2201556,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BELA VISTA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201572,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BELEM DO PIAUI"
+		"id": 2201572,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BELEM DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201606,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BENEDITINOS"
+		"id": 2201606,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BENEDITINOS"
 	},
 	{
-		"CodigoIBGE": 2201705,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BERTOLINIA"
+		"id": 2201705,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BERTOLINIA"
 	},
 	{
-		"CodigoIBGE": 2201739,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BETANIA DO PIAUI"
+		"id": 2201739,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BETANIA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201770,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BOA HORA"
+		"id": 2201770,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BOA HORA"
 	},
 	{
-		"CodigoIBGE": 2201804,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BOCAINA"
+		"id": 2201804,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BOCAINA"
 	},
 	{
-		"CodigoIBGE": 2201903,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BOM JESUS"
+		"id": 2201903,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BOM JESUS"
 	},
 	{
-		"CodigoIBGE": 2201919,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BOM PRINCIPIO DO PIAUI"
+		"id": 2201919,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BOM PRINCIPIO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201929,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BONFIM DO PIAUI"
+		"id": 2201929,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BONFIM DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201945,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BOQUEIRAO DO PIAUI"
+		"id": 2201945,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BOQUEIRAO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2201960,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BRASILEIRA"
+		"id": 2201960,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BRASILEIRA"
 	},
 	{
-		"CodigoIBGE": 2201988,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BREJO DO PIAUI"
+		"id": 2201988,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BREJO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202000,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BURITI DOS LOPES"
+		"id": 2202000,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BURITI DOS LOPES"
 	},
 	{
-		"CodigoIBGE": 2202026,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "BURITI DOS MONTES"
+		"id": 2202026,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "BURITI DOS MONTES"
 	},
 	{
-		"CodigoIBGE": 2202059,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CABECEIRAS DO PIAUI"
+		"id": 2202059,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CABECEIRAS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202075,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAJAZEIRAS DO PIAUI"
+		"id": 2202075,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAJAZEIRAS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202083,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAJUEIRO DA PRAIA"
+		"id": 2202083,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAJUEIRO DA PRAIA"
 	},
 	{
-		"CodigoIBGE": 2202091,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CALDEIRAO GRANDE DO PIAUI"
+		"id": 2202091,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CALDEIRAO GRANDE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202109,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAMPINAS DO PIAUI"
+		"id": 2202109,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAMPINAS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202117,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAMPO ALEGRE DO FIDALGO"
+		"id": 2202117,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAMPO ALEGRE DO FIDALGO"
 	},
 	{
-		"CodigoIBGE": 2202133,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAMPO GRANDE DO PIAUI"
+		"id": 2202133,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAMPO GRANDE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202174,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAMPO LARGO DO PIAUI"
+		"id": 2202174,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAMPO LARGO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202208,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAMPO MAIOR"
+		"id": 2202208,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAMPO MAIOR"
 	},
 	{
-		"CodigoIBGE": 2202251,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CANAVIEIRA"
+		"id": 2202251,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CANAVIEIRA"
 	},
 	{
-		"CodigoIBGE": 2202307,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CANTO DO BURITI"
+		"id": 2202307,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CANTO DO BURITI"
 	},
 	{
-		"CodigoIBGE": 2202406,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAPITAO DE CAMPOS"
+		"id": 2202406,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAPITAO DE CAMPOS"
 	},
 	{
-		"CodigoIBGE": 2202455,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAPITAO GERVASIO OLIVEIRA"
+		"id": 2202455,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAPITAO GERVASIO OLIVEIRA"
 	},
 	{
-		"CodigoIBGE": 2202505,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CARACOL"
+		"id": 2202505,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CARACOL"
 	},
 	{
-		"CodigoIBGE": 2202539,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CARAUBAS DO PIAUI"
+		"id": 2202539,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CARAUBAS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202554,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CARIDADE DO PIAUI"
+		"id": 2202554,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CARIDADE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202604,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CASTELO DO PIAUI"
+		"id": 2202604,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CASTELO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202653,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CAXINGO"
+		"id": 2202653,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CAXINGO"
 	},
 	{
-		"CodigoIBGE": 2202703,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "COCAL"
+		"id": 2202703,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "COCAL"
 	},
 	{
-		"CodigoIBGE": 2202711,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "COCAL DE TELHA"
+		"id": 2202711,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "COCAL DE TELHA"
 	},
 	{
-		"CodigoIBGE": 2202729,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "COCAL DO ALVES"
+		"id": 2202729,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "COCAL DO ALVES"
 	},
 	{
-		"CodigoIBGE": 2202737,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "COIVARAS"
+		"id": 2202737,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "COIVARAS"
 	},
 	{
-		"CodigoIBGE": 2202752,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "COLONIA DO GURGUEIA"
+		"id": 2202752,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "COLONIA DO GURGUEIA"
 	},
 	{
-		"CodigoIBGE": 2202778,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "COLONIA DO PIAUI"
+		"id": 2202778,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "COLONIA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2202802,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CONCEICAO DO CANINDE"
+		"id": 2202802,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CONCEICAO DO CANINDE"
 	},
 	{
-		"CodigoIBGE": 2202851,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CORONEL JOSE DIAS"
+		"id": 2202851,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CORONEL JOSE DIAS"
 	},
 	{
-		"CodigoIBGE": 2202901,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CORRENTE"
+		"id": 2202901,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CORRENTE"
 	},
 	{
-		"CodigoIBGE": 2203008,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CRISTALANDIA DO PIAUI"
+		"id": 2203008,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CRISTALANDIA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2203107,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CRISTINO CASTRO"
+		"id": 2203107,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CRISTINO CASTRO"
 	},
 	{
-		"CodigoIBGE": 2203206,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CURIMATA"
+		"id": 2203206,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CURIMATA"
 	},
 	{
-		"CodigoIBGE": 2203230,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CURRAIS"
+		"id": 2203230,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CURRAIS"
 	},
 	{
-		"CodigoIBGE": 2203255,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CURRALINHOS"
+		"id": 2203255,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CURRALINHOS"
 	},
 	{
-		"CodigoIBGE": 2203271,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "CURRAL NOVO DO PIAUI"
+		"id": 2203271,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "CURRAL NOVO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2203305,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "DEMERVAL LOBAO"
+		"id": 2203305,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "DEMERVAL LOBAO"
 	},
 	{
-		"CodigoIBGE": 2203354,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "DIRCEU ARCOVERDE"
+		"id": 2203354,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "DIRCEU ARCOVERDE"
 	},
 	{
-		"CodigoIBGE": 2203404,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "DOM EXPEDITO LOPES"
+		"id": 2203404,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "DOM EXPEDITO LOPES"
 	},
 	{
-		"CodigoIBGE": 2203420,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "DOMINGOS MOURAO"
+		"id": 2203420,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "DOMINGOS MOURAO"
 	},
 	{
-		"CodigoIBGE": 2203453,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "DOM INOCENCIO"
+		"id": 2203453,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "DOM INOCENCIO"
 	},
 	{
-		"CodigoIBGE": 2203503,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ELESBAO VELOSO"
+		"id": 2203503,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ELESBAO VELOSO"
 	},
 	{
-		"CodigoIBGE": 2203602,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ELISEU MARTINS"
+		"id": 2203602,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ELISEU MARTINS"
 	},
 	{
-		"CodigoIBGE": 2203701,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ESPERANTINA"
+		"id": 2203701,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ESPERANTINA"
 	},
 	{
-		"CodigoIBGE": 2203750,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FARTURA DO PIAUI"
+		"id": 2203750,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FARTURA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2203800,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FLORES DO PIAUI"
+		"id": 2203800,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FLORES DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2203859,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FLORESTA DO PIAUI"
+		"id": 2203859,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FLORESTA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2203909,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FLORIANO"
+		"id": 2203909,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FLORIANO"
 	},
 	{
-		"CodigoIBGE": 2204006,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FRANCINOPOLIS"
+		"id": 2204006,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FRANCINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2204105,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FRANCISCO AYRES"
+		"id": 2204105,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FRANCISCO AYRES"
 	},
 	{
-		"CodigoIBGE": 2204154,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FRANCISCO MACEDO"
+		"id": 2204154,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FRANCISCO MACEDO"
 	},
 	{
-		"CodigoIBGE": 2204204,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FRANCISCO SANTOS"
+		"id": 2204204,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FRANCISCO SANTOS"
 	},
 	{
-		"CodigoIBGE": 2204303,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "FRONTEIRAS"
+		"id": 2204303,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "FRONTEIRAS"
 	},
 	{
-		"CodigoIBGE": 2204352,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "GEMINIANO"
+		"id": 2204352,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "GEMINIANO"
 	},
 	{
-		"CodigoIBGE": 2204402,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "GILBUES"
+		"id": 2204402,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "GILBUES"
 	},
 	{
-		"CodigoIBGE": 2204501,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "GUADALUPE"
+		"id": 2204501,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "GUADALUPE"
 	},
 	{
-		"CodigoIBGE": 2204550,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "GUARIBAS"
+		"id": 2204550,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "GUARIBAS"
 	},
 	{
-		"CodigoIBGE": 2204600,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "HUGO NAPOLEAO"
+		"id": 2204600,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "HUGO NAPOLEAO"
 	},
 	{
-		"CodigoIBGE": 2204659,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ILHA GRANDE"
+		"id": 2204659,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ILHA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2204709,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "INHUMA"
+		"id": 2204709,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "INHUMA"
 	},
 	{
-		"CodigoIBGE": 2204808,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "IPIRANGA DO PIAUI"
+		"id": 2204808,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "IPIRANGA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2204907,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ISAIAS COELHO"
+		"id": 2204907,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ISAIAS COELHO"
 	},
 	{
-		"CodigoIBGE": 2205003,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ITAINOPOLIS"
+		"id": 2205003,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ITAINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2205102,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "ITAUEIRA"
+		"id": 2205102,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "ITAUEIRA"
 	},
 	{
-		"CodigoIBGE": 2205151,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JACOBINA DO PIAUI"
+		"id": 2205151,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JACOBINA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2205201,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JAICOS"
+		"id": 2205201,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JAICOS"
 	},
 	{
-		"CodigoIBGE": 2205250,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JARDIM DO MULATO"
+		"id": 2205250,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JARDIM DO MULATO"
 	},
 	{
-		"CodigoIBGE": 2205276,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JATOBA DO PIAUI"
+		"id": 2205276,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JATOBA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2205300,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JERUMENHA"
+		"id": 2205300,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JERUMENHA"
 	},
 	{
-		"CodigoIBGE": 2205359,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JOAO COSTA"
+		"id": 2205359,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JOAO COSTA"
 	},
 	{
-		"CodigoIBGE": 2205409,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JOAQUIM PIRES"
+		"id": 2205409,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JOAQUIM PIRES"
 	},
 	{
-		"CodigoIBGE": 2205458,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JOCA MARQUES"
+		"id": 2205458,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JOCA MARQUES"
 	},
 	{
-		"CodigoIBGE": 2205508,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JOSE DE FREITAS"
+		"id": 2205508,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JOSE DE FREITAS"
 	},
 	{
-		"CodigoIBGE": 2205516,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JUAZEIRO DO PIAUI"
+		"id": 2205516,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JUAZEIRO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2205524,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JULIO BORGES"
+		"id": 2205524,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JULIO BORGES"
 	},
 	{
-		"CodigoIBGE": 2205532,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "JUREMA"
+		"id": 2205532,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "JUREMA"
 	},
 	{
-		"CodigoIBGE": 2205540,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LAGOINHA DO PIAUI"
+		"id": 2205540,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LAGOINHA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2205557,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LAGOA ALEGRE"
+		"id": 2205557,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LAGOA ALEGRE"
 	},
 	{
-		"CodigoIBGE": 2205565,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LAGOA DO BARRO DO PIAUI"
+		"id": 2205565,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LAGOA DO BARRO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2205573,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LAGOA DE SAO FRANCISCO"
+		"id": 2205573,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LAGOA DE SAO FRANCISCO"
 	},
 	{
-		"CodigoIBGE": 2205581,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LAGOA DO PIAUI"
+		"id": 2205581,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LAGOA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2205599,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LAGOA DO SITIO"
+		"id": 2205599,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LAGOA DO SITIO"
 	},
 	{
-		"CodigoIBGE": 2205607,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LANDRI SALES"
+		"id": 2205607,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LANDRI SALES"
 	},
 	{
-		"CodigoIBGE": 2205706,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LUIS CORREIA"
+		"id": 2205706,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LUIS CORREIA"
 	},
 	{
-		"CodigoIBGE": 2205805,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "LUZILANDIA"
+		"id": 2205805,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "LUZILANDIA"
 	},
 	{
-		"CodigoIBGE": 2205854,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MADEIRO"
+		"id": 2205854,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MADEIRO"
 	},
 	{
-		"CodigoIBGE": 2205904,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MANOEL EMIDIO"
+		"id": 2205904,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MANOEL EMIDIO"
 	},
 	{
-		"CodigoIBGE": 2205953,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MARCOLANDIA"
+		"id": 2205953,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MARCOLANDIA"
 	},
 	{
-		"CodigoIBGE": 2206001,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MARCOS PARENTE"
+		"id": 2206001,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MARCOS PARENTE"
 	},
 	{
-		"CodigoIBGE": 2206050,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MASSAPE DO PIAUI"
+		"id": 2206050,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MASSAPE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2206100,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MATIAS OLIMPIO"
+		"id": 2206100,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MATIAS OLIMPIO"
 	},
 	{
-		"CodigoIBGE": 2206209,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MIGUEL ALVES"
+		"id": 2206209,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MIGUEL ALVES"
 	},
 	{
-		"CodigoIBGE": 2206308,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MIGUEL LEAO"
+		"id": 2206308,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MIGUEL LEAO"
 	},
 	{
-		"CodigoIBGE": 2206357,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MILTON BRANDAO"
+		"id": 2206357,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MILTON BRANDAO"
 	},
 	{
-		"CodigoIBGE": 2206407,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MONSENHOR GIL"
+		"id": 2206407,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MONSENHOR GIL"
 	},
 	{
-		"CodigoIBGE": 2206506,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MONSENHOR HIPOLITO"
+		"id": 2206506,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MONSENHOR HIPOLITO"
 	},
 	{
-		"CodigoIBGE": 2206605,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MONTE ALEGRE DO PIAUI"
+		"id": 2206605,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MONTE ALEGRE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2206654,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MORRO CABECA NO TEMPO"
+		"id": 2206654,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MORRO CABECA NO TEMPO"
 	},
 	{
-		"CodigoIBGE": 2206670,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MORRO DO CHAPEU DO PIAUI"
+		"id": 2206670,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MORRO DO CHAPEU DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2206696,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "MURICI DOS PORTELAS"
+		"id": 2206696,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "MURICI DOS PORTELAS"
 	},
 	{
-		"CodigoIBGE": 2206704,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "NAZARE DO PIAUI"
+		"id": 2206704,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "NAZARE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2206753,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "NOSSA SENHORA DE NAZARE"
+		"id": 2206753,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "NOSSA SENHORA DE NAZARE"
 	},
 	{
-		"CodigoIBGE": 2206803,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "NOSSA SENHORA DOS REMEDIOS"
+		"id": 2206803,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "NOSSA SENHORA DOS REMEDIOS"
 	},
 	{
-		"CodigoIBGE": 2206902,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "NOVO ORIENTE DO PIAUI"
+		"id": 2206902,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "NOVO ORIENTE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2206951,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "NOVO SANTO ANTONIO"
+		"id": 2206951,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "NOVO SANTO ANTONIO"
 	},
 	{
-		"CodigoIBGE": 2207009,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "OEIRAS"
+		"id": 2207009,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "OEIRAS"
 	},
 	{
-		"CodigoIBGE": 2207108,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "OLHO D-  AGUA DO PIAUI"
+		"id": 2207108,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "OLHO D-  AGUA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2207207,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PADRE MARCOS"
+		"id": 2207207,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PADRE MARCOS"
 	},
 	{
-		"CodigoIBGE": 2207306,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PAES LANDIM"
+		"id": 2207306,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PAES LANDIM"
 	},
 	{
-		"CodigoIBGE": 2207355,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PAJEU DO PIAUI"
+		"id": 2207355,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PAJEU DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2207405,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PALMEIRA DO PIAUI"
+		"id": 2207405,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PALMEIRA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2207504,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PALMEIRAIS"
+		"id": 2207504,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PALMEIRAIS"
 	},
 	{
-		"CodigoIBGE": 2207553,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PAQUETA"
+		"id": 2207553,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PAQUETA"
 	},
 	{
-		"CodigoIBGE": 2207603,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PARNAGUA"
+		"id": 2207603,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PARNAGUA"
 	},
 	{
-		"CodigoIBGE": 2207702,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PARNAIBA"
+		"id": 2207702,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PARNAIBA"
 	},
 	{
-		"CodigoIBGE": 2207751,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PASSAGEM FRANCA DO PIAUI"
+		"id": 2207751,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PASSAGEM FRANCA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2207777,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PATOS DO PIAUI"
+		"id": 2207777,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PATOS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2207793,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PAU  D-  ARCO DO PIAUI"
+		"id": 2207793,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PAU  D-  ARCO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2207801,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PAULISTANA"
+		"id": 2207801,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PAULISTANA"
 	},
 	{
-		"CodigoIBGE": 2207850,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PAVUSSU"
+		"id": 2207850,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PAVUSSU"
 	},
 	{
-		"CodigoIBGE": 2207900,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PEDRO II"
+		"id": 2207900,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PEDRO II"
 	},
 	{
-		"CodigoIBGE": 2207934,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PEDRO LAURENTINO"
+		"id": 2207934,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PEDRO LAURENTINO"
 	},
 	{
-		"CodigoIBGE": 2207959,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "NOVA SANTA RITA"
+		"id": 2207959,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "NOVA SANTA RITA"
 	},
 	{
-		"CodigoIBGE": 2208007,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PICOS"
+		"id": 2208007,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PICOS"
 	},
 	{
-		"CodigoIBGE": 2208106,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PIMENTEIRAS"
+		"id": 2208106,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PIMENTEIRAS"
 	},
 	{
-		"CodigoIBGE": 2208205,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PIO IX"
+		"id": 2208205,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PIO IX"
 	},
 	{
-		"CodigoIBGE": 2208304,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PIRACURUCA"
+		"id": 2208304,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PIRACURUCA"
 	},
 	{
-		"CodigoIBGE": 2208403,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PIRIPIRI"
+		"id": 2208403,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PIRIPIRI"
 	},
 	{
-		"CodigoIBGE": 2208502,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PORTO"
+		"id": 2208502,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PORTO"
 	},
 	{
-		"CodigoIBGE": 2208551,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PORTO ALEGRE DO PIAUI"
+		"id": 2208551,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PORTO ALEGRE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2208601,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "PRATA DO PIAUI"
+		"id": 2208601,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "PRATA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2208650,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "QUEIMADA NOVA"
+		"id": 2208650,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "QUEIMADA NOVA"
 	},
 	{
-		"CodigoIBGE": 2208700,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "REDENCAO DO GURGUEIA"
+		"id": 2208700,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "REDENCAO DO GURGUEIA"
 	},
 	{
-		"CodigoIBGE": 2208809,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "REGENERACAO"
+		"id": 2208809,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "REGENERACAO"
 	},
 	{
-		"CodigoIBGE": 2208858,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "RIACHO FRIO"
+		"id": 2208858,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "RIACHO FRIO"
 	},
 	{
-		"CodigoIBGE": 2208874,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "RIBEIRA DO PIAUI"
+		"id": 2208874,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "RIBEIRA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2208908,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "RIBEIRO GONCALVES"
+		"id": 2208908,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "RIBEIRO GONCALVES"
 	},
 	{
-		"CodigoIBGE": 2209005,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "RIO GRANDE DO PIAUI"
+		"id": 2209005,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "RIO GRANDE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209104,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTA CRUZ DO PIAUI"
+		"id": 2209104,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTA CRUZ DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209153,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTA CRUZ DOS MILAGRES"
+		"id": 2209153,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTA CRUZ DOS MILAGRES"
 	},
 	{
-		"CodigoIBGE": 2209203,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTA FILOMENA"
+		"id": 2209203,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTA FILOMENA"
 	},
 	{
-		"CodigoIBGE": 2209302,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTA LUZ"
+		"id": 2209302,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTA LUZ"
 	},
 	{
-		"CodigoIBGE": 2209351,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTANA DO PIAUI"
+		"id": 2209351,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTANA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209377,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTA ROSA DO PIAUI"
+		"id": 2209377,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTA ROSA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209401,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTO ANTONIO DE LISBOA"
+		"id": 2209401,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTO ANTONIO DE LISBOA"
 	},
 	{
-		"CodigoIBGE": 2209450,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTO ANTONIO DOS MILAGRES"
+		"id": 2209450,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTO ANTONIO DOS MILAGRES"
 	},
 	{
-		"CodigoIBGE": 2209500,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SANTO INACIO DO PIAUI"
+		"id": 2209500,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SANTO INACIO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209559,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO BRAZ DO PIAUI"
+		"id": 2209559,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO BRAZ DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209609,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO FELIX DO PIAUI"
+		"id": 2209609,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO FELIX DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209658,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO FRANCISCO DE ASSIS DO PIAUI"
+		"id": 2209658,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO FRANCISCO DE ASSIS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209708,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO FRANCISCO DO PIAUI"
+		"id": 2209708,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO FRANCISCO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209757,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO GONCALO DO GURGUEIA"
+		"id": 2209757,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO GONCALO DO GURGUEIA"
 	},
 	{
-		"CodigoIBGE": 2209807,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO GONCALO DO PIAUI"
+		"id": 2209807,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO GONCALO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2209856,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOAO DA CANABRAVA"
+		"id": 2209856,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOAO DA CANABRAVA"
 	},
 	{
-		"CodigoIBGE": 2209872,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOAO DA FRONTEIRA"
+		"id": 2209872,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOAO DA FRONTEIRA"
 	},
 	{
-		"CodigoIBGE": 2209906,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOAO DA SERRA"
+		"id": 2209906,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOAO DA SERRA"
 	},
 	{
-		"CodigoIBGE": 2209955,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOAO DA VARJOTA"
+		"id": 2209955,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOAO DA VARJOTA"
 	},
 	{
-		"CodigoIBGE": 2209971,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOAO DO ARRAIAL"
+		"id": 2209971,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOAO DO ARRAIAL"
 	},
 	{
-		"CodigoIBGE": 2210003,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOAO DO PIAUI"
+		"id": 2210003,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOAO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210052,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOSE DO DIVINO"
+		"id": 2210052,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOSE DO DIVINO"
 	},
 	{
-		"CodigoIBGE": 2210102,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOSE DO PEIXE"
+		"id": 2210102,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOSE DO PEIXE"
 	},
 	{
-		"CodigoIBGE": 2210201,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JOSE DO PIAUI"
+		"id": 2210201,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JOSE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210300,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO JULIAO"
+		"id": 2210300,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO JULIAO"
 	},
 	{
-		"CodigoIBGE": 2210359,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO LOURENCO DO PIAUI"
+		"id": 2210359,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO LOURENCO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210375,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO LUIS DO PIAUI"
+		"id": 2210375,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO LUIS DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210383,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO MIGUEL DA BAIXA GRANDE"
+		"id": 2210383,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO MIGUEL DA BAIXA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2210391,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO MIGUEL DO FIDALGO"
+		"id": 2210391,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO MIGUEL DO FIDALGO"
 	},
 	{
-		"CodigoIBGE": 2210409,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO MIGUEL DO TAPUIO"
+		"id": 2210409,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO MIGUEL DO TAPUIO"
 	},
 	{
-		"CodigoIBGE": 2210508,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO PEDRO DO PIAUI"
+		"id": 2210508,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO PEDRO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210607,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SAO RAIMUNDO NONATO"
+		"id": 2210607,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SAO RAIMUNDO NONATO"
 	},
 	{
-		"CodigoIBGE": 2210623,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SEBASTIAO BARROS"
+		"id": 2210623,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SEBASTIAO BARROS"
 	},
 	{
-		"CodigoIBGE": 2210631,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SEBASTIAO LEAL"
+		"id": 2210631,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SEBASTIAO LEAL"
 	},
 	{
-		"CodigoIBGE": 2210656,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SIGEFREDO PACHECO"
+		"id": 2210656,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SIGEFREDO PACHECO"
 	},
 	{
-		"CodigoIBGE": 2210706,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SIMOES"
+		"id": 2210706,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SIMOES"
 	},
 	{
-		"CodigoIBGE": 2210805,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SIMPLICIO MENDES"
+		"id": 2210805,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SIMPLICIO MENDES"
 	},
 	{
-		"CodigoIBGE": 2210904,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SOCORRO DO PIAUI"
+		"id": 2210904,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SOCORRO DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210938,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "SUSSUAPARA"
+		"id": 2210938,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "SUSSUAPARA"
 	},
 	{
-		"CodigoIBGE": 2210953,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "TAMBORIL DO PIAUI"
+		"id": 2210953,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "TAMBORIL DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2210979,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "TANQUE DO PIAUI"
+		"id": 2210979,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "TANQUE DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2211001,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "TERESINA"
+		"id": 2211001,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "TERESINA"
 	},
 	{
-		"CodigoIBGE": 2211100,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "UNIAA"
+		"id": 2211100,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "UNIAA"
 	},
 	{
-		"CodigoIBGE": 2211209,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "URUCUI"
+		"id": 2211209,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "URUCUI"
 	},
 	{
-		"CodigoIBGE": 2211308,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "VALENCA DO PIAUI"
+		"id": 2211308,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "VALENCA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2211357,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "VARZEA BRANCA"
+		"id": 2211357,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "VARZEA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2211407,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "VARZEA GRANDE"
+		"id": 2211407,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "VARZEA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2211506,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "VERA MENDES"
+		"id": 2211506,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "VERA MENDES"
 	},
 	{
-		"CodigoIBGE": 2211605,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "VILA NOVA DO PIAUI"
+		"id": 2211605,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "VILA NOVA DO PIAUI"
 	},
 	{
-		"CodigoIBGE": 2211704,
-		"CodigoIBGEUF": 22,
-		"SiglaUF": "PI",
-		"NomeUF": "PIAUI",
-		"NomeMunicipio": "WALL FERRAZ"
+		"id": 2211704,
+		"parentId": 22,
+		"acronym": "PI",
+		"descriptionParent": "PIAUI",
+		"description": "WALL FERRAZ"
 	}
 ]

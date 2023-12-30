@@ -1,1521 +1,1521 @@
 [
 	{
-		"CodigoIBGE": 2100055,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ACAILANDIA"
+		"id": 2100055,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ACAILANDIA"
 	},
 	{
-		"CodigoIBGE": 2100105,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "AFONSO CUNHA"
+		"id": 2100105,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "AFONSO CUNHA"
 	},
 	{
-		"CodigoIBGE": 2100154,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "AGUA DOCE DO MARANHAO"
+		"id": 2100154,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "AGUA DOCE DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2100204,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ALCANTARA"
+		"id": 2100204,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ALCANTARA"
 	},
 	{
-		"CodigoIBGE": 2100303,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ALDEIAS ALTAS"
+		"id": 2100303,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ALDEIAS ALTAS"
 	},
 	{
-		"CodigoIBGE": 2100402,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ALTAMIRA DO MARANHAO"
+		"id": 2100402,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ALTAMIRA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2100436,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ALTO ALEGRE DO MARANHAO"
+		"id": 2100436,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ALTO ALEGRE DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2100477,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ALTO ALEGRE DO PINDARE"
+		"id": 2100477,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ALTO ALEGRE DO PINDARE"
 	},
 	{
-		"CodigoIBGE": 2100501,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ALTO PARNAIBA"
+		"id": 2100501,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ALTO PARNAIBA"
 	},
 	{
-		"CodigoIBGE": 2100550,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "AMAPA DO MARANHAO"
+		"id": 2100550,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "AMAPA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2100600,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "AMARANTE DO MARANHAO"
+		"id": 2100600,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "AMARANTE DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2100709,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ANAJATUBA"
+		"id": 2100709,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ANAJATUBA"
 	},
 	{
-		"CodigoIBGE": 2100808,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ANAPURUS"
+		"id": 2100808,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ANAPURUS"
 	},
 	{
-		"CodigoIBGE": 2100832,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "APICUMACU"
+		"id": 2100832,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "APICUMACU"
 	},
 	{
-		"CodigoIBGE": 2100873,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ARAGUANA"
+		"id": 2100873,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ARAGUANA"
 	},
 	{
-		"CodigoIBGE": 2100907,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ARAIOSES"
+		"id": 2100907,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ARAIOSES"
 	},
 	{
-		"CodigoIBGE": 2100956,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ARAME"
+		"id": 2100956,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ARAME"
 	},
 	{
-		"CodigoIBGE": 2101004,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ARARI"
+		"id": 2101004,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ARARI"
 	},
 	{
-		"CodigoIBGE": 2101103,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "AXIXA"
+		"id": 2101103,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "AXIXA"
 	},
 	{
-		"CodigoIBGE": 2101202,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BACABAL"
+		"id": 2101202,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BACABAL"
 	},
 	{
-		"CodigoIBGE": 2101251,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BACABEIRA"
+		"id": 2101251,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BACABEIRA"
 	},
 	{
-		"CodigoIBGE": 2101301,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BACURI"
+		"id": 2101301,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BACURI"
 	},
 	{
-		"CodigoIBGE": 2101350,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BACURITUBA"
+		"id": 2101350,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BACURITUBA"
 	},
 	{
-		"CodigoIBGE": 2101400,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BALSAS"
+		"id": 2101400,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BALSAS"
 	},
 	{
-		"CodigoIBGE": 2101509,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BARAO DE GRAJAU"
+		"id": 2101509,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BARAO DE GRAJAU"
 	},
 	{
-		"CodigoIBGE": 2101608,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BARRA DO CORDA"
+		"id": 2101608,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BARRA DO CORDA"
 	},
 	{
-		"CodigoIBGE": 2101707,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BARREIRINHAS"
+		"id": 2101707,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BARREIRINHAS"
 	},
 	{
-		"CodigoIBGE": 2101731,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BELAGUA"
+		"id": 2101731,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BELAGUA"
 	},
 	{
-		"CodigoIBGE": 2101772,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BELA VISTA DO MARANHAO"
+		"id": 2101772,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BELA VISTA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2101806,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BENEDITO LEITE"
+		"id": 2101806,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BENEDITO LEITE"
 	},
 	{
-		"CodigoIBGE": 2101905,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BEQUIMAO"
+		"id": 2101905,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BEQUIMAO"
 	},
 	{
-		"CodigoIBGE": 2101939,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BERNARDO DO MEARIM"
+		"id": 2101939,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BERNARDO DO MEARIM"
 	},
 	{
-		"CodigoIBGE": 2101970,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BOA VISTA DO GURUPI"
+		"id": 2101970,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BOA VISTA DO GURUPI"
 	},
 	{
-		"CodigoIBGE": 2102002,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BOM JARDIM"
+		"id": 2102002,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BOM JARDIM"
 	},
 	{
-		"CodigoIBGE": 2102036,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BOM JESUS DAS SELVAS"
+		"id": 2102036,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BOM JESUS DAS SELVAS"
 	},
 	{
-		"CodigoIBGE": 2102077,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BOM LUGAR"
+		"id": 2102077,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BOM LUGAR"
 	},
 	{
-		"CodigoIBGE": 2102101,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BREJO"
+		"id": 2102101,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BREJO"
 	},
 	{
-		"CodigoIBGE": 2102150,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BREJO DE AREIA"
+		"id": 2102150,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BREJO DE AREIA"
 	},
 	{
-		"CodigoIBGE": 2102200,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BURITI"
+		"id": 2102200,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BURITI"
 	},
 	{
-		"CodigoIBGE": 2102309,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BURITI BRAVO"
+		"id": 2102309,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BURITI BRAVO"
 	},
 	{
-		"CodigoIBGE": 2102325,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BURITICUPU"
+		"id": 2102325,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BURITICUPU"
 	},
 	{
-		"CodigoIBGE": 2102358,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "BURITIRANA"
+		"id": 2102358,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "BURITIRANA"
 	},
 	{
-		"CodigoIBGE": 2102374,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CACHOEIRA GRANDE"
+		"id": 2102374,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CACHOEIRA GRANDE"
 	},
 	{
-		"CodigoIBGE": 2102408,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CAJAPIO"
+		"id": 2102408,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CAJAPIO"
 	},
 	{
-		"CodigoIBGE": 2102507,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CAJARI"
+		"id": 2102507,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CAJARI"
 	},
 	{
-		"CodigoIBGE": 2102556,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CAMPESTRE DO MARANHAO"
+		"id": 2102556,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CAMPESTRE DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2102606,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CANDIDO MENDES"
+		"id": 2102606,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CANDIDO MENDES"
 	},
 	{
-		"CodigoIBGE": 2102705,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CANTANHEDE"
+		"id": 2102705,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CANTANHEDE"
 	},
 	{
-		"CodigoIBGE": 2102754,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CAPINZAL DO NORTE"
+		"id": 2102754,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CAPINZAL DO NORTE"
 	},
 	{
-		"CodigoIBGE": 2102804,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CAROLINA"
+		"id": 2102804,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CAROLINA"
 	},
 	{
-		"CodigoIBGE": 2102903,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CARUTAPERA"
+		"id": 2102903,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CARUTAPERA"
 	},
 	{
-		"CodigoIBGE": 2103000,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CAXIAS"
+		"id": 2103000,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CAXIAS"
 	},
 	{
-		"CodigoIBGE": 2103109,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CEDRAL"
+		"id": 2103109,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CEDRAL"
 	},
 	{
-		"CodigoIBGE": 2103125,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CENTRAL DO MARANHAO"
+		"id": 2103125,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CENTRAL DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2103158,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CENTRO DO GUILHERME"
+		"id": 2103158,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CENTRO DO GUILHERME"
 	},
 	{
-		"CodigoIBGE": 2103174,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CENTRO NOVO DO MARANHAO"
+		"id": 2103174,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CENTRO NOVO DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2103208,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CHAPADINHA"
+		"id": 2103208,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CHAPADINHA"
 	},
 	{
-		"CodigoIBGE": 2103257,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CIDELANDIA"
+		"id": 2103257,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CIDELANDIA"
 	},
 	{
-		"CodigoIBGE": 2103307,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CODO"
+		"id": 2103307,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CODO"
 	},
 	{
-		"CodigoIBGE": 2103406,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "COELHO NETO"
+		"id": 2103406,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "COELHO NETO"
 	},
 	{
-		"CodigoIBGE": 2103505,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "COLINAS"
+		"id": 2103505,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "COLINAS"
 	},
 	{
-		"CodigoIBGE": 2103554,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CONCEICAO DO LAGOACU"
+		"id": 2103554,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CONCEICAO DO LAGOACU"
 	},
 	{
-		"CodigoIBGE": 2103604,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "COROATA"
+		"id": 2103604,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "COROATA"
 	},
 	{
-		"CodigoIBGE": 2103703,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "CURURUPU"
+		"id": 2103703,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "CURURUPU"
 	},
 	{
-		"CodigoIBGE": 2103752,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "DAVINOPOLIS"
+		"id": 2103752,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "DAVINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2103802,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "DOM PEDRO"
+		"id": 2103802,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "DOM PEDRO"
 	},
 	{
-		"CodigoIBGE": 2103901,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "DUQUE BACELAR"
+		"id": 2103901,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "DUQUE BACELAR"
 	},
 	{
-		"CodigoIBGE": 2104008,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ESPERANTINOPOLIS"
+		"id": 2104008,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ESPERANTINOPOLIS"
 	},
 	{
-		"CodigoIBGE": 2104057,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ESTREITO"
+		"id": 2104057,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ESTREITO"
 	},
 	{
-		"CodigoIBGE": 2104073,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "FEIRA NOVA DO MARANHAO"
+		"id": 2104073,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "FEIRA NOVA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2104081,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "FERNANDO FALCAO"
+		"id": 2104081,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "FERNANDO FALCAO"
 	},
 	{
-		"CodigoIBGE": 2104099,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "FORMOSA DA SERRA NEGRA"
+		"id": 2104099,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "FORMOSA DA SERRA NEGRA"
 	},
 	{
-		"CodigoIBGE": 2104107,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "FORTALEZA DOS NOGUEIRAS"
+		"id": 2104107,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "FORTALEZA DOS NOGUEIRAS"
 	},
 	{
-		"CodigoIBGE": 2104206,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "FORTUNA"
+		"id": 2104206,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "FORTUNA"
 	},
 	{
-		"CodigoIBGE": 2104305,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GODOFREDO VIANA"
+		"id": 2104305,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GODOFREDO VIANA"
 	},
 	{
-		"CodigoIBGE": 2104404,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GONCALVES DIAS"
+		"id": 2104404,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GONCALVES DIAS"
 	},
 	{
-		"CodigoIBGE": 2104503,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GOVERNADOR ARCHER"
+		"id": 2104503,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GOVERNADOR ARCHER"
 	},
 	{
-		"CodigoIBGE": 2104552,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GOVERNADOR EDISON LOBAO"
+		"id": 2104552,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GOVERNADOR EDISON LOBAO"
 	},
 	{
-		"CodigoIBGE": 2104602,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GOVERNADOR EUGENIO BARROS"
+		"id": 2104602,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GOVERNADOR EUGENIO BARROS"
 	},
 	{
-		"CodigoIBGE": 2104628,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GOVERNADOR LUIS ROCHA"
+		"id": 2104628,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GOVERNADOR LUIS ROCHA"
 	},
 	{
-		"CodigoIBGE": 2104651,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GOVERNADOR NEWTON BELLO"
+		"id": 2104651,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GOVERNADOR NEWTON BELLO"
 	},
 	{
-		"CodigoIBGE": 2104677,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GOVERNADOR NUNES FREIRE"
+		"id": 2104677,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GOVERNADOR NUNES FREIRE"
 	},
 	{
-		"CodigoIBGE": 2104701,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GRACA ARANHA"
+		"id": 2104701,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GRACA ARANHA"
 	},
 	{
-		"CodigoIBGE": 2104800,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GRAJAU"
+		"id": 2104800,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GRAJAU"
 	},
 	{
-		"CodigoIBGE": 2104909,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "GUIMARAES"
+		"id": 2104909,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "GUIMARAES"
 	},
 	{
-		"CodigoIBGE": 2105005,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "HUMBERTO DE CAMPOS"
+		"id": 2105005,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "HUMBERTO DE CAMPOS"
 	},
 	{
-		"CodigoIBGE": 2105104,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ICATU"
+		"id": 2105104,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ICATU"
 	},
 	{
-		"CodigoIBGE": 2105153,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "IGARAPE DO MEIO"
+		"id": 2105153,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "IGARAPE DO MEIO"
 	},
 	{
-		"CodigoIBGE": 2105203,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "IGARAPE GRANDE"
+		"id": 2105203,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "IGARAPE GRANDE"
 	},
 	{
-		"CodigoIBGE": 2105302,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "IMPERATRIZ"
+		"id": 2105302,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "IMPERATRIZ"
 	},
 	{
-		"CodigoIBGE": 2105351,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ITAIPAVA DO GRAJAU"
+		"id": 2105351,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ITAIPAVA DO GRAJAU"
 	},
 	{
-		"CodigoIBGE": 2105401,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ITAPECURU MIRIM"
+		"id": 2105401,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ITAPECURU MIRIM"
 	},
 	{
-		"CodigoIBGE": 2105427,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ITINGA DO MARANHAO"
+		"id": 2105427,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ITINGA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2105450,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "JATOBA"
+		"id": 2105450,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "JATOBA"
 	},
 	{
-		"CodigoIBGE": 2105476,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "JENIPAPO DOS VIEIRAS"
+		"id": 2105476,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "JENIPAPO DOS VIEIRAS"
 	},
 	{
-		"CodigoIBGE": 2105500,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "JOAO LISBOA"
+		"id": 2105500,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "JOAO LISBOA"
 	},
 	{
-		"CodigoIBGE": 2105609,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "JOSELANDIA"
+		"id": 2105609,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "JOSELANDIA"
 	},
 	{
-		"CodigoIBGE": 2105658,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "JUNCO DO MARANHAO"
+		"id": 2105658,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "JUNCO DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2105708,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAGO DA PEDRA"
+		"id": 2105708,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAGO DA PEDRA"
 	},
 	{
-		"CodigoIBGE": 2105807,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAGO DO JUNCO"
+		"id": 2105807,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAGO DO JUNCO"
 	},
 	{
-		"CodigoIBGE": 2105906,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAGO VERDE"
+		"id": 2105906,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAGO VERDE"
 	},
 	{
-		"CodigoIBGE": 2105922,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAGOA DO MATO"
+		"id": 2105922,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAGOA DO MATO"
 	},
 	{
-		"CodigoIBGE": 2105948,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAGO DOS RODRIGUES"
+		"id": 2105948,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAGO DOS RODRIGUES"
 	},
 	{
-		"CodigoIBGE": 2105963,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAGOA GRANDE DO MARANHAO"
+		"id": 2105963,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAGOA GRANDE DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2105989,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LAJEADO NOVO"
+		"id": 2105989,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LAJEADO NOVO"
 	},
 	{
-		"CodigoIBGE": 2106003,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LIMA CAMPOS"
+		"id": 2106003,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LIMA CAMPOS"
 	},
 	{
-		"CodigoIBGE": 2106102,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LORETO"
+		"id": 2106102,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LORETO"
 	},
 	{
-		"CodigoIBGE": 2106201,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "LUIS DOMINGUES"
+		"id": 2106201,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "LUIS DOMINGUES"
 	},
 	{
-		"CodigoIBGE": 2106300,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MAGALHAES DE ALMEIDA"
+		"id": 2106300,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MAGALHAES DE ALMEIDA"
 	},
 	{
-		"CodigoIBGE": 2106326,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MARACACUME"
+		"id": 2106326,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MARACACUME"
 	},
 	{
-		"CodigoIBGE": 2106359,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MARAJA DO SENA"
+		"id": 2106359,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MARAJA DO SENA"
 	},
 	{
-		"CodigoIBGE": 2106375,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MARANHAOZINHO"
+		"id": 2106375,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MARANHAOZINHO"
 	},
 	{
-		"CodigoIBGE": 2106409,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MATA ROMA"
+		"id": 2106409,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MATA ROMA"
 	},
 	{
-		"CodigoIBGE": 2106508,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MATINHA"
+		"id": 2106508,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MATINHA"
 	},
 	{
-		"CodigoIBGE": 2106607,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MATOES"
+		"id": 2106607,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MATOES"
 	},
 	{
-		"CodigoIBGE": 2106631,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MATOES DO NORTE"
+		"id": 2106631,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MATOES DO NORTE"
 	},
 	{
-		"CodigoIBGE": 2106672,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MILAGRES DO MARANHAO"
+		"id": 2106672,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MILAGRES DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2106706,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MIRADOR"
+		"id": 2106706,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MIRADOR"
 	},
 	{
-		"CodigoIBGE": 2106755,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MIRANDA DO NORTE"
+		"id": 2106755,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MIRANDA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 2106805,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MIRINZAL"
+		"id": 2106805,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MIRINZAL"
 	},
 	{
-		"CodigoIBGE": 2106904,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MONCAO"
+		"id": 2106904,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MONCAO"
 	},
 	{
-		"CodigoIBGE": 2107001,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MONTES ALTOS"
+		"id": 2107001,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MONTES ALTOS"
 	},
 	{
-		"CodigoIBGE": 2107100,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "MORROS"
+		"id": 2107100,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "MORROS"
 	},
 	{
-		"CodigoIBGE": 2107209,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "NINA RODRIGUES"
+		"id": 2107209,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "NINA RODRIGUES"
 	},
 	{
-		"CodigoIBGE": 2107258,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "NOVA COLINAS"
+		"id": 2107258,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "NOVA COLINAS"
 	},
 	{
-		"CodigoIBGE": 2107308,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "NOVA IORQUE"
+		"id": 2107308,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "NOVA IORQUE"
 	},
 	{
-		"CodigoIBGE": 2107357,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "NOVA OLINDA DO MARANHAO"
+		"id": 2107357,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "NOVA OLINDA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2107407,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "OLHO D-  AGUA DAS CUNHAS"
+		"id": 2107407,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "OLHO D-  AGUA DAS CUNHAS"
 	},
 	{
-		"CodigoIBGE": 2107456,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "OLINDA NOVA DO MARANHAO"
+		"id": 2107456,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "OLINDA NOVA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2107506,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PACO DO LUMIAR"
+		"id": 2107506,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PACO DO LUMIAR"
 	},
 	{
-		"CodigoIBGE": 2107605,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PALMEIRANDIA"
+		"id": 2107605,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PALMEIRANDIA"
 	},
 	{
-		"CodigoIBGE": 2107704,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PARAIBANO"
+		"id": 2107704,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PARAIBANO"
 	},
 	{
-		"CodigoIBGE": 2107803,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PARNARAMA"
+		"id": 2107803,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PARNARAMA"
 	},
 	{
-		"CodigoIBGE": 2107902,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PASSAGEM FRANCA"
+		"id": 2107902,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PASSAGEM FRANCA"
 	},
 	{
-		"CodigoIBGE": 2108009,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PASTOS BONS"
+		"id": 2108009,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PASTOS BONS"
 	},
 	{
-		"CodigoIBGE": 2108058,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PAULINO NEVES"
+		"id": 2108058,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PAULINO NEVES"
 	},
 	{
-		"CodigoIBGE": 2108108,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PAULO RAMOS"
+		"id": 2108108,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PAULO RAMOS"
 	},
 	{
-		"CodigoIBGE": 2108207,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PEDREIRAS"
+		"id": 2108207,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PEDREIRAS"
 	},
 	{
-		"CodigoIBGE": 2108256,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PEDRO DO ROSARIO"
+		"id": 2108256,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PEDRO DO ROSARIO"
 	},
 	{
-		"CodigoIBGE": 2108306,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PENALVA"
+		"id": 2108306,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PENALVA"
 	},
 	{
-		"CodigoIBGE": 2108405,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PERI MIRIM"
+		"id": 2108405,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PERI MIRIM"
 	},
 	{
-		"CodigoIBGE": 2108454,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PERITORO"
+		"id": 2108454,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PERITORO"
 	},
 	{
-		"CodigoIBGE": 2108504,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PINDAREMIRIM"
+		"id": 2108504,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PINDAREMIRIM"
 	},
 	{
-		"CodigoIBGE": 2108603,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PINHEIRO"
+		"id": 2108603,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PINHEIRO"
 	},
 	{
-		"CodigoIBGE": 2108702,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PIO XII"
+		"id": 2108702,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PIO XII"
 	},
 	{
-		"CodigoIBGE": 2108801,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PIRAPEMAS"
+		"id": 2108801,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PIRAPEMAS"
 	},
 	{
-		"CodigoIBGE": 2108900,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "POCAO DE PEDRAS"
+		"id": 2108900,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "POCAO DE PEDRAS"
 	},
 	{
-		"CodigoIBGE": 2109007,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PORTO FRANCO"
+		"id": 2109007,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PORTO FRANCO"
 	},
 	{
-		"CodigoIBGE": 2109056,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PORTO RICO DO MARANHAO"
+		"id": 2109056,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PORTO RICO DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2109106,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PRESIDENTE DUTRA"
+		"id": 2109106,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PRESIDENTE DUTRA"
 	},
 	{
-		"CodigoIBGE": 2109205,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PRESIDENTE JUSCELINO"
+		"id": 2109205,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PRESIDENTE JUSCELINO"
 	},
 	{
-		"CodigoIBGE": 2109239,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PRESIDENTE MEDICE"
+		"id": 2109239,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PRESIDENTE MEDICE"
 	},
 	{
-		"CodigoIBGE": 2109270,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PRESIDENTE SARNEY"
+		"id": 2109270,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PRESIDENTE SARNEY"
 	},
 	{
-		"CodigoIBGE": 2109304,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PRESIDENTE VARGAS"
+		"id": 2109304,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PRESIDENTE VARGAS"
 	},
 	{
-		"CodigoIBGE": 2109403,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "PRIMEIRA CRUZ"
+		"id": 2109403,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "PRIMEIRA CRUZ"
 	},
 	{
-		"CodigoIBGE": 2109452,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "RAPOSA"
+		"id": 2109452,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "RAPOSA"
 	},
 	{
-		"CodigoIBGE": 2109502,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "RIACHAO"
+		"id": 2109502,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "RIACHAO"
 	},
 	{
-		"CodigoIBGE": 2109551,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "RIBAMAR FIQUENE"
+		"id": 2109551,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "RIBAMAR FIQUENE"
 	},
 	{
-		"CodigoIBGE": 2109601,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ROSARIO"
+		"id": 2109601,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ROSARIO"
 	},
 	{
-		"CodigoIBGE": 2109700,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAMBAIBA"
+		"id": 2109700,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAMBAIBA"
 	},
 	{
-		"CodigoIBGE": 2109759,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA FILOMENA DO MARANHAO"
+		"id": 2109759,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA FILOMENA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2109809,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA HELENA"
+		"id": 2109809,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA HELENA"
 	},
 	{
-		"CodigoIBGE": 2109908,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA INES"
+		"id": 2109908,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA INES"
 	},
 	{
-		"CodigoIBGE": 2110005,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA LUZIA"
+		"id": 2110005,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA LUZIA"
 	},
 	{
-		"CodigoIBGE": 2110039,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA LUZIA DO PARUA"
+		"id": 2110039,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA LUZIA DO PARUA"
 	},
 	{
-		"CodigoIBGE": 2110104,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA QUITERIA DO MARANHAO"
+		"id": 2110104,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA QUITERIA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2110203,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTA RITA"
+		"id": 2110203,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTA RITA"
 	},
 	{
-		"CodigoIBGE": 2110237,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTANA DO MARANHAO"
+		"id": 2110237,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTANA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2110278,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTO AMARO DO MARANHAO"
+		"id": 2110278,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTO AMARO DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2110302,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SANTO ANTONIO DOS LOPES"
+		"id": 2110302,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SANTO ANTONIO DOS LOPES"
 	},
 	{
-		"CodigoIBGE": 2110401,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO BENEDITO DO RIO PRETO"
+		"id": 2110401,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO BENEDITO DO RIO PRETO"
 	},
 	{
-		"CodigoIBGE": 2110500,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO BENTO"
+		"id": 2110500,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO BENTO"
 	},
 	{
-		"CodigoIBGE": 2110609,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO BERNARDO"
+		"id": 2110609,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO BERNARDO"
 	},
 	{
-		"CodigoIBGE": 2110658,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO DOMINGOS DO AZEITAO"
+		"id": 2110658,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO DOMINGOS DO AZEITAO"
 	},
 	{
-		"CodigoIBGE": 2110708,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO DOMINGOS DO MARANHAO"
+		"id": 2110708,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO DOMINGOS DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2110807,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO FELIX DE BALSAS"
+		"id": 2110807,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO FELIX DE BALSAS"
 	},
 	{
-		"CodigoIBGE": 2110856,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO FRANCISCO DO BREJAO"
+		"id": 2110856,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO FRANCISCO DO BREJAO"
 	},
 	{
-		"CodigoIBGE": 2110906,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO FRANCISCO DO MARANHAO"
+		"id": 2110906,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO FRANCISCO DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2111003,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOAO BATISTA"
+		"id": 2111003,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOAO BATISTA"
 	},
 	{
-		"CodigoIBGE": 2111029,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOAO DO CARU"
+		"id": 2111029,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOAO DO CARU"
 	},
 	{
-		"CodigoIBGE": 2111052,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOAO DO PARAISO"
+		"id": 2111052,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOAO DO PARAISO"
 	},
 	{
-		"CodigoIBGE": 2111078,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOAO DO SOTER"
+		"id": 2111078,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOAO DO SOTER"
 	},
 	{
-		"CodigoIBGE": 2111102,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOAO DOS PATOS"
+		"id": 2111102,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOAO DOS PATOS"
 	},
 	{
-		"CodigoIBGE": 2111201,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOSE DE RIBAMAR"
+		"id": 2111201,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOSE DE RIBAMAR"
 	},
 	{
-		"CodigoIBGE": 2111250,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO JOSE DOS BASILIOS"
+		"id": 2111250,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO JOSE DOS BASILIOS"
 	},
 	{
-		"CodigoIBGE": 2111300,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO LUIS"
+		"id": 2111300,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO LUIS"
 	},
 	{
-		"CodigoIBGE": 2111409,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO LUIS GONZAGA DO MARANHAO"
+		"id": 2111409,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO LUIS GONZAGA DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2111508,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO MATEUS DO MARANHAO"
+		"id": 2111508,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO MATEUS DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2111532,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO PEDRO DA AGUA BRANCA"
+		"id": 2111532,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO PEDRO DA AGUA BRANCA"
 	},
 	{
-		"CodigoIBGE": 2111573,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO PEDRO DOS CRENTES"
+		"id": 2111573,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO PEDRO DOS CRENTES"
 	},
 	{
-		"CodigoIBGE": 2111607,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO RAIMUNDO DAS MANGABEIRAS"
+		"id": 2111607,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO RAIMUNDO DAS MANGABEIRAS"
 	},
 	{
-		"CodigoIBGE": 2111631,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO RAIMUNDO DO DOCA BEZERRA"
+		"id": 2111631,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO RAIMUNDO DO DOCA BEZERRA"
 	},
 	{
-		"CodigoIBGE": 2111672,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO ROBERTO"
+		"id": 2111672,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO ROBERTO"
 	},
 	{
-		"CodigoIBGE": 2111706,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SAO VICENTE FERRER"
+		"id": 2111706,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SAO VICENTE FERRER"
 	},
 	{
-		"CodigoIBGE": 2111722,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SATUBINHA"
+		"id": 2111722,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SATUBINHA"
 	},
 	{
-		"CodigoIBGE": 2111748,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SENADOR ALEXANDRE COSTA"
+		"id": 2111748,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SENADOR ALEXANDRE COSTA"
 	},
 	{
-		"CodigoIBGE": 2111763,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SENADOR LA ROCQUE"
+		"id": 2111763,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SENADOR LA ROCQUE"
 	},
 	{
-		"CodigoIBGE": 2111789,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SERRANO DO MARANHAO"
+		"id": 2111789,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SERRANO DO MARANHAO"
 	},
 	{
-		"CodigoIBGE": 2111805,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SITIO NOVO"
+		"id": 2111805,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SITIO NOVO"
 	},
 	{
-		"CodigoIBGE": 2111904,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SUCUPIRA DO NORTE"
+		"id": 2111904,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SUCUPIRA DO NORTE"
 	},
 	{
-		"CodigoIBGE": 2111953,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "SUCUPIRA DO RIACHAO"
+		"id": 2111953,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "SUCUPIRA DO RIACHAO"
 	},
 	{
-		"CodigoIBGE": 2112001,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TASSO FRAGOSO"
+		"id": 2112001,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TASSO FRAGOSO"
 	},
 	{
-		"CodigoIBGE": 2112100,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TIMBIRAS"
+		"id": 2112100,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TIMBIRAS"
 	},
 	{
-		"CodigoIBGE": 2112209,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TIMON"
+		"id": 2112209,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TIMON"
 	},
 	{
-		"CodigoIBGE": 2112233,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TRIZIDELA DO VALE"
+		"id": 2112233,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TRIZIDELA DO VALE"
 	},
 	{
-		"CodigoIBGE": 2112274,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TUFILANDIA"
+		"id": 2112274,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TUFILANDIA"
 	},
 	{
-		"CodigoIBGE": 2112308,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TUNTUM"
+		"id": 2112308,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TUNTUM"
 	},
 	{
-		"CodigoIBGE": 2112407,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TURIACU"
+		"id": 2112407,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TURIACU"
 	},
 	{
-		"CodigoIBGE": 2112456,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TURILANDIA"
+		"id": 2112456,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TURILANDIA"
 	},
 	{
-		"CodigoIBGE": 2112506,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "TUTOIA"
+		"id": 2112506,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "TUTOIA"
 	},
 	{
-		"CodigoIBGE": 2112605,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "URBANO SANTOS"
+		"id": 2112605,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "URBANO SANTOS"
 	},
 	{
-		"CodigoIBGE": 2112704,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "VARGEM GRANDE"
+		"id": 2112704,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "VARGEM GRANDE"
 	},
 	{
-		"CodigoIBGE": 2112803,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "VIANA"
+		"id": 2112803,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "VIANA"
 	},
 	{
-		"CodigoIBGE": 2112852,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "VILA NOVA DOS MARTIRIOS"
+		"id": 2112852,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "VILA NOVA DOS MARTIRIOS"
 	},
 	{
-		"CodigoIBGE": 2112902,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "VITORIA DO MEARIM"
+		"id": 2112902,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "VITORIA DO MEARIM"
 	},
 	{
-		"CodigoIBGE": 2113009,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "VITORINO FREIRE"
+		"id": 2113009,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "VITORINO FREIRE"
 	},
 	{
-		"CodigoIBGE": 2114007,
-		"CodigoIBGEUF": 21,
-		"SiglaUF": "MA",
-		"NomeUF": "MARANHAO",
-		"NomeMunicipio": "ZE DOCA"
+		"id": 2114007,
+		"parentId": 21,
+		"acronym": "MA",
+		"descriptionParent": "MARANHAO",
+		"description": "ZE DOCA"
 	}
 ]
