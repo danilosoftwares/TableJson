@@ -1,0 +1,919 @@
+[
+  {
+    "id": 2900108,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Abaíra"
+  },
+  {
+    "id": 2900207,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Abaré"
+  },
+  {
+    "id": 2900306,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Acajutiba"
+  },
+  {
+    "id": 2900355,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Adustina"
+  },
+  {
+    "id": 2900405,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Água Fria"
+  },
+  {
+    "id": 2900504,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Érico Cardoso"
+  },
+  {
+    "id": 2900603,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Aiquara"
+  },
+  {
+    "id": 2900702,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Alagoinhas"
+  },
+  {
+    "id": 2900801,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Alcobaça"
+  },
+  {
+    "id": 2900900,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Almadina"
+  },
+  {
+    "id": 2901007,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Amargosa"
+  },
+  {
+    "id": 2901106,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Amélia Rodrigues"
+  },
+  {
+    "id": 2901155,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "América Dourada"
+  },
+  {
+    "id": 2901205,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Anagé"
+  },
+  {
+    "id": 2901304,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Andaraí"
+  },
+  {
+    "id": 2901353,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Andorinha"
+  },
+  {
+    "id": 2901403,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Angical"
+  },
+  {
+    "id": 2901502,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Anguera"
+  },
+  {
+    "id": 2901601,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Antas"
+  },
+  {
+    "id": 2901700,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Antônio Cardoso"
+  },
+  {
+    "id": 2901809,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Antônio Gonçalves"
+  },
+  {
+    "id": 2901908,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Aporá"
+  },
+  {
+    "id": 2901957,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Apuarema"
+  },
+  {
+    "id": 2902005,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Aracatu"
+  },
+  {
+    "id": 2902054,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Araçás"
+  },
+  {
+    "id": 2902104,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Araci"
+  },
+  {
+    "id": 2902203,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Aramari"
+  },
+  {
+    "id": 2902252,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Arataca"
+  },
+  {
+    "id": 2902302,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Aratuípe"
+  },
+  {
+    "id": 2902401,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Aurelino Leal"
+  },
+  {
+    "id": 2902500,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Baianópolis"
+  },
+  {
+    "id": 2902609,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Baixa Grande"
+  },
+  {
+    "id": 2902658,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Banzaê"
+  },
+  {
+    "id": 2902708,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barra"
+  },
+  {
+    "id": 2902807,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barra da Estiva"
+  },
+  {
+    "id": 2902906,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barra do Choça"
+  },
+  {
+    "id": 2903003,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barra do Mendes"
+  },
+  {
+    "id": 2903102,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barra do Rocha"
+  },
+  {
+    "id": 2903201,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barreiras"
+  },
+  {
+    "id": 2903235,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barro Alto"
+  },
+  {
+    "id": 2903276,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barrocas"
+  },
+  {
+    "id": 2903300,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Barro Preto"
+  },
+  {
+    "id": 2903409,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Belmonte"
+  },
+  {
+    "id": 2903508,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Belo Campo"
+  },
+  {
+    "id": 2903607,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Biritinga"
+  },
+  {
+    "id": 2903706,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Boa Nova"
+  },
+  {
+    "id": 2903805,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Boa Vista do Tupim"
+  },
+  {
+    "id": 2903904,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Bom Jesus da Lapa"
+  },
+  {
+    "id": 2903953,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Bom Jesus da Serra"
+  },
+  {
+    "id": 2904001,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Boninal"
+  },
+  {
+    "id": 2904050,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Bonito"
+  },
+  {
+    "id": 2904100,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Boquira"
+  },
+  {
+    "id": 2904209,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Botuporã"
+  },
+  {
+    "id": 2904308,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Brejões"
+  },
+  {
+    "id": 2904407,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Brejolândia"
+  },
+  {
+    "id": 2904506,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Brotas de Macaúbas"
+  },
+  {
+    "id": 2904605,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Brumado"
+  },
+  {
+    "id": 2904704,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Buerarema"
+  },
+  {
+    "id": 2904753,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Buritirama"
+  },
+  {
+    "id": 2904803,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caatiba"
+  },
+  {
+    "id": 2904852,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cabaceiras do Paraguaçu"
+  },
+  {
+    "id": 2904902,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cachoeira"
+  },
+  {
+    "id": 2905008,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caculé"
+  },
+  {
+    "id": 2905107,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caém"
+  },
+  {
+    "id": 2905156,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caetanos"
+  },
+  {
+    "id": 2905206,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caetité"
+  },
+  {
+    "id": 2905305,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cafarnaum"
+  },
+  {
+    "id": 2905404,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cairu"
+  },
+  {
+    "id": 2905503,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caldeirão Grande"
+  },
+  {
+    "id": 2905602,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Camacan"
+  },
+  {
+    "id": 2905701,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Camaçari"
+  },
+  {
+    "id": 2905800,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Camamu"
+  },
+  {
+    "id": 2905909,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Campo Alegre de Lourdes"
+  },
+  {
+    "id": 2906006,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Campo Formoso"
+  },
+  {
+    "id": 2906105,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Canápolis"
+  },
+  {
+    "id": 2906204,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Canarana"
+  },
+  {
+    "id": 2906303,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Canavieiras"
+  },
+  {
+    "id": 2906402,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Candeal"
+  },
+  {
+    "id": 2906501,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Candeias"
+  },
+  {
+    "id": 2906600,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Candiba"
+  },
+  {
+    "id": 2906709,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cândido Sales"
+  },
+  {
+    "id": 2906808,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cansanção"
+  },
+  {
+    "id": 2906824,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Canudos"
+  },
+  {
+    "id": 2906857,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Capela do Alto Alegre"
+  },
+  {
+    "id": 2906873,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Capim Grosso"
+  },
+  {
+    "id": 2906899,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caraíbas"
+  },
+  {
+    "id": 2906907,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caravelas"
+  },
+  {
+    "id": 2907004,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cardeal da Silva"
+  },
+  {
+    "id": 2907103,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Carinhanha"
+  },
+  {
+    "id": 2907202,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Casa Nova"
+  },
+  {
+    "id": 2907301,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Castro Alves"
+  },
+  {
+    "id": 2907400,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Catolândia"
+  },
+  {
+    "id": 2907509,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Catu"
+  },
+  {
+    "id": 2907558,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Caturama"
+  },
+  {
+    "id": 2907608,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Central"
+  },
+  {
+    "id": 2907707,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Chorrochó"
+  },
+  {
+    "id": 2907806,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cícero Dantas"
+  },
+  {
+    "id": 2907905,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cipó"
+  },
+  {
+    "id": 2908002,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Coaraci"
+  },
+  {
+    "id": 2908101,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cocos"
+  },
+  {
+    "id": 2908200,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Conceição da Feira"
+  },
+  {
+    "id": 2908309,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Conceição do Almeida"
+  },
+  {
+    "id": 2908408,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Conceição do Coité"
+  },
+  {
+    "id": 2908507,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Conceição do Jacuípe"
+  },
+  {
+    "id": 2908606,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Conde"
+  },
+  {
+    "id": 2908705,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Condeúba"
+  },
+  {
+    "id": 2908804,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Contendas do Sincorá"
+  },
+  {
+    "id": 2908903,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Coração de Maria"
+  },
+  {
+    "id": 2909000,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cordeiros"
+  },
+  {
+    "id": 2909109,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Coribe"
+  },
+  {
+    "id": 2909208,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Coronel João Sá"
+  },
+  {
+    "id": 2909307,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Correntina"
+  },
+  {
+    "id": 2909406,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cotegipe"
+  },
+  {
+    "id": 2909505,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cravolândia"
+  },
+  {
+    "id": 2909604,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Crisópolis"
+  },
+  {
+    "id": 2909703,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cristópolis"
+  },
+  {
+    "id": 2909802,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Cruz das Almas"
+  },
+  {
+    "id": 2909901,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Curaçá"
+  },
+  {
+    "id": 2910008,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Dário Meira"
+  },
+  {
+    "id": 2910057,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Dias d'Ávila"
+  },
+  {
+    "id": 2910107,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Dom Basílio"
+  },
+  {
+    "id": 2910206,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Dom Macedo Costa"
+  },
+  {
+    "id": 2910305,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Elísio Medrado"
+  },
+  {
+    "id": 2910404,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Encruzilhada"
+  },
+  {
+    "id": 2910503,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Entre Rios"
+  },
+  {
+    "id": 2910602,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Esplanada"
+  },
+  {
+    "id": 2910701,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Euclides da Cunha"
+  },
+  {
+    "id": 2910727,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Eunápolis"
+  },
+  {
+    "id": 2910750,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Fátima"
+  },
+  {
+    "id": 2910776,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Feira da Mata"
+  },
+  {
+    "id": 2910800,
+    "parentId": 29,
+    "acronym": "BA",
+    "descriptionParent": "BAHIA",
+    "description": "Feira de Santana"
+  }
+]
