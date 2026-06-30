@@ -1,20 +1,130 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-BR">
 
 <head>
   <meta charset="UTF-8">
-  <title>Table JSON - EndPoints</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Table JSON - API de dados brasileiros em JSON (IBGE, municípios, CFOP, CNAE, CSOSN, países e mais)</title>
+  <meta name="description"
+    content="Table JSON é uma fonte gratuita de dados de referência do Brasil em formato JSON: municípios e UFs do IBGE, DDD, DDI, CFOP, CNAE, ICMS, CSOSN, CRT, países, moedas, cores, unidades de medida e dados de pessoas. Acesse endpoints JSON prontos para usar.">
+  <meta name="keywords"
+    content="json, api json, dados json brasil, municipios ibge json, uf json, ddd json, cfop json, cnae json, csosn json, icms json, crt json, paises json, moedas json, cores json, unidade de medida json, api gratuita json, fonte de dados json">
+  <meta name="author" content="Table JSON">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://table-json.netlify.app/">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:site_name" content="Table JSON">
+  <meta property="og:title" content="Table JSON - API gratuita de dados brasileiros em JSON">
+  <meta property="og:description"
+    content="Fonte gratuita de dados de referência do Brasil em JSON: IBGE (municípios, UF, DDD, DDI), impostos (CFOP, CNAE, ICMS, CSOSN, CRT), países, moedas, cores e mais.">
+  <meta property="og:url" content="https://table-json.netlify.app/">
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Table JSON - API gratuita de dados brasileiros em JSON">
+  <meta name="twitter:description"
+    content="Fonte gratuita de dados de referência do Brasil em JSON: IBGE, impostos (CFOP, CNAE, ICMS, CSOSN), países, moedas, cores e mais.">
+
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Table JSON",
+    "url": "https://table-json.netlify.app/",
+    "description": "Fonte gratuita de dados de referência do Brasil em formato JSON: IBGE, impostos, países, moedas, cores, medidas e dados de pessoas.",
+    "inLanguage": "pt-BR"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DataCatalog",
+    "name": "Table JSON",
+    "url": "https://table-json.netlify.app/",
+    "description": "Catálogo de conjuntos de dados de referência do Brasil em formato JSON, prontos para consumo em aplicações.",
+    "inLanguage": "pt-BR",
+    "dataset": [
+      {
+        "@type": "Dataset",
+        "name": "Municípios do IBGE",
+        "description": "Lista de municípios brasileiros com código IBGE, nome e UF, em JSON.",
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://table-json.netlify.app/v1/ibge/municipios.json"
+        }
+      },
+      {
+        "@type": "Dataset",
+        "name": "Unidades Federativas (UF)",
+        "description": "Lista de estados brasileiros (UF) com código IBGE e sigla, em JSON.",
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://table-json.netlify.app/v1/ibge/uf.json"
+        }
+      },
+      {
+        "@type": "Dataset",
+        "name": "CFOP",
+        "description": "Tabela de Códigos Fiscais de Operações e Prestações (CFOP) em JSON.",
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://table-json.netlify.app/v1/impostos/cfop.json"
+        }
+      },
+      {
+        "@type": "Dataset",
+        "name": "CNAE",
+        "description": "Tabela da Classificação Nacional de Atividades Econômicas (CNAE) em JSON.",
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://table-json.netlify.app/v1/impostos/cnae.json"
+        }
+      },
+      {
+        "@type": "Dataset",
+        "name": "Países",
+        "description": "Lista de países com código e nome, em JSON.",
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/json",
+          "contentUrl": "https://table-json.netlify.app/v1/paises/paises.json"
+        }
+      }
+    ]
+  }
+  </script>
 </head>
 
 <body class="bg-gray-100">
   <div class="container mx-auto p-4">
-    <h1 class="text-3xl font-semibold mb-4">Table JSON - EndPoints</h1>
+    <header class="mb-6">
+      <h1 class="text-3xl font-semibold mb-2">Table JSON — Dados brasileiros em JSON</h1>
+      <p class="text-gray-700 max-w-3xl">
+        O <strong>Table JSON</strong> é uma fonte gratuita de dados de referência do Brasil em
+        formato <strong>JSON</strong>, prontos para serem consumidos em qualquer aplicação. Aqui você
+        encontra endpoints com dados do <strong>IBGE</strong> (municípios, UF, DDD e DDI), tabelas de
+        <strong>impostos</strong> (CFOP, CNAE, ICMS, CSOSN, CRT), <strong>serviços</strong> (Simples Nacional e ISSQN municipal),
+        <strong>países</strong>,
+        <strong>moedas</strong>, <strong>cores</strong>, <strong>unidades de medida</strong> e dados de
+        <strong>pessoas</strong>. Basta acessar a URL de cada conjunto de dados abaixo para obter o JSON.
+      </p>
+    </header>
 
     <ul class="divide-y divide-gray-200">
       <li class="mb-4">
         <h2 class="text-xl font-semibold">IBGE</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Dados oficiais do IBGE em JSON: municípios brasileiros, unidades federativas (UF), códigos de DDD e DDI.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/ibge/municipios.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Municipios</a>
@@ -28,14 +138,15 @@
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">DDI</a>
           </li>          
           <li>
-            <a href="/v1/ibge/UF.json" target="_blank" rel="noopener noreferrer"
+            <a href="/v1/ibge/uf.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">UF</a>
           </li>
         </ul>
       </li>
       <li class="mb-4">
         <h2 class="text-xl font-semibold">Impostos</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Tabelas fiscais em JSON: CFOP, CNAE, ICMS, CSOSN e CRT — úteis para emissão de notas fiscais e sistemas tributários.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/impostos/icms.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">ICMS</a>
@@ -59,8 +170,23 @@
         </ul>
       </li>
       <li class="mb-4">
+        <h2 class="text-xl font-semibold">Serviços</h2>
+        <p class="text-sm text-gray-600 mb-2">Tabelas de serviços em JSON: lista nacional da LC 116/2003 com enquadramento no Simples Nacional e serviços municipais com alíquotas de ISSQN.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
+          <li>
+            <a href="/v1/servicos/simples-nacional.json" target="_blank" rel="noopener noreferrer"
+              class="block hover:bg-gray-200 px-4 py-4 rounded-md">Simples Nacional (LC 116/2003)</a>
+          </li>
+          <li>
+            <a href="/v1/servicos/3550308.json" target="_blank" rel="noopener noreferrer"
+              class="block hover:bg-gray-200 px-4 py-4 rounded-md">São Paulo — SP (3550308)</a>
+          </li>
+        </ul>
+      </li>
+      <li class="mb-4">
         <h2 class="text-xl font-semibold">Paises</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Lista de países do mundo com código e nome, em JSON.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/paises/paises.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Paises</a>
@@ -69,7 +195,8 @@
       </li>
       <li class="mb-4">
         <h2 class="text-xl font-semibold">Produtos</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Dados de produtos em JSON: unidades de medida e tabelas de peso.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/medidas/unidade.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Unidade de Medida</a>
@@ -82,7 +209,8 @@
       </li>
       <li class="mb-4">
         <h2 class="text-xl font-semibold">Cores</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Lista de cores com nome e código, em JSON.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/cores/cores.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Cores</a>
@@ -91,7 +219,8 @@
       </li>
       <li class="mb-4">
         <h2 class="text-xl font-semibold">Monetário</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Lista de moedas com código ISO e nome, em JSON.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/monetario/moedas.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Moedas</a>
@@ -100,7 +229,8 @@
       </li>      
       <li class="mb-4">
         <h2 class="text-xl font-semibold">Pessoas</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Dados cadastrais de pessoas em JSON: documentos, sexo, gênero, idiomas, estado civil, nível educacional, tipo de pessoa, dependente, categoria e instrução.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/pessoas/documentos.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Documentos</a>
@@ -145,7 +275,8 @@
       </li>
       <li class="mb-4">
         <h2 class="text-xl font-semibold">Cidades por UF</h2>
-        <ul id="europeList" class="bg-white border rounded-md divide-y divide-gray-200">
+        <p class="text-sm text-gray-600 mb-2">Lista de cidades/municípios de cada estado brasileiro, separados por unidade federativa (UF), em JSON.</p>
+        <ul class="bg-white border rounded-md divide-y divide-gray-200">
           <li>
             <a href="/v1/ibge/ac.json" target="_blank" rel="noopener noreferrer"
               class="block hover:bg-gray-200 px-4 py-4 rounded-md">Acre</a>

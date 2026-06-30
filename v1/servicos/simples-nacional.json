@@ -1,0 +1,3366 @@
+{
+  "meta": {
+    "titulo": "Servicos do Simples Nacional - base normalizada",
+    "descricao": "Lista de servicos da LC 116/2003 (ISSQN) com enquadramento indicativo nos Anexos do Simples Nacional e tabelas de aliquotas dos Anexos I a V da LC 123/2006.",
+    "versao": "2026-06-30",
+    "geradoEm": "2026-06-30",
+    "fontes": [
+      {
+        "nome": "Lei Complementar 116/2003 - Lista de servicos (ISSQN)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm"
+      },
+      {
+        "nome": "Lei Complementar 123/2006 - Simples Nacional (Anexos I a V)",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm"
+      }
+    ],
+    "avisos": [
+      "As aliquotas de ISS sao definidas por cada municipio (minimo 2% e maximo 5%, conforme arts. 8o e 8o-A da LC 116/2003); este arquivo traz apenas a faixa nacional, nao a aliquota especifica de cada cidade.",
+      "O enquadramento de cada servico em Anexo do Simples Nacional e INDICATIVO: a LC 123/2006 classifica as atividades por descricao/CNAE, e nem sempre ha correspondencia 1:1 com o item da LC 116/2003.",
+      "Servicos marcados com fatorR=true mudam de Anexo conforme o Fator R (razao folha de salarios / receita bruta dos ultimos 12 meses): >= 28% tributa pelo Anexo III; < 28% pelo Anexo V (arts. 18, Sec. 5o-J e 5o-M, LC 123/2006).",
+      "Servicos com elegivelSimplesNacional=false nao podem ser tributados pelo Simples Nacional (ex.: setor financeiro e servicos notariais).",
+      "Tabelas dos Anexos com vigencia a partir de 01/01/2018 (redacao da LC 155/2016)."
+    ]
+  },
+  "issqn": {
+    "aliquotaMinima": 2.0,
+    "aliquotaMaxima": 5.0,
+    "unidade": "percentual",
+    "observacoes": [
+      "Aliquota maxima de 5% (art. 8o, II, LC 116/2003).",
+      "Aliquota minima de 2% (art. 8o-A, LC 116/2003), exceto para os servicos 7.02, 7.05 e 16.01."
+    ]
+  },
+  "fatorR": {
+    "descricao": "Razao entre a folha de salarios (com encargos) e a receita bruta, ambas dos 12 meses anteriores ao periodo de apuracao.",
+    "limitePercentual": 28.0,
+    "regra": "Se Fator R >= 28%, as atividades sujeitas tributam pelo Anexo III; caso contrario, pelo Anexo V.",
+    "fundamentacao": [
+      "LC 123/2006, art. 18, Sec. 5o-J, 5o-K e 5o-M"
+    ]
+  },
+  "anexos": [
+    {
+      "anexo": "I",
+      "descricao": "Comercio",
+      "vigencia": "2018-01-01",
+      "faixas": [
+        {
+          "faixa": 1,
+          "receitaBruta12MesesDe": 0.0,
+          "receitaBruta12MesesAte": 180000.0,
+          "aliquotaNominal": 4.0,
+          "valorDeduzir": 0.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 12.74,
+            "pisPasep": 2.76,
+            "cpp": 41.5,
+            "icms": 34.0
+          }
+        },
+        {
+          "faixa": 2,
+          "receitaBruta12MesesDe": 180000.01,
+          "receitaBruta12MesesAte": 360000.0,
+          "aliquotaNominal": 7.3,
+          "valorDeduzir": 5940.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 12.74,
+            "pisPasep": 2.76,
+            "cpp": 41.5,
+            "icms": 34.0
+          }
+        },
+        {
+          "faixa": 3,
+          "receitaBruta12MesesDe": 360000.01,
+          "receitaBruta12MesesAte": 720000.0,
+          "aliquotaNominal": 9.5,
+          "valorDeduzir": 13860.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 12.74,
+            "pisPasep": 2.76,
+            "cpp": 42.0,
+            "icms": 33.5
+          }
+        },
+        {
+          "faixa": 4,
+          "receitaBruta12MesesDe": 720000.01,
+          "receitaBruta12MesesAte": 1800000.0,
+          "aliquotaNominal": 10.7,
+          "valorDeduzir": 22500.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 12.74,
+            "pisPasep": 2.76,
+            "cpp": 42.0,
+            "icms": 33.5
+          }
+        },
+        {
+          "faixa": 5,
+          "receitaBruta12MesesDe": 1800000.01,
+          "receitaBruta12MesesAte": 3600000.0,
+          "aliquotaNominal": 14.3,
+          "valorDeduzir": 87300.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 12.74,
+            "pisPasep": 2.76,
+            "cpp": 42.0,
+            "icms": 33.5
+          }
+        },
+        {
+          "faixa": 6,
+          "receitaBruta12MesesDe": 3600000.01,
+          "receitaBruta12MesesAte": 4800000.0,
+          "aliquotaNominal": 19.0,
+          "valorDeduzir": 378000.0,
+          "reparticaoTributos": {
+            "irpj": 13.5,
+            "csll": 10.0,
+            "cofins": 28.27,
+            "pisPasep": 6.13,
+            "cpp": 42.1,
+            "icms": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "anexo": "II",
+      "descricao": "Industria",
+      "vigencia": "2018-01-01",
+      "faixas": [
+        {
+          "faixa": 1,
+          "receitaBruta12MesesDe": 0.0,
+          "receitaBruta12MesesAte": 180000.0,
+          "aliquotaNominal": 4.5,
+          "valorDeduzir": 0.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 11.51,
+            "pisPasep": 2.49,
+            "cpp": 37.5,
+            "ipi": 7.5,
+            "icms": 32.0
+          }
+        },
+        {
+          "faixa": 2,
+          "receitaBruta12MesesDe": 180000.01,
+          "receitaBruta12MesesAte": 360000.0,
+          "aliquotaNominal": 7.8,
+          "valorDeduzir": 5940.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 11.51,
+            "pisPasep": 2.49,
+            "cpp": 37.5,
+            "ipi": 7.5,
+            "icms": 32.0
+          }
+        },
+        {
+          "faixa": 3,
+          "receitaBruta12MesesDe": 360000.01,
+          "receitaBruta12MesesAte": 720000.0,
+          "aliquotaNominal": 10.0,
+          "valorDeduzir": 13860.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 11.51,
+            "pisPasep": 2.49,
+            "cpp": 37.5,
+            "ipi": 7.5,
+            "icms": 32.0
+          }
+        },
+        {
+          "faixa": 4,
+          "receitaBruta12MesesDe": 720000.01,
+          "receitaBruta12MesesAte": 1800000.0,
+          "aliquotaNominal": 11.2,
+          "valorDeduzir": 22500.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 11.51,
+            "pisPasep": 2.49,
+            "cpp": 37.5,
+            "ipi": 7.5,
+            "icms": 32.0
+          }
+        },
+        {
+          "faixa": 5,
+          "receitaBruta12MesesDe": 1800000.01,
+          "receitaBruta12MesesAte": 3600000.0,
+          "aliquotaNominal": 14.7,
+          "valorDeduzir": 85500.0,
+          "reparticaoTributos": {
+            "irpj": 5.5,
+            "csll": 3.5,
+            "cofins": 11.51,
+            "pisPasep": 2.49,
+            "cpp": 37.5,
+            "ipi": 7.5,
+            "icms": 32.0
+          }
+        },
+        {
+          "faixa": 6,
+          "receitaBruta12MesesDe": 3600000.01,
+          "receitaBruta12MesesAte": 4800000.0,
+          "aliquotaNominal": 30.0,
+          "valorDeduzir": 720000.0,
+          "reparticaoTributos": {
+            "irpj": 8.5,
+            "csll": 7.5,
+            "cofins": 20.96,
+            "pisPasep": 4.54,
+            "cpp": 23.5,
+            "ipi": 35.0,
+            "icms": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "anexo": "III",
+      "descricao": "Receitas de locacao de bens moveis e de prestacao de servicos nao relacionados no Sec. 5o-C do art. 18 (LC 123/2006)",
+      "vigencia": "2018-01-01",
+      "faixas": [
+        {
+          "faixa": 1,
+          "receitaBruta12MesesDe": 0.0,
+          "receitaBruta12MesesAte": 180000.0,
+          "aliquotaNominal": 6.0,
+          "valorDeduzir": 0.0,
+          "reparticaoTributos": {
+            "irpj": 4.0,
+            "csll": 3.5,
+            "cofins": 12.82,
+            "pisPasep": 2.78,
+            "cpp": 43.4,
+            "iss": 33.5
+          }
+        },
+        {
+          "faixa": 2,
+          "receitaBruta12MesesDe": 180000.01,
+          "receitaBruta12MesesAte": 360000.0,
+          "aliquotaNominal": 11.2,
+          "valorDeduzir": 9360.0,
+          "reparticaoTributos": {
+            "irpj": 4.0,
+            "csll": 3.5,
+            "cofins": 14.05,
+            "pisPasep": 3.05,
+            "cpp": 43.4,
+            "iss": 32.0
+          }
+        },
+        {
+          "faixa": 3,
+          "receitaBruta12MesesDe": 360000.01,
+          "receitaBruta12MesesAte": 720000.0,
+          "aliquotaNominal": 13.5,
+          "valorDeduzir": 17640.0,
+          "reparticaoTributos": {
+            "irpj": 4.0,
+            "csll": 3.5,
+            "cofins": 13.64,
+            "pisPasep": 2.96,
+            "cpp": 43.4,
+            "iss": 32.5
+          }
+        },
+        {
+          "faixa": 4,
+          "receitaBruta12MesesDe": 720000.01,
+          "receitaBruta12MesesAte": 1800000.0,
+          "aliquotaNominal": 16.0,
+          "valorDeduzir": 35640.0,
+          "reparticaoTributos": {
+            "irpj": 4.0,
+            "csll": 3.5,
+            "cofins": 13.64,
+            "pisPasep": 2.96,
+            "cpp": 43.4,
+            "iss": 32.5
+          }
+        },
+        {
+          "faixa": 5,
+          "receitaBruta12MesesDe": 1800000.01,
+          "receitaBruta12MesesAte": 3600000.0,
+          "aliquotaNominal": 21.0,
+          "valorDeduzir": 125640.0,
+          "reparticaoTributos": {
+            "irpj": 4.0,
+            "csll": 3.5,
+            "cofins": 12.82,
+            "pisPasep": 2.78,
+            "cpp": 43.4,
+            "iss": 33.5
+          }
+        },
+        {
+          "faixa": 6,
+          "receitaBruta12MesesDe": 3600000.01,
+          "receitaBruta12MesesAte": 4800000.0,
+          "aliquotaNominal": 33.0,
+          "valorDeduzir": 648000.0,
+          "reparticaoTributos": {
+            "irpj": 35.0,
+            "csll": 15.0,
+            "cofins": 16.03,
+            "pisPasep": 3.47,
+            "cpp": 30.5,
+            "iss": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "anexo": "IV",
+      "descricao": "Receitas decorrentes da prestacao de servicos relacionados no Sec. 5o-C do art. 18 (LC 123/2006)",
+      "vigencia": "2018-01-01",
+      "faixas": [
+        {
+          "faixa": 1,
+          "receitaBruta12MesesDe": 0.0,
+          "receitaBruta12MesesAte": 180000.0,
+          "aliquotaNominal": 4.5,
+          "valorDeduzir": 0.0,
+          "reparticaoTributos": {
+            "irpj": 18.8,
+            "csll": 15.2,
+            "cofins": 17.67,
+            "pisPasep": 3.83,
+            "iss": 44.5
+          }
+        },
+        {
+          "faixa": 2,
+          "receitaBruta12MesesDe": 180000.01,
+          "receitaBruta12MesesAte": 360000.0,
+          "aliquotaNominal": 9.0,
+          "valorDeduzir": 8100.0,
+          "reparticaoTributos": {
+            "irpj": 19.8,
+            "csll": 15.2,
+            "cofins": 20.55,
+            "pisPasep": 4.45,
+            "iss": 40.0
+          }
+        },
+        {
+          "faixa": 3,
+          "receitaBruta12MesesDe": 360000.01,
+          "receitaBruta12MesesAte": 720000.0,
+          "aliquotaNominal": 10.2,
+          "valorDeduzir": 12420.0,
+          "reparticaoTributos": {
+            "irpj": 20.8,
+            "csll": 15.2,
+            "cofins": 19.73,
+            "pisPasep": 4.27,
+            "iss": 40.0
+          }
+        },
+        {
+          "faixa": 4,
+          "receitaBruta12MesesDe": 720000.01,
+          "receitaBruta12MesesAte": 1800000.0,
+          "aliquotaNominal": 14.0,
+          "valorDeduzir": 39780.0,
+          "reparticaoTributos": {
+            "irpj": 17.8,
+            "csll": 19.2,
+            "cofins": 18.9,
+            "pisPasep": 4.1,
+            "iss": 40.0
+          }
+        },
+        {
+          "faixa": 5,
+          "receitaBruta12MesesDe": 1800000.01,
+          "receitaBruta12MesesAte": 3600000.0,
+          "aliquotaNominal": 22.0,
+          "valorDeduzir": 183780.0,
+          "reparticaoTributos": {
+            "irpj": 18.8,
+            "csll": 19.2,
+            "cofins": 18.08,
+            "pisPasep": 3.92,
+            "iss": 40.0
+          }
+        },
+        {
+          "faixa": 6,
+          "receitaBruta12MesesDe": 3600000.01,
+          "receitaBruta12MesesAte": 4800000.0,
+          "aliquotaNominal": 33.0,
+          "valorDeduzir": 828000.0,
+          "reparticaoTributos": {
+            "irpj": 53.5,
+            "csll": 21.5,
+            "cofins": 20.55,
+            "pisPasep": 4.45,
+            "iss": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "anexo": "V",
+      "descricao": "Receitas decorrentes da prestacao de servicos relacionados no Sec. 5o-I do art. 18 (LC 123/2006)",
+      "vigencia": "2018-01-01",
+      "faixas": [
+        {
+          "faixa": 1,
+          "receitaBruta12MesesDe": 0.0,
+          "receitaBruta12MesesAte": 180000.0,
+          "aliquotaNominal": 15.5,
+          "valorDeduzir": 0.0,
+          "reparticaoTributos": {
+            "irpj": 25.0,
+            "csll": 15.0,
+            "cofins": 14.1,
+            "pisPasep": 3.05,
+            "cpp": 28.85,
+            "iss": 14.0
+          }
+        },
+        {
+          "faixa": 2,
+          "receitaBruta12MesesDe": 180000.01,
+          "receitaBruta12MesesAte": 360000.0,
+          "aliquotaNominal": 18.0,
+          "valorDeduzir": 4500.0,
+          "reparticaoTributos": {
+            "irpj": 23.0,
+            "csll": 15.0,
+            "cofins": 14.1,
+            "pisPasep": 3.05,
+            "cpp": 27.85,
+            "iss": 17.0
+          }
+        },
+        {
+          "faixa": 3,
+          "receitaBruta12MesesDe": 360000.01,
+          "receitaBruta12MesesAte": 720000.0,
+          "aliquotaNominal": 19.5,
+          "valorDeduzir": 9900.0,
+          "reparticaoTributos": {
+            "irpj": 24.0,
+            "csll": 15.0,
+            "cofins": 14.92,
+            "pisPasep": 3.23,
+            "cpp": 23.85,
+            "iss": 19.0
+          }
+        },
+        {
+          "faixa": 4,
+          "receitaBruta12MesesDe": 720000.01,
+          "receitaBruta12MesesAte": 1800000.0,
+          "aliquotaNominal": 20.5,
+          "valorDeduzir": 17100.0,
+          "reparticaoTributos": {
+            "irpj": 21.0,
+            "csll": 15.0,
+            "cofins": 15.74,
+            "pisPasep": 3.41,
+            "cpp": 23.85,
+            "iss": 21.0
+          }
+        },
+        {
+          "faixa": 5,
+          "receitaBruta12MesesDe": 1800000.01,
+          "receitaBruta12MesesAte": 3600000.0,
+          "aliquotaNominal": 23.0,
+          "valorDeduzir": 62100.0,
+          "reparticaoTributos": {
+            "irpj": 23.0,
+            "csll": 12.5,
+            "cofins": 14.1,
+            "pisPasep": 3.05,
+            "cpp": 23.85,
+            "iss": 23.5
+          }
+        },
+        {
+          "faixa": 6,
+          "receitaBruta12MesesDe": 3600000.01,
+          "receitaBruta12MesesAte": 4800000.0,
+          "aliquotaNominal": 30.5,
+          "valorDeduzir": 540000.0,
+          "reparticaoTributos": {
+            "irpj": 35.0,
+            "csll": 15.5,
+            "cofins": 16.44,
+            "pisPasep": 3.56,
+            "cpp": 29.5,
+            "iss": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "servicos": [
+    {
+      "codigo": "1.01",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Análise e desenvolvimento de sistemas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.02",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Programação.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.03",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Processamento, armazenamento ou hospedagem de dados, textos, imagens, vídeos, páginas eletrônicas, aplicativos e sistemas de informação, entre outros formatos, e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "1.04",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Elaboração de programas de computadores, inclusive de jogos eletrônicos, independentemente da arquitetura construtiva da máquina em que o programa será executado, incluindo tablets, smartphones e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.05",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Licenciamento ou cessão de direito de uso de programas de computação.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.06",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Assessoria e consultoria em informática.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.07",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Suporte técnico em informática, inclusive instalação, configuração e manutenção de programas de computação e bancos de dados.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.08",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Planejamento, confecção, manutenção e atualização de páginas eletrônicas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "1.09",
+      "grupo": "1",
+      "grupoDescricao": "Serviços de informática e congêneres.",
+      "descricao": "Disponibilização, sem cessão definitiva, de conteúdos de áudio, vídeo, imagem e texto por meio da internet, respeitada a imunidade de livros, jornais e periódicos (exceto a distribuição de conteúdos pelas prestadoras de Serviço de Acesso Condicionado, de que trata a Lei nº 12.485, de 12 de setembro de 2011, sujeita ao ICMS).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "2.01",
+      "grupo": "2",
+      "grupoDescricao": "Serviços de pesquisas e desenvolvimento de qualquer natureza.",
+      "descricao": "Serviços de pesquisas e desenvolvimento de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "3.01",
+      "grupo": "3",
+      "grupoDescricao": "Serviços prestados mediante locação, cessão de direito de uso e congêneres.",
+      "descricao": "(VETADO)",
+      "vetado": true,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": null,
+      "observacoes": []
+    },
+    {
+      "codigo": "3.02",
+      "grupo": "3",
+      "grupoDescricao": "Serviços prestados mediante locação, cessão de direito de uso e congêneres.",
+      "descricao": "Cessão de direito de uso de marcas e de sinais de propaganda.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "3.03",
+      "grupo": "3",
+      "grupoDescricao": "Serviços prestados mediante locação, cessão de direito de uso e congêneres.",
+      "descricao": "Exploração de salões de festas, centro de convenções, escritórios virtuais,stands ,quadras esportivas, estádios, ginásios, auditórios, casas de espetáculos, parques de diversões, canchas e congêneres, para realização de eventos ou negócios de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "3.04",
+      "grupo": "3",
+      "grupoDescricao": "Serviços prestados mediante locação, cessão de direito de uso e congêneres.",
+      "descricao": "Locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "3.05",
+      "grupo": "3",
+      "grupoDescricao": "Serviços prestados mediante locação, cessão de direito de uso e congêneres.",
+      "descricao": "Cessão de andaimes, palcos, coberturas e outras estruturas de uso temporário.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.01",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Medicina e biomedicina.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.02",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Análises clínicas, patologia, eletricidade médica, radioterapia, quimioterapia, ultrassonografia, ressonância magnética, radiologia, tomografia e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.03",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Hospitais, clínicas, laboratórios, sanatórios, manicômios, casas de saúde, prontos-socorros, ambulatórios e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.04",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Instrumentação cirúrgica.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.05",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Acupuntura.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.06",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Enfermagem, inclusive serviços auxiliares.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.07",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Serviços farmacêuticos.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.08",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Terapia ocupacional, fisioterapia e fonoaudiologia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.09",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Terapias de qualquer espécie destinadas ao tratamento físico, orgânico e mental.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.10",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Nutrição.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.11",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Obstetrícia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.12",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Odontologia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.13",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Ortóptica.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.14",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Próteses sob encomenda.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.15",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Psicanálise.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.16",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Psicologia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.17",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Casas de repouso e de recuperação, creches, asilos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.18",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Inseminação artificial, fertilização in vitro e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "4.19",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Bancos de sangue, leite, pele, olhos, óvulos, sêmen e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.20",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.21",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Unidade de atendimento, assistência ou tratamento móvel e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.22",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Planos de medicina de grupo ou individual e convênios para prestação de assistência médica, hospitalar, odontológica e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "4.23",
+      "grupo": "4",
+      "grupoDescricao": "Serviços de saúde, assistência médica e congêneres.",
+      "descricao": "Outros planos de saúde que se cumpram através de serviços de terceiros contratados, credenciados, cooperados ou apenas pagos pelo operador do plano mediante indicação do beneficiário.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "5.01",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Medicina veterinária e zootecnia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "5.02",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Hospitais, clínicas, ambulatórios, prontos-socorros e congêneres, na área veterinária.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "5.03",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Laboratórios de análise na área veterinária.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "5.04",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Inseminação artificial, fertilização in vitro e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "5.05",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Bancos de sangue e de órgãos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "5.06",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Coleta de sangue, leite, tecidos, sêmen, órgãos e materiais biológicos de qualquer espécie.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "5.07",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Unidade de atendimento, assistência ou tratamento móvel e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "5.08",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Guarda, tratamento, amestramento, embelezamento, alojamento e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "5.09",
+      "grupo": "5",
+      "grupoDescricao": "Serviços de medicina e assistência veterinária e congêneres.",
+      "descricao": "Planos de atendimento e assistência médico-veterinária.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "6.01",
+      "grupo": "6",
+      "grupoDescricao": "Serviços de cuidados pessoais, estética, atividades físicas e congêneres.",
+      "descricao": "Barbearia, cabeleireiros, manicuros, pedicuros e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "6.02",
+      "grupo": "6",
+      "grupoDescricao": "Serviços de cuidados pessoais, estética, atividades físicas e congêneres.",
+      "descricao": "Esteticistas, tratamento de pele, depilação e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "6.03",
+      "grupo": "6",
+      "grupoDescricao": "Serviços de cuidados pessoais, estética, atividades físicas e congêneres.",
+      "descricao": "Banhos, duchas, sauna, massagens e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "6.04",
+      "grupo": "6",
+      "grupoDescricao": "Serviços de cuidados pessoais, estética, atividades físicas e congêneres.",
+      "descricao": "Ginástica, dança, esportes, natação, artes marciais e demais atividades físicas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "6.05",
+      "grupo": "6",
+      "grupoDescricao": "Serviços de cuidados pessoais, estética, atividades físicas e congêneres.",
+      "descricao": "Centros de emagrecimento, spae congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "6.06",
+      "grupo": "6",
+      "grupoDescricao": "Serviços de cuidados pessoais, estética, atividades físicas e congêneres.",
+      "descricao": "Aplicação de tatuagens, piercings e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.01",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Engenharia, agronomia, agrimensura, arquitetura, geologia, urbanismo, paisagismo e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006).",
+        "Inclui arquitetura/urbanismo (Sec. 5o-B, XVIII) e engenharia (Sec. 5o-I, VI); ambos sujeitos ao Fator R."
+      ]
+    },
+    {
+      "codigo": "7.02",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Execução, por administração, empreitada ou subempreitada, de obras de construção civil, hidráulica ou elétrica e de outras obras semelhantes, inclusive sondagem, perfuração de poços, escavação, drenagem e irrigação, terraplanagem, pavimentação, concretagem e a instalação e montagem de produtos, peças e equipamentos (exceto o fornecimento de mercadorias produzidas pelo prestador de serviços fora do local da prestação dos serviços, que fica sujeito ao ICMS).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "ISS sem aliquota minima de 2% (art. 8o-A, Sec. 1o, LC 116/2003)."
+      ]
+    },
+    {
+      "codigo": "7.03",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Elaboração de planos diretores, estudos de viabilidade, estudos organizacionais e outros, relacionados com obras e serviços de engenharia; elaboração de anteprojetos, projetos básicos e projetos executivos para trabalhos de engenharia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.04",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Demolição.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.05",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Reparação, conservação e reforma de edifícios, estradas, pontes, portos e congêneres (exceto o fornecimento de mercadorias produzidas pelo prestador dos serviços, fora do local da prestação dos serviços, que fica sujeito ao ICMS).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "ISS sem aliquota minima de 2% (art. 8o-A, Sec. 1o, LC 116/2003)."
+      ]
+    },
+    {
+      "codigo": "7.06",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Colocação e instalação de tapetes, carpetes, assoalhos, cortinas, revestimentos de parede, vidros, divisórias, placas de gesso e congêneres, com material fornecido pelo tomador do serviço.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.07",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Recuperação, raspagem, polimento e lustração de pisos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.08",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Calafetação.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.09",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.10",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Limpeza, manutenção e conservação de vias e logradouros públicos, imóveis, chaminés, piscinas, parques, jardins e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.11",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Decoração e jardinagem, inclusive corte e poda de árvores.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.12",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Controle e tratamento de efluentes de qualquer natureza e de agentes físicos, químicos e biológicos.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.13",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Dedetização, desinfecção, desinsetização, imunização, higienização, desratização, pulverização e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.14",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "(VETADO)",
+      "vetado": true,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": null,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.15",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "(VETADO)",
+      "vetado": true,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": null,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.16",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte e descascamento de árvores, silvicultura, exploração florestal e dos serviços congêneres indissociáveis da formação, manutenção e colheita de florestas, para quaisquer fins e por quaisquer meios.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.17",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Escoramento, contenção de encostas e serviços congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.18",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Limpeza e dragagem de rios, portos, canais, baías, lagos, lagoas, represas, açudes e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.19",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Acompanhamento e fiscalização da execução de obras de engenharia, arquitetura e urbanismo.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.20",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Aerofotogrametria (inclusive interpretação), cartografia, mapeamento, levantamentos topográficos, batimétricos, geográficos, geodésicos, geológicos, geofísicos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "7.21",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Pesquisa, perfuração, cimentação, mergulho, perfilagem, concretação, testemunhagem, pescaria, estimulação e outros serviços relacionados com a exploração e explotação de petróleo, gás natural e de outros recursos minerais.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "7.22",
+      "grupo": "7",
+      "grupoDescricao": "Serviços relativos a engenharia, arquitetura, geologia, urbanismo, construção civil, manutenção, limpeza, meio ambiente, saneamento e congêneres.",
+      "descricao": "Nucleação e bombardeamento de nuvens e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "8.01",
+      "grupo": "8",
+      "grupoDescricao": "Serviços de educação, ensino, orientação pedagógica e educacional, instrução, treinamento e avaliação pessoal de qualquer grau ou natureza.",
+      "descricao": "Ensino regular pré-escolar, fundamental, médio e superior.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "8.02",
+      "grupo": "8",
+      "grupoDescricao": "Serviços de educação, ensino, orientação pedagógica e educacional, instrução, treinamento e avaliação pessoal de qualquer grau ou natureza.",
+      "descricao": "Instrução, treinamento, orientação pedagógica e educacional, avaliação de conhecimentos de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "9.01",
+      "grupo": "9",
+      "grupoDescricao": "Serviços relativos a hospedagem, turismo, viagens e congêneres.",
+      "descricao": "Hospedagem de qualquer natureza em hotéis, apart-service condominiais, flat, apart hotéis, hotéis residência, residence-service, suite service, hotelaria marítima, motéis, pensões e congêneres; ocupação por temporada com fornecimento de serviço (o valor da alimentação e gorjeta, quando incluído no preço da diária, fica sujeito ao Imposto Sobre Serviços).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "9.02",
+      "grupo": "9",
+      "grupoDescricao": "Serviços relativos a hospedagem, turismo, viagens e congêneres.",
+      "descricao": "Agenciamento, organização, promoção, intermediação e execução de programas de turismo, passeios, viagens, excursões, hospedagens e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "9.03",
+      "grupo": "9",
+      "grupoDescricao": "Serviços relativos a hospedagem, turismo, viagens e congêneres.",
+      "descricao": "Guias de turismo.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "10.01",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento, corretagem ou intermediação de câmbio, de seguros, de cartões de crédito, de planos de saúde e de planos de previdência privada.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Corretagem de seguros - Anexo III (Sec. 5o-B, XVII, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.02",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento, corretagem ou intermediação de títulos em geral, valores mobiliários e contratos quaisquer.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.03",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento, corretagem ou intermediação de direitos de propriedade industrial, artística ou literária.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.04",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento, corretagem ou intermediação de contratos de arrendamento mercantil (leasing), de franquia (franchising) e de faturização (factoring).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.05",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento, corretagem ou intermediação de bens móveis ou imóveis, não abrangidos em outros itens ou subitens, inclusive aqueles realizados no âmbito de Bolsas de Mercadorias e Futuros, por quaisquer meios.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Corretagem de imoveis - Anexo III (art. 18, Sec. 6o, III, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.06",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento marítimo.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.07",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento de notícias.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.08",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Agenciamento de publicidade e propaganda, inclusive o agenciamento de veiculação por quaisquer meios.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.09",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Representação de qualquer natureza, inclusive comercial.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "10.10",
+      "grupo": "10",
+      "grupoDescricao": "Serviços de intermediação e congêneres.",
+      "descricao": "Distribuição de bens de terceiros.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "11.01",
+      "grupo": "11",
+      "grupoDescricao": "Serviços de guarda, estacionamento, armazenamento, vigilância e congêneres.",
+      "descricao": "Guarda e estacionamento de veículos terrestres automotores, de aeronaves e de embarcações.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "11.02",
+      "grupo": "11",
+      "grupoDescricao": "Serviços de guarda, estacionamento, armazenamento, vigilância e congêneres.",
+      "descricao": "Vigilância, segurança ou monitoramento de bens, pessoas e semoventes.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "11.03",
+      "grupo": "11",
+      "grupoDescricao": "Serviços de guarda, estacionamento, armazenamento, vigilância e congêneres.",
+      "descricao": "Escolta, inclusive de veículos e cargas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "11.04",
+      "grupo": "11",
+      "grupoDescricao": "Serviços de guarda, estacionamento, armazenamento, vigilância e congêneres.",
+      "descricao": "Armazenamento, depósito, carga, descarga, arrumação e guarda de bens de qualquer espécie.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "11.05",
+      "grupo": "11",
+      "grupoDescricao": "Serviços de guarda, estacionamento, armazenamento, vigilância e congêneres.",
+      "descricao": "Serviços relacionados ao monitoramento e rastreamento a distância, em qualquer via ou local, de veículos, cargas, pessoas e semoventes em circulação ou movimento, realizados por meio de telefonia móvel, transmissão de satélites, rádio ou qualquer outro meio, inclusive pelas empresas de Tecnologia da Informação Veicular, independentemente de o prestador de serviços ser proprietário ou não da infraestrutura de telecomunicações que utiliza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.01",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Espetáculos teatrais.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.02",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Exibições cinematográficas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.03",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Espetáculos circenses.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.04",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Programas de auditório.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.05",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Parques de diversões, centros de lazer e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.06",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Boates, taxi-dancing e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.07",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Shows, ballet, danças, desfiles, bailes, óperas, concertos, recitais, festivais e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.08",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Feiras, exposições, congressos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.09",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Bilhares, boliches e diversões eletrônicas ou não.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.10",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Corridas e competições de animais.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.11",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Competições esportivas ou de destreza física ou intelectual, com ou sem a participação do espectador.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.12",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Execução de música.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.13",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Produção, mediante ou sem encomenda prévia, de eventos, espetáculos, entrevistas, shows, ballet, danças, desfiles, bailes, teatros, óperas, concertos, recitais, festivais e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.14",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Fornecimento de música para ambientes fechados ou não, mediante transmissão por qualquer processo.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.15",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Desfiles de blocos carnavalescos ou folclóricos, trios elétricos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.16",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Exibição de filmes, entrevistas, musicais, espetáculos, shows, concertos, desfiles, óperas, competições esportivas, de destreza intelectual ou congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "12.17",
+      "grupo": "12",
+      "grupoDescricao": "Serviços de diversões, lazer, entretenimento e congêneres.",
+      "descricao": "Recreação e animação, inclusive em festas e eventos de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "13.01",
+      "grupo": "13",
+      "grupoDescricao": "Serviços relativos a fonografia, fotografia, cinematografia e reprografia.",
+      "descricao": "(VETADO)",
+      "vetado": true,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": null,
+      "observacoes": []
+    },
+    {
+      "codigo": "13.02",
+      "grupo": "13",
+      "grupoDescricao": "Serviços relativos a fonografia, fotografia, cinematografia e reprografia.",
+      "descricao": "Fonografia ou gravação de sons, inclusive trucagem, dublagem, mixagem e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "13.03",
+      "grupo": "13",
+      "grupoDescricao": "Serviços relativos a fonografia, fotografia, cinematografia e reprografia.",
+      "descricao": "Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "13.04",
+      "grupo": "13",
+      "grupoDescricao": "Serviços relativos a fonografia, fotografia, cinematografia e reprografia.",
+      "descricao": "Reprografia, microfilmagem e digitalização.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "13.05",
+      "grupo": "13",
+      "grupoDescricao": "Serviços relativos a fonografia, fotografia, cinematografia e reprografia.",
+      "descricao": "Composição gráfica, inclusive confecção de impressos gráficos, fotocomposição, clicheria, zincografia, litografia e fotolitografia, exceto se destinados a posterior operação de comercialização ou industrialização, ainda que incorporados, de qualquer forma, a outra mercadoria que deva ser objeto de posterior circulação, tais como bulas, rótulos, etiquetas, caixas, cartuchos, embalagens e manuais técnicos e de instrução, quando ficarão sujeitos ao ICMS.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.01",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Lubrificação, limpeza, lustração, revisão, carga e recarga, conserto, restauração, blindagem, manutenção e conservação de máquinas, veículos, aparelhos, equipamentos, motores, elevadores ou de qualquer objeto (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.02",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Assistência técnica.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.03",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Recondicionamento de motores (exceto peças e partes empregadas, que ficam sujeitas ao ICMS).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.04",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Recauchutagem ou regeneração de pneus.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.05",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Restauração, recondicionamento, acondicionamento, pintura, beneficiamento, lavagem, secagem, tingimento, galvanoplastia, anodização, corte, recorte, plastificação, costura, acabamento, polimento e congêneres de objetos quaisquer.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.06",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Instalação e montagem de aparelhos, máquinas e equipamentos, inclusive montagem industrial, prestados ao usuário final, exclusivamente com material por ele fornecido.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.07",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Colocação de molduras e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.08",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Encadernação, gravação e douração de livros, revistas e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.09",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Alfaiataria e costura, quando o material for fornecido pelo usuário final, exceto aviamento.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.10",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Tinturaria e lavanderia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.11",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Tapeçaria e reforma de estofamentos em geral.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.12",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Funilaria e lanternagem.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.13",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Carpintaria e serralheria.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "14.14",
+      "grupo": "14",
+      "grupoDescricao": "Serviços relativos a bens de terceiros.",
+      "descricao": "Guincho intramunicipal, guindaste e içamento.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "15.01",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Administração de fundos quaisquer, de consórcio, de cartão de crédito ou débito e congêneres, de carteira de clientes, de cheques pré-datados e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.02",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Abertura de contas em geral, inclusive conta-corrente, conta de investimentos e aplicação e caderneta de poupança, no País e no exterior, bem como a manutenção das referidas contas ativas e inativas.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.03",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Locação e manutenção de cofres particulares, de terminais eletrônicos, de terminais de atendimento e de bens e equipamentos em geral.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.04",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Fornecimento ou emissão de atestados em geral, inclusive atestado de idoneidade, atestado de capacidade financeira e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.05",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Cadastro, elaboração de ficha cadastral, renovação cadastral e congêneres, inclusão ou exclusão no Cadastro de Emitentes de Cheques sem Fundos - CCF ou em quaisquer outros bancos cadastrais.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.06",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Emissão, reemissão e fornecimento de avisos, comprovantes e documentos em geral; abono de firmas; coleta e entrega de documentos, bens e valores; comunicação com outra agência ou com a administração central; licenciamento eletrônico de veículos; transferência de veículos; agenciamento fiduciário ou depositário; devolução de bens em custódia.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.07",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Acesso, movimentação, atendimento e consulta a contas em geral, por qualquer meio ou processo, inclusive por telefone, fac-símile, internet e telex, acesso a terminais de atendimento, inclusive vinte e quatro horas; acesso a outro banco e a rede compartilhada; fornecimento de saldo, extrato e demais informações relativas a contas em geral, por qualquer meio ou processo.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.08",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Emissão, reemissão, alteração, cessão, substituição, cancelamento e registro de contrato de crédito; estudo, análise e avaliação de operações de crédito; emissão, concessão, alteração ou contratação de aval, fiança, anuência e congêneres; serviços relativos a abertura de crédito, para quaisquer fins.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.09",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Arrendamento mercantil (leasing) de quaisquer bens, inclusive cessão de direitos e obrigações, substituição de garantia, alteração, cancelamento e registro de contrato, e demais serviços relacionados ao arrendamento mercantil (leasing).",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.10",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Serviços relacionados a cobranças, recebimentos ou pagamentos em geral, de títulos quaisquer, de contas ou carnês, de câmbio, de tributos e por conta de terceiros, inclusive os efetuados por meio eletrônico, automático ou por máquinas de atendimento; fornecimento de posição de cobrança, recebimento ou pagamento; emissão de carnês, fichas de compensação, impressos e documentos em geral.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.11",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Devolução de títulos, protesto de títulos, sustação de protesto, manutenção de títulos, reapresentação de títulos, e demais serviços a eles relacionados.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.12",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Custódia em geral, inclusive de títulos e valores mobiliários.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.13",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Serviços relacionados a operações de câmbio em geral, edição, alteração, prorrogação, cancelamento e baixa de contrato de câmbio; emissão de registro de exportação ou de crédito; cobrança ou depósito no exterior; emissão, fornecimento e cancelamento de cheques de viagem; fornecimento, transferência, cancelamento e demais serviços relativos a carta de crédito de importação, exportação e garantias recebidas; envio e recebimento de mensagens em geral relacionadas a operações de câmbio.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.14",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Fornecimento, emissão, reemissão, renovação e manutenção de cartão magnético, cartão de crédito, cartão de débito, cartão salário e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.15",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Compensação de cheques e títulos quaisquer; serviços relacionados a depósito, inclusive depósito identificado, a saque de contas quaisquer, por qualquer meio ou processo, inclusive em terminais eletrônicos e de atendimento.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.16",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Emissão, reemissão, liquidação, alteração, cancelamento e baixa de ordens de pagamento, ordens de crédito e similares, por qualquer meio ou processo; serviços relacionados à transferência de valores, dados, fundos, pagamentos e similares, inclusive entre contas em geral.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.17",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Emissão, fornecimento, devolução, sustação, cancelamento e oposição de cheques quaisquer, avulso ou por talão.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "15.18",
+      "grupo": "15",
+      "grupoDescricao": "Serviços relacionados ao setor bancário ou financeiro, inclusive aqueles prestados por instituições financeiras autorizadas a funcionar pela União ou por quem de direito.",
+      "descricao": "Serviços relacionados a crédito imobiliário, avaliação e vistoria de imóvel ou obra, análise técnica e jurídica, emissão, reemissão, alteração, transferência e renegociação de contrato, emissão e reemissão do termo de quitação e demais serviços relacionados a crédito imobiliário.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Setor financeiro/bancario - vedado ao Simples Nacional (art. 17, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "16.01",
+      "grupo": "16",
+      "grupoDescricao": "Serviços de transporte de natureza municipal.",
+      "descricao": "Serviços de transporte coletivo municipal rodoviário, metroviário, ferroviário e aquaviário de passageiros.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "ISS sem aliquota minima de 2% (art. 8o-A, Sec. 1o, LC 116/2003).",
+        "Transporte municipal de passageiros - Anexo III (Sec. 5o-B, XIII, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "16.02",
+      "grupo": "16",
+      "grupoDescricao": "Serviços de transporte de natureza municipal.",
+      "descricao": "Outros serviços de transporte de natureza municipal.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.01",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Assessoria ou consultoria de qualquer natureza, não contida em outros itens desta lista; análise, exame, pesquisa, coleta, compilação e fornecimento de dados e informações de qualquer natureza, inclusive cadastro e similares.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.02",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Datilografia, digitação, estenografia, expediente, secretaria em geral, resposta audível, redação, edição, interpretação, revisão, tradução, apoio e infra-estrutura administrativa e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.03",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Planejamento, coordenação, programação ou organização técnica, financeira ou administrativa.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.04",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Recrutamento, agenciamento, seleção e colocação de mão-de-obra.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.05",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Fornecimento de mão-de-obra, mesmo em caráter temporário, inclusive de empregados ou trabalhadores, avulsos ou temporários, contratados pelo prestador de serviço.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.06",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.07",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "(VETADO)",
+      "vetado": true,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": null,
+      "issAliquotaMaxima": null,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.08",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Franquia (franchising).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.09",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Perícias, laudos, exames técnicos e análises técnicas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.10",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Planejamento, organização e administração de feiras, exposições, congressos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.11",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Organização de festas e recepções; bufê (exceto o fornecimento de alimentação e bebidas, que fica sujeito ao ICMS).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.12",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Administração em geral, inclusive de bens e negócios de terceiros.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo III; passa ao Anexo V se o Fator R (folha/receita 12m) for inferior a 28% (Sec. 5o-M, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.13",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Leilão e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.14",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Advocacia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "IV",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.15",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Arbitragem de qualquer espécie, inclusive jurídica.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.16",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Auditoria.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.17",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Análise de Organização e Métodos.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.18",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Atuária e cálculos técnicos de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.19",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Contabilidade, inclusive serviços técnicos e auxiliares.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Escritorios de servicos contabeis - Anexo III (Sec. 5o-B, XIV, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.20",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Consultoria e assessoria econômica ou financeira.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.21",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Estatística.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "17.22",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Cobrança em geral.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.23",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Assessoria, análise, avaliação, atendimento, consulta, cadastro, seleção, gerenciamento de informações, administração de contas a receber ou a pagar e em geral, relacionados a operações de faturização (factoring).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.24",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Apresentação de palestras, conferências, seminários e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "17.25",
+      "grupo": "17",
+      "grupoDescricao": "Serviços de apoio técnico, administrativo, jurídico, contábil, comercial e congêneres.",
+      "descricao": "Inserção de textos, desenhos e outros materiais de propaganda e publicidade, em qualquer meio (exceto em livros, jornais, periódicos e nas modalidades de serviços de radiodifusão sonora e de sons e imagens de recepção livre e gratuita).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "18.01",
+      "grupo": "18",
+      "grupoDescricao": "Serviços de regulação de sinistros vinculados a contratos de seguros; inspeção e avaliação de riscos para cobertura de contratos de seguros; prevenção e gerência de riscos seguráveis e congêneres.",
+      "descricao": "Serviços de regulação de sinistros vinculados a contratos de seguros; inspeção e avaliação de riscos para cobertura de contratos de seguros; prevenção e gerência de riscos seguráveis e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "19.01",
+      "grupo": "19",
+      "grupoDescricao": "Serviços de distribuição e venda de bilhetes e demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres.",
+      "descricao": "Serviços de distribuição e venda de bilhetes e demais produtos de loteria, bingos, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "20.01",
+      "grupo": "20",
+      "grupoDescricao": "Serviços portuários, aeroportuários, ferroportuários, de terminais rodoviários, ferroviários e metroviários.",
+      "descricao": "Serviços portuários, ferroportuários, utilização de porto, movimentação de passageiros, reboque de embarcações, rebocador escoteiro, atracação, desatracação, serviços de praticagem, capatazia, armazenagem de qualquer natureza, serviços acessórios, movimentação de mercadorias, serviços de apoio marítimo, de movimentação ao largo, serviços de armadores, estiva, conferência, logística e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "20.02",
+      "grupo": "20",
+      "grupoDescricao": "Serviços portuários, aeroportuários, ferroportuários, de terminais rodoviários, ferroviários e metroviários.",
+      "descricao": "Serviços aeroportuários, utilização de aeroporto, movimentação de passageiros, armazenagem de qualquer natureza, capatazia, movimentação de aeronaves, serviços de apoio aeroportuários, serviços acessórios, movimentação de mercadorias, logística e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "20.03",
+      "grupo": "20",
+      "grupoDescricao": "Serviços portuários, aeroportuários, ferroportuários, de terminais rodoviários, ferroviários e metroviários.",
+      "descricao": "Serviços de terminais rodoviários, ferroviários, metroviários, movimentação de passageiros, mercadorias, inclusive suas operações, logística e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "21.01",
+      "grupo": "21",
+      "grupoDescricao": "Serviços de registros públicos, cartorários e notariais.",
+      "descricao": "Serviços de registros públicos, cartorários e notariais.",
+      "vetado": false,
+      "elegivelSimplesNacional": false,
+      "anexoSimplesNacional": null,
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Servicos notariais e de registro sao exercidos por pessoa natural - nao optante pelo Simples Nacional."
+      ]
+    },
+    {
+      "codigo": "22.01",
+      "grupo": "22",
+      "grupoDescricao": "Serviços de exploração de rodovia.",
+      "descricao": "Serviços de exploração de rodovia mediante cobrança de preço ou pedágio dos usuários, envolvendo execução de serviços de conservação, manutenção, melhoramentos para adequação de capacidade e segurança de trânsito, operação, monitoração, assistência aos usuários e outros serviços definidos em contratos, atos de concessão ou de permissão ou em normas oficiais.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "23.01",
+      "grupo": "23",
+      "grupoDescricao": "Serviços de programação e comunicação visual, desenho industrial e congêneres.",
+      "descricao": "Serviços de programação e comunicação visual, desenho industrial e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "24.01",
+      "grupo": "24",
+      "grupoDescricao": "Serviços de chaveiros, confecção de carimbos, placas, sinalização visual, banners, adesivos e congêneres.",
+      "descricao": "Serviços de chaveiros, confecção de carimbos, placas, sinalização visual, banners, adesivos e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "25.01",
+      "grupo": "25",
+      "grupoDescricao": "Serviços funerários.",
+      "descricao": "Funerais, inclusive fornecimento de caixão, urna ou esquifes; aluguel de capela; transporte do corpo cadavérico; fornecimento de flores, coroas e outros paramentos; desembaraço de certidão de óbito; fornecimento de véu, essa e outros adornos; embalsamento, embelezamento, conservação ou restauração de cadáveres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "25.02",
+      "grupo": "25",
+      "grupoDescricao": "Serviços funerários.",
+      "descricao": "Translado intramunicipal e cremação de corpos e partes de corpos cadavéricos.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "25.03",
+      "grupo": "25",
+      "grupoDescricao": "Serviços funerários.",
+      "descricao": "Planos ou convênio funerários.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "25.04",
+      "grupo": "25",
+      "grupoDescricao": "Serviços funerários.",
+      "descricao": "Manutenção e conservação de jazigos e cemitérios.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "25.05",
+      "grupo": "25",
+      "grupoDescricao": "Serviços funerários.",
+      "descricao": "Cessão de uso de espaços em cemitérios para sepultamento.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "26.01",
+      "grupo": "26",
+      "grupoDescricao": "Serviços de coleta, remessa ou entrega de correspondências, documentos, objetos, bens ou valores, inclusive pelos correios e suas agências franqueadas; courrier e congêneres.",
+      "descricao": "Serviços de coleta, remessa ou entrega de correspondências, documentos, objetos, bens ou valores, inclusive pelos correios e suas agências franqueadas; courrier e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "27.01",
+      "grupo": "27",
+      "grupoDescricao": "Serviços de assistência social.",
+      "descricao": "Serviços de assistência social.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "28.01",
+      "grupo": "28",
+      "grupoDescricao": "Serviços de avaliação de bens e serviços de qualquer natureza.",
+      "descricao": "Serviços de avaliação de bens e serviços de qualquer natureza.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "29.01",
+      "grupo": "29",
+      "grupoDescricao": "Serviços de biblioteconomia.",
+      "descricao": "Serviços de biblioteconomia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "30.01",
+      "grupo": "30",
+      "grupoDescricao": "Serviços de biologia, biotecnologia e química.",
+      "descricao": "Serviços de biologia, biotecnologia e química.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "31.01",
+      "grupo": "31",
+      "grupoDescricao": "Serviços técnicos em edificações, eletrônica, eletrotécnica, mecânica, telecomunicações e congêneres.",
+      "descricao": "Serviços técnicos em edificações, eletrônica, eletrotécnica, mecânica, telecomunicações e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "32.01",
+      "grupo": "32",
+      "grupoDescricao": "Serviços de desenhos técnicos.",
+      "descricao": "Serviços de desenhos técnicos.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "33.01",
+      "grupo": "33",
+      "grupoDescricao": "Serviços de desembaraço aduaneiro, comissários, despachantes e congêneres.",
+      "descricao": "Serviços de desembaraço aduaneiro, comissários, despachantes e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "34.01",
+      "grupo": "34",
+      "grupoDescricao": "Serviços de investigações particulares, detetives e congêneres.",
+      "descricao": "Serviços de investigações particulares, detetives e congêneres.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "35.01",
+      "grupo": "35",
+      "grupoDescricao": "Serviços de reportagem, assessoria de imprensa, jornalismo e relações públicas.",
+      "descricao": "Serviços de reportagem, assessoria de imprensa, jornalismo e relações públicas.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "36.01",
+      "grupo": "36",
+      "grupoDescricao": "Serviços de meteorologia.",
+      "descricao": "Serviços de meteorologia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "37.01",
+      "grupo": "37",
+      "grupoDescricao": "Serviços de artistas, atletas, modelos e manequins.",
+      "descricao": "Serviços de artistas, atletas, modelos e manequins.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "38.01",
+      "grupo": "38",
+      "grupoDescricao": "Serviços de museologia.",
+      "descricao": "Serviços de museologia.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "V",
+      "fatorR": true,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": [
+        "Anexo V; passa ao Anexo III se o Fator R (folha/receita 12m) for igual ou superior a 28% (Sec. 5o-J, LC 123/2006)."
+      ]
+    },
+    {
+      "codigo": "39.01",
+      "grupo": "39",
+      "grupoDescricao": "Serviços de ourivesaria e lapidação.",
+      "descricao": "Serviços de ourivesaria e lapidação (quando o material for fornecido pelo tomador do serviço).",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    },
+    {
+      "codigo": "40.01",
+      "grupo": "40",
+      "grupoDescricao": "Serviços relativos a obras de arte sob encomenda.",
+      "descricao": "Obras de arte sob encomenda.",
+      "vetado": false,
+      "elegivelSimplesNacional": true,
+      "anexoSimplesNacional": "III",
+      "fatorR": false,
+      "issAliquotaMinima": 2.0,
+      "issAliquotaMaxima": 5.0,
+      "observacoes": []
+    }
+  ]
+}
